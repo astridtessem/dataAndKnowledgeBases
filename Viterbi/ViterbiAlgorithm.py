@@ -1,15 +1,18 @@
 import math
 import numpy
 from readData import *
+import random as r
 
-#corp = [("Hans-Olav","P"),("en","O"),("en","O"),("elev","O"),("på","O"),("UCSB","OR")]
-#corp = [("UCSB","OR"),("er","O"),("en","O"),("elev","O"),("på","O"),("Hans-Olav","P")]
-#print(corp)
-
+#___________________________________________________________
+#The different states
 states = ("P","O","OR","N","D")
-#print("States:",states)
 
+#fetch the corpus from the text document
 corp = readCorpus('1.txt')
+
+#___________________________________________________________
+#Creates the start probability array
+
 def getStateProp(states,corpus):
     p = 0;
     o = 0;
@@ -34,6 +37,9 @@ start_p = getStateProp(states,corp);
 print(start_p,"StartProb")
 print("");
 
+#___________________________________________________________
+#Converting the corpus to list of entities and words
+
 def converToEntity(corpus):
     l = []
     for word in corpus:
@@ -44,6 +50,9 @@ def converToWord(corpus):
     for word in corpus:
         l.append(word[0])
     return l
+
+#___________________________________________________________
+#Transition matrix
 
 def getTransitionProp(state,corpus):
     trans_p = {}
@@ -69,6 +78,9 @@ def getTransitionProp(state,corpus):
             trans_p[state[i]][state[j]]= trans_p[state[i]][state[j]]/corpusEntity.count(state[i])
     return trans_p
 
+#___________________________________________________________
+#Emission
+
 def getEmissionProp(states,corpus):
     #Convert the corpus to tuples, easier to count.. TODO
     corpusEntity = converToEntity(corpus)
@@ -87,13 +99,16 @@ def getEmissionProp(states,corpus):
                 temp[corpus[j][0]] = 0;
         emit_p[states[i]] = temp
     return emit_p
-
+#___________________________________________________________
+#Print the different dictionaries
 def printDic(dic):
     for i in dic:
         print(i)
         for j in dic[i]:
             print(j,":",dic[i][j])
-    
+
+#___________________________________________________________
+#Get the transmition and the emition matrix
 trans_p = getTransitionProp(states,corp)
 emit_p = getEmissionProp(states,corp)
 print("_______Transmission______")
@@ -105,15 +120,20 @@ print("_______Emission__________")
 print("_______Start_P______")
 print(start_p)
 
+
+#___________________________________________________________
+#Viterbi algorithm(hmm)
 def viterbi(obs, states, start_p, trans_p, emit_p):
+    #This will keep track over the probability of each state for every observation
     V = [{}]
     
-    #Setting the first. 
+    #Level 0 of the algorithm(special case)
     for i in states:
         V[0][i] = start_p[i]*emit_p[i][obs[0]]
-    #The next
+    #Iterate the rest of the observations and adding them to V
     for i in range(1,len(obs)):
         V.append({})
+
         
         for j in states:
             maxValue = []
@@ -128,14 +148,21 @@ def viterbi(obs, states, start_p, trans_p, emit_p):
                 V[i][j] = emit*max(maxValue)  
     return V
 
+#___________________________________________________________
+#Generates a random sentence from the corpus
+
 def getRandomSentence(corp,l):
     sentence = ""
     for i in range(0,l):
-        
+        sentence += corp[r.randint(0,len(corp))][0] + " "
+    return sentence;
 
+#___________________________________________________________
+#Starting the viterbi algorithm and prints the probability of each word in each state
 print("Viterbi alg is starting")
-obs = getRandomSentence(corp,10);
-obs = getObs("the people here are never")
+obs = getRandomSentence(corp,40);
+print(obs)
+obs = getObs(obs)
 V = viterbi(obs,states,start_p,trans_p,emit_p);
 for i in V:
     print(i)
