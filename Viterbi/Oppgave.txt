@@ -1,0 +1,44 @@
+
+    Hans  en    en    elev  på   UCSB
+P [[ 1.    0.    0.    0.    0.    0.  ]
+O  [ 0.    0.5   0.5   0.25  0.25  0.  ]
+OR [ 0.    0.    0.    0.    0.    1.  ]] Emission
+
+     P     O     ORG
+P [[ 0.    1.    0.  ]
+O  [ 0.    0.75  0.25]
+OR [ 0.    0.    0.  ]] Trans
+
+	P			O		    ORG
+S [0.16666666666666666, 0.6666666666666666, 0.16666666666666666]
+
+OBS = [Hans,en,en,elev,på,UCSB]
+
+Steg 1: 
+Pp (Hans,1) = 0.16*1 = 0.16
+Po (Hans,1) = 0.66*0 = 0
+Por(Hans,1) = 0.16*0 = 0
+
+Steg 2:
+
+Pp (en,2) = Pp (en)*max(Pp(Hans,1)*Ppp , Po(Hans,1)*Pop ,Por(Hans,1)*Porp)
+Pp (en,2) = 0*max(0.16*0,0*0,0*0) = 0
+
+Po (en,2) = Po(en)*max(Pp(Hans,1)*Ppo , Po(Hans,1)*Poo ,Por(Hans,1)*Poro)
+Po (en,2 ) =0,5*max(0.16*1,0*0.75, 0*0) = 0.16*0.5 = 0.08
+
+Por(en,2) = Por(en)*max(Pp(Hans,1)*Ppor, Po(Hans,1)*Poor,Por(Hans,1)*Poror)
+Por(en,2) = 0*max(0.16*0, 0*0.25, 0*0) = 0
+
+
+
+
+
+
+maxValues = []
+ for k in range(0,len(states)):
+                print(emit_p[j][k],
+                print(V[i-1][j],trans_p[k][j],emit_p[k][i])
+                maxValues.append(V[i-1][j]*trans_p[k][j]*emit_p[k][i])
+            print("___________")    
+            V[i][j] = max(maxValues)
