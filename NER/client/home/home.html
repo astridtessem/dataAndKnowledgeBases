@@ -1,0 +1,18 @@
+<template name="home">
+	<div class="row">
+      	<div class="col-md-6 col-lg-6">
+      		<textarea class="form-control inputText" style="height:400px;"></textarea>
+			<button type="button" class="btn btn-primary btn-lg inputBtn">Submit</button>
+			<button type="button" class="btn btn-danger btn-lg resetBtn">Reset</button>
+      	</div>
+      	<div class="col-md-6 col-lg-6">
+			{{#each textList}}
+				{{word}}
+			{{/each}}<br>
+			{{#each entityList}}
+				{{entity}}
+			{{/each}}
+      	</div>
+    </div>
+
+</template>
