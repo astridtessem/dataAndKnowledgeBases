@@ -42,7 +42,7 @@ def main(text):
     ##    main(a)
 
        
-main("Joe is playing fotball in San Fransico in November. Bob have never played it before")
+main("is one is playing Astrid in San Fransico in November. Bob have never played it before")
     
 
 

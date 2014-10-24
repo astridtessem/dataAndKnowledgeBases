@@ -29,4 +29,3 @@ def viterbi(obs, states, start_p, trans_p, emit_p):
                 V[i][j] = emit*max(maxValue)
 
     return V
-
