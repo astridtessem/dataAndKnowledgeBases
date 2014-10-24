@@ -39,7 +39,7 @@ def main(text):
 ##    for i in range(2,size):
 ##        a += str(sys.argv[i]) + " "
 ##    a = a.rstrip()
-##    main(a)
+    ##    main(a)
 
        
 main("Joe is playing fotball in San Fransico in November. Bob have never played it before")

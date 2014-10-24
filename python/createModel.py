@@ -23,7 +23,7 @@ def createModel():
     tic = time.clock()
 
     #Read corpus - inpurt: number of documents
-    corp = readCorpus(50);
+    corp = readCorpus(10);
     
 
     #The different states

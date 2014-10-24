@@ -24,9 +24,9 @@ def readCorpus(number):
     
     for i in range(0,number):
         #Get random document
-        r = random.randrange(0,number)
+        r = random.randrange(0,len(fileList))
         
-        with open(path.relpath("Corpus/"+fileList[i])) as f:
+        with open(path.relpath("Corpus/"+fileList[r])) as f:
                 content = content + f.read().splitlines()
     
     corp = []
