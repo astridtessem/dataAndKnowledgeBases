@@ -1,0 +1,2 @@
+The different matrixes the Viterbi algorithm if using. This files are 
+created before runtime. 

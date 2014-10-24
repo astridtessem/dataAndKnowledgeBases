@@ -1,5 +1,6 @@
 import sys
 import json
+from os import path
 from ViterbiAlgorithm import *
 
 #Load the different matrixes into memory
@@ -12,8 +13,8 @@ def readData():
 
 #Read the json files - input name of file
 def readJson(name):
-    with open(name +'.json', 'r') as fp:
-        data = json.load(fp)
+    with open(path.relpath("ViterbiData/" + name +'.json')) as f:
+        data = json.load(f)
     return data
 
 

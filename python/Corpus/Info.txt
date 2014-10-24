@@ -1,0 +1,7 @@
+New York Times collection of classified newsarticles. 
+
+Example:
+SentenceNR   WordNR      Word   ...    ...      .....   Entity
+1		3	Kevin	NNP	O	B-NP	B-Peop
+
+We are interested in Word and Entity. 
