@@ -109,7 +109,7 @@ def getEmissionProp(states,corpus):
                 countEntity = corpusEntity.count(states[i])
                 temp[corpus[j][0]] = corpusWords.count(corpus[j][0])/countEntity
             else:
-                temp[corpus[j][0]] = 0;
+                temp[corpus[j][0]] = 0.000000002;
         emit_p[states[i]] = temp
     return emit_p
 #___________________________________________________________
@@ -120,16 +120,4 @@ def printDic(dic):
         for j in dic[i]:
             print(j,":",dic[i][j])
 
-#___________________________________________________________
-#Get the transmition and the emition matrix
-#trans_p = getTransitionProp(states,corp)
-#emit_p = getEmissionProp(states,corp)
-#print("_______Transmission______")
-#printDic(trans_p);
-
-#print("_______Emission__________")
-#printDic(emit_p);
-
-#print("_______Start_P______")
-#print(start_p)
 

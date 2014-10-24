@@ -1,6 +1,5 @@
 import sys
 import json
-from os import path
 from ViterbiAlgorithm import *
 
 #Load the different matrixes into memory
@@ -21,14 +20,16 @@ def readJson(name):
 def main(text):
     trans_p,emit_p,states,start_p = readData()
     #Splitting the input observations into tuple e.g ('Joe', 'is', 'a', 'person')
+    text = text.replace(".","") #Removing .
     obs = tuple(text.split(' '))
     #Run the viterbi algorithm
     V = viterbi(obs,states,start_p,trans_p,emit_p);
     #Print out the result
     s = ""
     for i in range(0,len(V)):
-        s +=max(V[i],key=V[i].get)+" "
-    print(s)
+        #s +=max(V[i],key=V[i].get)+" "
+        print(obs[i],max(V[i],key=V[i].get))
+    #print(s)
 
 #To run the method from Meteor
     
@@ -41,4 +42,7 @@ def main(text):
 ##    main(a)
 
        
-main("Joe is a person")
+main("Joe is playing fotball in San Fransico in November. Bob have never played it before")
+    
+
+

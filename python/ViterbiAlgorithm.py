@@ -22,11 +22,10 @@ def viterbi(obs, states, start_p, trans_p, emit_p):
                 #If the word is not in the corpus - Have to find something out!
                 #Now it only assings the same values as the last observation(step)
                 V[i][j] = V[i-1][j]
-                #print(obs[i])
             else:
                 emit = emit_p[j][obs[i]]
-                
                 for k in range(0,len(states)):
                     maxValue.append(V[i-1][states[k]]*trans_p[states[k]][j])
                 V[i][j] = emit*max(maxValue)
+
     return V
