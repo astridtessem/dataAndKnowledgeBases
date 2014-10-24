@@ -1,0 +1,221 @@
+0	0	1999-09-22	CD	O	O	B-Num
+0	1	16	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	34	CD	O	B-NP	I-Num
+0	4	&	CC	O	O	O
+0	5	HT	NNP	O	B-NP	O
+0	6	;	:	O	O	O
+
+1	0	STOLEN	NNP	O	O	B-Org
+1	1	ART	NNP	O	O	I-Org
+1	2	SITES	NNP	O	O	I-Org
+
+2	0	Interpol	NNP	O	B-NP	O
+2	1	's	POS	O	B-NP	O
+2	2	Most	RBS	O	O	O
+2	3	Wanted	VBN	O	O	O
+2	4	Works	NNP	O	O	O
+2	5	of	IN	O	B-PP	O
+2	6	Art	NNP	O	B-NP	O
+2	7	:	:	O	O	O
+2	8	Pictures	NNPS	O	B-NP	O
+2	9	and	CC	O	O	O
+2	10	descriptions	NNS	O	B-NP	O
+2	11	of	IN	O	B-PP	O
+2	12	missing	VBG	O	B-VP	O
+2	13	works	NNS	O	B-NP	O
+2	14	of	IN	O	B-PP	O
+2	15	art	NN	O	B-NP	O
+
+3	0	&	CC	O	O	O
+3	1	QR	NNP	O	B-NP	O
+3	2	;	:	O	O	O
+3	3	www.usdoj.gov/usncb/artwanted.htm	NN	O	B-NP	O
+
+4	0	FBI	NNP	O	B-NP	B-OrgPolBody
+4	1	's	POS	O	B-NP	O
+4	2	National	NNP	O	I-NP	B-Org
+4	3	Stolen	NNP	O	I-NP	I-Org
+4	4	Art	NNP	O	I-NP	I-Org
+4	5	File	NNP	O	I-NP	I-Org
+4	6	:	:	O	O	O
+4	7	official	JJ	O	B-NP	O
+4	8	notices	NNS	O	I-NP	O
+4	9	of	IN	O	B-PP	O
+4	10	major	JJ	O	B-NP	O
+4	11	art	NN	O	I-NP	O
+4	12	thefts	NNS	O	I-NP	O
+
+5	0	&	CC	O	O	O
+5	1	QR	NNP	O	B-NP	O
+5	2	;	:	O	O	O
+5	3	www.fbi.gov/majcases/arttheft/art.htm	NN	O	B-NP	O
+
+6	0	The	DT	O	B-NP	O
+6	1	Art	NNP	O	I-NP	B-Org
+6	2	Loss	NNP	O	I-NP	I-Org
+6	3	Register	NNP	O	I-NP	I-Org
+6	4	:	:	O	O	O
+6	5	Internet	NN	O	B-NP	B-OrgCorp
+6	6	's	POS	O	B-NP	O
+6	7	most	RBS	O	O	O
+6	8	comprehensive	JJ	O	O	O
+6	9	lost	VBD	O	B-VP	O
+6	10	and	CC	O	O	O
+6	11	found	VBD	O	B-VP	O
+6	12	list	NN	O	B-NP	O
+6	13	COMMA	COMMA	O	O	O
+6	14	plus	CC	O	O	O
+6	15	statistics	NNS	O	B-NP	O
+
+7	0	&	CC	O	O	O
+7	1	QR	NNP	O	B-NP	O
+7	2	;	:	O	O	O
+7	3	www.artloss.com	NN	O	B-NP	O
+
+8	0	Commando	NNP	O	B-NP	O
+8	1	Caribenieri	NNP	O	I-NP	O
+8	2	:	:	O	O	O
+8	3	Italy	NNP	O	B-NP	B-LocCoun
+8	4	's	POS	O	B-NP	O
+8	5	Art	NNP	O	I-NP	B-Org
+8	6	Police	NNP	O	I-NP	I-Org
+8	7	statistics	NNS	O	I-NP	I-Org
+8	8	on	IN	O	B-PP	I-Org
+8	9	stolen	VBN	O	B-NP	I-Org
+8	10	art	NN	O	I-NP	I-Org
+8	11	and	CC	O	I-NP	I-Org
+8	12	artifacts	NNS	O	I-NP	I-Org
+8	13	COMMA	COMMA	O	O	I-Org
+8	14	Italian	JJ	O	O	I-Org
+8	15	and	CC	O	O	I-Org
+8	16	English	NNP	O	O	I-Org
+
+9	0	&	CC	O	O	O
+9	1	QR	NNP	O	B-NP	O
+9	2	;	:	O	O	O
+9	3	www.carabinieri.it	NN	O	B-NP	O
+
+10	0	Los	NNP	O	B-NP	B-LocCit
+10	1	Angeles	NNP	O	I-NP	I-LocCit
+10	2	Police	NNP	O	I-NP	B-Org
+10	3	Department	NNP	O	I-NP	I-Org
+10	4	Stolen	NNP	O	I-NP	I-Org
+10	5	Art	NNP	O	I-NP	I-Org
+10	6	Detail	NNP	O	I-NP	I-Org
+
+11	0	&	CC	O	O	O
+11	1	QR	NNP	O	B-NP	O
+11	2	;	:	O	O	O
+11	3	www.lapdonline.org/getinvolved/stolenart	NN	O	B-NP	O
+
+12	0	arttheftdetailmain.htm	NN	O	O	O
+
+13	0	AUCTIONS	NNP	O	O	O
+13	1	AND	CC	O	O	O
+13	2	SALES	NNS	O	O	O
+
+14	0	Butterfield	NNP	O	B-NP	O
+14	1	and	CC	O	I-NP	O
+14	2	Butterfield	NNP	O	I-NP	O
+14	3	Auctioneers	NNP	O	I-NP	O
+14	4	:	:	O	O	O
+14	5	Auction	NNP	O	B-NP	O
+14	6	schedules	NNS	O	I-NP	O
+14	7	and	CC	O	O	O
+14	8	information	NN	O	B-NP	O
+14	9	from	IN	O	B-PP	O
+14	10	eBay	NN	O	B-NP	O
+14	11	's	POS	O	B-NP	O
+14	12	newest	JJS	O	I-NP	O
+14	13	subsidiary	NN	O	I-NP	O
+
+15	0	&	CC	O	O	O
+15	1	QR	NNP	O	B-NP	O
+15	2	;	:	O	O	O
+15	3	www.butterfields.com	NN	O	B-NP	O
+
+16	0	Bonham	NNP	O	B-NP	B-Peop
+16	1	's	POS	O	B-NP	O
+16	2	Auctioneers	NNP	O	I-NP	O
+16	3	:	:	O	O	O
+16	4	Direct	JJ	O	B-NP	O
+16	5	bidding	NN	O	I-NP	O
+16	6	on	IN	O	B-PP	O
+16	7	selected	VBN	O	B-NP	O
+16	8	sales	NNS	O	I-NP	O
+16	9	by	IN	O	B-PP	O
+16	10	one	CD	O	B-NP	B-Num
+16	11	of	IN	O	B-PP	O
+16	12	London	NNP	O	B-NP	B-LocCit
+16	13	's	POS	O	B-NP	O
+16	14	top	JJ	O	I-NP	O
+16	15	auction	NN	O	I-NP	O
+16	16	houses	NNS	O	I-NP	O
+
+17	0	&	CC	O	O	O
+17	1	QR	NNP	O	B-NP	O
+17	2	;	:	O	O	O
+17	3	www.bonhams.com	NN	O	B-NP	O
+
+18	0	eBay	NN	O	O	O
+18	1	:	:	O	O	O
+18	2	More	JJR	O	B-NP	O
+18	3	than	IN	O	I-NP	O
+18	4	2.5	CD	O	I-NP	B-Num
+18	5	million	CD	O	I-NP	B-Num
+18	6	items	NNS	O	I-NP	O
+18	7	for	IN	O	B-PP	O
+18	8	sale	NN	O	B-NP	O
+18	9	in	IN	O	B-PP	O
+18	10	more	JJR	O	B-NP	O
+18	11	than	IN	O	I-NP	O
+18	12	1COMMA600	CD	O	I-NP	B-Num
+18	13	categories	NNS	O	I-NP	O
+18	14	.	.	O	O	O
+
+19	0	Check	NNP	O	B-NP	O
+19	1	Antiques/Ancient	NNP	O	I-NP	O
+19	2	World	NNP	O	I-NP	O
+19	3	and	CC	O	O	O
+19	4	Native	NNP	O	O	O
+19	5	Americana/Artifacts	NNP	O	O	O
+
+20	0	&	CC	O	O	O
+20	1	QR	NNP	O	B-NP	O
+20	2	;	:	O	O	O
+20	3	www.ebay.com	NN	O	B-NP	O
+
+21	0	Amazon.com	NNP	O	O	O
+21	1	Auctions	NNS	O	O	O
+21	2	:	:	O	O	O
+21	3	Most	JJS	O	B-NP	B-Peop
+21	4	antiquities	NNS	O	I-NP	O
+21	5	listed	VBN	O	B-VP	O
+21	6	under	IN	O	B-PP	O
+21	7	art	NN	O	O	O
+21	8	and	CC	O	O	O
+21	9	antiques	NNS	O	O	O
+
+22	0	&	CC	O	O	O
+22	1	QR	NNP	O	B-NP	O
+22	2	;	:	O	O	O
+22	3	auctions.amazon.com	NN	O	B-NP	O
+
+23	0	Story	NNP	O	O	O
+23	1	Filed	NNP	O	O	O
+23	2	By	IN	O	B-PP	O
+23	3	Cox	NNP	O	O	O
+23	4	Newspapers	NNP	O	O	O
+
+24	0	For	IN	O	B-PP	O
+24	1	Use	NN	O	B-NP	O
+24	2	By	IN	O	B-PP	O
+24	3	Clients	NNS	O	B-NP	O
+24	4	of	IN	O	B-PP	O
+24	5	the	DT	O	B-NP	O
+24	6	New	NNP	O	I-NP	B-OrgCorp
+24	7	York	NNP	O	I-NP	I-OrgCorp
+24	8	Times	NNP	O	I-NP	I-OrgCorp
+24	9	News	NNP	O	I-NP	O
+24	10	Service	NNP	O	I-NP	O

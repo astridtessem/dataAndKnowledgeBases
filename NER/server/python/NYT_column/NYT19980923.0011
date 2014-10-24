@@ -1,0 +1,27 @@
+0	0	1998-09-23	CD	O	O	B-Num
+0	1	00	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	28	CD	O	O	I-Num
+
+1	0	EDITORS	NNP	O	B-NP	B-ProfTitle
+1	1	:	:	O	O	O
+
+2	0	Budgeted	VBN	O	O	O
+2	1	Phoenix	NNP	O	B-NP	O
+2	2	&	CC	O	I-NP	O
+2	3	UR	NNP	O	I-NP	O
+2	4	;	:	O	O	O
+2	5	VOXPOP-ARIZONA	NNP	O	B-NP	O
+2	6	will	MD	O	B-VP	O
+2	7	not	RB	O	I-VP	O
+2	8	move	VB	O	I-VP	O
+2	9	in	IN	O	O	O
+2	10	&	CC	O	O	O
+2	11	UR	NNP	O	B-NP	O
+2	12	;	:	O	O	O
+2	13	WEDNESDAY	NNP	O	B-NP	O
+2	14	'S	VBZ	O	B-VP	O
+2	15	Arizona	NNP	O	B-NP	B-LocStat
+2	16	Republic	NNP	O	I-NP	O
+2	17	report	NN	O	I-NP	O
+2	18	.	.	O	O	O

@@ -1,5 +1,4 @@
 import math
-import numpy
 from readData import *
 import random as r
 from ViterbiModel import *
@@ -21,7 +20,9 @@ def saveModel(trans_p,emit_p,states,start_p):
 
 def createModel():
     #Fetch the corpus
-    corp = readCorpus('1to20.txt')
+    #corp = readCorpus('1to20.txt')
+    corp = readCorpus2();
+    print(len(corp));
     #corp = readCorpus('1.txt')
     #corp = readDataFile('AndreVerdenskrigData.txt');
 

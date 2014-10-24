@@ -1,0 +1,35 @@
+0	0	2000-09-22	CD	O	B-NP	B-Num
+0	1	22	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	47	CD	O	O	I-Num
+
+1	0	EDITORS	NNP	O	B-NP	B-ProfTitle
+1	1	:	:	O	O	O
+
+2	0	BBA-YANKS-TIGERS	NNP	O	O	O
+2	1	-LBR-	-LBR-	O	O	O
+2	2	New	NNP	O	O	B-LocCit
+2	3	York	NNP	O	O	I-LocCit
+2	4	-RBR-	-RBR-	O	O	O
+2	5	will	MD	O	B-VP	O
+2	6	not	RB	O	I-VP	O
+2	7	move	VB	O	I-VP	O
+2	8	in	IN	O	B-PP	O
+2	9	tonight	NN	O	B-NP	O
+2	10	's	POS	O	B-NP	O
+2	11	New	NNP	O	I-NP	B-OrgCorp
+2	12	York	NNP	O	I-NP	I-OrgCorp
+2	13	Times	NNP	O	I-NP	I-OrgCorp
+2	14	News	NNP	O	I-NP	I-OrgCorp
+2	15	Service	NNP	O	I-NP	I-OrgCorp
+2	16	file	NN	O	I-NP	O
+2	17	.	.	O	O	O
+
+3	0	N.Y.	NNP	O	B-NP	O
+3	1	Times	NNP	O	I-NP	O
+3	2	News	NNP	O	I-NP	O
+3	3	Service	NNP	O	I-NP	O
+3	4	COMMA	COMMA	O	O	O
+3	5	Sept.	NNP	O	B-NP	B-Date
+3	6	22	CD	O	I-NP	I-Date
+3	7	.	.	O	O	O

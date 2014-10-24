@@ -1,0 +1,254 @@
+0	0	1999-09-22	CD	O	B-NP	B-Num
+0	1	12	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	23	CD	O	B-NP	I-Num
+0	4	&	CC	O	O	O
+0	5	HT	NNP	O	B-NP	O
+0	6	;	:	O	O	O
+
+1	0	TOP	NNP	O	O	B-Money
+1	1	RENTALS	NNP	O	O	O
+
+2	0	1	CD	O	O	B-Num
+2	1	.	.	O	O	O
+
+3	0	``	``	O	O	O
+3	1	Analyze	NNP	O	O	O
+3	2	This	DT	O	B-NP	O
+3	3	''	''	O	O	O
+
+4	0	2	CD	O	O	B-Num
+4	1	.	.	O	O	O
+
+5	0	``	``	O	O	O
+5	1	Payback	NN	O	O	O
+5	2	''	''	O	O	O
+
+6	0	3	CD	O	O	B-Num
+6	1	.	.	O	O	O
+
+7	0	``	``	O	O	O
+7	1	Shakespeare	NNP	O	B-NP	B-Peop
+7	2	in	IN	O	B-PP	O
+
+8	0	Love	NNP	O	O	B-Peop
+8	1	''	''	O	O	O
+
+9	0	4	CD	O	B-NP	B-Num
+9	1	.	.	O	O	O
+
+10	0	``	``	O	O	O
+10	1	Cruel	NNP	O	B-VP	O
+10	2	Intentions	NNP	O	I-VP	O
+10	3	''	''	O	O	O
+
+11	0	5	CD	O	O	B-Num
+11	1	.	.	O	O	O
+
+12	0	``	``	O	O	O
+12	1	Eight	CD	O	B-NP	B-Num
+12	2	Millimeter	NNP	O	I-NP	O
+12	3	''	''	O	O	O
+
+13	0	6	CD	O	B-NP	B-Num
+13	1	.	.	O	O	O
+
+14	0	``	``	O	O	O
+14	1	EDtv	NNP	O	O	O
+14	2	''	''	O	O	O
+
+15	0	7	CD	O	O	B-Num
+15	1	.	.	O	O	O
+
+16	0	``	``	O	O	O
+16	1	A	DT	O	O	O
+16	2	Civil	NNP	O	O	O
+16	3	Action	NNP	O	O	O
+16	4	''	''	O	O	O
+
+17	0	8	CD	O	O	B-Num
+17	1	.	.	O	O	O
+
+18	0	``	``	O	O	O
+18	1	Rushmore	NNP	O	O	O
+18	2	''	''	O	O	O
+
+19	0	9	CD	O	O	B-Num
+19	1	.	.	O	O	O
+
+20	0	``	``	O	O	O
+20	1	The	DT	O	O	O
+20	2	Thin	JJ	O	O	O
+20	3	Red	NNP	O	O	O
+
+21	0	Line	NNP	O	O	O
+21	1	''	''	O	O	O
+
+22	0	10	CD	O	B-NP	B-Num
+22	1	.	.	O	O	O
+
+23	0	``	``	O	O	O
+23	1	Enemy	NNP	O	B-NP	O
+23	2	of	IN	O	B-PP	O
+23	3	the	DT	O	O	O
+
+24	0	State	NNP	O	B-NP	O
+24	1	''	''	O	O	O
+
+25	0	TOP	NNP	O	O	B-Money
+25	1	VIDEO	NN	O	O	O
+25	2	SALES	NNS	O	O	O
+
+26	0	1	CD	O	O	B-Num
+26	1	.	.	O	O	O
+
+27	0	``	``	O	O	O
+27	1	There	EX	O	B-NP	O
+27	2	's	VBZ	O	B-VP	O
+27	3	Something	NN	O	B-NP	O
+27	4	About	IN	O	O	O
+27	5	Mary	NNP	O	B-NP	O
+27	6	''	''	O	O	O
+
+28	0	2	CD	O	O	B-Num
+28	1	.	.	O	O	O
+
+29	0	``	``	O	O	O
+29	1	Playboy	NNP	O	B-NP	B-OrgCorp
+29	2	's	POS	O	B-NP	O
+29	3	Celebrities	NNS	O	O	O
+29	4	''	''	O	O	O
+
+30	0	3	CD	O	O	B-Num
+30	1	.	.	O	O	O
+
+31	0	``	``	O	O	O
+31	1	Belly	NNP	O	O	O
+31	2	''	''	O	O	O
+
+32	0	4	CD	O	B-NP	B-Num
+32	1	.	.	O	O	O
+
+33	0	``	``	O	O	O
+33	1	Austin	NNP	O	B-NP	B-Peop
+33	2	Powers	NNP	O	I-NP	I-Peop
+33	3	''	''	O	O	O
+
+34	0	5	CD	O	O	B-Num
+34	1	.	.	O	O	O
+
+35	0	``	``	O	O	O
+35	1	Blade	NNP	O	O	O
+35	2	''	''	O	O	O
+
+36	0	6	CD	O	B-NP	B-Num
+36	1	.	.	O	O	O
+
+37	0	``	``	O	O	O
+37	1	Playboy	NNP	O	B-NP	B-OrgCorp
+37	2	's	POS	O	B-NP	O
+37	3	Playmates	NNPS	O	I-NP	O
+37	4	of	IN	O	B-PP	O
+37	5	the	DT	O	B-NP	O
+37	6	Year	NN	O	I-NP	O
+37	7	:	:	O	O	O
+37	8	The	DT	O	B-NP	O
+37	9	'	POS	O	B-NP	O
+37	10	90s	CD	O	O	B-Num
+37	11	''	''	O	O	O
+
+38	0	7	CD	O	O	B-Num
+38	1	.	.	O	O	O
+
+39	0	``	``	O	O	O
+39	1	Playboy	NNP	O	B-NP	B-OrgCorp
+39	2	's	POS	O	B-NP	I-OrgCorp
+39	3	Strip	NNP	O	O	I-OrgCorp
+39	4	Search	NNP	O	O	I-OrgCorp
+39	5	''	''	O	O	O
+
+40	0	8	CD	O	O	B-Num
+40	1	.	.	O	O	O
+
+41	0	``	``	O	O	O
+41	1	Rush	NNP	O	O	O
+41	2	Hour	NNP	O	O	O
+41	3	''	''	O	O	O
+
+42	0	9	CD	O	O	B-Num
+42	1	.	.	O	O	O
+
+43	0	``	``	O	O	O
+43	1	Ronin	NNP	O	O	O
+43	2	''	''	O	O	O
+
+44	0	10	CD	O	B-NP	B-Num
+44	1	.	.	O	O	O
+
+45	0	``	``	O	O	O
+45	1	Spawn	NNP	O	O	O
+45	2	3	CD	O	O	B-Num
+45	3	:	:	O	O	O
+45	4	The	DT	O	B-NP	O
+45	5	Ultimate	NNP	O	I-NP	B-OrgCorp
+45	6	Battle	NNP	O	I-NP	I-OrgCorp
+45	7	''	''	O	O	O
+
+46	0	UPCOMING	NNP	O	O	O
+
+47	0	Tuesday	NNP	O	B-NP	B-Date
+47	1	:	:	O	O	O
+47	2	``	``	O	O	O
+47	3	The	DT	O	B-NP	O
+47	4	MummyCOMMA	NNP	O	I-NP	O
+47	5	''	''	O	O	O
+47	6	``	``	O	O	O
+47	7	Hands	NNP	O	B-NP	O
+47	8	on	IN	O	B-PP	O
+47	9	a	DT	O	B-NP	O
+47	10	Hard	JJ	O	I-NP	O
+47	11	Body	NN	O	I-NP	O
+47	12	.	.	O	O	O
+47	13	''	''	O	O	O
+
+48	0	Oct.	NNP	O	B-NP	B-Date
+48	1	5	CD	O	I-NP	I-Date
+48	2	:	:	O	O	O
+48	3	``	``	O	O	O
+48	4	Pushing	VBG	O	B-VP	O
+48	5	TinCOMMA	NNP	O	B-NP	O
+48	6	''	''	O	O	O
+48	7	``	``	O	O	O
+48	8	The	DT	O	O	O
+48	9	Thirteenth	NNP	O	O	O
+48	10	FloorCOMMA	NNP	O	O	O
+48	11	''	''	O	O	O
+48	12	``	``	O	O	O
+48	13	This	DT	O	B-NP	O
+48	14	Is	VBZ	O	O	O
+48	15	My	PP$	O	B-NP	O
+48	16	FatherCOMMA	NNP	O	I-NP	O
+48	17	''	''	O	O	O
+48	18	``	``	O	O	O
+48	19	The	DT	O	B-NP	O
+48	20	Monster	NN	O	I-NP	B-OrgCGroup
+48	21	.	.	O	O	O
+48	22	''	''	O	O	O
+
+49	0	Story	NNP	O	O	O
+49	1	Filed	NNP	O	O	O
+49	2	By	IN	O	B-PP	O
+49	3	Cox	NNP	O	O	O
+49	4	Newspapers	NNP	O	O	O
+
+50	0	For	IN	O	B-PP	O
+50	1	Use	NN	O	B-NP	O
+50	2	By	IN	O	B-PP	O
+50	3	Clients	NNS	O	B-NP	O
+50	4	of	IN	O	B-PP	O
+50	5	the	DT	O	B-NP	O
+50	6	New	NNP	O	I-NP	B-OrgCorp
+50	7	York	NNP	O	I-NP	I-OrgCorp
+50	8	Times	NNP	O	I-NP	I-OrgCorp
+50	9	News	NNP	O	I-NP	O
+50	10	Service	NNP	O	I-NP	O

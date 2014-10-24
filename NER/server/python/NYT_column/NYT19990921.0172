@@ -1,0 +1,178 @@
+0	0	1999-09-21	CD	O	O	B-Num
+0	1	14	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	49	CD	O	B-NP	I-Num
+0	4	EIGHT	NNP	O	I-NP	B-Num
+0	5	WAYS	NNP	O	I-NP	O
+0	6	TO	TO	O	B-PP	O
+0	7	TELL	NNP	O	B-NP	O
+0	8	AUTUMN	NNP	O	I-NP	O
+0	9	IS	VBZ	O	B-VP	O
+0	10	HERE	NNP	O	O	O
+
+1	0	Today	NN	O	B-NP	B-Date
+1	1	's	VBZ	O	B-VP	O
+1	2	the	DT	O	B-NP	O
+1	3	first	JJ	O	I-NP	B-Num
+1	4	day	NN	O	I-NP	B-DayFest
+1	5	of	IN	O	B-PP	O
+1	6	fall	VBP	O	B-VP	O
+1	7	COMMA	COMMA	O	O	O
+1	8	and	CC	O	O	O
+1	9	you	PRP	O	B-NP	O
+1	10	know	VBP	O	B-VP	O
+1	11	it	PRP	O	B-NP	O
+1	12	's	VBZ	O	B-VP	O
+1	13	so	RB	O	O	O
+1	14	because	IN	O	O	O
+1	15	:	:	O	O	O
+
+2	0	1	CD	O	O	B-Num
+2	1	.	.	O	O	O
+
+3	0	The	DT	O	B-NP	O
+3	1	cat	NN	O	I-NP	B-Animal
+3	2	snuggles	VBZ	O	B-VP	O
+3	3	under	IN	O	B-PP	O
+3	4	the	DT	O	B-NP	O
+3	5	covers	VBZ	O	B-VP	O
+3	6	instead	RB	O	O	O
+3	7	of	IN	O	O	O
+3	8	sleeping	VBG	O	B-VP	O
+3	9	at	IN	O	B-PP	O
+3	10	the	DT	O	B-NP	O
+3	11	end	NN	O	I-NP	O
+3	12	of	IN	O	B-PP	O
+3	13	the	DT	O	B-NP	O
+3	14	bed	NN	O	I-NP	O
+3	15	.	.	O	O	O
+
+4	0	2	CD	O	O	B-Num
+4	1	.	.	O	O	O
+
+5	0	The	DT	O	B-NP	O
+5	1	usually	RB	O	I-NP	O
+5	2	rambunctious	JJ	O	I-NP	O
+5	3	dogs	NNS	O	I-NP	B-Animal
+5	4	have	VBP	O	B-VP	O
+5	5	to	TO	O	I-VP	O
+5	6	be	VB	O	I-VP	O
+5	7	shoved	VBD	O	I-VP	O
+5	8	out	IN	O	B-PP	O
+5	9	the	DT	O	B-NP	O
+5	10	door	NN	O	I-NP	O
+5	11	in	IN	O	B-PP	O
+5	12	the	DT	O	B-NP	O
+5	13	morning	NN	O	I-NP	O
+5	14	.	.	O	O	O
+
+6	0	3	CD	O	O	B-Num
+6	1	.	.	O	O	O
+
+7	0	We	PRP	O	B-NP	O
+7	1	see	VBP	O	B-VP	O
+7	2	our	PP$	O	B-NP	O
+7	3	breath	NN	O	I-NP	O
+7	4	as	IN	O	O	O
+7	5	we	PRP	O	B-NP	O
+7	6	leave	VBP	O	B-VP	O
+7	7	for	IN	O	B-PP	O
+7	8	school	NN	O	B-NP	B-OrgUniv
+7	9	.	.	O	O	O
+
+8	0	4	CD	O	B-NP	B-Num
+8	1	.	.	O	O	O
+
+9	0	Our	PP$	O	B-NP	O
+9	1	jackets	NNS	O	I-NP	O
+9	2	COMMA	COMMA	O	O	O
+9	3	bought	VBD	O	B-VP	O
+9	4	sizes	NNS	O	B-NP	O
+9	5	too	RB	O	O	O
+9	6	big	JJ	O	O	O
+9	7	to	TO	O	B-PP	O
+9	8	last	JJ	O	B-NP	O
+9	9	several	JJ	O	I-NP	O
+9	10	winters	NNS	O	I-NP	O
+9	11	COMMA	COMMA	O	O	O
+9	12	need	VBP	O	B-VP	O
+9	13	to	TO	O	I-VP	O
+9	14	be	VB	O	I-VP	O
+9	15	replaced	VBN	O	I-VP	O
+9	16	now	RB	O	O	O
+9	17	.	.	O	O	O
+
+10	0	5	CD	O	O	B-Num
+10	1	.	.	O	O	O
+
+11	0	A	DT	O	B-NP	O
+11	1	bowl	NN	O	I-NP	O
+11	2	of	IN	O	B-PP	O
+11	3	steaming	VBG	O	O	O
+11	4	oatmeal	NN	O	B-NP	O
+11	5	tastes	NNS	O	I-NP	O
+11	6	great	JJ	O	O	O
+11	7	for	IN	O	B-PP	O
+11	8	breakfast	NN	O	B-NP	O
+11	9	.	.	O	O	O
+
+12	0	6	CD	O	B-NP	B-Num
+12	1	.	.	O	O	O
+
+13	0	The	DT	O	B-NP	O
+13	1	question	NN	O	I-NP	O
+13	2	of	IN	O	B-PP	O
+13	3	the	DT	O	B-NP	O
+13	4	morning	NN	O	I-NP	O
+13	5	is	VBZ	O	B-VP	O
+13	6	``	``	O	O	O
+13	7	Where	WRB	O	O	O
+13	8	are	VBP	O	O	O
+13	9	the	DT	O	B-NP	O
+13	10	hats	NNS	O	I-NP	O
+13	11	and	CC	O	I-NP	O
+13	12	gloves	NNS	O	I-NP	O
+13	13	?	.	O	O	O
+13	14	''	''	O	O	O
+
+14	0	7	CD	O	O	B-Num
+14	1	.	.	O	O	O
+
+15	0	The	DT	O	B-NP	O
+15	1	heater	NN	O	I-NP	O
+15	2	in	IN	O	B-PP	O
+15	3	the	DT	O	B-NP	O
+15	4	van	NN	O	I-NP	O
+15	5	finally	RB	O	O	O
+15	6	gets	VBZ	O	B-VP	O
+15	7	warm	JJ	O	O	O
+15	8	as	IN	O	O	O
+15	9	we	PRP	O	B-NP	O
+15	10	pull	VBP	O	B-VP	O
+15	11	into	IN	O	B-PP	O
+15	12	the	DT	O	B-NP	O
+15	13	school	NN	O	I-NP	B-OrgUniv
+15	14	driveway	NN	O	I-NP	O
+15	15	.	.	O	O	O
+
+16	0	8	CD	O	O	B-Num
+16	1	.	.	O	O	O
+
+17	0	The	DT	O	B-NP	O
+17	1	golden	JJ	O	I-NP	O
+17	2	glow	NN	O	I-NP	O
+17	3	of	IN	O	B-PP	O
+17	4	the	DT	O	B-NP	O
+17	5	morning	NN	O	I-NP	O
+17	6	sun	NN	O	I-NP	O
+17	7	reminds	VBZ	O	B-VP	O
+17	8	you	PRP	O	B-NP	O
+17	9	of	IN	O	B-PP	O
+17	10	the	DT	O	B-NP	O
+17	11	beautiful	JJ	O	I-NP	O
+17	12	fall	VBP	O	O	O
+17	13	colors	NNS	O	B-NP	B-Color
+17	14	on	IN	O	B-PP	O
+17	15	the	DT	O	B-NP	O
+17	16	way	NN	O	I-NP	O
+17	17	.	.	O	O	O

@@ -1,0 +1,1609 @@
+0	0	2000-09-23	CD	O	O	B-Num
+0	1	23	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	00	CD	O	B-NP	I-Num
+0	4	BEST	JJS	O	I-NP	O
+0	5	SELLERS	NNP	O	I-NP	B-ProfTitle
+0	6	:	:	O	O	O
+0	7	HARDCOVER	NNP	O	O	O
+0	8	BOOKS	NNP	O	O	O
+
+1	0	Rankings	NNS	O	B-NP	O
+1	1	reflect	VBP	O	B-VP	O
+1	2	sales	NNS	O	B-NP	O
+1	3	for	IN	O	B-PP	O
+1	4	the	DT	O	B-NP	O
+1	5	week	NN	O	I-NP	O
+1	6	ending	VBG	O	B-VP	O
+1	7	Sept.	NNP	O	B-NP	B-Date
+1	8	16	CD	O	I-NP	I-Date
+1	9	COMMA	COMMA	O	O	O
+1	10	at	IN	O	B-PP	O
+1	11	almost	RB	O	B-NP	O
+1	12	4COMMA000	CD	O	I-NP	B-Num
+1	13	bookstores	NNS	O	I-NP	O
+1	14	plus	CC	O	I-NP	O
+1	15	wholesalers	NNS	O	I-NP	O
+1	16	serving	VBG	O	B-VP	O
+1	17	50COMMA000	CD	O	B-NP	B-Num
+1	18	other	JJ	O	I-NP	O
+1	19	retailers	NNS	O	I-NP	O
+1	20	-LBR-	-LBR-	O	O	O
+1	21	gift	NN	O	B-NP	O
+1	22	shops	NNS	O	I-NP	O
+1	23	COMMA	COMMA	O	O	O
+1	24	department	NN	O	B-NP	O
+1	25	stores	NNS	O	I-NP	O
+1	26	COMMA	COMMA	O	O	O
+1	27	newsstands	NNS	O	B-NP	O
+1	28	COMMA	COMMA	O	I-NP	O
+1	29	supermarkets	NNS	O	I-NP	O
+1	30	-RBR-	-RBR-	O	O	O
+1	31	COMMA	COMMA	O	O	O
+1	32	statistically	RB	O	B-VP	O
+1	33	weighted	VBD	O	I-VP	O
+1	34	to	TO	O	I-VP	O
+1	35	represent	VB	O	I-VP	O
+1	36	all	DT	O	B-NP	O
+1	37	such	JJ	O	I-NP	O
+1	38	outlets	NNS	O	I-NP	O
+1	39	nationwide	JJ	O	O	O
+1	40	.	.	O	O	O
+
+2	0	An	DT	O	O	O
+2	1	-LBR-	-LBR-	O	O	O
+2	2	x	NN	O	O	O
+2	3	-RBR-	-RBR-	O	O	O
+2	4	indicates	VBZ	O	B-VP	O
+2	5	that	IN	O	O	O
+2	6	a	DT	O	B-NP	O
+2	7	book	NN	O	I-NP	B-Book
+2	8	's	POS	O	B-NP	O
+2	9	sales	NNS	O	I-NP	O
+2	10	are	VBP	O	B-VP	O
+2	11	barely	RB	O	O	O
+2	12	distinguishable	JJ	O	O	O
+2	13	from	IN	O	B-PP	O
+2	14	those	DT	O	B-NP	O
+2	15	of	IN	O	B-PP	O
+2	16	the	DT	O	B-NP	O
+2	17	book	NN	O	I-NP	B-Book
+2	18	above	IN	O	O	O
+2	19	.	.	O	O	O
+
+3	0	A	DT	O	O	O
+3	1	-LBR-	-LBR-	O	O	O
+3	2	b	NN	O	O	O
+3	3	-RBR-	-RBR-	O	O	O
+3	4	indicates	VBZ	O	B-VP	O
+3	5	that	IN	O	O	O
+3	6	some	DT	O	B-NP	O
+3	7	bookstores	NNS	O	I-NP	O
+3	8	report	VBP	O	B-VP	O
+3	9	receiving	VBG	O	I-VP	O
+3	10	bulk	NN	O	B-NP	O
+3	11	orders	NNS	O	I-NP	O
+3	12	for	IN	O	B-PP	O
+3	13	a	DT	O	B-NP	O
+3	14	book	NN	O	I-NP	B-Book
+3	15	.	.	O	O	O
+
+4	0	&	CC	O	O	O
+4	1	UR	NNP	O	B-NP	O
+4	2	;	:	O	O	O
+4	3	FICTION	NNP	O	B-NP	O
+4	4	&	CC	O	I-NP	O
+4	5	LR	NNP	O	I-NP	O
+4	6	;	:	O	O	O
+
+5	0	1	CD	O	O	B-Num
+5	1	.	.	O	O	O
+
+6	0	THE	DT	O	B-NP	O
+6	1	BEAR	NNP	O	I-NP	B-Animal
+6	2	AND	CC	O	O	O
+6	3	THE	DT	O	B-NP	O
+6	4	DRAGON	NNP	O	I-NP	O
+6	5	COMMA	COMMA	O	O	O
+6	6	by	IN	O	B-PP	O
+6	7	Tom	NNP	O	B-NP	B-Peop
+6	8	Clancy	NNP	O	I-NP	I-Peop
+6	9	.	.	O	O	O
+
+7	0	-LBR-	-LBR-	O	O	O
+7	1	PutnamCOMMA	NNP	O	O	O
+
+8	0	$28.95	NN	O	O	B-Money
+8	1	.	.	O	O	O
+8	2	-RBR-	-RBR-	O	O	O
+
+9	0	Aided	VBN	O	B-VP	O
+9	1	by	IN	O	B-PP	O
+9	2	the	DT	O	O	O
+9	3	anti-terrorism	JJ	O	O	O
+9	4	specialist	NN	O	O	B-ProfTitle
+9	5	John	NNP	O	O	O
+
+10	0	Clark	NNP	O	O	B-Peop
+10	1	COMMA	COMMA	O	O	O
+10	2	President	NNP	O	B-NP	B-ProfTitle
+10	3	Jack	NNP	O	I-NP	B-Peop
+10	4	Ryan	NNP	O	I-NP	I-Peop
+10	5	contends	VBZ	O	B-VP	O
+10	6	with	IN	O	B-PP	O
+10	7	sinister	JJ	O	O	O
+
+11	0	forces	NNS	O	B-NP	O
+11	1	afoot	RB	O	O	O
+11	2	in	IN	O	B-PP	O
+11	3	Russia	NNP	O	B-NP	B-LocCoun
+11	4	and	CC	O	O	O
+11	5	China	NNP	O	B-NP	O
+11	6	.	.	O	O	O
+
+12	0	2	CD	O	O	B-Num
+12	1	.	.	O	O	O
+
+13	0	THE	DT	O	B-NP	O
+13	1	SKY	NNP	O	I-NP	O
+13	2	IS	VBZ	O	B-VP	O
+13	3	FALLING	NNP	O	B-NP	O
+13	4	COMMA	COMMA	O	O	O
+13	5	by	IN	O	B-PP	O
+13	6	Sidney	NNP	O	B-NP	B-Peop
+13	7	Sheldon	NNP	O	I-NP	I-Peop
+13	8	.	.	O	O	O
+
+14	0	-LBR-	-LBR-	O	O	O
+14	1	MorrowCOMMA	NNP	O	O	O
+
+15	0	$26	NN	O	O	B-Money
+15	1	.	.	O	O	O
+15	2	-RBR-	-RBR-	O	O	O
+
+16	0	A	DT	O	B-NP	O
+16	1	young	JJ	O	I-NP	O
+16	2	anchorwoman	NN	O	I-NP	O
+16	3	investigates	VBZ	O	B-VP	O
+16	4	five	CD	O	O	B-Num
+16	5	seemingly	RB	O	O	O
+
+17	0	accidental	JJ	O	B-NP	O
+17	1	deaths	NNS	O	I-NP	O
+17	2	that	WDT	O	B-NP	O
+17	3	have	VBP	O	B-VP	O
+17	4	befallen	VBN	O	I-VP	O
+17	5	America	NNP	O	B-NP	B-Loc
+17	6	's	POS	O	B-NP	O
+17	7	most	JJS	O	O	O
+
+18	0	charismatic	JJ	O	B-NP	O
+18	1	family	NN	O	I-NP	O
+18	2	.	.	O	O	O
+
+19	0	3	CD	O	O	B-Num
+19	1	.	.	O	O	O
+
+20	0	THE	DT	O	B-NP	O
+20	1	SWITCH	NN	O	I-NP	O
+20	2	COMMA	COMMA	O	O	O
+20	3	by	IN	O	B-PP	O
+20	4	Sandra	NNP	O	B-NP	B-Peop
+20	5	Brown	NNP	O	I-NP	I-Peop
+20	6	.	.	O	O	O
+
+21	0	-LBR-	-LBR-	O	O	O
+21	1	Warner	NNP	O	O	B-Peop
+21	2	COMMA	COMMA	O	O	O
+21	3	$25.95	NN	O	O	B-Money
+21	4	.	.	O	O	O
+21	5	-RBR-	-RBR-	O	O	O
+
+22	0	A	DT	O	B-NP	O
+22	1	woman	NN	O	I-NP	O
+22	2	serving	VBG	O	B-VP	O
+22	3	as	IN	O	B-PP	O
+22	4	a	DT	O	B-NP	O
+22	5	legendary	JJ	O	I-NP	O
+22	6	astronaut	NN	O	I-NP	O
+22	7	's	POS	O	B-NP	O
+22	8	media	NNS	O	O	O
+
+23	0	escort	NN	O	B-NP	O
+23	1	searches	NNS	O	I-NP	O
+23	2	for	IN	O	B-PP	O
+23	3	her	PP$	O	B-NP	O
+23	4	identical	JJ	O	I-NP	B-Medical
+23	5	twin	JJ	O	I-NP	O
+23	6	sister	NN	O	I-NP	O
+23	7	's	POS	O	B-NP	O
+
+24	0	killer	NN	O	O	O
+24	1	.	.	O	O	O
+
+25	0	4	CD	O	B-NP	B-Num
+25	1	.	.	O	O	O
+
+26	0	OPEN	JJ	O	B-NP	O
+26	1	HOUSE	NNP	O	I-NP	O
+26	2	COMMA	COMMA	O	O	O
+26	3	by	IN	O	B-PP	O
+26	4	Elizabeth	NNP	O	B-NP	B-LocCit
+26	5	Berg	NNP	O	I-NP	I-LocCit
+26	6	.	.	O	O	O
+
+27	0	-LBR-	-LBR-	O	O	O
+27	1	Random	NNP	O	B-NP	O
+27	2	House	NNP	O	I-NP	O
+27	3	COMMA	COMMA	O	O	O
+27	4	$23.95	NN	O	O	B-Money
+27	5	.	.	O	O	O
+27	6	-RBR-	-RBR-	O	O	O
+
+28	0	A	DT	O	B-NP	O
+28	1	newly	RB	O	I-NP	O
+28	2	divorced	VBN	O	I-NP	O
+28	3	woman	NN	O	I-NP	O
+28	4	attempts	NNS	O	I-NP	O
+28	5	to	TO	O	B-VP	O
+28	6	rebuild	VB	O	I-VP	O
+28	7	her	PP$	O	B-NP	O
+28	8	life	NN	O	I-NP	O
+28	9	by	IN	O	B-PP	O
+
+29	0	taking	VBG	O	B-VP	O
+29	1	in	IN	O	B-PP	O
+29	2	a	DT	O	B-NP	O
+29	3	series	NN	O	I-NP	O
+29	4	of	IN	O	B-PP	O
+29	5	boarders	NNS	O	B-NP	O
+29	6	.	.	O	O	O
+
+30	0	5	CD	O	O	B-Num
+30	1	.	.	O	O	O
+
+31	0	SHATTERED	NNP	O	B-NP	O
+31	1	COMMA	COMMA	O	O	O
+31	2	by	IN	O	B-PP	O
+31	3	Dick	NNP	O	B-NP	B-Peop
+31	4	Francis	NNP	O	I-NP	I-Peop
+31	5	.	.	O	O	O
+
+32	0	-LBR-	-LBR-	O	O	O
+32	1	Putnam	NNP	O	O	B-Peop
+32	2	COMMA	COMMA	O	O	O
+32	3	$25.95	NN	O	O	B-Money
+32	4	.	.	O	O	O
+32	5	-RBR-	-RBR-	O	O	O
+
+33	0	A	DT	O	O	O
+33	1	glass	NN	O	O	O
+
+34	0	blower	NN	O	B-NP	O
+34	1	runs	VBZ	O	B-VP	O
+34	2	afoul	RB	O	O	O
+34	3	of	IN	O	B-PP	O
+34	4	dangerous	JJ	O	B-NP	O
+34	5	people	NNS	O	I-NP	O
+34	6	after	IN	O	O	O
+34	7	his	PP$	O	O	O
+34	8	jockey	NN	O	O	B-ProfTitle
+
+35	0	friend	NN	O	O	O
+35	1	dies	VBZ	O	B-VP	O
+35	2	from	IN	O	B-PP	O
+35	3	a	DT	O	B-NP	O
+35	4	fall	NN	O	I-NP	O
+35	5	in	IN	O	B-PP	O
+35	6	a	DT	O	B-NP	O
+35	7	steeplechase	NN	O	I-NP	O
+35	8	at	IN	O	B-PP	O
+35	9	Cheltenham	NNP	O	B-NP	B-OrgCorp
+35	10	.	.	O	O	O
+
+36	0	6	CD	O	B-NP	B-Num
+36	1	.	.	O	O	O
+
+37	0	WINTER	NNP	O	B-NP	B-Peop
+37	1	SOLSTICE	NNP	O	I-NP	I-Peop
+37	2	COMMA	COMMA	O	O	O
+37	3	by	IN	O	B-PP	O
+37	4	Rosamunde	NNP	O	B-NP	B-Peop
+37	5	Pilcher	NNP	O	I-NP	I-Peop
+37	6	.	.	O	O	O
+
+38	0	-LBR-	-LBR-	O	O	O
+38	1	Thomas	NNP	O	O	O
+
+39	0	Dunne/St	NNP	O	B-NP	O
+39	1	.	.	O	O	O
+
+40	0	Martin	NNP	O	B-NP	B-Peop
+40	1	's	POS	O	B-NP	O
+40	2	COMMA	COMMA	O	O	O
+40	3	$27.95	NN	O	B-NP	B-Money
+40	4	.	.	O	O	O
+40	5	-RBR-	-RBR-	O	O	O
+
+41	0	As	IN	O	O	O
+41	1	Christmas	NNP	O	O	B-DayFest
+41	2	approachesCOMMA	NN	O	O	O
+
+42	0	five	CD	O	B-NP	B-Num
+42	1	lost	VBD	O	B-VP	O
+42	2	souls	NNS	O	B-NP	O
+42	3	in	IN	O	B-PP	O
+42	4	the	DT	O	B-NP	O
+42	5	north	NN	O	I-NP	O
+42	6	of	IN	O	B-PP	O
+42	7	Scotland	NNP	O	B-NP	O
+42	8	discover	VBP	O	B-VP	O
+42	9	the	DT	O	O	O
+
+43	0	healing	NN	O	B-NP	O
+43	1	power	NN	O	I-NP	O
+43	2	of	IN	O	B-PP	O
+43	3	love	NN	O	B-NP	O
+43	4	.	.	O	O	O
+
+44	0	7	CD	O	O	B-Num
+44	1	.	.	O	O	O
+
+45	0	FOUR	NNP	O	B-NP	B-Peop
+45	1	BLONDES	NNP	O	I-NP	I-Peop
+45	2	COMMA	COMMA	O	O	O
+45	3	by	IN	O	B-PP	O
+45	4	Candace	NNP	O	B-NP	B-Peop
+45	5	Bushnell	NNP	O	I-NP	I-Peop
+45	6	.	.	O	O	O
+
+46	0	-LBR-	-LBR-	O	O	O
+46	1	Atlantic	NNP	O	O	B-OrgCorp
+
+47	0	Monthly	NNP	O	O	B-Peop
+47	1	COMMA	COMMA	O	O	O
+47	2	$24	NN	O	O	B-Money
+47	3	.	.	O	O	O
+47	4	-RBR-	-RBR-	O	O	O
+
+48	0	The	DT	O	B-NP	O
+48	1	love	VBP	O	I-NP	O
+48	2	lives	NNS	O	I-NP	O
+48	3	of	IN	O	B-PP	O
+48	4	glamorous	JJ	O	O	O
+48	5	New	NNP	O	O	B-LocCit
+48	6	York	NNP	O	O	I-LocCit
+
+49	0	women	NNS	O	B-NP	O
+49	1	as	IN	O	O	O
+49	2	seen	VBN	O	B-VP	O
+49	3	by	IN	O	B-PP	O
+49	4	the	DT	O	B-NP	O
+49	5	author	NN	O	I-NP	B-ProfTitle
+49	6	of	IN	O	B-PP	O
+49	7	``	``	O	O	O
+49	8	Sex	NN	O	B-NP	O
+49	9	and	CC	O	O	O
+49	10	the	DT	O	B-NP	O
+49	11	City	NNP	O	I-NP	O
+49	12	.	.	O	O	O
+49	13	''	''	O	O	O
+
+50	0	8	CD	O	O	B-Num
+50	1	.	.	O	O	O
+
+51	0	THE	DT	O	B-NP	O
+51	1	BLIND	NNP	O	I-NP	O
+51	2	ASSASSIN	NNP	O	I-NP	O
+51	3	COMMA	COMMA	O	O	O
+51	4	by	IN	O	B-PP	O
+51	5	Margaret	NNP	O	B-NP	B-Peop
+51	6	Atwood	NNP	O	I-NP	I-Peop
+51	7	.	.	O	O	O
+
+52	0	-LBR-	-LBR-	O	O	O
+52	1	Nan	NNP	O	B-NP	B-Peop
+52	2	A.	NNP	O	I-NP	I-Peop
+52	3	Talese	NNP	O	I-NP	I-Peop
+
+53	0	Doubleday	NNP	O	B-NP	B-Peop
+53	1	COMMA	COMMA	O	O	O
+53	2	$26	NN	O	O	B-Money
+53	3	.	.	O	O	O
+53	4	-RBR-	-RBR-	O	O	O
+
+54	0	The	DT	O	B-NP	O
+54	1	story	NN	O	I-NP	O
+54	2	of	IN	O	B-PP	O
+54	3	two	CD	O	B-NP	B-Num
+54	4	Canadian	JJ	O	I-NP	B-LangRace
+54	5	sisters	NNS	O	I-NP	O
+54	6	COMMA	COMMA	O	O	O
+54	7	one	CD	O	B-NP	B-Num
+
+55	0	of	IN	O	B-PP	O
+55	1	whom	WP	O	B-NP	O
+55	2	dies	VBZ	O	B-VP	O
+55	3	in	IN	O	B-PP	O
+55	4	a	DT	O	B-NP	O
+55	5	car	NN	O	I-NP	O
+55	6	crash	NN	O	I-NP	O
+55	7	and	CC	O	O	O
+55	8	leaves	VBZ	O	B-VP	O
+55	9	behind	IN	O	B-PP	O
+55	10	a	DT	O	O	O
+55	11	science-	JJ	O	O	O
+
+56	0	fiction	NN	O	B-NP	B-Book
+56	1	novel	NN	O	I-NP	B-Book
+56	2	that	WDT	O	B-NP	O
+56	3	achieves	VBZ	O	B-VP	O
+56	4	cult	NN	O	B-NP	O
+56	5	status	NN	O	I-NP	O
+56	6	.	.	O	O	O
+
+57	0	9	CD	O	O	B-Num
+57	1	.	.	O	O	O
+
+58	0	MORGAN	NNP	O	B-NP	O
+58	1	'S	VBZ	O	B-VP	O
+58	2	RUN	NNP	O	B-NP	O
+58	3	COMMA	COMMA	O	O	O
+58	4	by	IN	O	B-PP	O
+58	5	Colleen	NNP	O	B-NP	B-Peop
+58	6	McCullough	NNP	O	I-NP	I-Peop
+58	7	.	.	O	O	O
+
+59	0	-LBR-	-LBR-	O	O	O
+59	1	Simon	NNP	O	B-NP	B-Peop
+59	2	&	CC	O	I-NP	O
+59	3	AMP	NNP	O	I-NP	B-OrgCorp
+59	4	;	:	O	O	O
+59	5	SchusterCOMMA	NNP	O	O	O
+
+60	0	$28	NN	O	O	B-Money
+60	1	.	.	O	O	O
+60	2	-RBR-	-RBR-	O	O	O
+
+61	0	A	DT	O	B-NP	O
+61	1	British	NNP	O	I-NP	B-LangRace
+61	2	convict	VB	O	B-VP	O
+61	3	COMMA	COMMA	O	O	O
+61	4	banished	VBN	O	B-VP	O
+61	5	to	TO	O	B-PP	O
+61	6	Australia	NNP	O	B-NP	B-LocCoun
+61	7	in	IN	O	B-PP	O
+61	8	1788COMMA	CD	O	O	B-Num
+
+62	0	finds	VBZ	O	B-VP	O
+62	1	a	DT	O	B-NP	O
+62	2	new	JJ	O	I-NP	O
+62	3	life	NN	O	I-NP	O
+62	4	and	CC	O	O	O
+62	5	a	DT	O	B-NP	O
+62	6	new	JJ	O	I-NP	O
+62	7	love	NN	O	I-NP	O
+62	8	.	.	O	O	O
+
+63	0	10	CD	O	B-NP	B-Num
+63	1	.	.	O	O	O
+
+64	0	THE	DT	O	B-NP	O
+64	1	VOYAGE	NNP	O	I-NP	O
+64	2	OF	IN	O	B-PP	O
+64	3	THE	DT	O	B-NP	O
+64	4	JERLE	NNP	O	I-NP	O
+64	5	SHANNARA	NNP	O	I-NP	O
+64	6	:	:	O	O	O
+64	7	Ilse	NNP	O	B-NP	B-Peop
+64	8	Witch	NNP	O	I-NP	I-Peop
+64	9	COMMA	COMMA	O	O	O
+64	10	by	IN	O	B-PP	O
+
+65	0	Terry	NNP	O	B-NP	B-Peop
+65	1	Brooks	NNP	O	I-NP	I-Peop
+65	2	.	.	O	O	O
+
+66	0	-LBR-	-LBR-	O	O	O
+66	1	Del	NNP	O	B-NP	B-Peop
+66	2	Rey/Ballantine	NNP	O	I-NP	I-Peop
+66	3	COMMA	COMMA	O	I-NP	O
+66	4	$26.95	NN	O	I-NP	B-Money
+66	5	.	.	O	O	O
+66	6	-RBR-	-RBR-	O	O	O
+
+67	0	The	DT	O	B-NP	O
+67	1	first	JJ	O	I-NP	B-Num
+
+68	0	volume	NN	O	B-NP	O
+68	1	in	IN	O	B-PP	O
+68	2	a	DT	O	B-NP	O
+68	3	fantasy	NN	O	I-NP	O
+68	4	series	NN	O	I-NP	O
+68	5	.	.	O	O	O
+
+69	0	11	CD	O	O	B-Num
+69	1	.	.	O	O	O
+
+70	0	FAITH	NNP	O	B-NP	O
+70	1	OF	IN	O	B-PP	O
+70	2	THE	DT	O	B-NP	O
+70	3	FALLEN	NNP	O	I-NP	O
+70	4	COMMA	COMMA	O	O	O
+70	5	by	IN	O	B-PP	O
+70	6	Terry	NNP	O	B-NP	B-Peop
+70	7	Goodkind	NNP	O	I-NP	I-Peop
+70	8	.	.	O	O	O
+
+71	0	-LBR-	-LBR-	O	O	O
+71	1	Tor/Tom	NNP	O	O	O
+
+72	0	Doherty	NNP	O	O	B-Peop
+72	1	COMMA	COMMA	O	O	O
+72	2	$27.95	NN	O	O	B-Money
+72	3	.	.	O	O	O
+72	4	-RBR-	-RBR-	O	O	O
+
+73	0	In	IN	O	B-PP	O
+73	1	Volume	NN	O	B-NP	O
+73	2	6	CD	O	B-NP	B-Num
+73	3	of	IN	O	B-PP	O
+73	4	the	DT	O	O	O
+73	5	``	``	O	O	O
+73	6	Sword	NNP	O	O	O
+73	7	of	IN	O	B-PP	O
+73	8	Truth	NNP	O	B-NP	O
+73	9	''	''	O	O	O
+
+74	0	fantasy	NN	O	O	O
+74	1	series	NN	O	O	O
+74	2	COMMA	COMMA	O	O	O
+74	3	Richard	NNP	O	B-NP	B-Peop
+74	4	is	VBZ	O	B-VP	O
+74	5	captured	VBN	O	I-VP	O
+74	6	on	IN	O	B-PP	O
+74	7	returning	VBG	O	B-VP	O
+74	8	home	NN	O	B-NP	O
+74	9	.	.	O	O	O
+
+75	0	12	CD	O	O	B-Num
+75	1	.	.	O	O	O
+
+76	0	THE	DT	O	B-NP	O
+76	1	INDWELLING	NNP	O	I-NP	O
+76	2	COMMA	COMMA	O	O	O
+76	3	by	IN	O	B-PP	O
+76	4	Tim	NNP	O	B-NP	B-Peop
+76	5	LaHaye	NNP	O	I-NP	I-Peop
+76	6	and	CC	O	O	O
+76	7	Jerry	NNP	O	B-NP	B-Peop
+76	8	B.	NNP	O	I-NP	I-Peop
+76	9	Jenkins	NNP	O	I-NP	I-Peop
+76	10	.	.	O	O	O
+
+77	0	-LBR-	-LBR-	O	O	O
+77	1	Tyndale	NNP	O	O	B-Peop
+77	2	COMMA	COMMA	O	O	O
+77	3	$22.99	NN	O	O	B-Money
+77	4	.	.	O	O	O
+77	5	-RBR-	-RBR-	O	O	O
+
+78	0	The	DT	O	B-NP	O
+78	1	seventh	JJ	O	I-NP	B-Num
+78	2	volume	NN	O	I-NP	O
+78	3	in	IN	O	B-PP	O
+78	4	a	DT	O	B-NP	O
+78	5	series	NN	O	I-NP	O
+78	6	about	IN	O	B-PP	O
+
+79	0	true	JJ	O	B-NP	O
+79	1	believers	NNS	O	I-NP	O
+79	2	who	WP	O	B-NP	O
+79	3	confront	VBP	O	B-VP	O
+79	4	the	DT	O	B-NP	O
+79	5	Antichrist	JJ	O	I-NP	O
+79	6	after	IN	O	O	O
+79	7	the	DT	O	O	O
+
+80	0	rapture	VBP	O	B-VP	O
+80	1	of	IN	O	B-PP	O
+80	2	the	DT	O	B-NP	O
+80	3	saved	VBN	O	O	O
+80	4	.	.	O	O	O
+
+81	0	-LBR-	-LBR-	O	O	O
+81	1	b	NN	O	O	O
+81	2	-RBR-	-RBR-	O	O	O
+
+82	0	13	CD	O	B-NP	B-Num
+82	1	.	.	O	O	O
+
+83	0	PAGAN	NNP	O	B-NP	B-Peop
+83	1	BABIES	NNP	O	I-NP	I-Peop
+83	2	COMMA	COMMA	O	O	O
+83	3	by	IN	O	B-PP	O
+83	4	Elmore	NNP	O	B-NP	B-Peop
+83	5	Leonard	NNP	O	I-NP	I-Peop
+83	6	.	.	O	O	O
+
+84	0	-LBR-	-LBR-	O	O	O
+84	1	DelacorteCOMMA	NNP	O	O	O
+
+85	0	$24.95	NN	O	O	B-Money
+85	1	.	.	O	O	O
+85	2	-RBR-	-RBR-	O	O	O
+
+86	0	A	DT	O	B-NP	O
+86	1	priest	NN	O	I-NP	B-ProfTitle
+86	2	who	WP	O	B-NP	O
+86	3	may	MD	O	B-VP	O
+86	4	not	RB	O	I-VP	O
+86	5	be	VB	O	I-VP	O
+86	6	a	DT	O	B-NP	O
+86	7	priest	NN	O	I-NP	B-ProfTitle
+86	8	joins	VBZ	O	B-VP	O
+
+87	0	forces	NNS	O	B-NP	O
+87	1	with	IN	O	B-PP	O
+87	2	an	DT	O	B-NP	O
+87	3	ex-con	NN	O	I-NP	O
+87	4	looking	VBG	O	B-VP	O
+87	5	for	IN	O	B-PP	O
+87	6	her	PP$	O	B-NP	O
+87	7	big	JJ	O	I-NP	O
+87	8	payday	NN	O	I-NP	O
+87	9	.	.	O	O	O
+
+88	0	14	CD	O	B-NP	B-Num
+88	1	.	.	O	O	O
+
+89	0	DUST	NNP	O	B-NP	O
+89	1	TO	TO	O	B-PP	O
+89	2	DUST	NNP	O	B-NP	O
+89	3	COMMA	COMMA	O	O	O
+89	4	by	IN	O	B-PP	O
+89	5	Tami	NNP	O	B-NP	B-Peop
+89	6	Hoag	NNP	O	I-NP	I-Peop
+89	7	.	.	O	O	O
+
+90	0	-LBR-	-LBR-	O	O	O
+90	1	Bantam	NNP	O	O	B-Peop
+90	2	COMMA	COMMA	O	O	O
+90	3	$25.95	NN	O	B-VP	B-Money
+90	4	-RBR-	-RBR-	O	O	O
+90	5	Two	CD	O	O	B-Num
+
+91	0	Minneapolis	NNP	O	B-NP	B-LocCit
+91	1	police	NN	O	I-NP	B-ProfTitle
+91	2	officers	NNS	O	I-NP	B-ProfTitle
+91	3	investigate	VBP	O	B-VP	O
+91	4	the	DT	O	O	O
+91	5	suspicious	JJ	O	O	O
+
+92	0	death	NN	O	B-NP	O
+92	1	of	IN	O	B-PP	O
+92	2	an	DT	O	B-NP	O
+92	3	Internal	NNP	O	I-NP	B-Org
+92	4	Affairs	NNP	O	I-NP	I-Org
+92	5	officer	NN	O	I-NP	B-ProfTitle
+92	6	.	.	O	O	O
+
+93	0	15	CD	O	O	B-Num
+93	1	.	.	O	O	O
+
+94	0	HONG	NNP	O	B-NP	B-Peop
+94	1	KONG	NNP	O	I-NP	I-Peop
+94	2	COMMA	COMMA	O	O	O
+94	3	by	IN	O	B-PP	O
+94	4	Stephen	NNP	O	B-NP	B-Peop
+94	5	Coonts	NNP	O	I-NP	I-Peop
+94	6	.	.	O	O	O
+
+95	0	-LBR-	-LBR-	O	O	O
+95	1	St	NNP	O	B-NP	O
+95	2	.	.	O	O	O
+
+96	0	Martin	NNP	O	B-NP	B-Peop
+96	1	's	POS	O	B-NP	O
+96	2	COMMA	COMMA	O	O	O
+96	3	$25.95	NN	O	B-NP	B-Money
+96	4	.	.	O	O	O
+96	5	-RBR-	-RBR-	O	O	O
+
+97	0	Sent	NNP	O	B-NP	O
+97	1	on	IN	O	B-PP	O
+97	2	a	DT	O	B-NP	O
+97	3	mission	NN	O	I-NP	O
+97	4	to	TO	O	B-PP	O
+97	5	Hong	NNP	O	B-NP	B-LocCit
+97	6	Kong	NNP	O	I-NP	I-LocCit
+97	7	by	IN	O	B-PP	O
+97	8	the	DT	O	B-NP	O
+97	9	U.S.	NNP	O	I-NP	B-LocCoun
+97	10	governmentCOMMA	NN	O	I-NP	O
+
+98	0	Jake	NNP	O	B-NP	B-Peop
+98	1	Grafton	NNP	O	I-NP	I-Peop
+98	2	must	MD	O	B-VP	O
+98	3	confront	VB	O	I-VP	O
+98	4	a	DT	O	B-NP	O
+98	5	rebel	NN	O	I-NP	O
+98	6	faction	NN	O	I-NP	O
+98	7	that	IN	O	B-NP	O
+98	8	kidnaps	NN	O	B-VP	O
+
+99	0	his	PP$	O	B-NP	O
+99	1	wife	NN	O	I-NP	O
+99	2	.	.	O	O	O
+
+100	0	&	CC	O	O	O
+100	1	UR	NNP	O	B-NP	O
+100	2	;	:	O	O	O
+100	3	NONFICTION	NNP	O	B-NP	O
+100	4	&	CC	O	I-NP	O
+100	5	LR	NNP	O	I-NP	O
+100	6	;	:	O	O	O
+
+101	0	1	CD	O	O	B-Num
+101	1	.	.	O	O	O
+
+102	0	NOTHING	NNP	O	B-NP	O
+102	1	LIKE	IN	O	O	O
+102	2	IT	PRP	O	B-NP	O
+102	3	IN	IN	O	B-PP	O
+102	4	THE	DT	O	B-NP	O
+102	5	WORLD	NN	O	I-NP	O
+102	6	COMMA	COMMA	O	O	O
+102	7	by	IN	O	B-PP	O
+102	8	Stephen	NNP	O	B-NP	B-Peop
+102	9	E.	NNP	O	I-NP	I-Peop
+102	10	Ambrose	NNP	O	I-NP	I-Peop
+102	11	.	.	O	O	O
+
+103	0	-LBR-	-LBR-	O	O	O
+103	1	Simon	NNP	O	B-NP	B-Peop
+103	2	&	CC	O	I-NP	O
+103	3	AMP	NNP	O	I-NP	B-OrgCorp
+103	4	;	:	O	O	O
+103	5	Schuster	NNP	O	B-NP	B-OrgCorp
+103	6	COMMA	COMMA	O	I-NP	O
+103	7	$28	NN	O	I-NP	B-Money
+103	8	.	.	O	O	O
+103	9	-RBR-	-RBR-	O	O	O
+
+104	0	The	DT	O	B-NP	O
+104	1	story	NN	O	I-NP	O
+104	2	of	IN	O	B-PP	O
+104	3	the	DT	O	B-NP	O
+104	4	men	NNS	O	I-NP	O
+104	5	who	WP	O	B-NP	O
+104	6	built	VBD	O	B-VP	O
+
+105	0	the	DT	O	B-NP	O
+105	1	transcontinental	JJ	O	I-NP	O
+105	2	railroad	NN	O	I-NP	O
+105	3	in	IN	O	B-PP	O
+105	4	the	DT	O	B-NP	O
+105	5	1860s	NN	O	I-NP	B-Date
+105	6	.	.	O	O	O
+
+106	0	2	CD	O	O	B-Num
+106	1	.	.	O	O	O
+
+107	0	TUESDAYS	NNP	O	O	O
+107	1	WITH	IN	O	B-PP	O
+107	2	MORRIE	NNP	O	B-NP	O
+107	3	COMMA	COMMA	O	O	O
+107	4	by	IN	O	B-PP	O
+107	5	Mitch	NNP	O	B-NP	B-Peop
+107	6	Albom	NNP	O	I-NP	I-Peop
+107	7	.	.	O	O	O
+
+108	0	-LBR-	-LBR-	O	O	O
+108	1	DoubledayCOMMA	NNP	O	O	O
+
+109	0	$19.95	NN	O	O	B-Money
+109	1	.	.	O	O	O
+109	2	-RBR-	-RBR-	O	O	O
+
+110	0	A	DT	O	B-NP	O
+110	1	sportswriter	NN	O	I-NP	O
+110	2	tells	VBZ	O	B-VP	O
+110	3	of	IN	O	B-PP	O
+110	4	his	PP$	O	B-NP	O
+110	5	weekly	JJ	O	I-NP	O
+110	6	visits	NNS	O	I-NP	O
+
+111	0	to	TO	O	B-PP	O
+111	1	his	PP$	O	B-NP	O
+111	2	old	JJ	O	I-NP	O
+111	3	college	NN	O	I-NP	O
+111	4	mentor	NN	O	I-NP	O
+111	5	COMMA	COMMA	O	O	O
+111	6	who	WP	O	B-NP	O
+111	7	was	VBD	O	B-VP	O
+111	8	near	IN	O	B-PP	O
+111	9	death	NN	O	B-NP	O
+111	10	.	.	O	O	O
+
+112	0	3	CD	O	O	B-Num
+112	1	.	.	O	O	O
+
+113	0	I	PRP	O	B-NP	O
+113	1	LOVE	NNP	O	I-NP	O
+113	2	YOU	PRP	O	B-NP	O
+113	3	COMMA	COMMA	O	O	O
+113	4	RONNIE	NNP	O	B-NP	O
+113	5	COMMA	COMMA	O	O	O
+113	6	by	IN	O	B-PP	O
+113	7	Nancy	NNP	O	B-NP	B-Peop
+113	8	Reagan	NNP	O	I-NP	I-Peop
+113	9	.	.	O	O	O
+
+114	0	-LBR-	-LBR-	O	O	O
+114	1	Random	NNP	O	O	O
+114	2	HouseCOMMA	NNP	O	O	O
+
+115	0	$24.95	NN	O	O	B-Money
+115	1	.	.	O	O	O
+115	2	-RBR-	-RBR-	O	O	O
+
+116	0	Ronald	NNP	O	B-NP	B-Peop
+116	1	Reagan	NNP	O	I-NP	I-Peop
+116	2	's	POS	O	B-NP	O
+116	3	letters	NNS	O	I-NP	O
+116	4	to	TO	O	B-PP	O
+116	5	his	PP$	O	B-NP	O
+116	6	wife	NN	O	I-NP	O
+116	7	COMMA	COMMA	O	O	O
+116	8	with	IN	O	B-PP	O
+
+117	0	her	PP$	O	O	O
+117	1	reflections	NNS	O	B-NP	O
+117	2	on	IN	O	B-PP	O
+117	3	them	PRP	O	B-NP	O
+117	4	.	.	O	O	O
+
+118	0	4	CD	O	B-NP	B-Num
+118	1	.	.	O	O	O
+
+119	0	LIFE	NNP	O	B-NP	O
+119	1	ON	IN	O	B-PP	O
+119	2	THE	DT	O	B-NP	O
+119	3	OTHER	NNP	O	I-NP	O
+119	4	SIDE	NNP	O	I-NP	O
+119	5	COMMA	COMMA	O	O	O
+119	6	by	IN	O	B-PP	O
+119	7	Sylvia	NNP	O	B-NP	O
+119	8	Browne	NNP	O	I-NP	O
+119	9	with	IN	O	B-PP	O
+
+120	0	Lindsay	NNP	O	B-NP	B-Peop
+120	1	Harrison	NNP	O	I-NP	I-Peop
+120	2	.	.	O	O	O
+
+121	0	-LBR-	-LBR-	O	O	O
+121	1	Dutton	NNP	O	O	B-Peop
+121	2	COMMA	COMMA	O	O	O
+121	3	$23.95	NN	O	O	B-Money
+121	4	.	.	O	O	O
+121	5	-RBR-	-RBR-	O	O	O
+
+122	0	A	DT	O	O	O
+122	1	guided	VBN	O	O	O
+122	2	tour	NN	O	O	O
+
+123	0	of	IN	O	B-PP	O
+123	1	the	DT	O	B-NP	O
+123	2	afterlife	NN	O	I-NP	O
+123	3	COMMA	COMMA	O	O	O
+123	4	by	IN	O	B-PP	O
+123	5	a	DT	O	O	O
+123	6	``	``	O	O	O
+123	7	working	VBG	O	B-VP	O
+123	8	psychic	JJ	O	O	B-Medical
+123	9	.	.	O	O	O
+123	10	''	''	O	O	O
+
+124	0	5	CD	O	O	B-Num
+124	1	.	.	O	O	O
+
+125	0	SELLOUT	NNP	O	B-NP	O
+125	1	COMMA	COMMA	O	O	O
+125	2	by	IN	O	B-PP	O
+125	3	David	NNP	O	B-NP	B-Peop
+125	4	P.	NNP	O	I-NP	I-Peop
+125	5	Schippers	NNP	O	I-NP	I-Peop
+125	6	with	IN	O	B-PP	O
+125	7	Alan	NNP	O	B-NP	B-Peop
+125	8	P.	NNP	O	I-NP	I-Peop
+125	9	Henry	NNP	O	I-NP	I-Peop
+125	10	.	.	O	O	O
+
+126	0	-LBR-	-LBR-	O	O	O
+126	1	Regnery	NNP	O	O	B-Peop
+126	2	COMMA	COMMA	O	O	O
+126	3	$27.95	NN	O	O	B-Money
+126	4	.	.	O	O	O
+126	5	-RBR-	-RBR-	O	O	O
+
+127	0	The	DT	O	B-NP	O
+127	1	former	JJ	O	I-NP	O
+127	2	chief	NN	O	I-NP	B-ProfTitle
+127	3	Republican	JJ	O	I-NP	B-OrgPolBody
+127	4	counsel	NN	O	I-NP	O
+
+128	0	for	IN	O	B-PP	O
+128	1	the	DT	O	B-NP	O
+128	2	House	NNP	O	I-NP	B-Org
+128	3	Judiciary	NNP	O	I-NP	I-Org
+128	4	Committee	NNP	O	I-NP	I-Org
+128	5	offers	VBZ	O	B-VP	O
+128	6	an	DT	O	B-NP	O
+128	7	account	NN	O	I-NP	O
+128	8	of	IN	O	B-PP	O
+
+129	0	President	NNP	O	B-NP	B-ProfTitle
+129	1	Clinton	NNP	O	I-NP	B-Peop
+129	2	's	POS	O	B-NP	O
+129	3	impeachment	NN	O	I-NP	O
+129	4	.	.	O	O	O
+
+130	0	-LBR-	-LBR-	O	O	O
+130	1	b	NN	O	O	O
+130	2	-RBR-	-RBR-	O	O	O
+
+131	0	6	CD	O	B-NP	B-Num
+131	1	.	.	O	O	O
+
+132	0	IT	PRP	O	B-NP	O
+132	1	'S	VBZ	O	B-VP	O
+132	2	NOT	NNP	O	B-NP	O
+132	3	ABOUT	NNP	O	I-NP	O
+132	4	THE	DT	O	I-NP	O
+132	5	BIKE	NNP	O	I-NP	O
+132	6	COMMA	COMMA	O	O	O
+132	7	by	IN	O	B-PP	O
+132	8	Lance	NNP	O	B-NP	B-Peop
+132	9	Armstrong	NNP	O	I-NP	I-Peop
+132	10	with	IN	O	B-PP	O
+
+133	0	Sally	NNP	O	B-NP	B-Peop
+133	1	Jenkins	NNP	O	I-NP	I-Peop
+133	2	.	.	O	O	O
+
+134	0	-LBR-	-LBR-	O	O	O
+134	1	Putnam	NNP	O	O	B-Peop
+134	2	COMMA	COMMA	O	O	O
+134	3	$24.95	NN	O	O	B-Money
+134	4	.	.	O	O	O
+134	5	-RBR-	-RBR-	O	O	O
+
+135	0	A	DT	O	B-NP	O
+135	1	memoir	NN	O	I-NP	O
+135	2	by	IN	O	B-PP	O
+135	3	the	DT	O	B-NP	O
+135	4	Tour	NN	O	I-NP	O
+
+136	0	de	NNP	O	O	O
+136	1	France	NNP	O	O	B-LocCoun
+136	2	champion	NN	O	O	O
+136	3	and	CC	O	O	O
+136	4	cancer	NN	O	B-NP	B-Medical
+136	5	survivor	NN	O	I-NP	O
+136	6	.	.	O	O	O
+
+137	0	7	CD	O	O	B-Num
+137	1	.	.	O	O	O
+
+138	0	THE	DT	O	B-NP	O
+138	1	O	NNP	O	I-NP	O
+138	2	'REILLY	NN	O	I-NP	O
+138	3	FACTOR	NNP	O	I-NP	O
+138	4	COMMA	COMMA	O	O	O
+138	5	by	IN	O	B-PP	O
+138	6	Bill	NNP	O	B-NP	B-Peop
+138	7	O	NNP	O	I-NP	I-Peop
+138	8	'Reilly	RB	O	O	I-Peop
+138	9	.	.	O	O	O
+
+139	0	-LBR-	-LBR-	O	O	O
+139	1	BroadwayCOMMA	NNP	O	O	O
+
+140	0	$23	NN	O	O	B-Money
+140	1	.	.	O	O	O
+140	2	-RBR-	-RBR-	O	O	O
+
+141	0	The	DT	O	B-NP	O
+141	1	host	NN	O	I-NP	B-ProfTitle
+141	2	of	IN	O	B-PP	O
+141	3	a	DT	O	B-NP	O
+141	4	cable	NN	O	I-NP	O
+141	5	news	NN	O	I-NP	O
+141	6	program	NN	O	I-NP	O
+141	7	offers	VBZ	O	B-VP	O
+141	8	opinions	NNS	O	B-NP	O
+
+142	0	on	IN	O	B-PP	O
+142	1	what	WP	O	B-NP	O
+142	2	's	VBZ	O	B-VP	O
+142	3	right	JJ	O	O	O
+142	4	and	CC	O	O	O
+142	5	wrong	JJ	O	O	O
+142	6	with	IN	O	B-PP	O
+142	7	America	NNP	O	B-NP	B-Loc
+142	8	.	.	O	O	O
+
+143	0	8	CD	O	O	B-Num
+143	1	.	.	O	O	O
+
+144	0	FLAGS	NNP	O	B-NP	O
+144	1	OF	IN	O	B-PP	O
+144	2	OUR	PP$	O	O	O
+144	3	FATHERS	NNP	O	B-NP	O
+144	4	COMMA	COMMA	O	O	O
+144	5	by	IN	O	B-PP	O
+144	6	James	NNP	O	B-NP	B-Peop
+144	7	Bradley	NNP	O	I-NP	I-Peop
+144	8	with	IN	O	B-PP	O
+144	9	Ron	NNP	O	B-NP	B-Peop
+144	10	Powers	NNP	O	I-NP	I-Peop
+144	11	.	.	O	O	O
+
+145	0	-LBR-	-LBR-	O	O	O
+145	1	Bantam	NNP	O	O	B-Peop
+145	2	COMMA	COMMA	O	O	O
+145	3	$24.95	NN	O	O	B-Money
+145	4	.	.	O	O	O
+145	5	-RBR-	-RBR-	O	O	O
+
+146	0	The	DT	O	B-NP	O
+146	1	story	NN	O	I-NP	O
+146	2	of	IN	O	B-PP	O
+146	3	the	DT	O	B-NP	O
+146	4	Marines	NNPS	O	I-NP	B-Org
+146	5	who	WP	O	B-NP	O
+146	6	raised	VBD	O	B-VP	O
+
+147	0	the	DT	O	B-NP	O
+147	1	flag	NN	O	I-NP	O
+147	2	at	IN	O	B-PP	O
+147	3	Iwo	NNP	O	B-NP	O
+147	4	Jima	NNP	O	I-NP	O
+147	5	COMMA	COMMA	O	O	O
+147	6	by	IN	O	B-PP	O
+147	7	the	DT	O	B-NP	O
+147	8	son	NN	O	I-NP	O
+147	9	of	IN	O	B-PP	O
+147	10	one	CD	O	B-NP	B-Num
+147	11	of	IN	O	B-PP	O
+147	12	the	DT	O	B-NP	O
+147	13	men	NNS	O	I-NP	O
+147	14	.	.	O	O	O
+
+148	0	9.	CD	O	O	B-Num
+148	1	-LBR-	-LBR-	O	O	O
+148	2	x	NN	O	O	O
+148	3	-RBR-	-RBR-	O	O	O
+148	4	ME	PRP	O	B-NP	O
+148	5	TALK	NNP	O	I-NP	O
+148	6	PRETTY	NNP	O	I-NP	O
+148	7	ONE	CD	O	I-NP	B-Num
+148	8	DAY	NNP	O	I-NP	O
+148	9	COMMA	COMMA	O	O	O
+148	10	by	IN	O	B-PP	O
+148	11	David	NNP	O	B-NP	B-Peop
+148	12	Sedaris	NNP	O	I-NP	I-Peop
+148	13	.	.	O	O	O
+
+149	0	-LBR-	-LBR-	O	O	O
+149	1	LittleCOMMA	NNP	O	O	O
+
+150	0	Brown	NNP	O	O	B-Peop
+150	1	COMMA	COMMA	O	O	O
+150	2	$22.95	NN	O	O	B-Money
+150	3	.	.	O	O	O
+150	4	-RBR-	-RBR-	O	O	O
+
+151	0	A	DT	O	B-NP	O
+151	1	collection	NN	O	I-NP	O
+151	2	of	IN	O	B-PP	O
+151	3	autobiographical	JJ	O	O	O
+151	4	comic	JJ	O	O	O
+
+152	0	essays	NNS	O	B-NP	O
+152	1	by	IN	O	B-PP	O
+152	2	the	DT	O	B-NP	O
+152	3	author	NN	O	I-NP	B-ProfTitle
+152	4	of	IN	O	B-PP	O
+152	5	``	``	O	O	O
+152	6	Naked	JJ	O	O	O
+152	7	.	.	O	O	O
+152	8	''	''	O	O	O
+
+153	0	10	CD	O	B-NP	B-Num
+153	1	.	.	O	O	O
+
+154	0	THE	DT	O	B-NP	O
+154	1	ART	NNP	O	I-NP	O
+154	2	OF	IN	O	B-PP	O
+154	3	HAPPINESS	NNP	O	B-NP	O
+154	4	COMMA	COMMA	O	O	O
+154	5	by	IN	O	B-PP	O
+154	6	the	DT	O	B-NP	O
+154	7	Dalai	NNP	O	I-NP	B-Peop
+154	8	Lama	NNP	O	I-NP	I-Peop
+154	9	and	CC	O	O	O
+154	10	Howard	NNP	O	O	O
+
+155	0	C.	NNP	O	B-NP	O
+155	1	Cutler	NNP	O	I-NP	O
+155	2	.	.	O	O	O
+
+156	0	-LBR-	-LBR-	O	O	O
+156	1	Riverhead	NNP	O	O	B-Peop
+156	2	COMMA	COMMA	O	O	O
+156	3	$22.95	NN	O	O	B-Money
+156	4	.	.	O	O	O
+156	5	-RBR-	-RBR-	O	O	O
+
+157	0	What	WP	O	B-NP	O
+157	1	Buddhism	NNP	O	B-NP	B-Religion
+157	2	and	CC	O	O	O
+157	3	common	JJ	O	O	O
+
+158	0	sense	NN	O	B-NP	O
+158	1	tell	VBP	O	B-VP	O
+158	2	us	PRP	O	B-NP	O
+158	3	about	IN	O	B-PP	O
+158	4	everyday	JJ	O	B-NP	O
+158	5	problems	NNS	O	I-NP	O
+158	6	.	.	O	O	O
+
+159	0	11	CD	O	O	B-Num
+159	1	.	.	O	O	O
+
+160	0	WHEN	WRB	O	O	O
+160	1	GENIUS	NNP	O	B-NP	O
+160	2	FAILED	VBD	O	B-VP	O
+160	3	COMMA	COMMA	O	O	O
+160	4	by	IN	O	B-PP	O
+160	5	Roger	NNP	O	B-NP	B-Peop
+160	6	Lowenstein	NNP	O	I-NP	I-Peop
+160	7	.	.	O	O	O
+
+161	0	-LBR-	-LBR-	O	O	O
+161	1	Random	NNP	O	O	O
+
+162	0	House	NNP	O	O	B-LocStruct
+162	1	COMMA	COMMA	O	O	O
+162	2	$26.95	NN	O	O	B-Money
+162	3	.	.	O	O	O
+162	4	-RBR-	-RBR-	O	O	O
+
+163	0	The	DT	O	B-NP	O
+163	1	rise	NN	O	I-NP	O
+163	2	and	CC	O	O	O
+163	3	fall	VBP	O	B-VP	O
+163	4	of	IN	O	B-PP	O
+163	5	Long-Term	NNP	O	O	B-OrgCorp
+163	6	Capital	NNP	O	O	O
+
+164	0	Management	NNP	O	B-NP	B-Peop
+164	1	COMMA	COMMA	O	O	O
+164	2	the	DT	O	B-NP	O
+164	3	multibillion-dollar	JJ	O	I-NP	O
+164	4	hedge	NN	O	I-NP	O
+164	5	fund	NN	O	I-NP	O
+164	6	.	.	O	O	O
+
+165	0	-LBR-	-LBR-	O	O	O
+165	1	b	NN	O	O	O
+165	2	-RBR-	-RBR-	O	O	O
+
+166	0	12	CD	O	O	B-Num
+166	1	.	.	O	O	O
+
+167	0	EYEWITNESS	NNP	O	B-NP	O
+167	1	TO	TO	O	B-PP	O
+167	2	POWER	NNP	O	B-NP	O
+167	3	COMMA	COMMA	O	O	O
+167	4	by	IN	O	B-PP	O
+167	5	David	NNP	O	B-NP	B-Peop
+167	6	Gergen	NNP	O	I-NP	I-Peop
+167	7	.	.	O	O	O
+
+168	0	-LBR-	-LBR-	O	O	O
+168	1	Simon	NNP	O	B-NP	B-Peop
+168	2	&	CC	O	I-NP	O
+168	3	AMP	NNP	O	I-NP	B-OrgCorp
+168	4	;	:	O	O	O
+
+169	0	Schuster	NNP	O	O	B-OrgCorp
+169	1	COMMA	COMMA	O	O	O
+169	2	$26	NN	O	O	B-Money
+169	3	.	.	O	O	O
+169	4	-RBR-	-RBR-	O	O	O
+
+170	0	An	DT	O	B-NP	O
+170	1	adviser	NN	O	I-NP	O
+170	2	to	TO	O	B-PP	O
+170	3	four	CD	O	B-NP	B-Num
+170	4	presidents	NNS	O	I-NP	B-ProfTitle
+170	5	recalls	VBZ	O	O	O
+
+171	0	his	PP$	O	B-NP	O
+171	1	years	NNS	O	I-NP	B-Date
+171	2	in	IN	O	B-PP	O
+171	3	the	DT	O	B-NP	O
+171	4	White	NNP	O	I-NP	B-Org
+171	5	House	NNP	O	I-NP	I-Org
+171	6	.	.	O	O	O
+
+172	0	13	CD	O	B-NP	B-Num
+172	1	.	.	O	O	O
+
+173	0	DREAM	NNP	O	B-NP	B-Peop
+173	1	CATCHER	NNP	O	I-NP	I-Peop
+173	2	COMMA	COMMA	O	O	O
+173	3	by	IN	O	B-PP	O
+173	4	Margaret	NNP	O	B-NP	B-Peop
+173	5	A.	NNP	O	I-NP	I-Peop
+173	6	Salinger	NNP	O	I-NP	I-Peop
+173	7	.	.	O	O	O
+
+174	0	-LBR-	-LBR-	O	O	O
+174	1	Washington	NNP	O	O	B-LocCit
+
+175	0	Square/Pocket	NNP	O	B-NP	O
+175	1	Books	NNPS	O	I-NP	O
+175	2	COMMA	COMMA	O	O	O
+175	3	$27.95	NN	O	B-NP	B-Money
+175	4	.	.	O	O	O
+175	5	-RBR-	-RBR-	O	O	O
+
+176	0	A	DT	O	B-NP	O
+176	1	memoir	NN	O	I-NP	O
+176	2	of	IN	O	B-PP	O
+176	3	the	DT	O	B-NP	O
+176	4	author	NN	O	I-NP	B-ProfTitle
+176	5	's	POS	O	B-NP	O
+
+177	0	life	NN	O	B-NP	O
+177	1	with	IN	O	B-PP	O
+177	2	her	PP$	O	B-NP	O
+177	3	father	NN	O	I-NP	O
+177	4	COMMA	COMMA	O	O	O
+177	5	J.D.	NNP	O	B-NP	B-Peop
+177	6	Salinger	NNP	O	I-NP	I-Peop
+177	7	.	.	O	O	O
+
+178	0	14	CD	O	B-NP	B-Num
+178	1	.	.	O	O	O
+
+179	0	NEVER	NNP	O	B-NP	O
+179	1	DIE	NNP	O	I-NP	O
+179	2	EASY	NNP	O	I-NP	O
+179	3	COMMA	COMMA	O	O	O
+179	4	by	IN	O	B-PP	O
+179	5	Walter	NNP	O	B-NP	B-Peop
+179	6	Payton	NNP	O	I-NP	I-Peop
+179	7	with	IN	O	B-PP	O
+179	8	Don	NNP	O	B-NP	B-Peop
+179	9	Yaeger	NNP	O	I-NP	I-Peop
+179	10	.	.	O	O	O
+
+180	0	-LBR-	-LBR-	O	O	O
+180	1	Villard	NNP	O	O	B-Peop
+180	2	COMMA	COMMA	O	O	O
+180	3	$24.95	NN	O	O	B-Money
+180	4	.	.	O	O	O
+180	5	-RBR-	-RBR-	O	O	O
+
+181	0	The	DT	O	B-NP	O
+181	1	autobiography	NN	O	I-NP	B-Book
+181	2	of	IN	O	B-PP	O
+181	3	the	DT	O	O	O
+181	4	great	JJ	O	O	O
+
+182	0	running	VBG	O	B-VP	O
+182	1	back	RB	O	O	O
+182	2	for	IN	O	B-PP	O
+182	3	the	DT	O	B-NP	O
+182	4	Chicago	NNP	O	I-NP	B-OrgTeam
+182	5	Bears	NNPS	O	I-NP	I-OrgTeam
+182	6	COMMA	COMMA	O	O	O
+182	7	who	WP	O	B-NP	O
+182	8	died	VBD	O	B-VP	O
+182	9	last	JJ	O	B-NP	O
+182	10	year	NN	O	I-NP	O
+182	11	.	.	O	O	O
+
+183	0	-LBR-	-LBR-	O	O	O
+183	1	b	NN	O	O	O
+183	2	-RBR-	-RBR-	O	O	O
+
+184	0	15.	CD	O	O	B-Num
+184	1	-LBR-	-LBR-	O	O	O
+184	2	x	NN	O	O	O
+184	3	-RBR-	-RBR-	O	O	O
+184	4	IN	IN	O	B-PP	O
+184	5	A	DT	O	B-NP	O
+184	6	SUNBURNED	NNP	O	I-NP	B-Org
+184	7	COUNTRY	NN	O	I-NP	O
+184	8	COMMA	COMMA	O	O	O
+184	9	by	IN	O	B-PP	O
+184	10	Bill	NNP	O	B-NP	B-Peop
+184	11	Bryson	NNP	O	I-NP	I-Peop
+184	12	.	.	O	O	O
+
+185	0	-LBR-	-LBR-	O	O	O
+185	1	BroadwayCOMMA	NNP	O	O	O
+
+186	0	$25	NN	O	O	B-Money
+186	1	.	.	O	O	O
+186	2	-RBR-	-RBR-	O	O	O
+
+187	0	The	DT	O	B-NP	O
+187	1	author	NN	O	I-NP	B-ProfTitle
+187	2	of	IN	O	B-PP	O
+187	3	``	``	O	O	O
+187	4	A	DT	O	B-NP	O
+187	5	Walk	VBP	O	B-VP	O
+187	6	in	IN	O	B-PP	O
+187	7	the	DT	O	B-NP	O
+187	8	Woods	NNP	O	I-NP	O
+187	9	''	''	O	O	O
+187	10	reports	VBZ	O	B-VP	O
+
+188	0	on	IN	O	B-PP	O
+188	1	his	PP$	O	B-NP	O
+188	2	travels	NNS	O	I-NP	O
+188	3	through	IN	O	B-PP	O
+188	4	Australia	NNP	O	B-NP	B-LocCoun
+188	5	.	.	O	O	O
+
+189	0	16.	CD	O	O	B-Num
+189	1	-LBR-	-LBR-	O	O	O
+189	2	x	NN	O	O	O
+189	3	-RBR-	-RBR-	O	O	O
+189	4	DO	VB	O	O	O
+189	5	I	PRP	O	B-NP	O
+189	6	STAND	NNP	O	B-NP	O
+189	7	ALONE	NNP	O	I-NP	O
+189	8	?	.	O	O	O
+189	9	by	IN	O	B-PP	O
+189	10	Jesse	NNP	O	B-NP	B-Peop
+189	11	Ventura	NNP	O	I-NP	I-Peop
+189	12	with	IN	O	B-PP	O
+189	13	Julie	NNP	O	B-NP	B-Peop
+189	14	Mooney	NNP	O	I-NP	I-Peop
+189	15	.	.	O	O	O
+
+190	0	-LBR-	-LBR-	O	O	O
+190	1	Pocket	NNP	O	B-NP	O
+190	2	Books	NNPS	O	I-NP	O
+190	3	COMMA	COMMA	O	O	O
+190	4	$23.95	NN	O	B-NP	B-Money
+190	5	.	.	O	O	O
+190	6	-RBR-	-RBR-	O	O	O
+
+191	0	The	DT	O	B-NP	O
+191	1	governor	NN	O	I-NP	B-ProfTitle
+191	2	of	IN	O	B-PP	O
+191	3	Minnesota	NNP	O	B-NP	B-LocStat
+191	4	goes	VBZ	O	B-VP	O
+191	5	to	TO	O	B-PP	O
+
+192	0	the	DT	O	B-NP	O
+192	1	mat	NN	O	I-NP	O
+192	2	against	IN	O	B-PP	O
+192	3	``	``	O	O	O
+192	4	political	JJ	O	B-NP	O
+192	5	pawns	NNS	O	I-NP	O
+192	6	and	CC	O	I-NP	O
+192	7	media	NNS	O	I-NP	O
+192	8	jackals	NNS	O	I-NP	B-Animal
+192	9	.	.	O	O	O
+192	10	''	''	O	O	O
+
+193	0	-LBR-	-LBR-	O	O	O
+193	1	b	NN	O	O	O
+193	2	-RBR-	-RBR-	O	O	O
+
+194	0	&	CC	O	O	O
+194	1	UR	NNP	O	B-NP	O
+194	2	;	:	O	O	O
+194	3	ADVICE	NNP	O	B-NP	O
+194	4	COMMA	COMMA	O	O	O
+194	5	HOW-TO	NNP	O	B-NP	O
+194	6	AND	CC	O	I-NP	O
+194	7	MISCELLANEOUS	NNP	O	I-NP	B-Org
+194	8	&	CC	O	I-NP	O
+194	9	LR	NNP	O	I-NP	O
+194	10	;	:	O	O	O
+
+195	0	1	CD	O	O	B-Num
+195	1	.	.	O	O	O
+
+196	0	WHO	WP	O	B-NP	O
+196	1	MOVED	VBD	O	B-VP	O
+196	2	MY	NNP	O	B-NP	O
+196	3	CHEESE	NNP	O	I-NP	O
+196	4	?	.	O	O	O
+196	5	by	IN	O	B-PP	O
+196	6	Spencer	NNP	O	B-NP	B-Peop
+196	7	Johnson	NNP	O	I-NP	I-Peop
+196	8	.	.	O	O	O
+
+197	0	-LBR-	-LBR-	O	O	O
+197	1	PutnamCOMMA	NNP	O	O	O
+
+198	0	$19.95	NN	O	O	B-Money
+198	1	.	.	O	O	O
+198	2	-RBR-	-RBR-	O	O	O
+
+199	0	How	WRB	O	O	O
+199	1	to	TO	O	B-VP	O
+199	2	deal	VB	O	I-VP	O
+199	3	with	IN	O	B-PP	O
+199	4	changes	NNS	O	B-NP	O
+199	5	at	IN	O	B-PP	O
+199	6	work	VBP	O	B-VP	O
+199	7	and	CC	O	O	O
+199	8	in	IN	O	B-PP	O
+199	9	life	NN	O	B-NP	O
+
+200	0	in	IN	O	B-PP	O
+200	1	general	NN	O	B-NP	B-ProfTitle
+200	2	.	.	O	O	O
+
+201	0	-LBR-	-LBR-	O	O	O
+201	1	b	NN	O	O	O
+201	2	-RBR-	-RBR-	O	O	O
+
+202	0	2	CD	O	O	B-Num
+202	1	.	.	O	O	O
+
+203	0	BODY	NNP	O	O	O
+203	1	FOR	IN	O	B-PP	O
+203	2	LIFE	NNP	O	B-NP	O
+203	3	COMMA	COMMA	O	O	O
+203	4	by	IN	O	B-PP	O
+203	5	Bill	NNP	O	B-NP	B-Peop
+203	6	Phillips	NNP	O	I-NP	I-Peop
+203	7	with	IN	O	B-PP	O
+203	8	Michael	NNP	O	B-NP	O
+203	9	D	NNP	O	I-NP	O
+203	10	'Orso	NN	O	I-NP	O
+203	11	.	.	O	O	O
+
+204	0	-LBR-	-LBR-	O	O	O
+204	1	HarperCollins	NNP	O	O	O
+204	2	COMMA	COMMA	O	O	O
+204	3	$26	NN	O	O	B-Money
+204	4	.	.	O	O	O
+204	5	-RBR-	-RBR-	O	O	O
+
+205	0	Ways	NNPS	O	B-NP	O
+205	1	to	TO	O	B-VP	O
+205	2	improve	VB	O	I-VP	O
+205	3	one	CD	O	B-NP	B-Num
+205	4	's	POS	O	B-NP	O
+205	5	body	NN	O	I-NP	O
+205	6	and	CC	O	O	O
+
+206	0	one	CD	O	B-NP	B-Num
+206	1	's	POS	O	B-NP	O
+206	2	life	NN	O	I-NP	O
+206	3	.	.	O	O	O
+
+207	0	-LBR-	-LBR-	O	O	O
+207	1	b	NN	O	O	O
+207	2	-RBR-	-RBR-	O	O	O
+
+208	0	3	CD	O	O	B-Num
+208	1	.	.	O	O	O
+
+209	0	GUINNESS	NNP	O	B-NP	O
+209	1	WORLD	NN	O	I-NP	O
+209	2	RECORDS	NNS	O	I-NP	O
+209	3	2001	CD	O	I-NP	B-Date
+209	4	.	.	O	O	O
+
+210	0	-LBR-	-LBR-	O	O	O
+210	1	Guinness	NNP	O	O	B-Peop
+210	2	COMMA	COMMA	O	O	O
+210	3	$26.95	NN	O	O	B-Money
+210	4	.	.	O	O	O
+210	5	-RBR-	-RBR-	O	O	O
+
+211	0	A	DT	O	B-NP	O
+211	1	profusely	RB	O	I-NP	O
+211	2	illustrated	VBD	O	I-NP	O
+211	3	collection	NN	O	I-NP	O
+211	4	of	IN	O	B-PP	O
+211	5	records	NNS	O	B-NP	O
+211	6	about	IN	O	B-PP	O
+
+212	0	subjects	NNS	O	B-NP	O
+212	1	as	IN	O	B-PP	O
+212	2	various	JJ	O	O	O
+212	3	as	IN	O	O	O
+212	4	sports	NNS	O	B-NP	O
+212	5	and	CC	O	I-NP	O
+212	6	technology	NN	O	I-NP	O
+212	7	.	.	O	O	O
+
+213	0	4	CD	O	B-NP	B-Num
+213	1	.	.	O	O	O
+
+214	0	EATING	NNP	O	O	O
+214	1	WELL	NNP	O	O	O
+214	2	FOR	IN	O	B-PP	O
+214	3	OPTIMUM	NNP	O	B-NP	O
+214	4	HEALTH	NN	O	B-NP	O
+214	5	COMMA	COMMA	O	O	O
+214	6	by	IN	O	B-PP	O
+214	7	Andrew	NNP	O	B-NP	B-Peop
+214	8	Weil	NNP	O	I-NP	I-Peop
+214	9	.	.	O	O	O
+
+215	0	-LBR-	-LBR-	O	O	O
+215	1	Knopf	NNP	O	B-NP	O
+215	2	COMMA	COMMA	O	O	O
+215	3	$25	NN	O	O	B-Money
+215	4	.	.	O	O	O
+215	5	-RBR-	-RBR-	O	O	O
+
+216	0	A	DT	O	B-NP	O
+216	1	physician	NN	O	I-NP	B-ProfTitle
+216	2	's	POS	O	B-NP	O
+216	3	guide	NN	O	I-NP	O
+216	4	to	TO	O	B-PP	O
+216	5	food	NN	O	B-NP	B-Food
+216	6	COMMA	COMMA	O	I-NP	O
+216	7	diet	NN	O	I-NP	O
+216	8	and	CC	O	O	O
+
+217	0	nutrition	NN	O	O	O
+217	1	.	.	O	O	O
+
+218	0	-LBR-	-LBR-	O	O	O
+218	1	b	NN	O	O	O
+218	2	-RBR-	-RBR-	O	O	O
+
+219	0	5	CD	O	O	B-Num
+219	1	.	.	O	O	O
+
+220	0	THE	DT	O	B-NP	O
+220	1	LIFE	NNP	O	I-NP	O
+220	2	YOU	PRP	O	I-NP	O
+220	3	IMAGINE	NNP	O	I-NP	O
+220	4	COMMA	COMMA	O	O	O
+220	5	by	IN	O	B-PP	O
+220	6	Derek	NNP	O	B-NP	B-Peop
+220	7	Jeter	NNP	O	I-NP	I-Peop
+220	8	with	IN	O	B-PP	O
+220	9	Jack	NNP	O	B-NP	B-Peop
+220	10	Curry	NNP	O	I-NP	I-Peop
+220	11	.	.	O	O	O
+
+221	0	-LBR-	-LBR-	O	O	O
+221	1	Crown	NNP	O	O	O
+221	2	COMMA	COMMA	O	O	O
+221	3	$21.95	NN	O	O	B-Money
+221	4	.	.	O	O	O
+221	5	-RBR-	-RBR-	O	O	O
+
+222	0	The	DT	O	B-NP	O
+222	1	Yankee	NNP	O	I-NP	B-Org
+222	2	shortstop	NN	O	I-NP	O
+222	3	offers	VBZ	O	B-VP	O
+222	4	his	PP$	O	O	O
+222	5	game	NN	O	O	O
+
+223	0	plan	NN	O	O	O
+223	1	for	IN	O	B-PP	O
+223	2	success	NN	O	B-NP	O
+223	3	.	.	O	O	O

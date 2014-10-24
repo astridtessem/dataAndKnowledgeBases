@@ -1,0 +1,547 @@
+0	0	1998-09-23	CD	O	B-NP	B-Num
+0	1	17	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	41	CD	O	O	I-Num
+0	4	TEST	NNP	O	O	O
+0	5	YOUR	JJ	O	O	O
+0	6	LITERARY	NNP	O	O	O
+0	7	KNOWLEDGE	NNP	O	O	O
+
+1	0	True	JJ	O	O	O
+1	1	or	CC	O	O	O
+1	2	false	JJ	O	O	O
+1	3	.	.	O	O	O
+
+2	0	Simple	JJ	O	O	O
+2	1	as	IN	O	O	O
+2	2	that	DT	O	B-NP	O
+2	3	COMMA	COMMA	O	O	O
+2	4	giving	VBG	O	B-VP	O
+2	5	you	PRP	O	B-NP	O
+2	6	a	DT	O	B-NP	O
+2	7	chance	NN	O	I-NP	O
+2	8	of	IN	O	B-PP	O
+2	9	passing	VBG	O	B-VP	O
+2	10	even	RB	O	O	O
+2	11	if	IN	O	O	O
+2	12	you	PRP	O	B-NP	O
+2	13	guess	VBP	O	B-VP	O
+2	14	wildly	RB	O	B-NP	O
+2	15	every	DT	O	I-NP	O
+2	16	time	NN	O	I-NP	O
+2	17	.	.	O	O	O
+
+3	0	In	IN	O	B-PP	O
+3	1	this	DT	O	B-NP	O
+3	2	quiz	NN	O	I-NP	O
+3	3	featuring	VBG	O	B-VP	O
+3	4	authors	NNS	O	B-NP	B-ProfTitle
+3	5	born	VBN	O	B-VP	O
+3	6	in	IN	O	B-PP	O
+3	7	September	NNP	O	B-NP	B-Date
+3	8	COMMA	COMMA	O	O	O
+3	9	you	PRP	O	B-NP	O
+3	10	pass	VBP	O	B-VP	O
+3	11	with	IN	O	B-PP	O
+3	12	11	CD	O	B-NP	B-Num
+3	13	correct	JJ	O	I-NP	O
+3	14	answers	NNS	O	I-NP	O
+3	15	-LBR-	-LBR-	O	O	O
+3	16	a	DT	O	B-NP	O
+3	17	simple	JJ	O	I-NP	O
+3	18	majority	NN	O	I-NP	O
+3	19	-RBR-	-RBR-	O	O	O
+3	20	and	CC	O	O	O
+3	21	earn	VBP	O	B-VP	O
+3	22	an	DT	O	B-NP	O
+3	23	A	DT	O	I-NP	O
+3	24	with	IN	O	B-PP	O
+3	25	15	CD	O	B-NP	B-Num
+3	26	right	NN	O	I-NP	O
+3	27	.	.	O	O	O
+
+4	0	1	CD	O	O	B-Num
+4	1	.	.	O	O	O
+
+5	0	Sherwood	NNP	O	B-NP	B-Peop
+5	1	Anderson	NNP	O	I-NP	I-Peop
+5	2	wrote	VBD	O	B-VP	O
+5	3	``	``	O	O	O
+5	4	Windy	NNP	O	B-NP	O
+5	5	McPherson	NNP	O	I-NP	B-Peop
+5	6	's	POS	O	B-NP	O
+5	7	Son	NN	O	I-NP	O
+5	8	.	.	O	O	O
+5	9	''	''	O	O	O
+
+6	0	True	JJ	O	O	O
+6	1	?	.	O	O	O
+
+7	0	False	NNP	O	B-NP	O
+7	1	?	.	O	O	O
+
+8	0	2	CD	O	O	B-Num
+8	1	.	.	O	O	O
+
+9	0	Agatha	NNP	O	B-NP	B-Peop
+9	1	Christie	NNP	O	I-NP	I-Peop
+9	2	wrote	VBD	O	B-VP	O
+9	3	``	``	O	O	O
+9	4	The	DT	O	B-NP	O
+9	5	Circular	NNP	O	I-NP	O
+9	6	Staircase	NN	O	I-NP	O
+9	7	.	.	O	O	O
+9	8	''	''	O	O	O
+
+10	0	True	JJ	O	O	O
+10	1	?	.	O	O	O
+
+11	0	False	NNP	O	B-NP	O
+11	1	?	.	O	O	O
+
+12	0	3	CD	O	O	B-Num
+12	1	.	.	O	O	O
+
+13	0	James	NNP	O	B-NP	B-Peop
+13	1	Fenimore	NNP	O	I-NP	I-Peop
+13	2	Cooper	NNP	O	I-NP	I-Peop
+13	3	wrote	VBD	O	B-VP	O
+13	4	``	``	O	O	O
+13	5	Homeward	NNP	O	B-NP	O
+13	6	Bound	NNP	O	I-NP	O
+13	7	.	.	O	O	O
+13	8	''	''	O	O	O
+
+14	0	True	JJ	O	O	O
+14	1	?	.	O	O	O
+
+15	0	False	NNP	O	B-NP	O
+15	1	?	.	O	O	O
+
+16	0	4	CD	O	B-NP	B-Num
+16	1	.	.	O	O	O
+
+17	0	T.S.	NNP	O	B-NP	B-Peop
+17	1	Eliot	NNP	O	I-NP	I-Peop
+17	2	wrote	VBD	O	B-VP	O
+17	3	``	``	O	O	O
+17	4	Murder	NN	O	B-NP	O
+17	5	in	IN	O	B-PP	O
+17	6	the	DT	O	B-NP	O
+17	7	Cathedral	NN	O	I-NP	B-LocStruct
+17	8	.	.	O	O	O
+17	9	''	''	O	O	O
+
+18	0	True	JJ	O	O	O
+18	1	?	.	O	O	O
+
+19	0	False	NNP	O	B-NP	O
+19	1	?	.	O	O	O
+
+20	0	5	CD	O	O	B-Num
+20	1	.	.	O	O	O
+
+21	0	William	NNP	O	B-NP	B-Peop
+21	1	Faulkner	NNP	O	I-NP	I-Peop
+21	2	wrote	VBD	O	B-VP	O
+21	3	``	``	O	O	O
+21	4	Pylon	NNP	O	B-NP	O
+21	5	.	.	O	O	O
+21	6	''	''	O	O	O
+
+22	0	True	JJ	O	O	O
+22	1	?	.	O	O	O
+
+23	0	False	NNP	O	B-NP	O
+23	1	?	.	O	O	O
+
+24	0	6	CD	O	B-NP	B-Num
+24	1	.	.	O	O	O
+
+25	0	Eugene	NNP	O	B-NP	B-Peop
+25	1	Field	NNP	O	I-NP	I-Peop
+25	2	wrote	VBD	O	B-VP	O
+25	3	``	``	O	O	O
+25	4	Little	JJ	O	B-NP	O
+25	5	Boy	NNP	O	I-NP	O
+25	6	Blue	NNP	O	I-NP	O
+25	7	.	.	O	O	O
+25	8	''	''	O	O	O
+
+26	0	True	JJ	O	O	O
+26	1	?	.	O	O	O
+
+27	0	False	NNP	O	B-NP	O
+27	1	?	.	O	O	O
+
+28	0	7	CD	O	O	B-Num
+28	1	.	.	O	O	O
+
+29	0	F.	NNP	O	B-NP	B-Peop
+29	1	Scott	NNP	O	I-NP	I-Peop
+29	2	Fitzgerald	NNP	O	I-NP	I-Peop
+29	3	wrote	VBD	O	B-VP	O
+29	4	``	``	O	O	O
+29	5	The	DT	O	B-NP	O
+29	6	Beautiful	JJ	O	I-NP	O
+29	7	and	CC	O	I-NP	O
+29	8	Damned	NNP	O	I-NP	O
+29	9	.	.	O	O	O
+29	10	''	''	O	O	O
+
+30	0	True	JJ	O	O	O
+30	1	?	.	O	O	O
+
+31	0	False	NNP	O	B-NP	O
+31	1	?	.	O	O	O
+
+32	0	8	CD	O	O	B-Num
+32	1	.	.	O	O	O
+
+33	0	Elizabeth	NNP	O	B-NP	B-Peop
+33	1	Gaskell	NNP	O	I-NP	I-Peop
+33	2	wrote	VBD	O	B-VP	O
+33	3	``	``	O	O	O
+33	4	The	DT	O	B-NP	B-Book
+33	5	Tenant	NNP	O	I-NP	I-Book
+33	6	of	IN	O	B-PP	I-Book
+33	7	Wildfell	NNP	O	B-NP	B-Loc
+33	8	Hall	NNP	O	I-NP	I-Loc
+33	9	.	.	O	O	O
+33	10	''	''	O	O	O
+
+34	0	True	JJ	O	O	O
+34	1	?	.	O	O	O
+
+35	0	False	NNP	O	B-NP	O
+35	1	?	.	O	O	O
+
+36	0	9	CD	O	O	B-Num
+36	1	.	.	O	O	O
+
+37	0	O.	NNP	O	O	B-Peop
+37	1	Henry	NNP	O	O	I-Peop
+37	2	wrote	VBD	O	B-VP	O
+37	3	``	``	O	O	O
+37	4	The	DT	O	B-NP	O
+37	5	Monkey	NNP	O	I-NP	B-Animal
+37	6	's	POS	O	B-NP	O
+37	7	Paw	NN	O	I-NP	O
+37	8	.	.	O	O	O
+37	9	''	''	O	O	O
+
+38	0	True	JJ	O	O	O
+38	1	?	.	O	O	O
+
+39	0	False	NNP	O	B-NP	O
+39	1	?	.	O	O	O
+
+40	0	10	CD	O	B-NP	B-Num
+40	1	.	.	O	O	O
+
+41	0	Sarah	NNP	O	B-NP	B-Peop
+41	1	Orne	NNP	O	I-NP	I-Peop
+41	2	Jewett	NNP	O	I-NP	I-Peop
+41	3	wrote	VBD	O	B-VP	O
+41	4	``	``	O	O	O
+41	5	The	DT	O	B-NP	B-Book
+41	6	Professor	NNP	O	I-NP	I-Book
+41	7	's	POS	O	B-NP	I-Book
+41	8	House	NNP	O	I-NP	B-Loc
+41	9	.	.	O	O	O
+41	10	''	''	O	O	O
+
+42	0	True	JJ	O	O	O
+42	1	?	.	O	O	O
+
+43	0	False	NNP	O	B-NP	O
+43	1	?	.	O	O	O
+
+44	0	11	CD	O	O	B-Num
+44	1	.	.	O	O	O
+
+45	0	Arthur	NNP	O	B-NP	B-Peop
+45	1	Koestler	NNP	O	I-NP	I-Peop
+45	2	wrote	VBD	O	B-VP	O
+45	3	``	``	O	O	O
+45	4	Darkness	NN	O	B-NP	O
+45	5	at	IN	O	B-PP	O
+45	6	Noon	NNP	O	B-NP	O
+45	7	.	.	O	O	O
+45	8	''	''	O	O	O
+
+46	0	True	JJ	O	O	O
+46	1	?	.	O	O	O
+
+47	0	False	NNP	O	B-NP	O
+47	1	?	.	O	O	O
+
+48	0	12	CD	O	O	B-Num
+48	1	.	.	O	O	O
+
+49	0	D.H.	NNP	O	B-NP	O
+49	1	Lawrence	NNP	O	I-NP	B-Peop
+49	2	wrote	VBD	O	B-VP	O
+49	3	``	``	O	O	O
+49	4	The	DT	O	B-NP	O
+49	5	Fox	NNP	O	I-NP	O
+49	6	.	.	O	O	O
+49	7	''	''	O	O	O
+
+50	0	True	JJ	O	O	O
+50	1	?	.	O	O	O
+
+51	0	False	NNP	O	B-NP	O
+51	1	?	.	O	O	O
+
+52	0	13	CD	O	B-NP	B-Num
+52	1	.	.	O	O	O
+
+53	0	Alison	NNP	O	B-NP	B-Peop
+53	1	Lurie	NNP	O	I-NP	I-Peop
+53	2	wrote	VBD	O	B-VP	O
+53	3	``	``	O	O	O
+53	4	The	DT	O	B-NP	O
+53	5	War	NN	O	I-NP	B-Event
+53	6	Between	IN	O	B-PP	O
+53	7	the	DT	O	B-NP	O
+53	8	Tates	NNP	O	I-NP	O
+53	9	.	.	O	O	O
+53	10	''	''	O	O	O
+
+54	0	True	JJ	O	O	O
+54	1	?	.	O	O	O
+
+55	0	False	NNP	O	B-NP	O
+55	1	?	.	O	O	O
+
+56	0	14	CD	O	B-NP	B-Num
+56	1	.	.	O	O	O
+
+57	0	Mary	NNP	O	B-NP	B-Peop
+57	1	Renault	NNP	O	I-NP	I-Peop
+57	2	wrote	VBD	O	B-VP	O
+57	3	``	``	O	O	O
+57	4	The	DT	O	B-NP	O
+57	5	Persian	NNP	O	I-NP	B-LangRace
+57	6	Boy	NN	O	I-NP	O
+57	7	.	.	O	O	O
+57	8	''	''	O	O	O
+
+58	0	True	JJ	O	O	O
+58	1	?	.	O	O	O
+
+59	0	False	NNP	O	B-NP	O
+59	1	?	.	O	O	O
+
+60	0	15	CD	O	O	B-Num
+60	1	.	.	O	O	O
+
+61	0	Upton	NNP	O	B-NP	B-Peop
+61	1	Sinclair	NNP	O	I-NP	I-Peop
+61	2	wrote	VBD	O	B-VP	O
+61	3	``	``	O	O	O
+61	4	Arrowsmith	NNP	O	B-NP	O
+61	5	.	.	O	O	O
+61	6	''	''	O	O	O
+
+62	0	True	JJ	O	O	O
+62	1	?	.	O	O	O
+
+63	0	False	NNP	O	B-NP	O
+63	1	?	.	O	O	O
+
+64	0	16	CD	O	O	B-Num
+64	1	.	.	O	O	O
+
+65	0	Leo	NNP	O	B-NP	B-Peop
+65	1	Tolstoy	NNP	O	I-NP	I-Peop
+65	2	wrote	VBD	O	B-VP	O
+65	3	``	``	O	O	O
+65	4	Resurrection	NNP	O	B-NP	O
+65	5	.	.	O	O	O
+65	6	''	''	O	O	O
+
+66	0	True	JJ	O	O	O
+66	1	?	.	O	O	O
+
+67	0	False	NNP	O	B-NP	O
+67	1	?	.	O	O	O
+
+68	0	17	CD	O	O	B-Num
+68	1	.	.	O	O	O
+
+69	0	H.G.	NNP	O	B-NP	B-Peop
+69	1	Wells	NNP	O	I-NP	I-Peop
+69	2	wrote	VBD	O	B-VP	O
+69	3	``	``	O	O	O
+69	4	The	DT	O	B-NP	O
+69	5	History	NN	O	I-NP	O
+69	6	of	IN	O	B-PP	O
+69	7	Mr.	NNP	O	B-NP	B-ProfTitle
+69	8	Polly	NNP	O	I-NP	B-Peop
+69	9	.	.	O	O	O
+69	10	''	''	O	O	O
+
+70	0	True	JJ	O	O	O
+70	1	?	.	O	O	O
+
+71	0	False	NNP	O	B-NP	O
+71	1	?	.	O	O	O
+
+72	0	18	CD	O	O	B-Num
+72	1	.	.	O	O	O
+
+73	0	Kate	NNP	O	B-NP	B-Peop
+73	1	Douglas	NNP	O	I-NP	B-Peop
+73	2	Wiggin	NNP	O	I-NP	I-Peop
+73	3	wrote	VBD	O	B-VP	O
+73	4	``	``	O	O	O
+73	5	Rebecca	NNP	O	B-NP	B-Peop
+73	6	of	IN	O	B-PP	O
+73	7	Sunnybrook	NNP	O	B-NP	O
+73	8	Farm	NNP	O	I-NP	O
+73	9	.	.	O	O	O
+73	10	''	''	O	O	O
+
+74	0	True	JJ	O	O	O
+74	1	?	.	O	O	O
+
+75	0	False	NNP	O	B-NP	O
+75	1	?	.	O	O	O
+
+76	0	19	CD	O	O	B-Num
+76	1	.	.	O	O	O
+
+77	0	Richard	NNP	O	B-NP	B-Peop
+77	1	Wright	NNP	O	I-NP	I-Peop
+77	2	wrote	VBD	O	B-VP	O
+77	3	``	``	O	O	O
+77	4	Invisible	NNP	O	B-NP	O
+77	5	Man	NN	O	I-NP	O
+77	6	.	.	O	O	O
+77	7	''	''	O	O	O
+
+78	0	True	JJ	O	O	O
+78	1	?	.	O	O	O
+
+79	0	False	NNP	O	B-NP	O
+79	1	?	.	O	O	O
+
+80	0	20	CD	O	B-NP	B-Num
+80	1	.	.	O	O	O
+
+81	0	Frank	NNP	O	B-NP	B-Peop
+81	1	Yerby	NNP	O	I-NP	I-Peop
+81	2	wrote	VBD	O	B-VP	O
+81	3	``	``	O	O	O
+81	4	The	DT	O	B-NP	O
+81	5	Foxes	NNP	O	I-NP	B-Animal
+81	6	of	IN	O	B-PP	O
+81	7	Harrow	NNP	O	B-NP	O
+81	8	.	.	O	O	O
+81	9	''	''	O	O	O
+
+82	0	True	JJ	O	O	O
+82	1	?	.	O	O	O
+
+83	0	False	NNP	O	B-NP	O
+83	1	?	.	O	O	O
+
+84	0	Quiz	NNP	O	B-NP	O
+84	1	answers	NNS	O	I-NP	O
+84	2	:	:	O	O	O
+84	3	1-True	NN	O	B-NP	B-Num
+84	4	;	:	O	O	O
+84	5	2-False	NN	O	B-NP	B-Num
+84	6	;	:	O	O	O
+84	7	3-True	NN	O	B-NP	B-Num
+84	8	;	:	O	O	O
+84	9	4-True	NN	O	B-NP	B-Num
+84	10	;	:	O	O	O
+84	11	5-True	NN	O	B-NP	B-Num
+84	12	;	:	O	O	O
+84	13	6-True	NN	O	B-NP	B-Num
+84	14	;	:	O	O	O
+84	15	7-True	NN	O	B-NP	B-Num
+84	16	;	:	O	O	O
+84	17	8-False	NN	O	B-NP	B-Num
+84	18	;	:	O	O	O
+84	19	9-False	NN	O	B-NP	B-Num
+84	20	;	:	O	O	O
+84	21	10-False	NN	O	B-NP	B-Num
+84	22	;	:	O	O	O
+84	23	11-True	NN	O	B-NP	B-Num
+84	24	;	:	O	O	O
+84	25	12-True	NN	O	B-NP	B-Num
+84	26	;	:	O	O	O
+84	27	13-True	NN	O	B-NP	B-Num
+84	28	;	:	O	O	O
+84	29	14-True	NN	O	B-NP	B-Num
+84	30	;	:	O	O	O
+84	31	15-False	NN	O	B-NP	B-Num
+84	32	;	:	O	O	O
+84	33	16-True	NN	O	B-NP	B-Num
+84	34	;	:	O	O	O
+84	35	17-True	NN	O	B-NP	B-Num
+84	36	;	:	O	O	O
+84	37	18-True	NN	O	B-NP	B-Num
+84	38	;	:	O	O	O
+84	39	19-False	NN	O	B-NP	B-Num
+84	40	;	:	O	O	O
+84	41	20-True	NN	O	B-NP	B-Num
+84	42	.	.	O	O	O
+
+85	0	The	DT	O	B-NP	O
+85	1	true	JJ	O	I-NP	O
+85	2	authors	NNS	O	I-NP	B-ProfTitle
+85	3	for	IN	O	B-PP	O
+85	4	the	DT	O	B-NP	O
+85	5	six	CD	O	I-NP	B-Num
+85	6	false-answered	JJ	O	I-NP	O
+85	7	works	NNS	O	I-NP	O
+85	8	cited	VBN	O	B-VP	O
+85	9	here	RB	O	O	O
+85	10	are	VBP	O	B-VP	O
+85	11	COMMA	COMMA	O	O	O
+85	12	in	IN	O	O	O
+85	13	order	NN	O	B-NP	O
+85	14	COMMA	COMMA	O	O	O
+85	15	Mary	NNP	O	B-NP	O
+85	16	Roberts	NNP	O	I-NP	O
+85	17	Rinehart	NNP	O	I-NP	O
+85	18	COMMA	COMMA	O	O	O
+85	19	Anne	NNP	O	B-NP	B-Peop
+85	20	Bronte	NNP	O	I-NP	I-Peop
+85	21	COMMA	COMMA	O	O	O
+85	22	W.W.	NNP	O	B-NP	B-Peop
+85	23	Jacobs	NNP	O	I-NP	I-Peop
+85	24	COMMA	COMMA	O	O	O
+85	25	Willa	NNP	O	B-NP	B-Peop
+85	26	Cather	NNP	O	I-NP	I-Peop
+85	27	COMMA	COMMA	O	O	O
+85	28	Sinclair	NNP	O	B-NP	B-Peop
+85	29	Lewis	NNP	O	I-NP	I-Peop
+85	30	and	CC	O	O	O
+85	31	Ralph	NNP	O	B-NP	B-Peop
+85	32	Ellison	NNP	O	I-NP	I-Peop
+85	33	.	.	O	O	O
+
+86	0	-LBR-	-LBR-	O	O	O
+86	1	Visit	NNP	O	B-VP	O
+86	2	the	DT	O	O	O
+86	3	Star-Telegram	NNP	O	O	B-Org
+86	4	's	POS	O	B-NP	O
+86	5	online	JJ	O	I-NP	O
+86	6	services	NNS	O	I-NP	O
+86	7	on	IN	O	B-PP	O
+86	8	the	DT	O	B-NP	O
+86	9	World	NNP	O	I-NP	B-OrgCorp
+86	10	Wide	NNP	O	I-NP	I-OrgCorp
+86	11	Web	NNP	O	I-NP	I-OrgCorp
+86	12	:	:	O	O	O
+86	13	www.star-telegram.com	NN	O	B-NP	O
+86	14	-RBR-	-RBR-	O	O	O
+86	15	&	CC	O	O	O
+86	16	QL	NNP	O	B-NP	O
+86	17	;	:	O	O	O

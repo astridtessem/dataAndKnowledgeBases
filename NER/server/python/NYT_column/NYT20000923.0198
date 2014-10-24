@@ -1,0 +1,54 @@
+0	0	2000-09-23	CD	O	O	B-Num
+0	1	20	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	22	CD	O	O	I-Num
+
+1	0	ATTN	NNP	O	B-NP	O
+1	1	.	.	O	O	O
+
+2	0	EDS	NNP	O	B-NP	O
+2	1	:	:	O	O	O
+
+3	0	CoxNet	NNP	O	B-NP	B-Peop
+3	1	will	MD	O	B-VP	O
+3	2	not	RB	O	I-VP	O
+3	3	move	VB	O	I-VP	O
+3	4	the	DT	O	B-NP	O
+3	5	following	VBG	O	I-NP	O
+3	6	story	NN	O	I-NP	O
+3	7	:	:	O	O	O
+
+4	0	OLY-LOCAL	NNP	O	O	O
+
+5	0	Any	DT	O	B-NP	O
+5	1	questions	NNS	O	I-NP	O
+5	2	COMMA	COMMA	O	O	O
+5	3	please	VBP	O	B-VP	O
+5	4	call	VBP	O	B-VP	O
+5	5	Diane	NNP	O	B-NP	B-Peop
+5	6	Fall	NNP	O	I-NP	I-Peop
+5	7	COMMA	COMMA	O	O	O
+5	8	CoxNet	NNP	O	B-NP	O
+5	9	copy	NN	O	I-NP	O
+5	10	editor	NN	O	I-NP	B-ProfTitle
+5	11	COMMA	COMMA	O	O	O
+5	12	404-526-5456	CD	O	B-NP	B-Num
+5	13	.	.	O	O	O
+
+6	0	Story	NNP	O	O	O
+6	1	Filed	NNP	O	O	O
+6	2	By	IN	O	B-PP	O
+6	3	Cox	NNP	O	O	O
+6	4	Newspapers	NNP	O	O	O
+
+7	0	For	IN	O	B-PP	O
+7	1	Use	NN	O	B-NP	O
+7	2	By	IN	O	B-PP	O
+7	3	Clients	NNS	O	B-NP	O
+7	4	of	IN	O	B-PP	O
+7	5	the	DT	O	B-NP	O
+7	6	New	NNP	O	I-NP	B-OrgCorp
+7	7	York	NNP	O	I-NP	I-OrgCorp
+7	8	Times	NNP	O	I-NP	I-OrgCorp
+7	9	News	NNP	O	I-NP	O
+7	10	Service	NNP	O	I-NP	O

@@ -1,0 +1,2673 @@
+0	0	1998-09-23	CD	O	O	B-Num
+0	1	14	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	38	CD	O	B-NP	I-Num
+0	4	IT	PRP	O	B-NP	O
+0	5	'S	VBZ	O	B-VP	O
+0	6	IN	IN	O	B-PP	O
+0	7	THE	DT	O	B-NP	O
+0	8	NUMBERS	NNP	O	I-NP	O
+0	9	:	:	O	O	O
+0	10	THE	DT	O	O	O
+0	11	GREATEST	NNP	O	O	O
+0	12	ATHLETES	NNP	O	O	O
+
+1	0	ALBANY	NNP	O	B-NP	B-Loc
+1	1	COMMA	COMMA	O	O	O
+1	2	N.Y.	NNP	O	B-NP	B-LocStat
+1	3	_	NN	O	I-NP	O
+1	4	First	NNP	O	I-NP	B-Num
+1	5	off	IN	O	O	O
+1	6	COMMA	COMMA	O	O	O
+1	7	the	DT	O	B-NP	O
+1	8	following	NN	O	I-NP	O
+1	9	is	VBZ	O	B-VP	O
+1	10	an	DT	O	B-NP	O
+1	11	exercise	NN	O	I-NP	B-Sport
+1	12	in	IN	O	B-PP	O
+1	13	futility	NN	O	B-NP	O
+1	14	.	.	O	O	O
+
+2	0	Trying	VBG	O	B-VP	O
+2	1	to	TO	O	I-VP	O
+2	2	come	VB	O	I-VP	O
+2	3	up	IN	O	O	O
+2	4	with	IN	O	B-PP	O
+2	5	the	DT	O	B-NP	O
+2	6	greatest	JJS	O	I-NP	O
+2	7	athlete	NN	O	I-NP	O
+2	8	ever	RB	O	O	O
+2	9	by	IN	O	B-PP	O
+2	10	uniform	JJ	O	B-NP	O
+2	11	number	NN	O	I-NP	O
+2	12	in	IN	O	B-PP	O
+2	13	an	DT	O	B-NP	O
+2	14	objective	NN	O	I-NP	O
+2	15	manner	NN	O	I-NP	O
+2	16	is	VBZ	O	B-VP	O
+2	17	COMMA	COMMA	O	O	O
+2	18	objectively	RB	O	B-VP	O
+2	19	speaking	VBG	O	I-VP	O
+2	20	COMMA	COMMA	O	O	O
+2	21	impossible	JJ	O	O	O
+2	22	.	.	O	O	O
+
+3	0	So	IN	O	O	O
+3	1	we	PRP	O	B-NP	O
+3	2	tried	VBD	O	B-VP	O
+3	3	anyway	RB	O	O	O
+3	4	.	.	O	O	O
+
+4	0	The	DT	O	B-NP	O
+4	1	basic	JJ	O	I-NP	O
+4	2	criteria	NNS	O	I-NP	O
+4	3	from	IN	O	B-PP	O
+4	4	the	DT	O	B-NP	O
+4	5	boss	NN	O	I-NP	O
+4	6	is	VBZ	O	B-VP	O
+4	7	this	DT	O	B-NP	O
+4	8	:	:	O	O	O
+4	9	No	DT	O	B-NP	O
+4	10	ties	NNS	O	I-NP	O
+4	11	COMMA	COMMA	O	O	O
+4	12	and	CC	O	O	O
+4	13	get	VBP	O	B-VP	O
+4	14	as	IN	O	B-PP	O
+4	15	many	JJ	O	B-NP	O
+4	16	Pittsburgh	NNP	O	I-NP	B-OrgTeam
+4	17	Steelers	NNP	O	I-NP	I-OrgTeam
+4	18	and	CC	O	I-NP	O
+4	19	Baltimore	NNP	O	I-NP	B-OrgTeam
+4	20	Orioles	NNP	O	I-NP	I-OrgTeam
+4	21	in	IN	O	B-PP	O
+4	22	as	RB	O	O	O
+4	23	possible	JJ	O	O	O
+4	24	.	.	O	O	O
+
+5	0	-LBR-	-LBR-	O	O	O
+5	1	Unfortunately	RB	O	O	O
+5	2	COMMA	COMMA	O	O	O
+5	3	a	DT	O	B-NP	O
+5	4	few	JJ	O	I-NP	O
+5	5	did	VBD	O	B-VP	O
+5	6	make	VB	O	I-VP	O
+5	7	the	DT	O	B-NP	O
+5	8	list	NN	O	I-NP	O
+5	9	_	NN	O	O	O
+5	10	on	IN	O	B-PP	O
+5	11	merit	NN	O	B-NP	O
+5	12	-RBR-	-RBR-	O	O	O
+5	13	.	.	O	O	O
+
+6	0	Some	DT	O	B-NP	O
+6	1	selections	NNS	O	I-NP	O
+6	2	will	MD	O	B-VP	O
+6	3	be	VB	O	I-VP	O
+6	4	weaker	JJR	O	O	O
+6	5	than	IN	O	B-PP	O
+6	6	others	NNS	O	B-NP	O
+6	7	because	IN	O	B-PP	O
+6	8	of	IN	O	I-PP	O
+6	9	the	DT	O	B-NP	O
+6	10	quality	NN	O	I-NP	O
+6	11	of	IN	O	B-PP	O
+6	12	athlete	NN	O	B-NP	O
+6	13	at	IN	O	B-PP	O
+6	14	each	DT	O	B-NP	O
+6	15	number	NN	O	I-NP	O
+6	16	.	.	O	O	O
+
+7	0	The	DT	O	B-NP	O
+7	1	endeavor	NN	O	I-NP	O
+7	2	is	VBZ	O	B-VP	O
+7	3	inherently	RB	O	O	O
+7	4	flawed	JJ	O	O	O
+7	5	COMMA	COMMA	O	O	O
+7	6	since	IN	O	B-PP	O
+7	7	comparing	VBG	O	B-VP	O
+7	8	COMMA	COMMA	O	O	O
+7	9	say	VBP	O	B-VP	O
+7	10	COMMA	COMMA	O	O	O
+7	11	Bobby	NNP	O	B-NP	B-Peop
+7	12	Orr	NNP	O	I-NP	I-Peop
+7	13	to	TO	O	B-PP	O
+7	14	Lou	NNP	O	B-NP	B-Peop
+7	15	Gehrig	NNP	O	I-NP	I-Peop
+7	16	is	VBZ	O	B-VP	O
+7	17	empirically	RB	O	O	O
+7	18	difficult	JJ	O	O	O
+7	19	.	.	O	O	O
+
+8	0	So	IN	O	O	O
+8	1	we	PRP	O	B-NP	O
+8	2	tried	VBD	O	B-VP	O
+8	3	anyway	RB	O	O	O
+8	4	.	.	O	O	O
+
+9	0	In	IN	O	B-PP	O
+9	1	1989	CD	O	B-NP	B-Date
+9	2	COMMA	COMMA	O	O	O
+9	3	Sports	NNPS	O	B-NP	B-Peop
+9	4	Illustrated	NNP	O	I-NP	I-Peop
+9	5	did	VBD	O	B-VP	O
+9	6	its	PP$	O	B-NP	O
+9	7	list	NN	O	I-NP	O
+9	8	COMMA	COMMA	O	O	O
+9	9	which	WDT	O	B-NP	O
+9	10	was	VBD	O	B-VP	O
+9	11	not	RB	O	I-VP	O
+9	12	consulted	VBN	O	I-VP	O
+9	13	until	IN	O	B-PP	O
+9	14	after	IN	O	O	O
+9	15	the	DT	O	B-NP	O
+9	16	following	NN	O	I-NP	O
+9	17	was	VBD	O	B-VP	O
+9	18	compiled	VBN	O	I-VP	O
+9	19	.	.	O	O	O
+
+10	0	To	TO	O	B-VP	O
+10	1	show	VB	O	I-VP	O
+10	2	you	PRP	O	B-NP	O
+10	3	how	WRB	O	O	O
+10	4	subjective	JJ	O	O	O
+10	5	it	PRP	O	B-NP	O
+10	6	is	VBZ	O	B-VP	O
+10	7	COMMA	COMMA	O	O	O
+10	8	half	PDT	O	B-NP	O
+10	9	the	DT	O	I-NP	O
+10	10	selections	NNS	O	I-NP	O
+10	11	are	VBP	O	B-VP	O
+10	12	different	JJ	O	O	O
+10	13	.	.	O	O	O
+
+11	0	Football	NNP	O	B-NP	B-Peop
+11	1	dominates	VBZ	O	B-VP	O
+11	2	the	DT	O	B-NP	O
+11	3	list	NN	O	I-NP	O
+11	4	of	IN	O	B-PP	O
+11	5	101	CD	O	B-NP	B-Num
+11	6	-LBR-	-LBR-	O	O	O
+11	7	0	CD	O	O	B-Num
+11	8	COMMA	COMMA	O	O	O
+11	9	1-99	CD	O	O	B-Num
+11	10	COMMA	COMMA	O	O	O
+11	11	00	CD	O	O	B-Num
+11	12	-RBR-	-RBR-	O	O	O
+11	13	with	IN	O	B-PP	O
+11	14	58	CD	O	B-NP	B-Num
+11	15	selections	NNS	O	I-NP	O
+11	16	COMMA	COMMA	O	O	O
+11	17	primarily	RB	O	O	O
+11	18	because	IN	O	B-PP	O
+11	19	of	IN	O	I-PP	O
+11	20	the	DT	O	B-NP	O
+11	21	range	NN	O	I-NP	O
+11	22	of	IN	O	B-PP	O
+11	23	numbers	NNS	O	B-NP	O
+11	24	worn	VBN	O	B-VP	O
+11	25	by	IN	O	B-PP	O
+11	26	that	DT	O	B-NP	O
+11	27	sport	NN	O	I-NP	O
+11	28	's	POS	O	B-NP	O
+11	29	players	NNS	O	I-NP	O
+11	30	.	.	O	O	O
+
+12	0	Baseball	NN	O	B-NP	O
+12	1	was	VBD	O	B-VP	O
+12	2	next	JJ	O	O	O
+12	3	with	IN	O	B-PP	O
+12	4	28	CD	O	B-NP	B-Num
+12	5	COMMA	COMMA	O	O	O
+12	6	followed	VBD	O	B-VP	O
+12	7	by	IN	O	B-PP	O
+12	8	basketball	NN	O	B-NP	B-Sport
+12	9	-LBR-	-LBR-	O	O	O
+12	10	7	CD	O	O	B-Num
+12	11	-RBR-	-RBR-	O	O	O
+12	12	COMMA	COMMA	O	O	O
+12	13	hockey	NN	O	O	B-Sport
+12	14	-LBR-	-LBR-	O	O	O
+12	15	6	CD	O	O	B-Num
+12	16	-RBR-	-RBR-	O	O	O
+12	17	and	CC	O	O	O
+12	18	other	JJ	O	O	O
+12	19	-LBR-	-LBR-	O	O	O
+12	20	2	CD	O	O	B-Num
+12	21	-RBR-	-RBR-	O	O	O
+12	22	.	.	O	O	O
+
+13	0	The	DT	O	B-NP	O
+13	1	Chicago	NNP	O	I-NP	B-OrgTeam
+13	2	Bears	NNPS	O	I-NP	I-OrgTeam
+13	3	topped	VBD	O	B-VP	O
+13	4	all	DT	O	B-NP	O
+13	5	teams	NNS	O	I-NP	O
+13	6	with	IN	O	B-PP	O
+13	7	eight	CD	O	B-NP	B-Num
+13	8	selections	NNS	O	I-NP	O
+13	9	COMMA	COMMA	O	O	O
+13	10	followed	VBD	O	B-VP	O
+13	11	by	IN	O	B-PP	O
+13	12	the	DT	O	B-NP	O
+13	13	Steelers	NNP	O	I-NP	B-OrgTeam
+13	14	with	IN	O	B-PP	O
+13	15	six	CD	O	B-NP	B-Num
+13	16	.	.	O	O	O
+
+14	0	The	DT	O	B-NP	O
+14	1	New	NNP	O	I-NP	B-OrgTeam
+14	2	York	NNP	O	I-NP	I-OrgTeam
+14	3	Yankees	NNPS	O	I-NP	I-OrgTeam
+14	4	and	CC	O	O	O
+14	5	New	NNP	O	B-NP	B-LocCit
+14	6	York	NNP	O	I-NP	I-LocCit
+14	7	-LBR-	-LBR-	O	O	O
+14	8	Football	NNP	O	B-NP	O
+14	9	-RBR-	-RBR-	O	I-NP	O
+14	10	Giants	NNPS	O	I-NP	B-OrgTeam
+14	11	each	DT	O	B-NP	O
+14	12	had	VBD	O	B-VP	O
+14	13	four	CD	O	B-NP	B-Num
+14	14	honorees	NNS	O	I-NP	O
+14	15	COMMA	COMMA	O	O	O
+14	16	tying	VBG	O	B-VP	O
+14	17	them	PRP	O	B-NP	O
+14	18	with	IN	O	B-PP	O
+14	19	the	DT	O	B-NP	O
+14	20	Baltimore	NNP	O	I-NP	B-OrgTeam
+14	21	Colts	NNP	O	I-NP	I-OrgTeam
+14	22	COMMA	COMMA	O	O	O
+14	23	Dallas	NNP	O	B-NP	B-OrgTeam
+14	24	Cowboys	NNPS	O	I-NP	I-OrgTeam
+14	25	and	CC	O	O	O
+14	26	Miami	NNP	O	B-NP	B-OrgTeam
+14	27	Dolphins	NNPS	O	I-NP	I-OrgTeam
+14	28	for	IN	O	B-PP	O
+14	29	third	JJ	O	B-NP	B-Num
+14	30	place	NN	O	I-NP	O
+14	31	.	.	O	O	O
+
+15	0	We	PRP	O	B-NP	O
+15	1	may	MD	O	B-VP	O
+15	2	have	VB	O	I-VP	O
+15	3	missed	VBN	O	I-VP	O
+15	4	somebody	NN	O	B-NP	O
+15	5	COMMA	COMMA	O	O	O
+15	6	or	CC	O	O	O
+15	7	we	PRP	O	B-NP	O
+15	8	may	MD	O	B-VP	O
+15	9	just	RB	O	I-VP	O
+15	10	be	VB	O	I-VP	O
+15	11	wrong	JJ	O	O	O
+15	12	.	.	O	O	O
+
+16	0	That	DT	O	B-NP	O
+16	1	said	VBD	O	B-VP	O
+16	2	COMMA	COMMA	O	O	O
+16	3	let	VBD	O	B-VP	O
+16	4	the	DT	O	B-NP	O
+16	5	arguing	VBG	O	I-NP	O
+16	6	begin	VBP	O	B-VP	O
+16	7	:	:	O	O	O
+
+17	0	0	CD	O	O	B-Num
+17	1	.	.	O	O	O
+
+18	0	Al	NNP	O	B-NP	B-Peop
+18	1	Oliver	NNP	O	I-NP	I-Peop
+18	2	.	.	O	O	O
+
+19	0	In	IN	O	B-PP	O
+19	1	a	DT	O	B-NP	O
+19	2	small	JJ	O	I-NP	O
+19	3	field	NN	O	I-NP	O
+19	4	COMMA	COMMA	O	O	O
+19	5	Oliver	NNP	O	B-NP	B-Peop
+19	6	beats	VBZ	O	B-VP	O
+19	7	out	IN	O	O	O
+19	8	Rey	NNP	O	B-NP	B-Peop
+19	9	Ordonez	NNP	O	I-NP	I-Peop
+19	10	COMMA	COMMA	O	O	O
+19	11	Orlando	NNP	O	O	O
+19	12	Woolridge	NNP	O	O	O
+19	13	-LBR-	-LBR-	O	O	O
+19	14	that	IN	O	B-NP	O
+19	15	's	VBZ	O	B-VP	O
+19	16	a	DT	O	B-NP	O
+19	17	lot	NN	O	I-NP	O
+19	18	of	IN	O	B-PP	O
+19	19	O	NNP	O	B-NP	O
+19	20	's	POS	O	B-NP	O
+19	21	-RBR-	-RBR-	O	O	O
+19	22	and	CC	O	O	O
+19	23	several	JJ	O	B-NP	O
+19	24	others	NNS	O	I-NP	O
+19	25	.	.	O	O	O
+
+20	0	1	CD	O	O	B-Num
+20	1	.	.	O	O	O
+
+21	0	Jacques	NNP	O	B-NP	B-Peop
+21	1	Plante	NNP	O	I-NP	I-Peop
+21	2	.	.	O	O	O
+
+22	0	The	DT	O	B-NP	O
+22	1	Montreal	NNP	O	I-NP	B-OrgTeam
+22	2	Canadiens	NNP	O	I-NP	I-OrgTeam
+22	3	goalie	NN	O	I-NP	B-ProfTitle
+22	4	edges	NNS	O	I-NP	O
+22	5	Terry	NNP	O	I-NP	B-Peop
+22	6	Sawchuck	NNP	O	I-NP	I-Peop
+22	7	COMMA	COMMA	O	O	O
+22	8	Ozzie	NNP	O	B-NP	B-Peop
+22	9	Smith	NNP	O	I-NP	I-Peop
+22	10	COMMA	COMMA	O	O	O
+22	11	Pee	NNP	O	B-NP	B-Peop
+22	12	Wee	NNP	O	I-NP	I-Peop
+22	13	Reese	NNP	O	I-NP	I-Peop
+22	14	and	CC	O	O	O
+22	15	QB	NNP	O	B-NP	O
+22	16	Warren	NNP	O	I-NP	O
+22	17	Moon	NNP	O	I-NP	B-Peop
+22	18	for	IN	O	B-PP	O
+22	19	a	DT	O	B-NP	O
+22	20	numeral	NN	O	I-NP	O
+22	21	dominated	VBD	O	B-VP	O
+22	22	by	IN	O	B-PP	O
+22	23	goalies	NNS	O	B-NP	B-ProfTitle
+22	24	COMMA	COMMA	O	O	O
+22	25	shortstops	NN	O	B-NP	O
+22	26	and	CC	O	I-NP	O
+22	27	kickers	NNS	O	I-NP	O
+22	28	.	.	O	O	O
+
+23	0	2	CD	O	O	B-Num
+23	1	.	.	O	O	O
+
+24	0	Doug	NNP	O	B-NP	B-Peop
+24	1	Harvey	NNP	O	I-NP	I-Peop
+24	2	.	.	O	O	O
+
+25	0	The	DT	O	B-NP	O
+25	1	best	JJS	O	I-NP	O
+25	2	hockey	NN	O	I-NP	B-Sport
+25	3	defenseman	NN	O	I-NP	O
+25	4	before	IN	O	O	O
+25	5	Bobby	NNP	O	B-NP	B-Peop
+25	6	Orr	NNP	O	I-NP	I-Peop
+25	7	beats	VBZ	O	B-VP	O
+25	8	old-time	JJ	O	B-NP	O
+25	9	Tiger	NNP	O	I-NP	B-Peop
+25	10	Charlie	NNP	O	I-NP	B-Peop
+25	11	Gehringer	NNP	O	I-NP	I-Peop
+25	12	and	CC	O	O	O
+25	13	a	DT	O	B-NP	O
+25	14	pair	NN	O	I-NP	O
+25	15	of	IN	O	B-PP	O
+25	16	Dodgers	NNPS	O	B-NP	B-Org
+25	17	managers	NNS	O	I-NP	B-ProfTitle
+25	18	COMMA	COMMA	O	O	O
+25	19	Leo	NNP	O	B-NP	B-Peop
+25	20	Durocher	NNP	O	I-NP	I-Peop
+25	21	and	CC	O	I-NP	O
+25	22	Tommy	NNP	O	I-NP	B-Peop
+25	23	Lasorda	NNP	O	I-NP	I-Peop
+25	24	.	.	O	O	O
+
+26	0	3	CD	O	O	B-Num
+26	1	.	.	O	O	O
+
+27	0	Babe	NNP	O	B-NP	B-Peop
+27	1	Ruth	NNP	O	I-NP	I-Peop
+27	2	.	.	O	O	O
+
+28	0	You	PRP	O	B-NP	O
+28	1	expecting	VBG	O	O	O
+28	2	Bud	NNP	O	B-NP	B-Peop
+28	3	Harrelson	NNP	O	I-NP	I-Peop
+28	4	?	.	O	O	O
+
+29	0	4	CD	O	B-NP	B-Num
+29	1	.	.	O	O	O
+
+30	0	Bobby	NNP	O	B-NP	B-Peop
+30	1	Orr	NNP	O	I-NP	I-Peop
+30	2	.	.	O	O	O
+
+31	0	Hockey	NNP	O	O	O
+31	1	legend	NN	O	O	O
+31	2	in	IN	O	B-PP	O
+31	3	a	DT	O	B-NP	O
+31	4	squeaker	NN	O	I-NP	O
+31	5	over	IN	O	B-PP	O
+31	6	Lou	NNP	O	B-NP	B-Peop
+31	7	Gehrig	NNP	O	I-NP	I-Peop
+31	8	.	.	O	O	O
+
+32	0	5	CD	O	O	B-Num
+32	1	.	.	O	O	O
+
+33	0	Joe	NNP	O	B-NP	B-Peop
+33	1	DiMaggio	NNP	O	I-NP	I-Peop
+33	2	.	.	O	O	O
+
+34	0	Joltin	NNP	O	B-NP	O
+34	1	'	POS	O	B-NP	O
+34	2	Joe	NNP	O	I-NP	B-Peop
+34	3	barely	RB	O	O	O
+34	4	clips	NNS	O	O	O
+34	5	Johnny	NNP	O	B-NP	B-Peop
+34	6	Bench	NNP	O	I-NP	I-Peop
+34	7	.	.	O	O	O
+
+35	0	6	CD	O	B-NP	B-Num
+35	1	.	.	O	O	O
+
+36	0	Bill	NNP	O	B-NP	B-Peop
+36	1	Russell	NNP	O	I-NP	I-Peop
+36	2	.	.	O	O	O
+
+37	0	All	PDT	O	B-NP	O
+37	1	those	DT	O	I-NP	O
+37	2	rings	NNS	O	I-NP	O
+37	3	give	VBP	O	B-VP	O
+37	4	him	PRP	O	B-NP	O
+37	5	the	DT	O	B-NP	O
+37	6	nod	NN	O	I-NP	O
+37	7	over	IN	O	B-PP	O
+37	8	Stan	NNP	O	B-NP	B-Peop
+37	9	Musial	NNP	O	I-NP	I-Peop
+37	10	and	CC	O	I-NP	O
+37	11	Julius	NNP	O	I-NP	B-Peop
+37	12	Erving	NNP	O	I-NP	I-Peop
+37	13	.	.	O	O	O
+
+38	0	7	CD	O	O	B-Num
+38	1	.	.	O	O	O
+
+39	0	Mickey	NNP	O	B-NP	B-Peop
+39	1	Mantle	NNP	O	I-NP	I-Peop
+39	2	.	.	O	O	O
+
+40	0	He	PRP	O	B-NP	O
+40	1	will	MD	O	B-VP	O
+40	2	always	RB	O	I-VP	O
+40	3	be	VB	O	I-VP	O
+40	4	the	DT	O	B-NP	O
+40	5	7	CD	O	I-NP	B-Num
+40	6	.	.	O	O	O
+
+41	0	8	CD	O	O	B-Num
+41	1	.	.	O	O	O
+
+42	0	Cal	NNP	O	B-NP	B-Peop
+42	1	Ripken	NNP	O	I-NP	I-Peop
+42	2	Jr	NNP	O	I-NP	I-Peop
+42	3	.	.	O	O	O
+
+43	0	The	DT	O	O	O
+43	1	jog	VB	O	O	O
+43	2	around	IN	O	B-PP	O
+43	3	Camden	NNP	O	B-NP	B-Peop
+43	4	Yards	NNP	O	I-NP	I-Peop
+43	5	helped	VBD	O	B-VP	O
+43	6	the	DT	O	B-NP	O
+43	7	modern	JJ	O	I-NP	O
+43	8	ironman	NN	O	I-NP	O
+43	9	beat	VBP	O	B-VP	O
+43	10	Yogi	NNP	O	B-NP	B-Peop
+43	11	Berra	NNP	O	I-NP	I-Peop
+43	12	COMMA	COMMA	O	O	O
+43	13	Bill	NNP	O	B-NP	B-Peop
+43	14	Dickey	NNP	O	I-NP	I-Peop
+43	15	COMMA	COMMA	O	O	O
+43	16	Carl	NNP	O	B-NP	B-Peop
+43	17	Yastrzemski	NNP	O	I-NP	I-Peop
+43	18	and	CC	O	O	O
+43	19	Willie	NNP	O	B-NP	B-Peop
+43	20	Stargell	NNP	O	I-NP	I-Peop
+43	21	.	.	O	O	O
+
+44	0	9	CD	O	O	B-Num
+44	1	.	.	O	O	O
+
+45	0	Ted	NNP	O	B-NP	B-Peop
+45	1	Williams	NNP	O	I-NP	I-Peop
+45	2	.	.	O	O	O
+
+46	0	It	PRP	O	B-NP	O
+46	1	took	VBD	O	B-VP	O
+46	2	the	DT	O	B-NP	O
+46	3	Greatest	JJS	O	I-NP	O
+46	4	Hitter	NN	O	I-NP	O
+46	5	Who	WP	O	B-NP	O
+46	6	Ever	RB	O	O	O
+46	7	Lived	NNP	O	B-NP	O
+46	8	to	TO	O	B-VP	O
+46	9	win	VB	O	I-VP	O
+46	10	out	IN	O	B-PP	O
+46	11	over	IN	O	B-PP	O
+46	12	Gordie	NNP	O	B-NP	B-Peop
+46	13	Howe	NNP	O	I-NP	I-Peop
+46	14	.	.	O	O	O
+
+47	0	10	CD	O	B-NP	B-Num
+47	1	.	.	O	O	O
+
+48	0	Pele	NNP	O	B-NP	O
+48	1	.	.	O	O	O
+
+49	0	The	DT	O	B-NP	O
+49	1	soccer	NN	O	I-NP	B-Sport
+49	2	legend	NN	O	I-NP	O
+49	3	with	IN	O	B-PP	O
+49	4	the	DT	O	B-NP	O
+49	5	compact	JJ	O	I-NP	O
+49	6	name	NN	O	I-NP	O
+49	7	and	CC	O	O	O
+49	8	this	DT	O	B-NP	O
+49	9	compact	JJ	O	I-NP	O
+49	10	numeral	NN	O	I-NP	O
+49	11	are	VBP	O	B-VP	O
+49	12	perfect	JJ	O	O	O
+49	13	for	IN	O	B-PP	O
+49	14	each	DT	O	B-NP	O
+49	15	other	JJ	O	I-NP	O
+49	16	.	.	O	O	O
+
+50	0	11	CD	O	O	B-Num
+50	1	.	.	O	O	O
+
+51	0	Paul	NNP	O	B-NP	B-Peop
+51	1	Waner	NNP	O	I-NP	I-Peop
+51	2	.	.	O	O	O
+
+52	0	The	DT	O	B-NP	O
+52	1	name	NN	O	I-NP	O
+52	2	of	IN	O	B-PP	O
+52	3	the	DT	O	B-NP	O
+52	4	Pirates	NNP	O	I-NP	O
+52	5	'	POS	O	B-NP	O
+52	6	``	``	O	I-NP	O
+52	7	Big	JJ	O	I-NP	O
+52	8	Poison	NN	O	I-NP	O
+52	9	''	''	O	O	O
+52	10	should	MD	O	B-VP	O
+52	11	come	VB	O	I-VP	O
+52	12	up	IN	O	O	O
+52	13	more	JJR	O	O	O
+52	14	in	IN	O	B-PP	O
+52	15	discussing	VBG	O	B-VP	O
+52	16	the	DT	O	B-NP	O
+52	17	all-time	JJ	O	I-NP	O
+52	18	greats	NNS	O	I-NP	O
+52	19	.	.	O	O	O
+
+53	0	12	CD	O	O	B-Num
+53	1	.	.	O	O	O
+
+54	0	Terry	NNP	O	B-NP	B-Peop
+54	1	Bradshaw	NNP	O	I-NP	I-Peop
+54	2	.	.	O	O	O
+
+55	0	Again	RB	O	O	O
+55	1	COMMA	COMMA	O	O	O
+55	2	titles	NNS	O	B-NP	O
+55	3	win	VBP	O	B-VP	O
+55	4	out	IN	O	B-PP	O
+55	5	in	IN	O	B-PP	O
+55	6	a	DT	O	B-NP	O
+55	7	battle	NN	O	I-NP	O
+55	8	with	IN	O	B-PP	O
+55	9	Roger	NNP	O	B-NP	B-Peop
+55	10	Staubach	NNP	O	I-NP	I-Peop
+55	11	COMMA	COMMA	O	O	O
+55	12	Joe	NNP	O	B-NP	B-Peop
+55	13	Namath	NNP	O	I-NP	I-Peop
+55	14	and	CC	O	O	O
+55	15	several	JJ	O	B-NP	O
+55	16	other	JJ	O	I-NP	O
+55	17	QBs	NNP	O	I-NP	O
+55	18	.	.	O	O	O
+
+56	0	13	CD	O	B-NP	B-Num
+56	1	.	.	O	O	O
+
+57	0	Wilt	NNP	O	O	B-Peop
+57	1	Chamberlain	NNP	O	O	I-Peop
+57	2	.	.	O	O	O
+
+58	0	Jump	NN	O	B-NP	O
+58	1	ball	NN	O	I-NP	O
+58	2	with	IN	O	B-PP	O
+58	3	Dan	NNP	O	B-NP	B-Peop
+58	4	Marino	NNP	O	I-NP	I-Peop
+58	5	.	.	O	O	O
+
+59	0	He	PRP	O	B-NP	O
+59	1	's	VBZ	O	B-VP	O
+59	2	taller	JJR	O	O	O
+59	3	.	.	O	O	O
+
+60	0	14	CD	O	B-NP	B-Num
+60	1	.	.	O	O	O
+
+61	0	Pete	NNP	O	B-NP	B-Peop
+61	1	Rose	NNP	O	I-NP	I-Peop
+61	2	.	.	O	O	O
+
+62	0	Hustle	NNP	O	B-NP	B-Peop
+62	1	helps	VBZ	O	B-VP	O
+62	2	him	PRP	O	B-NP	O
+62	3	beat	VBD	O	B-VP	O
+62	4	Oscar	NNP	O	B-NP	B-Peop
+62	5	Robertson	NNP	O	I-NP	I-Peop
+62	6	COMMA	COMMA	O	O	O
+62	7	Don	NNP	O	B-NP	B-Peop
+62	8	Hutson	NNP	O	I-NP	I-Peop
+62	9	COMMA	COMMA	O	O	O
+62	10	Bob	NNP	O	B-NP	B-Peop
+62	11	Cousy	NNP	O	I-NP	I-Peop
+62	12	and	CC	O	I-NP	O
+62	13	Ernie	NNP	O	I-NP	B-Peop
+62	14	Banks	NNS	O	I-NP	I-Peop
+62	15	.	.	O	O	O
+
+63	0	15	CD	O	O	B-Num
+63	1	.	.	O	O	O
+
+64	0	Bart	NNP	O	O	B-Peop
+64	1	Starr	NNP	O	O	I-Peop
+64	2	.	.	O	O	O
+
+65	0	Quarterbacks	NNS	O	B-NP	O
+65	1	win	VB	O	B-VP	O
+65	2	or	CC	O	I-VP	O
+65	3	lose	VBP	O	I-VP	O
+65	4	titles	NNS	O	B-NP	O
+65	5	.	.	O	O	O
+
+66	0	16	CD	O	O	B-Num
+66	1	.	.	O	O	O
+
+67	0	Joe	NNP	O	B-NP	B-Peop
+67	1	Montana	NNP	O	I-NP	I-Peop
+67	2	.	.	O	O	O
+
+68	0	See	VB	O	B-VP	O
+68	1	Starr	NNP	O	B-NP	B-Peop
+68	2	.	.	O	O	O
+
+69	0	The	DT	O	B-NP	O
+69	1	ultimate	JJ	O	I-NP	O
+69	2	winner	NN	O	I-NP	O
+69	3	.	.	O	O	O
+
+70	0	17	CD	O	O	B-Num
+70	1	.	.	O	O	O
+
+71	0	John	NNP	O	B-NP	B-Peop
+71	1	Havlicek	NNP	O	I-NP	I-Peop
+71	2	.	.	O	O	O
+
+72	0	Celtic	NNP	O	B-NP	B-Peop
+72	1	stole	VBD	O	B-VP	O
+72	2	the	DT	O	B-NP	O
+72	3	number	NN	O	I-NP	O
+72	4	from	IN	O	B-PP	O
+72	5	Cool	VB	O	B-NP	O
+72	6	Papa	NN	O	I-NP	B-Peop
+72	7	Bell	NNP	O	I-NP	I-Peop
+72	8	and	CC	O	I-NP	O
+72	9	Dizzy	NNP	O	I-NP	B-Peop
+72	10	Dean	NNP	O	I-NP	I-Peop
+72	11	.	.	O	O	O
+
+73	0	18	CD	O	O	B-Num
+73	1	.	.	O	O	O
+
+74	0	Charlie	NNP	O	B-NP	B-Peop
+74	1	Joiner	NNP	O	I-NP	I-Peop
+74	2	.	.	O	O	O
+
+75	0	Remember	VB	O	B-VP	O
+75	1	that	IN	O	B-NP	O
+75	2	not	RB	O	O	O
+75	3	too	RB	O	O	O
+75	4	long	RB	O	O	O
+75	5	ago	IN	O	O	O
+75	6	he	PRP	O	B-NP	O
+75	7	had	VBD	O	B-VP	O
+75	8	the	DT	O	B-NP	O
+75	9	NFL	NNP	O	I-NP	B-OrgCorp
+75	10	career	NN	O	I-NP	O
+75	11	record	NN	O	I-NP	O
+75	12	for	IN	O	B-PP	O
+75	13	receptions	NNS	O	B-NP	O
+75	14	.	.	O	O	O
+
+76	0	19	CD	O	O	B-Num
+76	1	.	.	O	O	O
+
+77	0	Johnny	NNP	O	B-NP	B-Peop
+77	1	Unitas	NNP	O	I-NP	I-Peop
+77	2	.	.	O	O	O
+
+78	0	A	DT	O	B-NP	O
+78	1	hair	NN	O	I-NP	O
+78	2	better	JJR	O	O	O
+78	3	than	IN	O	B-PP	O
+78	4	Bob	NNP	O	B-NP	B-Peop
+78	5	Feller	NNP	O	I-NP	I-Peop
+78	6	.	.	O	O	O
+
+79	0	20	CD	O	B-NP	B-Num
+79	1	.	.	O	O	O
+
+80	0	Barry	NNP	O	B-NP	B-Peop
+80	1	Sanders	NNP	O	I-NP	I-Peop
+80	2	.	.	O	O	O
+
+81	0	Potentially	RB	O	O	O
+81	1	the	DT	O	B-NP	O
+81	2	best	JJS	O	I-NP	O
+81	3	rusher	NN	O	I-NP	O
+81	4	ever	RB	O	O	O
+81	5	beats	VBZ	O	B-VP	O
+81	6	the	DT	O	B-NP	O
+81	7	best	JJS	O	I-NP	O
+81	8	3B	NN	O	I-NP	B-Num
+81	9	ever	RB	O	O	O
+81	10	COMMA	COMMA	O	O	O
+81	11	Mike	NNP	O	B-NP	B-Peop
+81	12	Schmidt	NNP	O	I-NP	I-Peop
+81	13	.	.	O	O	O
+
+82	0	21	CD	O	O	B-Num
+82	1	.	.	O	O	O
+
+83	0	Roberto	NNP	O	B-NP	B-Peop
+83	1	Clemente	NNP	O	I-NP	I-Peop
+83	2	.	.	O	O	O
+
+84	0	Throw	VB	O	B-VP	O
+84	1	a	DT	O	B-NP	O
+84	2	fastball	NN	O	I-NP	O
+84	3	six	CD	O	B-NP	B-Num
+84	4	feet	NNS	O	I-NP	B-NumUnit
+84	5	out	IN	O	B-PP	O
+84	6	of	IN	O	B-PP	O
+84	7	the	DT	O	B-NP	O
+84	8	strike	NN	O	I-NP	O
+84	9	zone	NN	O	I-NP	O
+84	10	and	CC	O	O	O
+84	11	he	PRP	O	B-NP	O
+84	12	could	MD	O	B-VP	O
+84	13	still	RB	O	I-VP	O
+84	14	double	VB	O	I-VP	O
+84	15	to	TO	O	B-PP	O
+84	16	right	NN	O	B-NP	O
+84	17	.	.	O	O	O
+
+85	0	22	CD	O	O	B-Num
+85	1	.	.	O	O	O
+
+86	0	Elgin	NNP	O	O	B-Peop
+86	1	Baylor	NNP	O	O	I-Peop
+86	2	.	.	O	O	O
+
+87	0	Over	IN	O	B-PP	O
+87	1	Emmitt	NNP	O	B-NP	B-Peop
+87	2	Smith	NNP	O	I-NP	I-Peop
+87	3	.	.	O	O	O
+
+88	0	Baylor	NNP	O	B-NP	O
+88	1	with	IN	O	B-PP	O
+88	2	two	CD	O	B-NP	B-Num
+88	3	good	JJ	O	I-NP	O
+88	4	knees	NNS	O	I-NP	O
+88	5	was	VBD	O	B-VP	O
+88	6	grace	NN	O	B-NP	O
+88	7	in	IN	O	B-PP	O
+88	8	high	JJ	O	B-NP	O
+88	9	tops	NNS	O	I-NP	O
+88	10	COMMA	COMMA	O	O	O
+88	11	Dr.	NNP	O	B-NP	B-Peop
+88	12	J	NNP	O	I-NP	I-Peop
+88	13	before	IN	O	B-PP	O
+88	14	Dr.	NNP	O	B-NP	B-Peop
+88	15	J	NNP	O	I-NP	I-Peop
+88	16	.	.	O	O	O
+
+89	0	23	CD	O	B-NP	B-Num
+89	1	.	.	O	O	O
+
+90	0	Michael	NNP	O	B-NP	B-Peop
+90	1	Jordan	NNP	O	I-NP	I-Peop
+90	2	.	.	O	O	O
+
+91	0	Don	NNP	O	B-NP	B-Peop
+91	1	't	NN	O	I-NP	O
+91	2	even	RB	O	O	O
+91	3	bother	VBP	O	B-VP	O
+91	4	trying	VBG	O	I-VP	O
+91	5	to	TO	O	I-VP	O
+91	6	think	VB	O	I-VP	O
+91	7	of	IN	O	B-PP	O
+91	8	another	DT	O	B-NP	O
+91	9	23	CD	O	I-NP	B-Num
+91	10	.	.	O	O	O
+
+92	0	24	CD	O	B-NP	B-Num
+92	1	.	.	O	O	O
+
+93	0	Willie	NNP	O	B-NP	B-Peop
+93	1	Mays	NNP	O	I-NP	I-Peop
+93	2	.	.	O	O	O
+
+94	0	Mays	NNP	O	B-NP	B-Peop
+94	1	may	MD	O	B-VP	O
+94	2	be	VB	O	I-VP	O
+94	3	seriously	RB	O	I-VP	O
+94	4	challenged	VBN	O	I-VP	O
+94	5	in	IN	O	B-PP	O
+94	6	the	DT	O	B-NP	O
+94	7	near	JJ	O	I-NP	O
+94	8	future	JJ	O	I-NP	O
+94	9	by	IN	O	B-PP	O
+94	10	Ken	NNP	O	B-NP	B-Peop
+94	11	Griffey	NNP	O	I-NP	I-Peop
+94	12	Jr.	NNP	O	I-NP	I-Peop
+94	13	and	CC	O	O	O
+94	14	Jeff	NNP	O	B-NP	B-Peop
+94	15	Gordon	NNP	O	I-NP	I-Peop
+94	16	.	.	O	O	O
+
+95	0	25	CD	O	O	B-Num
+95	1	.	.	O	O	O
+
+96	0	Barry	NNP	O	B-NP	B-Peop
+96	1	Bonds	NNS	O	I-NP	I-Peop
+96	2	.	.	O	O	O
+
+97	0	Check	NNP	O	O	O
+97	1	the	DT	O	B-NP	O
+97	2	numbers	NNS	O	I-NP	O
+97	3	over	IN	O	B-PP	O
+97	4	the	DT	O	B-NP	O
+97	5	decade	NN	O	I-NP	O
+97	6	.	.	O	O	O
+
+98	0	There	EX	O	B-NP	O
+98	1	has	VBZ	O	B-VP	O
+98	2	been	VBN	O	I-VP	O
+98	3	no	DT	O	B-NP	O
+98	4	one	CD	O	I-NP	B-Num
+98	5	better	JJR	O	O	O
+98	6	.	.	O	O	O
+
+99	0	26	CD	O	O	B-Num
+99	1	.	.	O	O	O
+
+100	0	Satchel	NNP	O	O	B-Peop
+100	1	Paige	NNP	O	O	I-Peop
+100	2	.	.	O	O	O
+
+101	0	Would	MD	O	O	O
+101	1	be	VB	O	O	O
+101	2	even	RB	O	O	O
+101	3	more	JJR	O	O	O
+101	4	of	IN	O	B-PP	O
+101	5	a	DT	O	B-NP	O
+101	6	legend	NN	O	I-NP	O
+101	7	if	IN	O	O	O
+101	8	not	RB	O	O	O
+101	9	for	IN	O	B-PP	O
+101	10	the	DT	O	B-NP	O
+101	11	color	NN	O	I-NP	B-Color
+101	12	barrier	NN	O	I-NP	O
+101	13	.	.	O	O	O
+
+102	0	27	CD	O	B-NP	B-Num
+102	1	.	.	O	O	O
+
+103	0	Juan	NNP	O	O	B-Peop
+103	1	Marichal	NNP	O	O	I-Peop
+103	2	.	.	O	O	O
+
+104	0	High-kicking	VBG	O	B-NP	O
+104	1	Left	NNP	O	I-NP	O
+104	2	Coast	NNP	O	I-NP	O
+104	3	pitcher	NN	O	I-NP	B-ProfTitle
+104	4	was	VBD	O	B-VP	O
+104	5	overshadowed	VBN	O	I-VP	O
+104	6	by	IN	O	B-PP	O
+104	7	Koufax	NNP	O	B-NP	B-Peop
+104	8	.	.	O	O	O
+
+105	0	28	CD	O	O	B-Num
+105	1	.	.	O	O	O
+
+106	0	Darrell	NNP	O	B-NP	B-Peop
+106	1	Green	NNP	O	I-NP	I-Peop
+106	2	.	.	O	O	O
+
+107	0	The	DT	O	B-NP	O
+107	1	Redskin	NNP	O	I-NP	B-Peop
+107	2	is	VBZ	O	B-VP	O
+107	3	one	CD	O	B-NP	B-Num
+107	4	of	IN	O	B-PP	O
+107	5	the	DT	O	B-NP	O
+107	6	best	JJS	O	I-NP	O
+107	7	covermen	NNS	O	I-NP	O
+107	8	and	CC	O	I-NP	O
+107	9	returners	NNS	O	I-NP	O
+107	10	ever	RB	O	O	O
+107	11	.	.	O	O	O
+
+108	0	29	CD	O	B-NP	B-Num
+108	1	.	.	O	O	O
+
+109	0	Rod	NNP	O	B-NP	B-Peop
+109	1	Carew	NNP	O	I-NP	I-Peop
+109	2	.	.	O	O	O
+
+110	0	The	DT	O	B-NP	O
+110	1	textbook	NN	O	I-NP	O
+110	2	hitter	NN	O	I-NP	O
+110	3	of	IN	O	B-PP	O
+110	4	the	DT	O	B-NP	O
+110	5	1970s	CD	O	I-NP	B-Date
+110	6	.	.	O	O	O
+
+111	0	30	CD	O	O	B-Num
+111	1	.	.	O	O	O
+
+112	0	Nolan	NNP	O	O	B-Peop
+112	1	Ryan	NNP	O	O	I-Peop
+112	2	.	.	O	O	O
+
+113	0	A	DT	O	B-NP	O
+113	1	little	JJ	O	I-NP	O
+113	2	cheating	NN	O	I-NP	O
+113	3	.	.	O	O	O
+
+114	0	Ryan	NNP	O	B-NP	B-Peop
+114	1	wore	VBD	O	B-VP	O
+114	2	the	DT	O	B-NP	O
+114	3	number	NN	O	I-NP	O
+114	4	early	JJ	O	O	O
+114	5	in	IN	O	B-PP	O
+114	6	his	PP$	O	B-NP	O
+114	7	career	NN	O	I-NP	O
+114	8	with	IN	O	B-PP	O
+114	9	the	DT	O	B-NP	O
+114	10	Mets	NNP	O	I-NP	B-OrgTeam
+114	11	and	CC	O	O	O
+114	12	Angels	NNPS	O	B-NP	B-OrgTeam
+114	13	-LBR-	-LBR-	O	O	O
+114	14	34	CD	O	O	B-Num
+114	15	thereafter	RB	O	O	O
+114	16	-RBR-	-RBR-	O	O	O
+114	17	.	.	O	O	O
+
+115	0	31	CD	O	O	B-Num
+115	1	.	.	O	O	O
+
+116	0	Greg	NNP	O	B-NP	B-Peop
+116	1	Maddux	NNP	O	I-NP	I-Peop
+116	2	.	.	O	O	O
+
+117	0	How	WRB	O	O	O
+117	1	long	RB	O	O	O
+117	2	before	IN	O	O	O
+117	3	we	PRP	O	B-NP	O
+117	4	realize	VBP	O	B-VP	O
+117	5	an	DT	O	B-NP	O
+117	6	immortal	NN	O	I-NP	O
+117	7	is	VBZ	O	B-VP	O
+117	8	in	IN	O	B-PP	O
+117	9	our	PP$	O	B-NP	O
+117	10	midst	NN	O	I-NP	O
+117	11	?	.	O	O	O
+
+118	0	32	CD	O	B-NP	B-Num
+118	1	.	.	O	O	O
+
+119	0	Jim	NNP	O	B-NP	B-Peop
+119	1	Brown	NNP	O	I-NP	I-Peop
+119	2	.	.	O	O	O
+
+120	0	The	DT	O	B-NP	O
+120	1	toughest	JJS	O	I-NP	O
+120	2	competition	NN	O	I-NP	O
+120	3	of	IN	O	B-PP	O
+120	4	any	DT	O	B-NP	O
+120	5	number	NN	O	I-NP	O
+120	6	.	.	O	O	O
+
+121	0	Sandy	NNP	O	B-NP	B-Peop
+121	1	Koufax	NNP	O	I-NP	I-Peop
+121	2	and	CC	O	I-NP	O
+121	3	Magic	NNP	O	I-NP	B-Peop
+121	4	Johnson	NNP	O	I-NP	I-Peop
+121	5	are	VBP	O	B-VP	O
+121	6	also	RB	O	O	O
+121	7	deserving	JJ	O	O	O
+121	8	COMMA	COMMA	O	O	O
+121	9	as	IN	O	O	O
+121	10	are	VBP	O	B-VP	O
+121	11	O.J.	NNP	O	B-NP	B-Peop
+121	12	Simpson	NNP	O	I-NP	I-Peop
+121	13	COMMA	COMMA	O	O	O
+121	14	Franco	NNP	O	B-NP	B-Peop
+121	15	Harris	NNP	O	I-NP	I-Peop
+121	16	and	CC	O	O	O
+121	17	Julius	NNP	O	O	B-Peop
+121	18	Erving	NNP	O	O	I-Peop
+121	19	-LBR-	-LBR-	O	O	O
+121	20	from	IN	O	B-PP	O
+121	21	his	PP$	O	B-NP	O
+121	22	ABA	NNP	O	I-NP	B-OrgCorp
+121	23	days	NNS	O	I-NP	O
+121	24	-RBR-	-RBR-	O	O	O
+121	25	.	.	O	O	O
+
+122	0	33	CD	O	B-NP	B-Num
+122	1	.	.	O	O	O
+
+123	0	Kareem	NNP	O	O	B-Peop
+123	1	Abdul-Jabbar	NNP	O	O	I-Peop
+123	2	.	.	O	O	O
+
+124	0	Only	RB	O	B-NP	O
+124	1	longevity	NN	O	I-NP	O
+124	2	COMMA	COMMA	O	O	O
+124	3	and	CC	O	O	O
+124	4	wearing	VBG	O	B-VP	O
+124	5	it	PRP	O	B-NP	O
+124	6	first	JJ	O	O	B-Num
+124	7	COMMA	COMMA	O	O	O
+124	8	gives	VBZ	O	B-VP	O
+124	9	Kareem	NNP	O	B-NP	B-Peop
+124	10	the	DT	O	B-NP	O
+124	11	nod	NN	O	I-NP	O
+124	12	over	IN	O	B-PP	O
+124	13	Larry	NNP	O	B-NP	B-Peop
+124	14	Bird	NNP	O	I-NP	I-Peop
+124	15	.	.	O	O	O
+
+125	0	34	CD	O	O	B-Num
+125	1	.	.	O	O	O
+
+126	0	Walter	NNP	O	B-NP	B-Peop
+126	1	Payton	NNP	O	I-NP	I-Peop
+126	2	.	.	O	O	O
+
+127	0	All-time	NN	O	O	O
+127	1	rushing	VBG	O	O	O
+127	2	champ	NN	O	O	O
+127	3	.	.	O	O	O
+
+128	0	Along	IN	O	B-PP	O
+128	1	with	IN	O	B-PP	O
+128	2	Sanders	NNP	O	B-NP	B-Peop
+128	3	and	CC	O	I-NP	O
+128	4	Gale	NNP	O	I-NP	B-Peop
+128	5	Sayers	NNP	O	I-NP	I-Peop
+128	6	COMMA	COMMA	O	O	O
+128	7	among	IN	O	B-PP	O
+128	8	the	DT	O	B-NP	O
+128	9	most	JJS	O	I-NP	O
+128	10	electrifying	JJ	O	I-NP	O
+128	11	runners	NNS	O	I-NP	B-ProfTitle
+128	12	ever	RB	O	O	O
+128	13	.	.	O	O	O
+
+129	0	35	CD	O	B-NP	B-Num
+129	1	.	.	O	O	O
+
+130	0	Frank	NNP	O	B-NP	B-Peop
+130	1	Thomas	NNP	O	I-NP	I-Peop
+130	2	.	.	O	O	O
+
+131	0	The	DT	O	B-NP	O
+131	1	Big	NNP	O	I-NP	O
+131	2	Hurt	NNP	O	I-NP	B-Peop
+131	3	is	VBZ	O	B-VP	O
+131	4	having	VBG	O	I-VP	O
+131	5	a	DT	O	B-NP	O
+131	6	hurting	VBG	O	I-NP	O
+131	7	season	NN	O	I-NP	O
+131	8	COMMA	COMMA	O	O	O
+131	9	but	CC	O	O	O
+131	10	he	PRP	O	B-NP	O
+131	11	has	VBZ	O	B-VP	O
+131	12	HOF	NNP	O	B-NP	O
+131	13	numbers	NNS	O	I-NP	O
+131	14	.	.	O	O	O
+
+132	0	36	CD	O	O	B-Num
+132	1	.	.	O	O	O
+
+133	0	Gaylord	NNP	O	B-NP	B-Peop
+133	1	Perry	NNP	O	I-NP	I-Peop
+133	2	.	.	O	O	O
+
+134	0	Just	RB	O	B-NP	O
+134	1	enough	JJ	O	I-NP	O
+134	2	juice	NN	O	I-NP	O
+134	3	to	TO	O	B-VP	O
+134	4	get	VB	O	I-VP	O
+134	5	by	IN	O	B-PP	O
+134	6	Robin	NNP	O	B-NP	B-Peop
+134	7	Roberts	NNP	O	I-NP	I-Peop
+134	8	.	.	O	O	O
+
+135	0	37	CD	O	O	B-Num
+135	1	.	.	O	O	O
+
+136	0	Casey	NNP	O	O	B-Peop
+136	1	Stengel	NNP	O	O	I-Peop
+136	2	.	.	O	O	O
+
+137	0	Even	RB	O	B-NP	O
+137	1	the	DT	O	I-NP	O
+137	2	number	NN	O	I-NP	O
+137	3	seems	VBZ	O	B-VP	O
+137	4	stooped	VBN	O	O	O
+137	5	.	.	O	O	O
+
+138	0	38	CD	O	O	B-Num
+138	1	.	.	O	O	O
+
+139	0	Ray	NNP	O	B-NP	B-Peop
+139	1	Dandridge	NNP	O	I-NP	I-Peop
+139	2	.	.	O	O	O
+
+140	0	Some	DT	O	B-NP	O
+140	1	argue	VBP	O	B-VP	O
+140	2	the	DT	O	B-NP	O
+140	3	Negro	NNP	O	I-NP	B-Org
+140	4	League	NNP	O	I-NP	I-Org
+140	5	star	NN	O	I-NP	O
+140	6	was	VBD	O	B-VP	O
+140	7	the	DT	O	B-NP	O
+140	8	best	JJS	O	I-NP	O
+140	9	3B	NN	O	I-NP	B-Num
+140	10	ever	RB	O	O	O
+140	11	.	.	O	O	O
+
+141	0	39	CD	O	O	B-Num
+141	1	.	.	O	O	O
+
+142	0	Roy	NNP	O	B-NP	B-Peop
+142	1	Campanella	NNP	O	I-NP	I-Peop
+142	2	.	.	O	O	O
+
+143	0	Like	IN	O	B-PP	O
+143	1	Banks	NNS	O	B-NP	O
+143	2	COMMA	COMMA	O	O	O
+143	3	brought	VBN	O	B-VP	O
+143	4	joy	NN	O	B-NP	O
+143	5	with	IN	O	B-PP	O
+143	6	him	PRP	O	B-NP	O
+143	7	to	TO	O	B-PP	O
+143	8	the	DT	O	B-NP	O
+143	9	ballpark	NN	O	I-NP	O
+143	10	.	.	O	O	O
+
+144	0	40	CD	O	B-NP	B-Num
+144	1	.	.	O	O	O
+
+145	0	Gale	NNP	O	O	B-Peop
+145	1	Sayers	NNP	O	O	I-Peop
+145	2	.	.	O	O	O
+
+146	0	See	VB	O	O	O
+146	1	34	CD	O	B-NP	B-Num
+146	2	.	.	O	O	O
+
+147	0	41	CD	O	O	B-Num
+147	1	.	.	O	O	O
+
+148	0	Tom	NNP	O	B-NP	B-Peop
+148	1	Seaver	NNP	O	I-NP	I-Peop
+148	2	.	.	O	O	O
+
+149	0	Power	NN	O	B-NP	B-Peop
+149	1	and	CC	O	I-NP	O
+149	2	class	NN	O	I-NP	O
+149	3	COMMA	COMMA	O	O	O
+149	4	the	DT	O	B-NP	O
+149	5	miracle	NN	O	I-NP	O
+149	6	maker	NN	O	I-NP	O
+149	7	of	IN	O	B-PP	O
+149	8	the	DT	O	B-NP	O
+149	9	1969	CD	O	I-NP	B-Date
+149	10	Mets	NNP	O	I-NP	B-Loc
+149	11	.	.	O	O	O
+
+150	0	42	CD	O	O	B-Num
+150	1	.	.	O	O	O
+
+151	0	Jackie	NNP	O	B-NP	B-Peop
+151	1	Robinson	NNP	O	I-NP	I-Peop
+151	2	.	.	O	O	O
+
+152	0	Good	JJ	O	O	O
+152	1	enough	RB	O	O	O
+152	2	to	TO	O	B-VP	O
+152	3	have	VB	O	I-VP	O
+152	4	his	PP$	O	B-NP	O
+152	5	number	NN	O	I-NP	O
+152	6	retired	VBD	O	B-VP	O
+152	7	by	IN	O	B-PP	O
+152	8	his	PP$	O	B-NP	O
+152	9	sport	NN	O	I-NP	O
+152	10	.	.	O	O	O
+
+153	0	43	CD	O	O	B-Num
+153	1	.	.	O	O	O
+
+154	0	Richard	NNP	O	B-NP	B-Peop
+154	1	Petty	NNP	O	I-NP	I-Peop
+154	2	.	.	O	O	O
+
+155	0	He	PRP	O	B-NP	O
+155	1	had	VBD	O	B-VP	O
+155	2	the	DT	O	B-NP	O
+155	3	coolest	NN	O	I-NP	O
+155	4	car	NN	O	I-NP	O
+155	5	COMMA	COMMA	O	O	O
+155	6	the	DT	O	B-NP	O
+155	7	coolest	NN	O	I-NP	O
+155	8	shades	NNS	O	I-NP	O
+155	9	and	CC	O	O	O
+155	10	the	DT	O	B-NP	O
+155	11	coolest	NN	O	I-NP	O
+155	12	hat	NN	O	I-NP	O
+155	13	in	IN	O	B-PP	O
+155	14	auto	NN	O	B-NP	O
+155	15	racing	NN	O	I-NP	B-Sport
+155	16	.	.	O	O	O
+
+156	0	Oh	UH	O	O	O
+156	1	yeah	NN	O	B-NP	O
+156	2	:	:	O	O	O
+156	3	He	PRP	O	B-NP	O
+156	4	was	VBD	O	B-VP	O
+156	5	the	DT	O	B-NP	O
+156	6	best	JJS	O	I-NP	O
+156	7	driver	NN	O	I-NP	B-ProfTitle
+156	8	of	IN	O	B-PP	O
+156	9	his	PP$	O	B-NP	O
+156	10	generation	NN	O	I-NP	O
+156	11	.	.	O	O	O
+
+157	0	44	CD	O	O	B-Num
+157	1	.	.	O	O	O
+
+158	0	Hank	NNP	O	O	B-Peop
+158	1	Aaron	NNP	O	O	I-Peop
+158	2	.	.	O	O	O
+
+159	0	Something	NN	O	B-NP	O
+159	1	about	IN	O	B-PP	O
+159	2	that	IN	O	O	O
+159	3	44	CD	O	B-NP	B-Num
+159	4	trotting	NN	O	I-NP	O
+159	5	around	IN	O	B-PP	O
+159	6	the	DT	O	B-NP	O
+159	7	bases	NNS	O	I-NP	O
+159	8	gives	VBZ	O	B-VP	O
+159	9	Aaron	NNP	O	B-NP	B-Peop
+159	10	the	DT	O	B-NP	O
+159	11	edge	NN	O	I-NP	O
+159	12	over	IN	O	B-PP	O
+159	13	the	DT	O	O	O
+159	14	glide	VB	O	O	O
+159	15	of	IN	O	B-PP	O
+159	16	Jerry	NNP	O	B-NP	B-Peop
+159	17	West	NNP	O	I-NP	I-Peop
+159	18	and	CC	O	O	O
+159	19	the	DT	O	B-NP	O
+159	20	swagger	NN	O	I-NP	O
+159	21	of	IN	O	B-PP	O
+159	22	Reggie	NNP	O	B-NP	B-Peop
+159	23	Jackson	NNP	O	I-NP	I-Peop
+159	24	.	.	O	O	O
+
+160	0	45	CD	O	B-NP	B-Num
+160	1	.	.	O	O	O
+
+161	0	Bob	NNP	O	B-NP	B-Peop
+161	1	Gibson	NNP	O	I-NP	I-Peop
+161	2	.	.	O	O	O
+
+162	0	The	DT	O	B-NP	O
+162	1	king	NN	O	I-NP	O
+162	2	of	IN	O	B-PP	O
+162	3	the	DT	O	B-NP	O
+162	4	hill	NN	O	I-NP	O
+162	5	from	IN	O	B-PP	O
+162	6	a	DT	O	B-NP	O
+162	7	day	NN	O	I-NP	B-DayFest
+162	8	when	WRB	O	O	O
+162	9	pitchers	NNS	O	B-NP	B-ProfTitle
+162	10	owned	VBD	O	B-VP	O
+162	11	the	DT	O	B-NP	O
+162	12	outside	JJ	O	I-NP	O
+162	13	half	DT	O	I-NP	O
+162	14	of	IN	O	B-PP	O
+162	15	the	DT	O	B-NP	O
+162	16	plate	NN	O	I-NP	O
+162	17	.	.	O	O	O
+
+163	0	46	CD	O	O	B-Num
+163	1	.	.	O	O	O
+
+164	0	Doug	NNP	O	B-NP	B-Peop
+164	1	Plank	NNP	O	I-NP	I-Peop
+164	2	.	.	O	O	O
+
+165	0	The	DT	O	B-NP	O
+165	1	Chicago	NNP	O	I-NP	B-OrgCorp
+165	2	DB	NNP	O	I-NP	I-OrgCorp
+165	3	's	POS	O	B-NP	O
+165	4	number	NN	O	I-NP	O
+165	5	was	VBD	O	B-VP	O
+165	6	used	VBN	O	I-VP	O
+165	7	to	TO	O	B-VP	O
+165	8	name	VB	O	I-VP	O
+165	9	the	DT	O	B-NP	O
+165	10	famed	JJ	O	I-NP	O
+165	11	``	``	O	I-NP	O
+165	12	46	CD	O	I-NP	B-Num
+165	13	Defense	NN	O	I-NP	O
+165	14	''	''	O	O	O
+165	15	of	IN	O	B-PP	O
+165	16	the	DT	O	B-NP	O
+165	17	1980s	CD	O	I-NP	B-Date
+165	18	Bears	NNPS	O	I-NP	B-OrgTeam
+165	19	.	.	O	O	O
+
+166	0	47	CD	O	O	B-Num
+166	1	.	.	O	O	O
+
+167	0	Mel	NNP	O	B-NP	B-Peop
+167	1	Blount	NNP	O	I-NP	I-Peop
+167	2	.	.	O	O	O
+
+168	0	Blunter	NNP	O	B-NP	B-Peop
+168	1	still	RB	O	O	I-Peop
+168	2	were	VBD	O	B-VP	I-Peop
+168	3	the	DT	O	B-NP	I-Peop
+168	4	hits	VBZ	O	B-VP	I-Peop
+168	5	this	DT	O	B-NP	I-Peop
+168	6	Steelers	NNP	O	I-NP	I-Peop
+168	7	DB	NNP	O	I-NP	I-Peop
+168	8	delivered	VBN	O	B-VP	O
+168	9	.	.	O	O	O
+
+169	0	48	CD	O	O	B-Num
+169	1	.	.	O	O	O
+
+170	0	Daryl	NNP	O	B-NP	B-Peop
+170	1	``	``	O	I-NP	O
+170	2	Moose	NNP	O	I-NP	O
+170	3	''	''	O	I-NP	O
+170	4	Johnston	NNP	O	I-NP	B-Peop
+170	5	.	.	O	O	O
+
+171	0	When	WRB	O	O	O
+171	1	God	NNP	O	B-NP	B-Peop
+171	2	invented	VBD	O	B-VP	O
+171	3	fullbacks	NNS	O	B-NP	O
+171	4	COMMA	COMMA	O	O	O
+171	5	he	PRP	O	B-NP	O
+171	6	had	VBD	O	B-VP	O
+171	7	Johnston	NNP	O	B-NP	B-Peop
+171	8	in	IN	O	B-PP	O
+171	9	mind	NN	O	B-NP	O
+171	10	.	.	O	O	O
+
+172	0	49	CD	O	B-NP	B-Num
+172	1	.	.	O	O	O
+
+173	0	Hoyt	NNP	O	O	B-Peop
+173	1	Wilhelm	NNP	O	O	I-Peop
+173	2	.	.	O	O	O
+
+174	0	Reliever	NNP	O	O	O
+174	1	outlasts	NNS	O	O	O
+174	2	fellow	NN	O	O	O
+174	3	knuckleballer	NN	O	O	O
+174	4	Charlie	NNP	O	B-NP	B-Peop
+174	5	Hough	NNP	O	I-NP	I-Peop
+174	6	.	.	O	O	O
+
+175	0	50	CD	O	O	B-Num
+175	1	.	.	O	O	O
+
+176	0	Mike	NNP	O	B-NP	B-Peop
+176	1	Singletary	NNP	O	I-NP	I-Peop
+176	2	.	.	O	O	O
+
+177	0	This	DT	O	B-NP	O
+177	1	linebacker	NN	O	I-NP	O
+177	2	's	POS	O	B-NP	O
+177	3	bulging	VBG	O	I-NP	O
+177	4	eyes	NNS	O	I-NP	O
+177	5	pierced	JJ	O	O	O
+177	6	running	VBG	O	O	O
+177	7	backs	NNS	O	B-NP	O
+177	8	'	POS	O	B-NP	O
+177	9	souls	NNS	O	I-NP	O
+177	10	_	NN	O	I-NP	O
+177	11	and	CC	O	O	O
+177	12	saw	VBD	O	B-VP	O
+177	13	fear	VBP	O	B-VP	O
+177	14	.	.	O	O	O
+
+178	0	-LBR-	-LBR-	O	O	O
+178	1	MORE	JJR	O	O	O
+178	2	.	.	O	O	O
+178	3	..	.	O	O	O
+
+179	0	MORE	JJR	O	O	O
+179	1	-RBR-	-RBR-	O	O	O
+
+180	0	51	CD	O	O	B-Num
+180	1	.	.	O	O	O
+
+181	0	Dick	NNP	O	B-NP	B-Peop
+181	1	Butkus	NNP	O	I-NP	I-Peop
+181	2	.	.	O	O	O
+
+182	0	THE	DT	O	B-NP	O
+182	1	middle	NN	O	I-NP	O
+182	2	linebacker	NN	O	I-NP	O
+182	3	.	.	O	O	O
+
+183	0	52	CD	O	O	B-Num
+183	1	.	.	O	O	O
+
+184	0	Mike	NNP	O	B-NP	B-Peop
+184	1	Webster	NNP	O	I-NP	I-Peop
+184	2	.	.	O	O	O
+
+185	0	He	PRP	O	B-NP	O
+185	1	kept	VBD	O	B-VP	O
+185	2	Tery	NNP	O	B-NP	O
+185	3	Bradshaw	NNP	O	I-NP	O
+185	4	alive	JJ	O	O	O
+185	5	.	.	O	O	O
+
+186	0	53	CD	O	O	B-Num
+186	1	.	.	O	O	O
+
+187	0	Don	NNP	O	B-NP	B-Peop
+187	1	Drysdale	NNP	O	I-NP	I-Peop
+187	2	.	.	O	O	O
+
+188	0	As	IN	O	O	O
+188	1	nasty	JJ	O	O	O
+188	2	as	IN	O	O	O
+188	3	Gibson	NNP	O	B-NP	B-Peop
+188	4	.	.	O	O	O
+
+189	0	54	CD	O	B-NP	B-Num
+189	1	.	.	O	O	O
+
+190	0	Randy	NNP	O	B-NP	B-Peop
+190	1	White	NNP	O	I-NP	I-Peop
+190	2	.	.	O	O	O
+
+191	0	A	DT	O	B-NP	O
+191	1	defensive	JJ	O	I-NP	O
+191	2	line	NN	O	I-NP	O
+191	3	terror	NN	O	I-NP	O
+191	4	with	IN	O	B-PP	O
+191	5	a	DT	O	B-NP	O
+191	6	linebacker	NN	O	I-NP	O
+191	7	's	POS	O	B-NP	O
+191	8	number	NN	O	I-NP	O
+191	9	.	.	O	O	O
+
+192	0	55	CD	O	O	B-Num
+192	1	.	.	O	O	O
+
+193	0	LeRoy	NNP	O	B-NP	B-Peop
+193	1	Jordan	NNP	O	I-NP	I-Peop
+193	2	.	.	O	O	O
+
+194	0	He	PRP	O	B-NP	O
+194	1	anchored	VBN	O	B-VP	O
+194	2	the	DT	O	B-NP	O
+194	3	Doomsday	NNP	O	I-NP	B-Org
+194	4	Defense	NNP	O	I-NP	I-Org
+194	5	in	IN	O	B-PP	O
+194	6	Dallas	NNP	O	B-NP	B-LocCit
+194	7	in	IN	O	B-PP	O
+194	8	the	DT	O	B-NP	O
+194	9	'	POS	O	I-NP	O
+194	10	60s	NNS	O	I-NP	B-Num
+194	11	and	CC	O	I-NP	O
+194	12	early	JJ	O	I-NP	O
+194	13	'	''	O	I-NP	O
+194	14	70s	NN	O	I-NP	B-Num
+194	15	.	.	O	O	O
+
+195	0	56	CD	O	O	B-Num
+195	1	.	.	O	O	O
+
+196	0	Lawrence	NNP	O	B-NP	B-Peop
+196	1	Taylor	NNP	O	I-NP	I-Peop
+196	2	.	.	O	O	O
+
+197	0	The	DT	O	B-NP	O
+197	1	LB	NNP	O	I-NP	O
+197	2	may	MD	O	B-VP	O
+197	3	be	VB	O	I-VP	O
+197	4	the	DT	O	B-NP	O
+197	5	best	JJS	O	I-NP	O
+197	6	football	NN	O	I-NP	B-Sport
+197	7	player	NN	O	I-NP	B-ProfTitle
+197	8	ever	RB	O	O	O
+197	9	at	IN	O	B-PP	O
+197	10	any	DT	O	B-NP	O
+197	11	position	NN	O	I-NP	O
+197	12	.	.	O	O	O
+
+198	0	57	CD	O	B-NP	B-Num
+198	1	.	.	O	O	O
+
+199	0	Dwight	NNP	O	O	B-Peop
+199	1	Stephenson	NNP	O	O	I-Peop
+199	2	.	.	O	O	O
+
+200	0	The	DT	O	B-NP	O
+200	1	glue	NN	O	I-NP	O
+200	2	at	IN	O	B-PP	O
+200	3	center	NN	O	B-NP	O
+200	4	for	IN	O	B-PP	O
+200	5	the	DT	O	B-NP	O
+200	6	Dolphins	NNPS	O	I-NP	B-OrgTeam
+200	7	.	.	O	O	O
+
+201	0	58	CD	O	O	B-Num
+201	1	.	.	O	O	O
+
+202	0	Jack	NNP	O	O	B-Peop
+202	1	Lambert	NNP	O	O	I-Peop
+202	2	.	.	O	O	O
+
+203	0	The	DT	O	B-NP	O
+203	1	man	NN	O	I-NP	O
+203	2	in	IN	O	B-PP	O
+203	3	need	VBP	O	B-NP	O
+203	4	of	IN	O	B-PP	O
+203	5	a	DT	O	B-NP	O
+203	6	dentist	NN	O	I-NP	B-ProfTitle
+203	7	often	RB	O	O	O
+203	8	sent	VBD	O	B-VP	O
+203	9	runners	NNS	O	B-NP	B-ProfTitle
+203	10	to	TO	O	B-PP	O
+203	11	the	DT	O	B-NP	O
+203	12	doctor	NN	O	I-NP	B-ProfTitle
+203	13	.	.	O	O	O
+
+204	0	59	CD	O	O	B-Num
+204	1	.	.	O	O	O
+
+205	0	Jack	NNP	O	B-NP	B-Peop
+205	1	Ham	NNP	O	I-NP	I-Peop
+205	2	.	.	O	O	O
+
+206	0	Anybody	NN	O	B-NP	O
+206	1	Lambert	NNP	O	I-NP	B-OrgCorp
+206	2	didn	NN	O	I-NP	O
+206	3	't	NN	O	I-NP	O
+206	4	get	VB	O	B-VP	O
+206	5	COMMA	COMMA	O	O	O
+206	6	Ham	NNP	O	B-NP	B-Peop
+206	7	did	VBD	O	B-VP	O
+206	8	.	.	O	O	O
+
+207	0	60	CD	O	O	B-Num
+207	1	.	.	O	O	O
+
+208	0	Chuck	NNP	O	B-NP	B-Peop
+208	1	Bednarik	NNP	O	I-NP	I-Peop
+208	2	.	.	O	O	O
+
+209	0	The	DT	O	B-NP	O
+209	1	last	JJ	O	I-NP	O
+209	2	of	IN	O	B-PP	O
+209	3	the	DT	O	B-NP	O
+209	4	true	JJ	O	I-NP	O
+209	5	two-way	JJ	O	I-NP	O
+209	6	legends	NNS	O	I-NP	O
+209	7	.	.	O	O	O
+
+210	0	61	CD	O	O	B-Num
+210	1	.	.	O	O	O
+
+211	0	Bill	NNP	O	B-NP	B-Peop
+211	1	George	NNP	O	I-NP	I-Peop
+211	2	.	.	O	O	O
+
+212	0	A	DT	O	B-NP	O
+212	1	true	JJ	O	I-NP	O
+212	2	Monster	NN	O	I-NP	B-OrgCGroup
+212	3	of	IN	O	B-PP	O
+212	4	the	DT	O	B-NP	O
+212	5	Midway	NNP	O	I-NP	O
+212	6	.	.	O	O	O
+
+213	0	62	CD	O	O	B-Num
+213	1	.	.	O	O	O
+
+214	0	Jim	NNP	O	B-NP	B-Peop
+214	1	Langer	NNP	O	I-NP	I-Peop
+214	2	.	.	O	O	O
+
+215	0	Everyone	NN	O	B-NP	O
+215	1	on	IN	O	B-PP	O
+215	2	that	IN	O	O	O
+215	3	1970s	CD	O	B-NP	B-Date
+215	4	Dolphins	NNPS	O	I-NP	B-OrgTeam
+215	5	line	NN	O	I-NP	O
+215	6	could	MD	O	B-VP	O
+215	7	go	VB	O	I-VP	O
+215	8	in	IN	O	O	O
+215	9	.	.	O	O	O
+
+216	0	63	CD	O	B-NP	B-Num
+216	1	.	.	O	O	O
+
+217	0	Willie	NNP	O	B-NP	B-Peop
+217	1	Lanier	NNP	O	I-NP	I-Peop
+217	2	.	.	O	O	O
+
+218	0	In	IN	O	B-PP	O
+218	1	the	DT	O	B-NP	O
+218	2	era	NN	O	I-NP	O
+218	3	of	IN	O	B-PP	O
+218	4	Butkus	NNP	O	B-NP	B-Peop
+218	5	and	CC	O	O	O
+218	6	Ray	NNP	O	B-NP	B-Peop
+218	7	Nitschke	NNP	O	I-NP	I-Peop
+218	8	COMMA	COMMA	O	O	O
+218	9	Lanier	NNP	O	B-NP	B-Peop
+218	10	still	RB	O	O	O
+218	11	ranks	VBZ	O	B-VP	O
+218	12	as	IN	O	B-PP	O
+218	13	one	CD	O	B-NP	B-Num
+218	14	of	IN	O	B-PP	O
+218	15	the	DT	O	B-NP	O
+218	16	best	JJS	O	I-NP	O
+218	17	middle	NN	O	I-NP	O
+218	18	LB	NNP	O	B-NP	O
+218	19	of	IN	O	B-PP	O
+218	20	his	PP$	O	B-NP	O
+218	21	time	NN	O	I-NP	O
+218	22	.	.	O	O	O
+
+219	0	64	CD	O	O	B-Num
+219	1	.	.	O	O	O
+
+220	0	Jerry	NNP	O	B-NP	B-Peop
+220	1	Kramer	NNP	O	I-NP	I-Peop
+220	2	.	.	O	O	O
+
+221	0	Offensive	NN	O	B-NP	O
+221	1	guard	NN	O	I-NP	B-ProfTitle
+221	2	turned	VBD	O	B-VP	O
+221	3	a	DT	O	B-NP	O
+221	4	goal-line	JJ	O	I-NP	O
+221	5	QB	NNP	O	I-NP	B-LocStat
+221	6	sneak	VB	O	B-VP	O
+221	7	in	IN	O	B-PP	O
+221	8	the	DT	O	B-NP	O
+221	9	NFL	NNP	O	I-NP	B-OrgCorp
+221	10	championship	NN	O	I-NP	O
+221	11	into	IN	O	B-PP	O
+221	12	a	DT	O	B-NP	O
+221	13	literary	JJ	O	I-NP	O
+221	14	career	NN	O	I-NP	O
+221	15	.	.	O	O	O
+
+222	0	65	CD	O	B-NP	B-Num
+222	1	.	.	O	O	O
+
+223	0	Dave	NNP	O	B-NP	B-Peop
+223	1	Butz	NNP	O	I-NP	I-Peop
+223	2	.	.	O	O	O
+
+224	0	Tough	JJ	O	B-NP	O
+224	1	Washington	NNP	O	I-NP	B-OrgTeam
+224	2	Redskins	NNPS	O	I-NP	I-OrgTeam
+224	3	DT	NNP	O	I-NP	O
+224	4	.	.	O	O	O
+
+225	0	66	CD	O	O	B-Num
+225	1	.	.	O	O	O
+
+226	0	Mario	NNP	O	B-NP	B-Peop
+226	1	Lemieux	NNP	O	I-NP	I-Peop
+226	2	.	.	O	O	O
+
+227	0	Only	RB	O	B-NP	O
+227	1	Gretzky	NNP	O	I-NP	B-Peop
+227	2	may	MD	O	B-VP	O
+227	3	have	VB	O	I-VP	O
+227	4	been	VBN	O	I-VP	O
+227	5	greater	JJR	O	O	O
+227	6	.	.	O	O	O
+
+228	0	Dekes	NNP	O	O	O
+228	1	out	IN	O	O	O
+228	2	Ray	NNP	O	B-NP	B-Peop
+228	3	Nitschke	NNP	O	I-NP	I-Peop
+228	4	.	.	O	O	O
+
+229	0	67	CD	O	O	B-Num
+229	1	.	.	O	O	O
+
+230	0	Bob	NNP	O	B-NP	B-Peop
+230	1	Kuechenberg	NNP	O	I-NP	I-Peop
+230	2	.	.	O	O	O
+
+231	0	Dolphin	NNP	O	B-NP	B-Peop
+231	1	opened	VBD	O	B-VP	O
+231	2	a	DT	O	B-NP	O
+231	3	lot	NN	O	I-NP	O
+231	4	of	IN	O	B-PP	O
+231	5	holes	NNS	O	B-NP	O
+231	6	for	IN	O	B-PP	O
+231	7	Csonka	NNP	O	B-NP	B-Loc
+231	8	COMMA	COMMA	O	I-NP	O
+231	9	Kiick	NNP	O	I-NP	O
+231	10	and	CC	O	I-NP	O
+231	11	Morris	NNP	O	I-NP	B-Peop
+231	12	.	.	O	O	O
+
+232	0	68	CD	O	O	B-Num
+232	1	.	.	O	O	O
+
+233	0	L.C.	NNP	O	O	O
+233	1	Greenwood	NNP	O	O	B-LocCit
+233	2	.	.	O	O	O
+
+234	0	Another	DT	O	B-NP	O
+234	1	important	JJ	O	I-NP	O
+234	2	link	NN	O	I-NP	O
+234	3	in	IN	O	B-PP	O
+234	4	the	DT	O	B-NP	O
+234	5	Steel	NNP	O	I-NP	B-Peop
+234	6	Curtain	NNP	O	I-NP	I-Peop
+234	7	.	.	O	O	O
+
+235	0	69	CD	O	O	B-Num
+235	1	.	.	O	O	O
+
+236	0	Conrad	NNP	O	O	B-Peop
+236	1	Dobler	NNP	O	O	I-Peop
+236	2	.	.	O	O	O
+
+237	0	The	DT	O	B-NP	O
+237	1	Cardinals/Bills	NNP	O	I-NP	O
+237	2	offensive	JJ	O	I-NP	O
+237	3	lineman	NN	O	I-NP	O
+237	4	was	VBD	O	B-VP	O
+237	5	biting	VBG	O	I-VP	O
+237	6	people	NNS	O	B-NP	O
+237	7	long	JJ	O	O	O
+237	8	before	IN	O	O	O
+237	9	Mike	NNP	O	B-NP	B-Peop
+237	10	Tyson	NNP	O	I-NP	I-Peop
+237	11	thought	VBD	O	B-VP	O
+237	12	of	IN	O	B-PP	O
+237	13	it	PRP	O	B-NP	O
+237	14	.	.	O	O	O
+
+238	0	70	CD	O	O	B-Num
+238	1	.	.	O	O	O
+
+239	0	Sam	NNP	O	B-NP	B-Peop
+239	1	Huff	NNP	O	I-NP	I-Peop
+239	2	.	.	O	O	O
+
+240	0	The	DT	O	B-NP	O
+240	1	greatest	JJS	O	I-NP	O
+240	2	Giants	NNPS	O	I-NP	B-OrgTeam
+240	3	linebacker	NN	O	I-NP	O
+240	4	ever	RB	O	O	O
+240	5	before	IN	O	O	O
+240	6	LT	NNP	O	B-NP	B-ProfTitle
+240	7	came	VBD	O	B-VP	O
+240	8	along	IN	O	O	O
+240	9	.	.	O	O	O
+
+241	0	71	CD	O	O	B-Num
+241	1	.	.	O	O	O
+
+242	0	Alex	NNP	O	B-NP	B-Peop
+242	1	Karras	NNP	O	I-NP	I-Peop
+242	2	.	.	O	O	O
+
+243	0	If	IN	O	O	O
+243	1	only	RB	O	O	O
+243	2	for	IN	O	B-PP	O
+243	3	being	VBG	O	B-VP	O
+243	4	``	``	O	O	O
+243	5	Mongo	NNP	O	B-NP	O
+243	6	''	''	O	O	O
+243	7	in	IN	O	B-PP	O
+243	8	``	``	O	O	O
+243	9	Blazing	NNP	O	O	O
+243	10	Saddles	NNP	O	O	O
+243	11	.	.	O	O	O
+243	12	''	''	O	O	O
+
+244	0	72	CD	O	O	B-Num
+244	1	.	.	O	O	O
+
+245	0	Carlton	NNP	O	B-NP	B-Peop
+245	1	Fisk	NNP	O	I-NP	I-Peop
+245	2	.	.	O	O	O
+
+246	0	Pudge	NNP	O	B-NP	B-Peop
+246	1	wore	VBD	O	B-VP	O
+246	2	27	CD	O	B-NP	B-Num
+246	3	with	IN	O	B-PP	O
+246	4	the	DT	O	B-NP	O
+246	5	BoSox	NNP	O	I-NP	O
+246	6	COMMA	COMMA	O	O	O
+246	7	but	CC	O	O	O
+246	8	played	VBD	O	B-VP	O
+246	9	most	JJS	O	B-NP	O
+246	10	of	IN	O	B-PP	O
+246	11	his	PP$	O	B-NP	O
+246	12	career	NN	O	I-NP	O
+246	13	with	IN	O	B-PP	O
+246	14	ChiSox	NNP	O	B-NP	O
+246	15	.	.	O	O	O
+
+247	0	73	CD	O	O	B-Num
+247	1	.	.	O	O	O
+
+248	0	John	NNP	O	B-NP	B-Peop
+248	1	Hannah	NNP	O	I-NP	I-Peop
+248	2	.	.	O	O	O
+
+249	0	The	DT	O	B-NP	O
+249	1	offensive	JJ	O	I-NP	O
+249	2	lineman	NN	O	I-NP	O
+249	3	was	VBD	O	B-VP	O
+249	4	the	DT	O	B-NP	O
+249	5	only	JJ	O	I-NP	O
+249	6	thing	NN	O	I-NP	O
+249	7	that	WDT	O	B-NP	O
+249	8	kept	VBD	O	B-VP	O
+249	9	QBs	NNP	O	B-NP	O
+249	10	alive	JJ	O	O	O
+249	11	on	IN	O	B-PP	O
+249	12	some	DT	O	B-NP	O
+249	13	bad	JJ	O	I-NP	O
+249	14	Pats	NNP	O	I-NP	B-OrgTeam
+249	15	teams	NNS	O	I-NP	O
+249	16	.	.	O	O	O
+
+250	0	74	CD	O	O	B-Num
+250	1	.	.	O	O	O
+
+251	0	Bob	NNP	O	B-NP	B-Peop
+251	1	Lilly	NNP	O	I-NP	I-Peop
+251	2	.	.	O	O	O
+
+252	0	Cowboys	NNPS	O	O	B-OrgTeam
+252	1	great	JJ	O	O	O
+252	2	beats	VBZ	O	B-VP	O
+252	3	out	IN	O	O	O
+252	4	Merlin	NNP	O	B-NP	B-Peop
+252	5	Olsen	NNP	O	I-NP	I-Peop
+252	6	.	.	O	O	O
+
+253	0	75	CD	O	O	B-Num
+253	1	.	.	O	O	O
+
+254	0	Deacon	NNP	O	O	B-Peop
+254	1	Jones	NNP	O	O	I-Peop
+254	2	.	.	O	O	O
+
+255	0	If	IN	O	O	O
+255	1	the	DT	O	B-NP	O
+255	2	stat	NN	O	I-NP	O
+255	3	was	VBD	O	B-VP	O
+255	4	kept	VBN	O	I-VP	O
+255	5	at	IN	O	B-PP	O
+255	6	the	DT	O	B-NP	O
+255	7	time	NN	O	I-NP	O
+255	8	COMMA	COMMA	O	O	O
+255	9	Jones	NNP	O	B-NP	B-Peop
+255	10	could	MD	O	B-VP	O
+255	11	be	VB	O	I-VP	O
+255	12	the	DT	O	B-NP	O
+255	13	all-time	JJ	O	I-NP	O
+255	14	sack	NN	O	I-NP	O
+255	15	leader	NN	O	I-NP	B-ProfTitle
+255	16	.	.	O	O	O
+
+256	0	Beats	NNP	O	B-NP	O
+256	1	out	IN	O	O	O
+256	2	Mean	VB	O	B-VP	O
+256	3	Joe	NNP	O	B-NP	B-Peop
+256	4	Greene	NNP	O	I-NP	I-Peop
+256	5	.	.	O	O	O
+
+257	0	76	CD	O	O	B-Num
+257	1	.	.	O	O	O
+
+258	0	Lou	NNP	O	O	B-Peop
+258	1	Groza	NNP	O	O	I-Peop
+258	2	.	.	O	O	O
+
+259	0	Could	MD	O	B-VP	O
+259	1	go	VB	O	I-VP	O
+259	2	in	IN	O	O	O
+259	3	as	IN	O	B-PP	O
+259	4	a	DT	O	O	O
+259	5	tackle	VBP	O	B-VP	O
+259	6	or	CC	O	O	O
+259	7	a	DT	O	B-NP	O
+259	8	kicker	NN	O	I-NP	O
+259	9	.	.	O	O	O
+
+260	0	77	CD	O	O	B-Num
+260	1	.	.	O	O	O
+
+261	0	Red	NNP	O	B-NP	B-Peop
+261	1	Grange	NNP	O	I-NP	I-Peop
+261	2	.	.	O	O	O
+
+262	0	The	DT	O	B-NP	O
+262	1	Galloping	NNP	O	I-NP	O
+262	2	Ghost	NN	O	I-NP	O
+262	3	was	VBD	O	B-VP	O
+262	4	a	DT	O	B-NP	O
+262	5	double-seven	JJ	O	I-NP	O
+262	6	running	VBG	O	I-NP	O
+262	7	back	NN	O	I-NP	O
+262	8	who	WP	O	B-NP	O
+262	9	rang	VBD	O	B-VP	O
+262	10	up	IN	O	O	O
+262	11	a	DT	O	B-NP	O
+262	12	lot	NN	O	I-NP	O
+262	13	of	IN	O	B-PP	O
+262	14	sixes	NN	O	B-NP	O
+262	15	.	.	O	O	O
+
+263	0	78	CD	O	O	B-Num
+263	1	.	.	O	O	O
+
+264	0	Anthony	NNP	O	B-NP	B-Peop
+264	1	Munoz	NNP	O	I-NP	I-Peop
+264	2	.	.	O	O	O
+
+265	0	Tackle	NNP	O	O	O
+265	1	fends	NN	O	B-NP	O
+265	2	off	IN	O	B-PP	O
+265	3	Bruce	NNP	O	B-NP	B-Peop
+265	4	Smith	NNP	O	I-NP	I-Peop
+265	5	COMMA	COMMA	O	O	O
+265	6	Bubba	NNP	O	B-NP	B-Peop
+265	7	Smith	NNP	O	I-NP	I-Peop
+265	8	and	CC	O	O	O
+265	9	Art	NNP	O	B-NP	O
+265	10	Shell	NNP	O	I-NP	B-Animal
+265	11	.	.	O	O	O
+
+266	0	79	CD	O	O	B-Num
+266	1	.	.	O	O	O
+
+267	0	Roosevelt	NNP	O	B-NP	B-Peop
+267	1	Brown	NNP	O	I-NP	I-Peop
+267	2	.	.	O	O	O
+
+268	0	The	DT	O	B-NP	O
+268	1	anchor	NN	O	I-NP	O
+268	2	of	IN	O	B-PP	O
+268	3	the	DT	O	B-NP	O
+268	4	New	NNP	O	I-NP	B-OrgTeam
+268	5	York	NNP	O	I-NP	I-OrgTeam
+268	6	Giants	NNPS	O	I-NP	I-OrgTeam
+268	7	offensive	JJ	O	I-NP	O
+268	8	line	NN	O	I-NP	O
+268	9	during	IN	O	B-PP	O
+268	10	the	DT	O	B-NP	O
+268	11	1950s	CD	O	I-NP	B-Date
+268	12	and	CC	O	O	O
+268	13	'	POS	O	B-NP	O
+268	14	60s.	NN	O	I-NP	B-Num
+268	15	Beats	NNP	O	I-NP	O
+268	16	Dallas	NNP	O	I-NP	O
+268	17	DL	NNP	O	I-NP	O
+268	18	Harvey	NNP	O	I-NP	B-Peop
+268	19	Martin	NNP	O	I-NP	I-Peop
+268	20	.	.	O	O	O
+
+269	0	80	CD	O	B-NP	B-Num
+269	1	.	.	O	O	O
+
+270	0	Jerry	NNP	O	B-NP	B-Peop
+270	1	Rice	NNP	O	I-NP	I-Peop
+270	2	.	.	O	O	O
+
+271	0	See	VB	O	O	O
+271	1	56	CD	O	B-NP	B-Num
+271	2	.	.	O	O	O
+
+272	0	81	CD	O	O	B-Num
+272	1	.	.	O	O	O
+
+273	0	Art	NNP	O	B-NP	B-Peop
+273	1	Monk	NNP	O	I-NP	I-Peop
+273	2	.	.	O	O	O
+
+274	0	Elegant	JJ	O	B-NP	B-OrgCorp
+274	1	receiver	NN	O	I-NP	O
+274	2	COMMA	COMMA	O	O	O
+274	3	even	RB	O	O	O
+274	4	as	IN	O	O	O
+274	5	he	PRP	O	B-NP	O
+274	6	was	VBD	O	B-VP	O
+274	7	getting	VBG	O	I-VP	O
+274	8	hammered	VBN	O	I-VP	O
+274	9	over	IN	O	B-PP	O
+274	10	the	DT	O	B-NP	O
+274	11	middle	NN	O	I-NP	O
+274	12	.	.	O	O	O
+
+275	0	82	CD	O	B-NP	B-Num
+275	1	.	.	O	O	O
+
+276	0	Raymond	NNP	O	B-NP	B-Peop
+276	1	Berry	NNP	O	I-NP	I-Peop
+276	2	.	.	O	O	O
+
+277	0	Colts	NNP	O	B-NP	B-OrgTeam
+277	1	WR	NNP	O	I-NP	I-OrgTeam
+277	2	's	POS	O	B-NP	O
+277	3	soft	JJ	O	I-NP	O
+277	4	hands	NNS	O	I-NP	O
+277	5	could	MD	O	B-VP	O
+277	6	catch	VB	O	I-VP	O
+277	7	an	DT	O	B-NP	O
+277	8	egg	NN	O	I-NP	B-Food
+277	9	from	IN	O	B-PP	O
+277	10	a	DT	O	B-NP	O
+277	11	sling	NN	O	I-NP	O
+277	12	shot	NN	O	I-NP	O
+277	13	and	CC	O	O	O
+277	14	not	RB	O	B-VP	O
+277	15	break	VBP	O	I-VP	O
+277	16	it	PRP	O	B-NP	O
+277	17	.	.	O	O	O
+
+278	0	83	CD	O	O	B-Num
+278	1	.	.	O	O	O
+
+279	0	Ted	NNP	O	B-NP	B-Peop
+279	1	Hendricks	NNP	O	I-NP	I-Peop
+279	2	.	.	O	O	O
+
+280	0	The	NNP	O	B-NP	O
+280	1	Stork	NNP	O	I-NP	B-Peop
+280	2	delivered	VBD	O	B-VP	O
+280	3	pain	NN	O	B-NP	O
+280	4	for	IN	O	B-PP	O
+280	5	the	DT	O	B-NP	O
+280	6	Colts	NNP	O	I-NP	B-OrgTeam
+280	7	and	CC	O	O	O
+280	8	Raiders	NNPS	O	B-NP	B-OrgTeam
+280	9	.	.	O	O	O
+
+281	0	84	CD	O	B-NP	B-Num
+281	1	.	.	O	O	O
+
+282	0	Andy	NNP	O	B-NP	B-Peop
+282	1	Robustelli	NNP	O	I-NP	I-Peop
+282	2	.	.	O	O	O
+
+283	0	Dominating	VBG	O	O	O
+283	1	defensive	JJ	O	B-NP	O
+283	2	lineman	NN	O	I-NP	O
+283	3	for	IN	O	B-PP	O
+283	4	the	DT	O	B-NP	O
+283	5	Rams	NNP	O	I-NP	B-OrgTeam
+283	6	and	CC	O	O	O
+283	7	Giants	NNPS	O	B-NP	B-OrgTeam
+283	8	in	IN	O	B-PP	O
+283	9	the	DT	O	B-NP	O
+283	10	1950s	NNS	O	I-NP	B-Date
+283	11	and	CC	O	I-NP	O
+283	12	1960s	CD	O	I-NP	B-Date
+283	13	.	.	O	O	O
+
+284	0	85	CD	O	O	B-Num
+284	1	.	.	O	O	O
+
+285	0	Nick	NNP	O	B-NP	B-Peop
+285	1	Buoniconti	NNP	O	I-NP	I-Peop
+285	2	.	.	O	O	O
+
+286	0	The	DT	O	B-NP	O
+286	1	core	NN	O	I-NP	O
+286	2	of	IN	O	B-PP	O
+286	3	the	DT	O	B-NP	O
+286	4	No-Name	NNP	O	I-NP	O
+286	5	Defense	NNP	O	I-NP	O
+286	6	.	.	O	O	O
+
+287	0	86	CD	O	O	B-Num
+287	1	.	.	O	O	O
+
+288	0	Buck	NNP	O	O	B-Peop
+288	1	Buchanan	NNP	O	O	I-Peop
+288	2	.	.	O	O	O
+
+289	0	Along	IN	O	B-PP	O
+289	1	with	IN	O	B-PP	O
+289	2	Lanier	NNP	O	B-NP	B-Peop
+289	3	COMMA	COMMA	O	O	O
+289	4	part	NN	O	B-NP	O
+289	5	of	IN	O	B-PP	O
+289	6	a	DT	O	B-NP	O
+289	7	terrifying	JJ	O	I-NP	O
+289	8	Chiefs	NNPS	O	I-NP	B-Org
+289	9	defense	NN	O	I-NP	O
+289	10	.	.	O	O	O
+
+290	0	87	CD	O	O	B-Num
+290	1	.	.	O	O	O
+
+291	0	Willie	NNP	O	B-NP	B-Peop
+291	1	Davis	NNP	O	I-NP	I-Peop
+291	2	.	.	O	O	O
+
+292	0	Packers	NNP	O	O	B-OrgTeam
+292	1	legend	NN	O	O	O
+292	2	who	WP	O	B-NP	O
+292	3	anchored	VBN	O	O	O
+292	4	the	DT	O	B-NP	O
+292	5	defense	NN	O	I-NP	O
+292	6	with	IN	O	B-PP	O
+292	7	Nitschke	NNP	O	B-NP	B-Peop
+292	8	.	.	O	O	O
+
+293	0	88	CD	O	O	B-Num
+293	1	.	.	O	O	O
+
+294	0	Alan	NNP	O	B-NP	B-Peop
+294	1	Page	NNP	O	I-NP	I-Peop
+294	2	.	.	O	O	O
+
+295	0	A	DT	O	B-NP	O
+295	1	Purple	NNP	O	I-NP	O
+295	2	People	NNS	O	I-NP	O
+295	3	Eater	NNP	O	I-NP	O
+295	4	who	WP	O	B-NP	O
+295	5	may	MD	O	B-VP	O
+295	6	some	DT	O	B-NP	O
+295	7	day	NN	O	I-NP	B-DayFest
+295	8	end	VBP	O	B-VP	O
+295	9	up	IN	O	O	O
+295	10	on	IN	O	B-PP	O
+295	11	the	DT	O	B-NP	O
+295	12	Supreme	NNP	O	I-NP	B-OrgPolBody
+295	13	Court	NNP	O	I-NP	I-OrgPolBody
+295	14	.	.	O	O	O
+
+296	0	Beats	NNP	O	B-NP	O
+296	1	Lynn	NNP	O	I-NP	B-Peop
+296	2	Swann	NNP	O	I-NP	I-Peop
+296	3	and	CC	O	I-NP	O
+296	4	Drew	NNP	O	I-NP	B-Peop
+296	5	Pearson	NNP	O	I-NP	I-Peop
+296	6	.	.	O	O	O
+
+297	0	89	CD	O	O	B-Num
+297	1	.	.	O	O	O
+
+298	0	Gino	NNP	O	O	B-Peop
+298	1	Marchetti	NNP	O	O	I-Peop
+298	2	.	.	O	O	O
+
+299	0	A	DT	O	B-NP	O
+299	1	terror	NN	O	I-NP	O
+299	2	on	IN	O	B-PP	O
+299	3	the	DT	O	B-NP	O
+299	4	Colts	NNP	O	I-NP	B-OrgTeam
+299	5	line	NN	O	I-NP	O
+299	6	.	.	O	O	O
+
+300	0	90	CD	O	O	B-Num
+300	1	.	.	O	O	O
+
+301	0	Bob	NNP	O	B-NP	B-Peop
+301	1	Kurland	NNP	O	I-NP	I-Peop
+301	2	.	.	O	O	O
+
+302	0	One	CD	O	B-NP	B-Num
+302	1	of	IN	O	B-PP	O
+302	2	the	DT	O	O	O
+302	3	original	JJ	O	O	O
+302	4	great	JJ	O	O	O
+302	5	college	NN	O	O	O
+302	6	basketball	NN	O	O	B-Sport
+302	7	7-footers	JJ	O	O	B-Num
+302	8	.	.	O	O	O
+
+303	0	91	CD	O	B-NP	B-Num
+303	1	.	.	O	O	O
+
+304	0	Sergei	NNP	O	O	B-Peop
+304	1	Federov	NNP	O	O	I-Peop
+304	2	.	.	O	O	O
+
+305	0	Nothing	NNP	O	B-NP	O
+305	1	defective	JJ	O	O	O
+305	2	about	IN	O	B-PP	O
+305	3	this	DT	O	B-NP	O
+305	4	two-time	JJ	O	I-NP	O
+305	5	Stanley	NNP	O	I-NP	O
+305	6	Cup	NNP	O	I-NP	O
+305	7	winner	NN	O	I-NP	O
+305	8	for	IN	O	B-PP	O
+305	9	the	DT	O	B-NP	O
+305	10	Detroit	NNP	O	I-NP	B-OrgTeam
+305	11	Red	NNP	O	I-NP	I-OrgTeam
+305	12	Wings	NNP	O	I-NP	I-OrgTeam
+305	13	.	.	O	O	O
+
+306	0	92	CD	O	O	B-Num
+306	1	.	.	O	O	O
+
+307	0	Reggie	NNP	O	B-NP	B-Peop
+307	1	White	NNP	O	I-NP	I-Peop
+307	2	.	.	O	O	O
+
+308	0	The	DT	O	B-NP	O
+308	1	Preacher	NNP	O	I-NP	B-ProfTitle
+308	2	has	VBZ	O	B-VP	O
+308	3	been	VBN	O	I-VP	O
+308	4	in	IN	O	B-PP	O
+308	5	the	DT	O	B-NP	O
+308	6	house	NN	O	I-NP	O
+308	7	every	DT	O	B-NP	O
+308	8	Sunday	NNP	O	I-NP	B-Date
+308	9	.	.	O	O	O
+
+309	0	93	CD	O	O	B-Num
+309	1	.	.	O	O	O
+
+310	0	Lee	NNP	O	B-NP	B-Peop
+310	1	Roy	NNP	O	I-NP	B-Peop
+310	2	Selmon	NNP	O	I-NP	I-Peop
+310	3	.	.	O	O	O
+
+311	0	The	DT	O	B-NP	O
+311	1	pro	NN	O	I-NP	O
+311	2	football	NN	O	I-NP	B-Sport
+311	3	hall	NN	O	I-NP	O
+311	4	of	IN	O	B-PP	O
+311	5	famer	NN	O	B-NP	O
+311	6	wore	VBD	O	B-VP	O
+311	7	93	CD	O	B-NP	B-Num
+311	8	during	IN	O	B-PP	O
+311	9	his	PP$	O	B-NP	O
+311	10	legendary	JJ	O	I-NP	O
+311	11	career	NN	O	I-NP	O
+311	12	at	IN	O	B-PP	O
+311	13	Oklahoma	NNP	O	B-NP	B-LocStat
+311	14	.	.	O	O	O
+
+312	0	94	CD	O	O	B-Num
+312	1	.	.	O	O	O
+
+313	0	Charles	NNP	O	B-NP	B-Peop
+313	1	Haley	NNP	O	I-NP	I-Peop
+313	2	.	.	O	O	O
+
+314	0	Pass	NNP	O	O	O
+314	1	rushing	VBG	O	O	O
+314	2	monster	NN	O	O	O
+314	3	for	IN	O	B-PP	O
+314	4	two	CD	O	B-NP	B-Num
+314	5	different	JJ	O	I-NP	O
+314	6	Super	NNP	O	I-NP	B-Org
+314	7	Bowl	NNP	O	I-NP	I-Org
+314	8	franchises	NNS	O	I-NP	O
+314	9	.	.	O	O	O
+
+315	0	95	CD	O	O	B-Num
+315	1	.	.	O	O	O
+
+316	0	Richard	NNP	O	B-NP	B-Peop
+316	1	Dent	NNP	O	I-NP	I-Peop
+316	2	.	.	O	O	O
+
+317	0	Super	NNP	O	O	B-Event
+317	1	Bowl	NNP	O	O	I-Event
+317	2	MVP	NNP	O	O	O
+317	3	on	IN	O	B-PP	O
+317	4	maybe	RB	O	O	O
+317	5	the	DT	O	B-NP	O
+317	6	greatest	JJS	O	I-NP	O
+317	7	defensive	JJ	O	I-NP	O
+317	8	team	NN	O	I-NP	O
+317	9	ever	RB	O	O	O
+317	10	.	.	O	O	O
+
+318	0	96	CD	O	O	B-Num
+318	1	.	.	O	O	O
+
+319	0	Clyde	NNP	O	B-NP	B-Peop
+319	1	Simmons	NNP	O	I-NP	I-Peop
+319	2	.	.	O	O	O
+
+320	0	Longtime	JJ	O	B-NP	O
+320	1	lineman	NN	O	I-NP	O
+320	2	with	IN	O	B-PP	O
+320	3	Eagles	NNP	O	B-NP	B-OrgTeam
+320	4	and	CC	O	I-NP	O
+320	5	others	NNS	O	I-NP	O
+320	6	.	.	O	O	O
+
+321	0	97	CD	O	O	B-Num
+321	1	.	.	O	O	O
+
+322	0	Art	NNP	O	B-NP	O
+322	1	Still	RB	O	O	O
+322	2	.	.	O	O	O
+
+323	0	Tough	JJ	O	B-NP	O
+323	1	lineman	NN	O	I-NP	O
+323	2	with	IN	O	B-PP	O
+323	3	the	DT	O	B-NP	O
+323	4	Chiefs	NNPS	O	I-NP	B-Org
+323	5	.	.	O	O	O
+
+324	0	98	CD	O	O	B-Num
+324	1	.	.	O	O	O
+
+325	0	Tom	NNP	O	B-NP	B-Peop
+325	1	Harmon	NNP	O	I-NP	I-Peop
+325	2	.	.	O	O	O
+
+326	0	The	DT	O	B-NP	O
+326	1	1940	CD	O	I-NP	B-Date
+326	2	Heisman-winning	NNP	O	I-NP	O
+326	3	halfback	NN	O	I-NP	O
+326	4	for	IN	O	B-PP	O
+326	5	Michigan	NNP	O	B-NP	B-LocStat
+326	6	also	RB	O	O	O
+326	7	sired	NN	O	B-NP	O
+326	8	another	DT	O	I-NP	O
+326	9	college	NN	O	I-NP	O
+326	10	football	NN	O	I-NP	B-Sport
+326	11	star	NN	O	I-NP	O
+326	12	who	WP	O	B-NP	O
+326	13	turned	VBD	O	B-VP	O
+326	14	actor	NN	O	B-NP	B-ProfTitle
+326	15	COMMA	COMMA	O	O	O
+326	16	Mark	NNP	O	B-NP	B-Peop
+326	17	Harmon	NNP	O	I-NP	I-Peop
+326	18	.	.	O	O	O
+
+327	0	99	CD	O	O	B-Num
+327	1	.	.	O	O	O
+
+328	0	Wayne	NNP	O	B-NP	B-Peop
+328	1	Gretzky	NNP	O	I-NP	I-Peop
+328	2	.	.	O	O	O
+
+329	0	We	PRP	O	B-NP	O
+329	1	got	VBD	O	B-VP	O
+329	2	to	TO	O	I-VP	O
+329	3	see	VB	O	I-VP	O
+329	4	the	DT	O	B-NP	O
+329	5	greatest	JJS	O	I-NP	O
+329	6	hockey	NN	O	I-NP	B-Sport
+329	7	player	NN	O	I-NP	B-ProfTitle
+329	8	ever	RB	O	O	O
+329	9	.	.	O	O	O
+
+330	0	00	CD	O	O	B-Num
+330	1	.	.	O	O	O
+
+331	0	Jim	NNP	O	B-NP	B-Peop
+331	1	Otto	NNP	O	I-NP	I-Peop
+331	2	.	.	O	O	O
+
+332	0	This	DT	O	B-NP	O
+332	1	Raider	NNP	O	I-NP	B-Peop
+332	2	played	VBD	O	B-VP	O
+332	3	center	NN	O	B-NP	O
+332	4	with	IN	O	B-PP	O
+332	5	a	DT	O	B-NP	O
+332	6	quarterback	NN	O	I-NP	O
+332	7	's	POS	O	B-NP	O
+332	8	face	NN	O	I-NP	O
+332	9	mask	NN	O	I-NP	O
+332	10	.	.	O	O	O
+
+333	0	Had	VBD	O	O	O
+333	1	to	TO	O	O	O
+333	2	be	VB	O	O	O
+333	3	tougher	JJR	O	O	O
+333	4	than	IN	O	B-PP	O
+333	5	any	DT	O	B-NP	O
+333	6	Chief	NNP	O	I-NP	B-ProfTitle
+333	7	COMMA	COMMA	O	O	O
+333	8	including	VBG	O	B-PP	O
+333	9	Robert	NNP	O	B-NP	B-Peop
+333	10	Parish	NNP	O	I-NP	I-Peop
+333	11	.	.	O	O	O
+
+334	0	You	PRP	O	B-NP	O
+334	1	might	MD	O	B-VP	O
+334	2	be	VB	O	I-VP	O
+334	3	wondering	VBG	O	I-VP	O
+334	4	why	WRB	O	O	O
+334	5	some	DT	O	B-NP	O
+334	6	early	JJ	O	I-NP	O
+334	7	stars	NNS	O	I-NP	O
+334	8	of	IN	O	B-PP	O
+334	9	baseball	NN	O	B-NP	B-Sport
+334	10	such	JJ	O	B-PP	O
+334	11	as	IN	O	I-PP	O
+334	12	Ty	NNP	O	B-NP	B-Peop
+334	13	Cobb	NNP	O	I-NP	I-Peop
+334	14	COMMA	COMMA	O	O	O
+334	15	Christy	NNP	O	B-NP	B-Peop
+334	16	Mathewson	NNP	O	I-NP	I-Peop
+334	17	and	CC	O	O	O
+334	18	Walter	NNP	O	O	B-Peop
+334	19	Johnson	NNP	O	O	I-Peop
+334	20	aren	NN	O	O	O
+334	21	't	NN	O	O	O
+334	22	on	IN	O	B-PP	O
+334	23	the	DT	O	B-NP	O
+334	24	list	NN	O	I-NP	O
+334	25	.	.	O	O	O
+
+335	0	The	DT	O	B-NP	O
+335	1	simple	JJ	O	I-NP	O
+335	2	answer	NN	O	I-NP	O
+335	3	is	VBZ	O	B-VP	O
+335	4	they	PRP	O	B-NP	O
+335	5	didn	NN	O	B-NP	O
+335	6	't	NN	O	I-NP	O
+335	7	have	VBP	O	B-VP	O
+335	8	jersey	NN	O	B-NP	O
+335	9	numbers	NNS	O	I-NP	O
+335	10	COMMA	COMMA	O	O	O
+335	11	which	WDT	O	B-NP	O
+335	12	did	VBD	O	B-VP	O
+335	13	not	RB	O	I-VP	O
+335	14	become	VBN	O	I-VP	O
+335	15	commonplace	JJ	O	O	O
+335	16	until	IN	O	O	O
+335	17	the	DT	O	B-NP	O
+335	18	Depression	NNP	O	I-NP	O
+335	19	.	.	O	O	O
+
+336	0	In	IN	O	B-PP	O
+336	1	1888	CD	O	B-NP	B-Date
+336	2	COMMA	COMMA	O	O	O
+336	3	the	DT	O	B-NP	O
+336	4	Cincinnati	NNP	O	I-NP	B-OrgTeam
+336	5	Reds	NNPS	O	I-NP	I-OrgTeam
+336	6	wore	VBD	O	B-VP	O
+336	7	numbers	NNS	O	B-NP	O
+336	8	on	IN	O	B-PP	O
+336	9	their	PP$	O	B-NP	O
+336	10	sleeves	NNS	O	I-NP	O
+336	11	COMMA	COMMA	O	O	O
+336	12	after	IN	O	B-PP	O
+336	13	a	DT	O	B-NP	O
+336	14	failed	VBD	O	I-NP	O
+336	15	previous	JJ	O	I-NP	O
+336	16	attempt	NN	O	I-NP	O
+336	17	by	IN	O	B-PP	O
+336	18	other	JJ	O	B-NP	O
+336	19	teams	NNS	O	I-NP	O
+336	20	to	TO	O	B-VP	O
+336	21	use	VB	O	I-VP	O
+336	22	different	JJ	O	B-NP	O
+336	23	colors	NNS	O	I-NP	B-Color
+336	24	to	TO	O	B-VP	O
+336	25	designate	VB	O	I-VP	O
+336	26	positions	NNS	O	B-NP	O
+336	27	that	IN	O	O	O
+336	28	players	NNS	O	B-NP	O
+336	29	manned	VBD	O	B-VP	O
+336	30	.	.	O	O	O
+
+337	0	In	IN	O	B-PP	O
+337	1	1916	CD	O	B-NP	B-Date
+337	2	COMMA	COMMA	O	O	O
+337	3	the	DT	O	B-NP	O
+337	4	Cleveland	NNP	O	I-NP	B-OrgTeam
+337	5	Indians	NNPS	O	I-NP	I-OrgTeam
+337	6	stole	VBD	O	B-VP	O
+337	7	the	DT	O	B-NP	O
+337	8	idea	NN	O	I-NP	O
+337	9	of	IN	O	B-PP	O
+337	10	numbers	NNS	O	B-NP	O
+337	11	on	IN	O	B-PP	O
+337	12	sleeves	NNS	O	B-NP	O
+337	13	for	IN	O	B-PP	O
+337	14	a	DT	O	B-NP	O
+337	15	June	NNP	O	I-NP	B-Date
+337	16	26	CD	O	I-NP	I-Date
+337	17	game	NN	O	I-NP	O
+337	18	against	IN	O	B-PP	O
+337	19	the	DT	O	B-NP	O
+337	20	White	NNP	O	I-NP	B-OrgTeam
+337	21	Sox	NNPS	O	I-NP	I-OrgTeam
+337	22	.	.	O	O	O
+
+338	0	The	DT	O	B-NP	O
+338	1	Washington	NNP	O	I-NP	B-LocCit
+338	2	Senators	NNS	O	I-NP	B-OrgPolBody
+338	3	went	VBD	O	B-VP	O
+338	4	one	CD	O	B-NP	B-Num
+338	5	step	NN	O	I-NP	O
+338	6	further	RB	O	O	O
+338	7	COMMA	COMMA	O	O	O
+338	8	adopting	VBG	O	B-VP	O
+338	9	numbers	NNS	O	B-NP	O
+338	10	for	IN	O	B-PP	O
+338	11	players	NNS	O	B-NP	O
+338	12	for	IN	O	B-PP	O
+338	13	the	DT	O	B-NP	O
+338	14	1924-25	CD	O	I-NP	B-Date
+338	15	seasons	NNS	O	I-NP	O
+338	16	.	.	O	O	O
+
+339	0	But	CC	O	O	O
+339	1	it	PRP	O	B-NP	O
+339	2	wasn	NN	O	B-NP	O
+339	3	't	NN	O	I-NP	O
+339	4	until	IN	O	O	O
+339	5	the	DT	O	B-NP	O
+339	6	Yankees	NNPS	O	I-NP	B-OrgTeam
+339	7	of	IN	O	B-PP	O
+339	8	1929	CD	O	B-NP	B-Date
+339	9	that	IN	O	O	O
+339	10	large	JJ	O	B-NP	O
+339	11	numbers	NNS	O	I-NP	O
+339	12	on	IN	O	B-PP	O
+339	13	the	DT	O	B-NP	O
+339	14	backs	VBZ	O	I-NP	O
+339	15	of	IN	O	B-PP	O
+339	16	uniforms	NNS	O	B-NP	O
+339	17	became	VBD	O	B-VP	O
+339	18	a	DT	O	B-NP	O
+339	19	staple	NN	O	I-NP	O
+339	20	.	.	O	O	O
+
+340	0	The	DT	O	B-NP	O
+340	1	numbers	NNS	O	I-NP	O
+340	2	were	VBD	O	B-VP	O
+340	3	assigned	VBN	O	I-VP	O
+340	4	according	VBG	O	B-PP	O
+340	5	to	TO	O	B-PP	O
+340	6	the	DT	O	B-NP	O
+340	7	player	NN	O	I-NP	B-ProfTitle
+340	8	's	POS	O	B-NP	O
+340	9	normal	JJ	O	I-NP	O
+340	10	spot	NN	O	I-NP	O
+340	11	in	IN	O	B-PP	O
+340	12	the	DT	O	B-NP	O
+340	13	batting	NN	O	I-NP	O
+340	14	order	NN	O	I-NP	O
+340	15	COMMA	COMMA	O	O	O
+340	16	which	WDT	O	B-NP	O
+340	17	is	VBZ	O	B-VP	O
+340	18	why	WRB	O	O	O
+340	19	Babe	NNP	O	B-NP	B-Peop
+340	20	Ruth	NNP	O	I-NP	I-Peop
+340	21	was	VBD	O	B-VP	O
+340	22	3	CD	O	B-NP	B-Num
+340	23	and	CC	O	O	O
+340	24	Lou	NNP	O	B-NP	B-Peop
+340	25	Gehrig	NNP	O	I-NP	I-Peop
+340	26	4	CD	O	I-NP	B-Num
+340	27	.	.	O	O	O
+
+341	0	Two	CD	O	B-NP	B-Num
+341	1	years	NNS	O	I-NP	B-Date
+341	2	later	RB	O	O	O
+341	3	COMMA	COMMA	O	O	O
+341	4	the	DT	O	B-NP	O
+341	5	American	NNP	O	I-NP	B-Org
+341	6	League	NNP	O	I-NP	I-Org
+341	7	made	VBD	O	B-VP	O
+341	8	numbers	NNS	O	B-NP	O
+341	9	mandatory	JJ	O	O	O
+341	10	COMMA	COMMA	O	O	O
+341	11	followed	VBD	O	B-VP	O
+341	12	by	IN	O	B-PP	O
+341	13	the	DT	O	B-NP	O
+341	14	National	NNP	O	I-NP	B-Org
+341	15	League	NNP	O	I-NP	I-Org
+341	16	two	CD	O	B-NP	B-Num
+341	17	years	NNS	O	I-NP	B-Date
+341	18	later	RB	O	O	O
+341	19	.	.	O	O	O

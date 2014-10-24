@@ -1,0 +1,10 @@
+0	0	1999-09-21	CD	O	O	B-Num
+0	1	23	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	20	CD	O	B-NP	I-Num
+0	4	&	CC	O	O	O
+0	5	HT	NNP	O	B-NP	O
+0	6	;	:	O	O	O
+0	7	&	CC	O	O	O
+0	8	HT	NNP	O	B-NP	O
+0	9	;	:	O	O	O

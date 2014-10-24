@@ -1,5 +1,4 @@
 import math
-import numpy
 from readData import *
 import random as r
 

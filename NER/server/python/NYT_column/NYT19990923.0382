@@ -1,0 +1,9 @@
+0	0	1999-09-23	CD	O	O	B-Num
+0	1	20	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	37	CD	O	O	I-Num
+0	4	-LBR-	-LBR-	O	O	O
+0	5	ADDS	NNP	O	O	O
+0	6	USC	NNP	O	O	O
+0	7	NOTEBOOK	NNP	O	O	O
+0	8	-RBR-	-RBR-	O	O	O

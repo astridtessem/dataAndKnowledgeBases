@@ -1,0 +1,798 @@
+0	0	1998-09-22	CD	O	B-NP	B-Num
+0	1	17	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	46	CD	O	B-NP	I-Num
+0	4	&	CC	O	O	O
+0	5	HT	NNP	O	B-NP	O
+0	6	;	:	O	O	O
+
+1	0	IT	PRP	O	B-NP	O
+1	1	NETWORK	NN	O	B-NP	O
+1	2	NEWS	NN	O	I-NP	O
+1	3	BUDGET	NNP	O	O	O
+
+2	0	NOTE	NN	O	B-NP	O
+2	1	:	:	O	O	O
+2	2	If	IN	O	O	O
+2	3	you	PRP	O	B-NP	O
+2	4	choose	VBP	O	B-VP	O
+2	5	not	RB	O	I-VP	O
+2	6	to	TO	O	I-VP	O
+2	7	use	VB	O	I-VP	O
+2	8	IT	PRP	O	B-NP	O
+2	9	Networks	NNP	O	B-NP	O
+2	10	four-digit	JJ	O	I-NP	O
+2	11	number	NN	O	I-NP	O
+2	12	COMMA	COMMA	O	O	O
+2	13	please	VBP	O	B-VP	O
+2	14	be	VB	O	I-VP	O
+2	15	sure	JJ	O	O	O
+2	16	your	PP$	O	B-NP	O
+2	17	4-digit	JJ	O	I-NP	B-Num
+2	18	number	NN	O	I-NP	O
+2	19	is	VBZ	O	B-VP	O
+2	20	calling	VBG	O	I-VP	O
+2	21	out	IN	O	O	O
+2	22	to	TO	O	B-PP	O
+2	23	their	PP$	O	O	O
+2	24	5-digit	JJ	O	O	B-Num
+2	25	holding	VBG	O	O	O
+2	26	category	NN	O	O	O
+2	27	.	.	O	O	O
+
+3	0	If	IN	O	O	O
+3	1	you	PRP	O	B-NP	O
+3	2	need	VBP	O	B-VP	O
+3	3	assistance	NN	O	B-NP	O
+3	4	in	IN	O	B-PP	O
+3	5	setting	VBG	O	B-VP	O
+3	6	this	DT	O	B-NP	O
+3	7	up	IN	O	O	O
+3	8	COMMA	COMMA	O	O	O
+3	9	please	VBP	O	B-VP	O
+3	10	call	VBP	O	B-VP	O
+3	11	IT	PRP	O	B-NP	O
+3	12	NETWORK	NN	O	B-NP	O
+3	13	at	IN	O	B-PP	O
+3	14	-LBR-	-LBR-	O	O	O
+3	15	800	CD	O	O	B-Num
+3	16	-RBR-	-RBR-	O	O	O
+3	17	396-9482	CD	O	O	B-Num
+3	18	.	.	O	O	O
+
+4	0	SPORTSNET	NNP	O	B-NP	B-Org
+4	1	PLUS	NNP	O	I-NP	I-Org
+4	2	BUDGET	NNP	O	I-NP	I-Org
+4	3	:	:	O	O	O
+
+5	0	This	DT	O	B-NP	O
+5	1	is	VBZ	O	B-VP	O
+5	2	the	DT	O	B-NP	O
+5	3	most	RBS	O	I-NP	O
+5	4	comprehensive	JJ	O	I-NP	O
+5	5	sports	NNS	O	I-NP	O
+5	6	information	NN	O	I-NP	O
+5	7	service	NN	O	I-NP	O
+5	8	in	IN	O	B-PP	O
+5	9	the	DT	O	B-NP	O
+5	10	business	NN	O	I-NP	O
+5	11	.	.	O	O	O
+
+6	0	For	IN	O	B-PP	O
+6	1	questions	NNS	O	B-NP	O
+6	2	and	CC	O	I-NP	O
+6	3	comments	NNS	O	I-NP	O
+6	4	COMMA	COMMA	O	O	O
+6	5	contact	NN	O	B-NP	O
+6	6	Robert	NNP	O	I-NP	B-Peop
+6	7	Bullock	NNP	O	I-NP	I-Peop
+6	8	at	IN	O	B-PP	O
+6	9	-LBR-	-LBR-	O	O	O
+6	10	561	CD	O	O	B-Num
+6	11	-RBR-	-RBR-	O	O	O
+6	12	820-2036	CD	O	O	B-Num
+6	13	.	.	O	O	O
+
+7	0	TODAY	NNP	O	B-NP	O
+7	1	'S	VBZ	O	B-VP	O
+7	2	COVERAGE	NNP	O	B-NP	O
+7	3	:	:	O	O	O
+
+8	0	TENNIS	NNP	O	B-NP	O
+8	1	:	:	O	O	O
+
+9	0	Women	NNP	O	B-NP	O
+9	1	's	POS	O	B-NP	O
+9	2	:	:	O	O	O
+9	3	Toyota	NNP	O	B-NP	O
+9	4	Princess	NNP	O	I-NP	O
+9	5	Cup	NNP	O	I-NP	O
+9	6	COMMA	COMMA	O	O	O
+9	7	September	NNP	O	B-NP	B-Date
+9	8	21-27	CD	O	I-NP	I-Date
+9	9	.	.	O	O	O
+
+10	0	BASEBALL	NNP	O	B-NP	O
+10	1	:	:	O	O	O
+
+11	0	AL	NNP	O	B-NP	B-LocStat
+11	1	:	:	O	O	O
+
+12	0	Tuesday	NNP	O	B-NP	B-Date
+12	1	COMMA	COMMA	O	O	O
+12	2	Sept.	NNP	O	B-NP	B-Date
+12	3	22	CD	O	I-NP	I-Date
+12	4	Cleveland	NNP	O	I-NP	B-LocCit
+12	5	at	IN	O	B-PP	O
+12	6	N.Y.	NNP	O	B-NP	B-LocStat
+12	7	Yankees	NNPS	O	I-NP	B-OrgTeam
+12	8	COMMA	COMMA	O	O	O
+12	9	-LBR-	-LBR-	O	O	O
+12	10	DH	NNP	O	O	O
+12	11	-RBR-	-RBR-	O	O	O
+12	12	1	CD	O	B-NP	B-NumTime
+12	13	:	:	O	O	I-NumTime
+12	14	05	CD	O	B-NP	I-NumTime
+12	15	p.m	RB	O	I-NP	I-NumTime
+12	16	.	.	O	O	O
+
+13	0	Tampa	NNP	O	B-NP	B-OrgCorp
+13	1	Bay	NNP	O	I-NP	I-OrgCorp
+13	2	at	IN	O	B-PP	O
+13	3	Boston	NNP	O	B-NP	B-LocCit
+13	4	COMMA	COMMA	O	O	O
+13	5	7	CD	O	B-NP	B-NumTime
+13	6	:	:	O	O	I-NumTime
+13	7	05	CD	O	B-NP	I-NumTime
+13	8	p.m	RB	O	I-NP	I-NumTime
+13	9	.	.	O	O	O
+
+14	0	Baltimore	NNP	O	B-NP	B-LocCit
+14	1	at	IN	O	B-PP	O
+14	2	Toronto	NNP	O	B-NP	B-LocCit
+14	3	COMMA	COMMA	O	O	O
+14	4	7	CD	O	B-NP	B-NumTime
+14	5	:	:	O	O	I-NumTime
+14	6	05	CD	O	B-NP	I-NumTime
+14	7	p.m	RB	O	I-NP	I-NumTime
+14	8	.	.	O	O	O
+
+15	0	Detroit	NNP	O	B-NP	B-LocCit
+15	1	at	IN	O	B-PP	O
+15	2	Kansas	NNP	O	B-NP	B-LocCit
+15	3	City	NNP	O	I-NP	I-LocCit
+15	4	COMMA	COMMA	O	O	O
+15	5	8	CD	O	B-NP	B-NumTime
+15	6	:	:	O	O	I-NumTime
+15	7	05	CD	O	B-NP	I-NumTime
+15	8	p.m	RB	O	I-NP	I-NumTime
+15	9	.	.	O	O	O
+
+16	0	Chicago	NNP	O	B-NP	B-OrgTeam
+16	1	White	NNP	O	I-NP	I-OrgTeam
+16	2	Sox	NNPS	O	I-NP	I-OrgTeam
+16	3	at	IN	O	B-PP	O
+16	4	Minnesota	NNP	O	B-NP	B-LocStat
+16	5	COMMA	COMMA	O	O	O
+16	6	8	CD	O	B-NP	B-NumTime
+16	7	:	:	O	O	I-NumTime
+16	8	05	CD	O	B-NP	I-NumTime
+16	9	p.m	RB	O	I-NP	I-NumTime
+16	10	.	.	O	O	O
+
+17	0	Texas	NNP	O	B-NP	B-LocStat
+17	1	at	IN	O	B-PP	O
+17	2	Anaheim	NNP	O	B-NP	B-LocCit
+17	3	COMMA	COMMA	O	O	O
+17	4	10	CD	O	B-NP	B-NumTime
+17	5	:	:	O	O	I-NumTime
+17	6	05	CD	O	B-NP	I-NumTime
+17	7	p.m	RB	O	I-NP	I-NumTime
+17	8	.	.	O	O	O
+
+18	0	Oakland	NNP	O	B-NP	B-LocCit
+18	1	at	IN	O	B-PP	O
+18	2	Seattle	NNP	O	B-NP	B-LocCit
+18	3	COMMA	COMMA	O	O	O
+18	4	10	CD	O	B-NP	B-NumTime
+18	5	:	:	O	O	I-NumTime
+18	6	05	CD	O	B-NP	I-NumTime
+18	7	p.m	RB	O	I-NP	I-NumTime
+18	8	.	.	O	O	O
+
+19	0	NL	NNP	O	B-NP	O
+19	1	:	:	O	O	O
+
+20	0	Tuesday	NNP	O	B-NP	B-Date
+20	1	COMMA	COMMA	O	O	O
+20	2	Sept.	NNP	O	B-NP	B-Date
+20	3	22	CD	O	I-NP	I-Date
+20	4	Atlanta	NNP	O	I-NP	B-LocCit
+20	5	at	IN	O	B-PP	O
+20	6	Florida	NNP	O	B-NP	B-LocStat
+20	7	COMMA	COMMA	O	O	O
+20	8	7	CD	O	B-NP	B-NumTime
+20	9	:	:	O	O	I-NumTime
+20	10	05	CD	O	B-NP	I-NumTime
+20	11	p.m	RB	O	I-NP	I-NumTime
+20	12	.	.	O	O	O
+
+21	0	Philadelphia	NNP	O	B-NP	B-LocCit
+21	1	at	IN	O	B-PP	O
+21	2	Cincinnati	NNP	O	B-NP	B-LocCit
+21	3	COMMA	COMMA	O	O	O
+21	4	7	CD	O	B-NP	B-NumTime
+21	5	:	:	O	O	I-NumTime
+21	6	05	CD	O	B-NP	I-NumTime
+21	7	p.m	RB	O	I-NP	I-NumTime
+21	8	.	.	O	O	O
+
+22	0	Montreal	NNP	O	B-NP	B-LocCit
+22	1	at	IN	O	B-PP	O
+22	2	N.Y.	NNP	O	B-NP	B-LocStat
+22	3	Mets	NNP	O	I-NP	B-OrgTeam
+22	4	COMMA	COMMA	O	O	O
+22	5	7	CD	O	B-NP	B-NumTime
+22	6	:	:	O	O	I-NumTime
+22	7	40	CD	O	B-NP	I-NumTime
+22	8	p.m	RB	O	I-NP	I-NumTime
+22	9	.	.	O	O	O
+
+23	0	Chicago	NNP	O	O	B-OrgTeam
+23	1	Cubs	NNP	O	O	I-OrgTeam
+23	2	at	IN	O	B-PP	O
+23	3	Milwaukee	NNP	O	B-NP	B-LocCit
+23	4	COMMA	COMMA	O	O	O
+23	5	8	CD	O	B-NP	B-NumTime
+23	6	:	:	O	O	I-NumTime
+23	7	05	CD	O	B-NP	I-NumTime
+23	8	p.m	RB	O	I-NP	I-NumTime
+23	9	.	.	O	O	O
+
+24	0	Arizona	NNP	O	B-NP	B-LocStat
+24	1	at	IN	O	B-PP	O
+24	2	Colorado	NNP	O	B-NP	B-LocStat
+24	3	COMMA	COMMA	O	O	O
+24	4	8	CD	O	B-NP	B-NumTime
+24	5	:	:	O	O	I-NumTime
+24	6	05	CD	O	B-NP	I-NumTime
+24	7	p.m	RB	O	I-NP	I-NumTime
+24	8	.	.	O	O	O
+
+25	0	Houston	NNP	O	B-NP	B-LocCit
+25	1	at	IN	O	B-PP	O
+25	2	St.	NNP	O	B-NP	B-LocCit
+25	3	Louis	NNP	O	I-NP	I-LocCit
+25	4	COMMA	COMMA	O	O	O
+25	5	8	CD	O	B-NP	B-NumTime
+25	6	:	:	O	O	I-NumTime
+25	7	10	CD	O	B-NP	I-NumTime
+25	8	p.m	RB	O	I-NP	I-NumTime
+25	9	.	.	O	O	O
+
+26	0	San	NNP	O	B-NP	B-LocCit
+26	1	Diego	NNP	O	I-NP	I-LocCit
+26	2	at	IN	O	B-PP	O
+26	3	Los	NNP	O	B-NP	B-LocCit
+26	4	Angeles	NNP	O	I-NP	I-LocCit
+26	5	COMMA	COMMA	O	O	O
+26	6	10	CD	O	B-NP	B-NumTime
+26	7	:	:	O	O	I-NumTime
+26	8	05	CD	O	B-NP	I-NumTime
+26	9	p.m	RB	O	I-NP	I-NumTime
+26	10	.	.	O	O	O
+
+27	0	Pittsburgh	NNP	O	B-NP	B-LocCit
+27	1	at	IN	O	B-PP	O
+27	2	San	NNP	O	B-NP	B-LocCit
+27	3	Francisco	NNP	O	I-NP	I-LocCit
+27	4	COMMA	COMMA	O	O	O
+27	5	10	CD	O	B-NP	B-NumTime
+27	6	:	:	O	O	I-NumTime
+27	7	05	CD	O	B-NP	I-NumTime
+27	8	p.m	RB	O	I-NP	I-NumTime
+27	9	.	.	O	O	O
+
+28	0	TOMORROW	NNP	O	B-NP	O
+28	1	'S	VBZ	O	B-VP	O
+28	2	COVERAGE	NNP	O	B-NP	O
+28	3	:	:	O	O	O
+
+29	0	BASEBALL	NNP	O	B-NP	O
+29	1	:	:	O	O	O
+
+30	0	AL	NNP	O	B-NP	B-LocStat
+30	1	:	:	O	O	O
+
+31	0	Wednesday	NNP	O	B-NP	B-Date
+31	1	COMMA	COMMA	O	O	O
+31	2	Sept.	NNP	O	B-NP	B-Date
+31	3	23	CD	O	I-NP	I-Date
+31	4	Tampa	NNP	O	I-NP	B-OrgCorp
+31	5	Bay	NNP	O	I-NP	I-OrgCorp
+31	6	at	IN	O	B-PP	O
+31	7	Boston	NNP	O	B-NP	B-LocCit
+31	8	COMMA	COMMA	O	O	O
+31	9	7	CD	O	B-NP	B-NumTime
+31	10	:	:	O	O	I-NumTime
+31	11	05	CD	O	B-NP	I-NumTime
+31	12	p.m	RB	O	I-NP	I-NumTime
+31	13	.	.	O	O	O
+
+32	0	Baltimore	NNP	O	B-NP	B-LocCit
+32	1	at	IN	O	B-PP	O
+32	2	Toronto	NNP	O	B-NP	B-LocCit
+32	3	COMMA	COMMA	O	O	O
+32	4	7	CD	O	B-NP	B-NumTime
+32	5	:	:	O	O	I-NumTime
+32	6	05	CD	O	B-NP	I-NumTime
+32	7	p.m	RB	O	I-NP	I-NumTime
+32	8	.	.	O	O	O
+
+33	0	Cleveland	NNP	O	B-NP	B-LocCit
+33	1	at	IN	O	B-PP	O
+33	2	N.Y.	NNP	O	B-NP	B-LocStat
+33	3	Yankees	NNPS	O	I-NP	B-OrgTeam
+33	4	COMMA	COMMA	O	O	O
+33	5	7	CD	O	B-NP	B-NumTime
+33	6	:	:	O	O	I-NumTime
+33	7	35	CD	O	B-NP	I-NumTime
+33	8	p.m	RB	O	I-NP	I-NumTime
+33	9	.	.	O	O	O
+
+34	0	Detroit	NNP	O	B-NP	B-LocCit
+34	1	at	IN	O	B-PP	O
+34	2	Kansas	NNP	O	B-NP	B-LocCit
+34	3	City	NNP	O	I-NP	I-LocCit
+34	4	COMMA	COMMA	O	O	O
+34	5	8	CD	O	B-NP	B-NumTime
+34	6	:	:	O	O	I-NumTime
+34	7	05	CD	O	B-NP	I-NumTime
+34	8	p.m	RB	O	I-NP	I-NumTime
+34	9	.	.	O	O	O
+
+35	0	Chicago	NNP	O	B-NP	B-OrgTeam
+35	1	White	NNP	O	I-NP	I-OrgTeam
+35	2	Sox	NNPS	O	I-NP	I-OrgTeam
+35	3	at	IN	O	B-PP	O
+35	4	Minnesota	NNP	O	B-NP	B-LocStat
+35	5	COMMA	COMMA	O	O	O
+35	6	8	CD	O	B-NP	B-NumTime
+35	7	:	:	O	O	I-NumTime
+35	8	05	CD	O	B-NP	I-NumTime
+35	9	p.m	RB	O	I-NP	I-NumTime
+35	10	.	.	O	O	O
+
+36	0	Texas	NNP	O	B-NP	B-LocStat
+36	1	at	IN	O	B-PP	O
+36	2	Anaheim	NNP	O	B-NP	B-LocCit
+36	3	COMMA	COMMA	O	O	O
+36	4	10	CD	O	B-NP	B-NumTime
+36	5	:	:	O	O	I-NumTime
+36	6	35	CD	O	B-NP	I-NumTime
+36	7	p.m	RB	O	I-NP	I-NumTime
+36	8	.	.	O	O	O
+
+37	0	Oakland	NNP	O	B-NP	B-LocCit
+37	1	at	IN	O	B-PP	O
+37	2	Seattle	NNP	O	B-NP	B-LocCit
+37	3	COMMA	COMMA	O	O	O
+37	4	10	CD	O	B-NP	B-NumTime
+37	5	:	:	O	O	I-NumTime
+37	6	35	CD	O	B-NP	I-NumTime
+37	7	p.m	RB	O	I-NP	I-NumTime
+37	8	.	.	O	O	O
+
+38	0	NL	NNP	O	B-NP	O
+38	1	:	:	O	O	O
+
+39	0	Wednesday	NNP	O	B-NP	B-Date
+39	1	COMMA	COMMA	O	O	O
+39	2	Sept.	NNP	O	O	B-Date
+39	3	23	CD	O	O	I-Date
+39	4	Chicago	NNP	O	O	B-OrgTeam
+39	5	Cubs	NNP	O	O	I-OrgTeam
+39	6	at	IN	O	B-PP	O
+39	7	Milwaukee	NNP	O	B-NP	B-LocCit
+39	8	COMMA	COMMA	O	O	O
+39	9	2	CD	O	B-NP	B-NumTime
+39	10	:	:	O	O	I-NumTime
+39	11	05	CD	O	B-NP	I-NumTime
+39	12	p.m	RB	O	I-NP	I-NumTime
+39	13	.	.	O	O	O
+
+40	0	Pittsburgh	NNP	O	B-NP	B-LocCit
+40	1	at	IN	O	B-PP	O
+40	2	San	NNP	O	B-NP	B-LocCit
+40	3	Francisco	NNP	O	I-NP	I-LocCit
+40	4	COMMA	COMMA	O	O	O
+40	5	3	CD	O	B-NP	B-NumTime
+40	6	:	:	O	O	I-NumTime
+40	7	35	CD	O	B-NP	I-NumTime
+40	8	p.m	RB	O	I-NP	I-NumTime
+40	9	.	.	O	O	O
+
+41	0	Atlanta	NNP	O	B-NP	B-LocCit
+41	1	at	IN	O	B-PP	O
+41	2	Florida	NNP	O	B-NP	B-LocStat
+41	3	COMMA	COMMA	O	O	O
+41	4	7	CD	O	B-NP	B-NumTime
+41	5	:	:	O	O	I-NumTime
+41	6	05	CD	O	B-NP	I-NumTime
+41	7	p.m	RB	O	I-NP	I-NumTime
+41	8	.	.	O	O	O
+
+42	0	Philadelphia	NNP	O	B-NP	B-LocCit
+42	1	at	IN	O	B-PP	O
+42	2	Cincinnati	NNP	O	B-NP	B-LocCit
+42	3	COMMA	COMMA	O	O	O
+42	4	7	CD	O	B-NP	B-NumTime
+42	5	:	:	O	O	I-NumTime
+42	6	05	CD	O	B-NP	I-NumTime
+42	7	p.m	RB	O	I-NP	I-NumTime
+42	8	.	.	O	O	O
+
+43	0	Montreal	NNP	O	B-NP	B-LocCit
+43	1	at	IN	O	B-PP	O
+43	2	N.Y.	NNP	O	B-NP	B-LocStat
+43	3	Mets	NNP	O	I-NP	B-OrgTeam
+43	4	COMMA	COMMA	O	O	O
+43	5	7	CD	O	B-NP	B-NumTime
+43	6	:	:	O	O	I-NumTime
+43	7	40	CD	O	B-NP	I-NumTime
+43	8	p.m	RB	O	I-NP	I-NumTime
+43	9	.	.	O	O	O
+
+44	0	Arizona	NNP	O	B-NP	B-LocStat
+44	1	at	IN	O	B-PP	O
+44	2	Colorado	NNP	O	B-NP	B-LocStat
+44	3	COMMA	COMMA	O	O	O
+44	4	8	CD	O	B-NP	B-NumTime
+44	5	:	:	O	O	I-NumTime
+44	6	05	CD	O	B-NP	I-NumTime
+44	7	p.m	RB	O	I-NP	I-NumTime
+44	8	.	.	O	O	O
+
+45	0	Houston	NNP	O	B-NP	B-LocCit
+45	1	at	IN	O	B-PP	O
+45	2	St.	NNP	O	B-NP	B-LocCit
+45	3	Louis	NNP	O	I-NP	I-LocCit
+45	4	COMMA	COMMA	O	O	O
+45	5	8	CD	O	B-NP	B-NumTime
+45	6	:	:	O	O	I-NumTime
+45	7	10	CD	O	B-NP	I-NumTime
+45	8	p.m	RB	O	I-NP	I-NumTime
+45	9	.	.	O	O	O
+
+46	0	San	NNP	O	B-NP	B-LocCit
+46	1	Diego	NNP	O	I-NP	I-LocCit
+46	2	at	IN	O	B-PP	O
+46	3	Los	NNP	O	B-NP	B-LocCit
+46	4	Angeles	NNP	O	I-NP	I-LocCit
+46	5	COMMA	COMMA	O	O	O
+46	6	10	CD	O	B-NP	B-NumTime
+46	7	:	:	O	O	I-NumTime
+46	8	35	CD	O	B-NP	I-NumTime
+46	9	p.m	RB	O	I-NP	I-NumTime
+46	10	.	.	O	O	O
+
+47	0	OTHER	NNP	O	B-NP	O
+47	1	COVERAGE	NNP	O	I-NP	O
+47	2	:	:	O	O	O
+
+48	0	COLLEGE	NNP	O	B-NP	B-Org
+48	1	FOOTBALL	NNP	O	I-NP	I-Org
+48	2	COVERAGE	NNP	O	I-NP	I-Org
+48	3	:	:	O	O	O
+
+49	0	EVERY	NNP	O	O	O
+49	1	Division	NNP	O	O	O
+49	2	I-A	NNP	O	O	O
+49	3	and	CC	O	O	O
+49	4	I-AA	NNP	O	B-NP	O
+49	5	Team	NNP	O	I-NP	B-OrgCorp
+49	6	Is	VBZ	O	B-VP	O
+49	7	Covered	JJ	O	O	O
+49	8	!	NN	O	O	O
+
+50	0	MAJOR	JJ	O	B-NP	O
+50	1	LEAGUE	NNP	O	I-NP	O
+50	2	SOCCER	NNP	O	I-NP	O
+50	3	:	:	O	O	O
+50	4	ALL	NNP	O	O	B-Money
+50	5	TEAMS	NNP	O	O	O
+50	6	UPDATED	NNP	O	O	O
+50	7	IN	IN	O	B-PP	O
+50	8	INDIVIDUAL	NNP	O	B-NP	O
+50	9	TEAM	NNP	O	I-NP	O
+50	10	CATEGORIES	NNP	O	I-NP	O
+50	11	.	.	O	O	O
+
+51	0	CFL	NNP	O	B-NP	O
+51	1	Coverage	NNP	O	I-NP	O
+51	2	:	:	O	O	O
+51	3	July-October	NNP	O	B-NP	O
+51	4	.	.	O	O	O
+
+52	0	NHL	NNP	O	B-NP	O
+52	1	Preseason	NNP	O	I-NP	O
+52	2	Coverage	NNP	O	I-NP	O
+52	3	.	.	O	O	O
+
+53	0	UPCOMING	NNP	O	B-NP	O
+53	1	:	:	O	O	O
+
+54	0	NFL	NNP	O	B-NP	B-OrgCorp
+54	1	:	:	O	O	O
+
+55	0	WEEK	NN	O	O	O
+55	1	4	CD	O	O	B-Num
+55	2	OPEN	JJ	O	O	O
+55	3	:	:	O	O	O
+55	4	Buffalo	NNP	O	B-NP	B-LocCit
+55	5	COMMA	COMMA	O	O	O
+55	6	Miami	NNP	O	B-NP	B-LocCit
+55	7	COMMA	COMMA	O	O	O
+55	8	New	NNP	O	B-NP	B-Loc
+55	9	England	NNP	O	I-NP	I-Loc
+55	10	COMMA	COMMA	O	O	O
+55	11	New	NNP	O	O	B-OrgTeam
+55	12	York	NNP	O	O	I-OrgTeam
+55	13	Jets	NNP	O	O	I-OrgTeam
+
+56	0	Sunday	NNP	O	B-NP	B-Date
+56	1	COMMA	COMMA	O	O	O
+56	2	Sept.	NNP	O	B-NP	B-Date
+56	3	27	CD	O	I-NP	I-Date
+56	4	Arizona	NNP	O	I-NP	B-LocStat
+56	5	at	IN	O	B-PP	O
+56	6	St.	NNP	O	B-NP	B-LocCit
+56	7	Louis	NNP	O	I-NP	I-LocCit
+56	8	COMMA	COMMA	O	O	O
+56	9	1	CD	O	B-NP	B-NumTime
+56	10	:	:	O	O	I-NumTime
+56	11	01	CD	O	B-NP	I-NumTime
+56	12	p.m	RB	O	I-NP	I-NumTime
+56	13	.	.	O	O	O
+
+57	0	Denver	NNP	O	B-NP	B-Peop
+57	1	at	IN	O	B-PP	O
+57	2	Washington	NNP	O	B-NP	B-LocCit
+57	3	COMMA	COMMA	O	O	O
+57	4	1	CD	O	B-NP	B-NumTime
+57	5	:	:	O	O	I-NumTime
+57	6	01	CD	O	B-NP	I-NumTime
+57	7	p.m	RB	O	I-NP	I-NumTime
+57	8	.	.	O	O	O
+
+58	0	Green	NNP	O	B-NP	B-LocCit
+58	1	Bay	NNP	O	I-NP	I-LocCit
+58	2	at	IN	O	B-PP	O
+58	3	Carolina	NNP	O	B-NP	O
+58	4	COMMA	COMMA	O	O	O
+58	5	1	CD	O	B-NP	B-NumTime
+58	6	:	:	O	O	I-NumTime
+58	7	01	CD	O	B-NP	I-NumTime
+58	8	p.m	RB	O	I-NP	I-NumTime
+58	9	.	.	O	O	O
+
+59	0	Jacksonville	NNP	O	B-NP	B-LocCit
+59	1	at	IN	O	B-PP	O
+59	2	Tennessee	NNP	O	B-NP	B-LocStat
+59	3	COMMA	COMMA	O	O	O
+59	4	1	CD	O	B-NP	B-NumTime
+59	5	:	:	O	O	I-NumTime
+59	6	01	CD	O	B-NP	I-NumTime
+59	7	p.m	RB	O	I-NP	I-NumTime
+59	8	.	.	O	O	O
+
+60	0	Kansas	NNP	O	B-NP	B-LocCit
+60	1	City	NNP	O	I-NP	I-LocCit
+60	2	at	IN	O	B-PP	O
+60	3	Philadelphia	NNP	O	B-NP	B-LocCit
+60	4	COMMA	COMMA	O	O	O
+60	5	1	CD	O	B-NP	B-NumTime
+60	6	:	:	O	O	I-NumTime
+60	7	01	CD	O	B-NP	I-NumTime
+60	8	p.m	RB	O	I-NP	I-NumTime
+60	9	.	.	O	O	O
+
+61	0	New	NNP	O	B-NP	B-LocCit
+61	1	Orleans	NNP	O	I-NP	I-LocCit
+61	2	at	IN	O	B-PP	O
+61	3	Indianapolis	NNP	O	B-NP	B-LocCit
+61	4	COMMA	COMMA	O	O	O
+61	5	1	CD	O	B-NP	B-NumTime
+61	6	:	:	O	O	I-NumTime
+61	7	01	CD	O	B-NP	I-NumTime
+61	8	p.m	RB	O	I-NP	I-NumTime
+61	9	.	.	O	O	O
+
+62	0	Oakland	NNP	O	B-NP	B-LocCit
+62	1	at	IN	O	B-PP	O
+62	2	Dallas	NNP	O	B-NP	B-LocCit
+62	3	COMMA	COMMA	O	O	O
+62	4	1	CD	O	B-NP	B-NumTime
+62	5	:	:	O	O	I-NumTime
+62	6	01	CD	O	B-NP	I-NumTime
+62	7	p.m	RB	O	I-NP	I-NumTime
+62	8	.	.	O	O	O
+
+63	0	Seattle	NNP	O	B-NP	B-LocCit
+63	1	at	IN	O	B-PP	O
+63	2	Pittsburgh	NNP	O	B-NP	B-LocCit
+63	3	COMMA	COMMA	O	O	O
+63	4	4	CD	O	B-NP	B-NumTime
+63	5	:	:	O	O	I-NumTime
+63	6	05	CD	O	B-NP	I-NumTime
+63	7	p.m	RB	O	I-NP	I-NumTime
+63	8	.	.	O	O	O
+
+64	0	New	NNP	O	B-NP	B-OrgTeam
+64	1	York	NNP	O	I-NP	I-OrgTeam
+64	2	Giants	NNPS	O	I-NP	I-OrgTeam
+64	3	at	IN	O	B-PP	O
+64	4	San	NNP	O	B-NP	B-LocCit
+64	5	Diego	NNP	O	I-NP	I-LocCit
+64	6	COMMA	COMMA	O	O	O
+64	7	4	CD	O	B-NP	B-NumTime
+64	8	:	:	O	O	I-NumTime
+64	9	15	CD	O	B-NP	I-NumTime
+64	10	p.m	RB	O	I-NP	I-NumTime
+64	11	.	.	O	O	O
+
+65	0	Atlanta	NNP	O	B-NP	B-LocCit
+65	1	at	IN	O	B-PP	O
+65	2	San	NNP	O	B-NP	B-LocCit
+65	3	Francisco	NNP	O	I-NP	I-LocCit
+65	4	COMMA	COMMA	O	O	O
+65	5	4	CD	O	B-NP	B-NumTime
+65	6	:	:	O	O	I-NumTime
+65	7	15	CD	O	B-NP	I-NumTime
+65	8	p.m	RB	O	I-NP	I-NumTime
+65	9	.	.	O	O	O
+
+66	0	Minnesota	NNP	O	B-NP	B-LocStat
+66	1	at	IN	O	B-PP	O
+66	2	Chicago	NNP	O	B-NP	B-LocCit
+66	3	COMMA	COMMA	O	O	O
+66	4	4	CD	O	B-NP	B-NumTime
+66	5	:	:	O	O	I-NumTime
+66	6	15	CD	O	B-NP	I-NumTime
+66	7	p.m	RB	O	I-NP	I-NumTime
+66	8	.	.	O	O	O
+
+67	0	Cincinnati	NNP	O	B-NP	B-LocCit
+67	1	at	IN	O	B-PP	O
+67	2	Baltimore	NNP	O	B-NP	B-LocCit
+67	3	COMMA	COMMA	O	O	O
+67	4	8	CD	O	B-NP	B-NumTime
+67	5	:	:	O	O	I-NumTime
+67	6	20	CD	O	B-NP	I-NumTime
+67	7	p.m	RB	O	I-NP	I-NumTime
+67	8	.	.	O	O	O
+
+68	0	Monday	NNP	O	B-NP	B-Date
+68	1	COMMA	COMMA	O	O	O
+68	2	Sept.	NNP	O	B-NP	B-Date
+68	3	28	CD	O	I-NP	I-Date
+68	4	Tampa	NNP	O	I-NP	B-OrgCorp
+68	5	Bay	NNP	O	I-NP	I-OrgCorp
+68	6	at	IN	O	B-PP	O
+68	7	Detroit	NNP	O	B-NP	B-LocCit
+68	8	COMMA	COMMA	O	O	O
+68	9	8	CD	O	B-NP	B-NumTime
+68	10	:	:	O	O	I-NumTime
+68	11	20	CD	O	B-NP	I-NumTime
+68	12	p.m	RB	O	I-NP	I-NumTime
+68	13	.	.	O	O	O
+
+69	0	TENNIS	NNP	O	B-NP	O
+69	1	:	:	O	O	O
+
+70	0	Men	NNS	O	B-NP	O
+70	1	's	POS	O	B-NP	O
+70	2	:	:	O	O	O
+70	3	Davis	NNP	O	B-NP	O
+70	4	Cup	NNP	O	I-NP	O
+70	5	III	NNP	O	I-NP	O
+70	6	September	NNP	O	I-NP	B-Date
+70	7	25-27	CD	O	I-NP	I-Date
+70	8	.	.	O	O	O
+
+71	0	Majorca	NNP	O	B-NP	O
+71	1	Open	NNP	O	I-NP	O
+71	2	COMMA	COMMA	O	O	O
+71	3	Sept.	NNP	O	B-NP	B-Date
+71	4	28-Oct.	NN	O	I-NP	I-Date
+71	5	4	CD	O	I-NP	B-Num
+71	6	.	.	O	O	O
+
+72	0	Women	NNP	O	B-NP	O
+72	1	's	POS	O	B-NP	O
+72	2	:	:	O	O	O
+72	3	Sparkassen	NNP	O	B-NP	O
+72	4	Cup	NNP	O	I-NP	O
+72	5	and	CC	O	O	O
+72	6	Wismilak	NNP	O	B-NP	O
+72	7	International	NNP	O	I-NP	O
+72	8	COMMA	COMMA	O	O	O
+72	9	Sept.	NNP	O	B-NP	B-Date
+72	10	28-Oct.	NN	O	I-NP	I-Date
+72	11	4	CD	O	I-NP	B-Num
+72	12	.	.	O	O	O
+
+73	0	GOLF	NN	O	B-NP	O
+73	1	:	:	O	O	O
+
+74	0	PGA	NNP	O	B-NP	O
+74	1	:	:	O	O	O
+74	2	Texas	NNP	O	B-NP	O
+74	3	Open	NNP	O	I-NP	O
+74	4	COMMA	COMMA	O	O	O
+74	5	September	NNP	O	B-NP	B-Date
+74	6	24-27	CD	O	I-NP	I-Date
+74	7	.	.	O	O	O
+
+75	0	Senior	JJ	O	B-NP	O
+75	1	PGA	NNP	O	I-NP	O
+75	2	:	:	O	O	O
+75	3	Lone	NNP	O	B-NP	O
+75	4	Valley	NNP	O	I-NP	O
+75	5	Classic	NNP	O	I-NP	O
+75	6	COMMA	COMMA	O	O	O
+75	7	September	NNP	O	B-NP	B-Date
+75	8	25-27	CD	O	I-NP	I-Date
+75	9	.	.	O	O	O
+
+76	0	LPGA	NNP	O	B-NP	O
+76	1	:	:	O	O	O
+76	2	Betsy	NNP	O	B-NP	B-Peop
+76	3	King	NNP	O	I-NP	I-Peop
+76	4	Classic	NNP	O	I-NP	I-Peop
+76	5	COMMA	COMMA	O	O	O
+76	6	September	NNP	O	B-NP	B-Date
+76	7	24-27	CD	O	I-NP	I-Date
+76	8	.	.	O	O	O
+
+77	0	MOTORSPORTS	NNP	O	B-NP	O
+77	1	:	:	O	O	O
+
+78	0	NASCAR	NNP	O	B-NP	O
+78	1	:	:	O	O	O
+78	2	NAPA	NNP	O	B-NP	O
+78	3	Autocare	NNP	O	I-NP	O
+78	4	500	CD	O	I-NP	B-Num
+78	5	COMMA	COMMA	O	O	O
+78	6	September	NNP	O	B-NP	B-Date
+78	7	27	CD	O	I-NP	I-Date
+78	8	.	.	O	O	O
+
+79	0	FORMULA	NNP	O	O	O
+79	1	ONE	CD	O	B-NP	B-Num
+79	2	:	:	O	O	O
+79	3	Luxembourg	NNP	O	B-NP	B-LocCoun
+79	4	Grand	NNP	O	I-NP	B-OrgCorp
+79	5	Prix	NNP	O	I-NP	O
+79	6	COMMA	COMMA	O	O	O
+79	7	September	NNP	O	B-NP	B-Date
+79	8	27	CD	O	I-NP	I-Date
+79	9	.	.	O	O	O
+
+80	0	Story	NNP	O	O	O
+80	1	Filed	NNP	O	O	O
+80	2	By	IN	O	B-PP	O
+80	3	Cox	NNP	O	O	O
+80	4	Newspapers	NNP	O	O	O
+
+81	0	For	IN	O	B-PP	O
+81	1	Use	NN	O	B-NP	O
+81	2	By	IN	O	B-PP	O
+81	3	Clients	NNS	O	B-NP	O
+81	4	of	IN	O	B-PP	O
+81	5	the	DT	O	B-NP	O
+81	6	New	NNP	O	I-NP	B-OrgCorp
+81	7	York	NNP	O	I-NP	I-OrgCorp
+81	8	Times	NNP	O	I-NP	I-OrgCorp
+81	9	News	NNP	O	I-NP	O
+81	10	Service	NNP	O	I-NP	O

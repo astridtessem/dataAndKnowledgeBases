@@ -1,0 +1,526 @@
+0	0	1999-09-23	CD	O	B-NP	B-Num
+0	1	17	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	14	CD	O	O	I-Num
+
+1	0	COLORADO-VETO-REACT	NNP	O	B-NP	O
+1	1	.	.	O	O	O
+
+2	0	The	DT	O	B-NP	O
+2	1	Colorado	NNP	O	I-NP	B-LocStat
+2	2	delegation	NN	O	I-NP	O
+2	3	reacts	VBZ	O	B-VP	O
+2	4	to	TO	O	B-PP	O
+2	5	President	NNP	O	B-NP	B-ProfTitle
+2	6	Clinton	NNP	O	I-NP	B-Peop
+2	7	's	POS	O	B-NP	O
+2	8	veto	NN	O	I-NP	O
+2	9	today	NN	O	B-NP	B-Date
+2	10	of	IN	O	B-PP	O
+2	11	the	DT	O	B-NP	O
+2	12	tax	NN	O	I-NP	O
+2	13	relief	NN	O	I-NP	O
+2	14	bill	NN	O	I-NP	O
+2	15	.	.	O	O	O
+
+3	0	-LBR-	-LBR-	O	O	O
+3	1	500	CD	O	B-NP	B-Num
+3	2	words	NNS	O	I-NP	O
+3	3	.	.	O	O	O
+3	4	-RBR-	-RBR-	O	O	O
+
+4	0	By	IN	O	B-PP	O
+4	1	Tania	NNP	O	B-NP	O
+4	2	Anderson	NNP	O	I-NP	O
+
+5	0	CONNECTICUT-HOSPITALS	NNP	O	B-NP	O
+5	1	.	.	O	O	O
+
+6	0	Representatives	NNPS	O	B-NP	B-ProfTitle
+6	1	from	IN	O	B-PP	O
+6	2	Waterbury	NNP	O	B-NP	B-LocCit
+6	3	hospitals	NNS	O	I-NP	O
+6	4	and	CC	O	O	O
+6	5	the	DT	O	B-NP	O
+6	6	Connecticut	NNP	O	I-NP	B-OrgCorp
+6	7	Hospital	NNP	O	I-NP	I-OrgCorp
+6	8	Association	NNP	O	I-NP	I-OrgCorp
+6	9	asked	VBD	O	B-VP	O
+6	10	Rep.	NNP	O	B-NP	B-ProfTitle
+6	11	Jim	NNP	O	I-NP	B-Peop
+6	12	Maloney	NNP	O	I-NP	I-Peop
+6	13	COMMA	COMMA	O	O	O
+6	14	D-Waterbury	NNP	O	B-NP	O
+6	15	COMMA	COMMA	O	O	O
+6	16	and	CC	O	O	O
+6	17	the	DT	O	B-NP	O
+6	18	rest	NN	O	I-NP	O
+6	19	of	IN	O	B-PP	O
+6	20	the	DT	O	B-NP	O
+6	21	Connecticut	NNP	O	I-NP	B-LocStat
+6	22	delegation	NN	O	I-NP	O
+6	23	for	IN	O	B-PP	O
+6	24	their	PP$	O	B-NP	O
+6	25	support	NN	O	I-NP	O
+6	26	Thursday	NNP	O	B-NP	B-Date
+6	27	in	IN	O	B-PP	O
+6	28	passing	VBG	O	B-VP	O
+6	29	legislation	NN	O	B-NP	O
+6	30	that	WDT	O	B-NP	O
+6	31	will	MD	O	B-VP	O
+6	32	ease	VB	O	I-VP	O
+6	33	their	PP$	O	B-NP	O
+6	34	economic	JJ	O	I-NP	O
+6	35	woes	NNS	O	I-NP	O
+6	36	.	.	O	O	O
+
+7	0	-LBR-	-LBR-	O	O	O
+7	1	600	CD	O	B-NP	B-Num
+7	2	words	NNS	O	I-NP	O
+7	3	.	.	O	O	O
+7	4	-RBR-	-RBR-	O	O	O
+
+8	0	By	IN	O	B-PP	O
+8	1	Jill	NNP	O	B-NP	O
+8	2	Carroll	NNP	O	I-NP	O
+
+9	0	ILLINOIS-DC-JOURNAL	NNP	O	B-NP	O
+9	1	.	.	O	O	O
+
+10	0	A	DT	O	B-NP	O
+10	1	look	NN	O	I-NP	O
+10	2	at	IN	O	B-PP	O
+10	3	this	DT	O	B-NP	O
+10	4	week	NN	O	I-NP	O
+10	5	inside	IN	O	B-PP	O
+10	6	the	DT	O	B-NP	O
+10	7	Illinois	NNP	O	I-NP	B-LocStat
+10	8	congressional	JJ	O	I-NP	O
+10	9	delegation	NN	O	I-NP	O
+10	10	.	.	O	O	O
+
+11	0	-LBR-	-LBR-	O	O	O
+11	1	400	CD	O	B-NP	B-Num
+11	2	words	NNS	O	I-NP	O
+11	3	.	.	O	O	O
+11	4	-RBR-	-RBR-	O	O	O
+
+12	0	By	IN	O	B-PP	O
+12	1	Mark	NNP	O	B-NP	B-Peop
+12	2	Stricherz	NNP	O	I-NP	I-Peop
+
+13	0	LOUISIANA-OIL-BILL	NNP	O	B-NP	O
+13	1	.	.	O	O	O
+
+14	0	One	CD	O	B-NP	B-Num
+14	1	week	NN	O	I-NP	O
+14	2	after	IN	O	B-PP	O
+14	3	suffering	VBG	O	B-VP	O
+14	4	a	DT	O	B-NP	O
+14	5	temporary	JJ	O	I-NP	O
+14	6	setback	NN	O	I-NP	O
+14	7	COMMA	COMMA	O	O	O
+14	8	oil-patch	NN	O	B-NP	O
+14	9	Senators	NNS	O	I-NP	B-OrgPolBody
+14	10	succeeded	VBD	O	B-VP	O
+14	11	in	IN	O	B-PP	O
+14	12	blocking	VBG	O	B-VP	O
+14	13	a	DT	O	B-NP	O
+14	14	bill	NN	O	I-NP	O
+14	15	Thursday	NNP	O	B-NP	B-Date
+14	16	that	IN	O	B-NP	O
+14	17	would	MD	O	B-VP	O
+14	18	have	VB	O	I-VP	O
+14	19	charged	VBN	O	I-VP	O
+14	20	giant	JJ	O	B-NP	O
+14	21	oil	NN	O	I-NP	O
+14	22	companies	NNS	O	I-NP	B-OrgCorp
+14	23	$66	NN	O	O	B-Money
+14	24	million	CD	O	O	B-Num
+14	25	extra	JJ	O	O	O
+14	26	each	DT	O	B-NP	O
+14	27	year	NN	O	I-NP	O
+14	28	in	IN	O	B-PP	O
+14	29	federal	JJ	O	B-NP	O
+14	30	oil	NN	O	I-NP	O
+14	31	royalties	NNS	O	I-NP	O
+14	32	.	.	O	O	O
+
+15	0	-LBR-	-LBR-	O	O	O
+15	1	500	CD	O	B-NP	B-Num
+15	2	words	NNS	O	I-NP	O
+15	3	.	.	O	O	O
+15	4	-RBR-	-RBR-	O	O	O
+
+16	0	By	IN	O	B-PP	O
+16	1	Mark	NNP	O	B-NP	B-Peop
+16	2	Stricherz	NNP	O	I-NP	I-Peop
+
+17	0	MAINE-MEDICATION-ALLEN	NNP	O	B-NP	O
+17	1	.	.	O	O	O
+
+18	0	Rep.	NNP	O	B-NP	B-ProfTitle
+18	1	Tom	NNP	O	I-NP	B-Peop
+18	2	Allen	NNP	O	I-NP	I-Peop
+18	3	COMMA	COMMA	O	O	O
+18	4	D-Bangor	NNP	O	B-NP	O
+18	5	COMMA	COMMA	O	O	O
+18	6	helped	VBD	O	B-VP	O
+18	7	a	DT	O	B-NP	O
+18	8	colleague	NN	O	I-NP	O
+18	9	publicize	VB	O	B-VP	O
+18	10	new	JJ	O	B-NP	O
+18	11	prescription	NN	O	I-NP	B-Medical
+18	12	drug	NN	O	I-NP	B-Medical
+18	13	benefit	VBP	O	B-VP	O
+18	14	legislation	NN	O	B-NP	O
+18	15	Thursday	NNP	O	B-NP	B-Date
+18	16	while	IN	O	B-PP	O
+18	17	still	RB	O	O	O
+18	18	fighting	VBG	O	B-VP	B-Sport
+18	19	to	TO	O	I-VP	O
+18	20	get	VB	O	I-VP	O
+18	21	his	PP$	O	B-NP	O
+18	22	bill	NN	O	I-NP	O
+18	23	through	IN	O	B-PP	O
+18	24	a	DT	O	B-NP	O
+18	25	Republican	NNP	O	I-NP	B-OrgPolBody
+18	26	Congress	NNP	O	I-NP	B-OrgPolBody
+18	27	.	.	O	O	O
+
+19	0	-LBR-	-LBR-	O	O	O
+19	1	500	CD	O	B-NP	B-Num
+19	2	words	NNS	O	I-NP	O
+19	3	.	.	O	O	O
+19	4	-RBR-	-RBR-	O	O	O
+
+20	0	By	IN	O	B-PP	O
+20	1	Jill	NNP	O	B-NP	O
+20	2	Carroll	NNP	O	I-NP	O
+
+21	0	MASSACHUSETTS-RENO-WACO	NNP	O	B-NP	O
+21	1	.	.	O	O	O
+
+22	0	As	IN	O	O	O
+22	1	the	DT	O	B-NP	O
+22	2	investigation	NN	O	I-NP	O
+22	3	into	IN	O	B-PP	O
+22	4	the	DT	O	B-NP	O
+22	5	FBI	NNP	O	I-NP	B-OrgPolBody
+22	6	siege	NN	O	I-NP	O
+22	7	of	IN	O	B-PP	O
+22	8	the	DT	O	B-NP	O
+22	9	Branch	NNP	O	I-NP	B-Org
+22	10	Davidian	NNP	O	I-NP	I-Org
+22	11	compound	NN	O	I-NP	O
+22	12	continues	VBZ	O	B-VP	O
+22	13	COMMA	COMMA	O	O	O
+22	14	Bay	NNP	O	B-NP	B-Org
+22	15	State	NNP	O	I-NP	I-Org
+22	16	lawmakers	NNS	O	I-NP	O
+22	17	say	VBP	O	B-VP	O
+22	18	they	PRP	O	B-NP	O
+22	19	still	RB	O	O	O
+22	20	support	VBP	O	B-VP	O
+22	21	Attorney	NNP	O	B-NP	B-ProfTitle
+22	22	General	NNP	O	I-NP	B-ProfTitle
+22	23	Janet	NNP	O	I-NP	B-Peop
+22	24	Reno	NNP	O	I-NP	I-Peop
+22	25	.	.	O	O	O
+
+23	0	-LBR-	-LBR-	O	O	O
+23	1	400	CD	O	B-NP	B-Num
+23	2	words	NNS	O	I-NP	O
+23	3	.	.	O	O	O
+23	4	-RBR-	-RBR-	O	O	O
+
+24	0	By	IN	O	B-PP	O
+24	1	C.J.	NNP	O	O	B-Peop
+24	2	Karamargin	NNP	O	O	I-Peop
+
+25	0	MASSACHUSETTS-LIHEAP-SUPPORT	NNP	O	B-NP	O
+25	1	.	.	O	O	O
+
+26	0	A	DT	O	B-NP	O
+26	1	new	JJ	O	I-NP	O
+26	2	study	NN	O	I-NP	O
+26	3	shows	VBZ	O	B-VP	O
+26	4	an	DT	O	B-NP	O
+26	5	overwhelming	JJ	O	I-NP	O
+26	6	majority	NN	O	I-NP	O
+26	7	of	IN	O	B-PP	O
+26	8	Americans	NNPS	O	B-NP	B-LangRace
+26	9	support	VBP	O	B-VP	O
+26	10	the	DT	O	B-NP	O
+26	11	Low	NNP	O	I-NP	B-Org
+26	12	Income	NNP	O	I-NP	I-Org
+26	13	Home	NNP	O	I-NP	I-Org
+26	14	Energy	NNP	O	I-NP	I-Org
+26	15	Assistance	NNP	O	I-NP	I-Org
+26	16	Program	NNP	O	I-NP	I-Org
+26	17	COMMA	COMMA	O	O	O
+26	18	a	DT	O	B-NP	O
+26	19	federal	JJ	O	I-NP	O
+26	20	effort	NN	O	I-NP	O
+26	21	to	TO	O	B-VP	O
+26	22	help	VB	O	I-VP	O
+26	23	disadvantaged	JJ	O	B-NP	O
+26	24	families	NNS	O	I-NP	O
+26	25	and	CC	O	O	O
+26	26	individuals	NNS	O	B-NP	O
+26	27	pay	VBP	O	B-VP	O
+26	28	winter	NN	O	B-NP	O
+26	29	heating	NN	O	I-NP	O
+26	30	bills	NNS	O	I-NP	O
+26	31	.	.	O	O	O
+
+27	0	-LBR-	-LBR-	O	O	O
+27	1	400	CD	O	B-NP	B-Num
+27	2	words	NNS	O	I-NP	O
+27	3	.	.	O	O	O
+27	4	-RBR-	-RBR-	O	O	O
+
+28	0	By	IN	O	B-PP	O
+28	1	C.J.	NNP	O	O	B-Peop
+28	2	Karamargin	NNP	O	O	I-Peop
+
+29	0	MULTICHANNEL-VIOLENCE	NNP	O	B-NP	O
+29	1	.	.	O	O	O
+
+30	0	Citing	VBG	O	B-VP	O
+30	1	a	DT	O	B-NP	O
+30	2	new	JJ	O	I-NP	O
+30	3	study	NN	O	I-NP	O
+30	4	by	IN	O	B-PP	O
+30	5	the	DT	O	B-NP	O
+30	6	Center	NNP	O	I-NP	B-Org
+30	7	For	IN	O	B-PP	I-Org
+30	8	Media	NNP	O	B-NP	I-Org
+30	9	and	CC	O	O	O
+30	10	Public	NNP	O	B-NP	B-OrgCorp
+30	11	Affairs	NNP	O	I-NP	I-OrgCorp
+30	12	COMMA	COMMA	O	O	O
+30	13	two	CD	O	B-NP	B-Num
+30	14	U.S.	NNP	O	I-NP	B-LocCoun
+30	15	Senators	NNS	O	I-NP	B-OrgPolBody
+30	16	said	VBD	O	B-VP	O
+30	17	graphic	JJ	O	B-NP	O
+30	18	violence	NN	O	I-NP	O
+30	19	in	IN	O	B-PP	O
+30	20	movies	NNS	O	B-NP	O
+30	21	COMMA	COMMA	O	O	O
+30	22	television	NN	O	O	O
+30	23	and	CC	O	O	O
+30	24	music	NN	O	B-NP	O
+30	25	videos	NNS	O	I-NP	O
+30	26	are	VBP	O	B-VP	O
+30	27	on	IN	O	B-PP	O
+30	28	the	DT	O	B-NP	O
+30	29	rise	NN	O	I-NP	O
+30	30	.	.	O	O	O
+
+31	0	-LBR-	-LBR-	O	O	O
+31	1	400	CD	O	B-NP	B-Num
+31	2	words	NNS	O	I-NP	O
+31	3	.	.	O	O	O
+31	4	-RBR-	-RBR-	O	O	O
+
+32	0	By	IN	O	B-PP	O
+32	1	Barney	NNP	O	B-NP	B-Peop
+32	2	McManigal	NNP	O	I-NP	I-Peop
+
+33	0	NEW	JJ	O	B-NP	O
+33	1	MEXICO-INDIAN-COLLEGES	NNP	O	I-NP	O
+33	2	.	.	O	O	O
+
+34	0	A	DT	O	B-NP	O
+34	1	large	JJ	O	I-NP	O
+34	2	donation	NN	O	I-NP	O
+34	3	by	IN	O	B-PP	O
+34	4	the	DT	O	B-NP	O
+34	5	Lilly	NNP	O	I-NP	B-OrgUniv
+34	6	Foundation	NNP	O	I-NP	I-OrgUniv
+34	7	to	TO	O	B-PP	I-OrgUniv
+34	8	the	DT	O	B-NP	I-OrgUniv
+34	9	American	JJ	O	I-NP	I-OrgUniv
+34	10	Indian	NNP	O	I-NP	I-OrgUniv
+34	11	College	NNP	O	I-NP	I-OrgUniv
+34	12	Fund	NNP	O	I-NP	I-OrgUniv
+34	13	will	MD	O	B-VP	O
+34	14	mean	VB	O	I-VP	O
+34	15	$3.3	NN	O	B-NP	B-Money
+34	16	million	CD	O	I-NP	B-Num
+34	17	for	IN	O	B-PP	O
+34	18	New	NNP	O	B-NP	B-LocStat
+34	19	Mexico	NNP	O	I-NP	I-LocStat
+34	20	's	POS	O	B-NP	O
+34	21	three	CD	O	I-NP	B-Num
+34	22	tribal	JJ	O	I-NP	O
+34	23	colleges	NNS	O	I-NP	B-OrgUniv
+34	24	.	.	O	O	O
+
+35	0	-LBR-	-LBR-	O	O	O
+35	1	400	CD	O	B-NP	B-Num
+35	2	words	NNS	O	I-NP	O
+35	3	.	.	O	O	O
+35	4	-RBR-	-RBR-	O	O	O
+
+36	0	By	IN	O	B-PP	O
+36	1	Jonathan	NNP	O	B-NP	B-Peop
+36	2	Lipman	NNP	O	I-NP	I-Peop
+
+37	0	OHIO-DRUGS	NNP	O	B-NP	O
+37	1	.	.	O	O	O
+
+38	0	Last	JJ	O	B-NP	O
+38	1	month	NN	O	I-NP	O
+38	2	COMMA	COMMA	O	O	O
+38	3	Rep.	NNP	O	B-NP	B-ProfTitle
+38	4	Sherrod	NNP	O	I-NP	O
+38	5	Brown	NNP	O	I-NP	B-Peop
+38	6	received	VBD	O	B-VP	O
+38	7	a	DT	O	B-NP	O
+38	8	letter	NN	O	I-NP	O
+38	9	from	IN	O	B-PP	O
+38	10	a	DT	O	B-NP	O
+38	11	71-year-old	JJ	O	I-NP	B-Num
+38	12	widow	NN	O	I-NP	O
+38	13	who	WP	O	B-NP	O
+38	14	had	VBD	O	B-VP	O
+38	15	taken	VBN	O	I-VP	O
+38	16	a	DT	O	B-NP	O
+38	17	part	NN	O	I-NP	O
+38	18	time	NN	O	I-NP	O
+38	19	job	NN	O	I-NP	O
+38	20	to	TO	O	B-VP	O
+38	21	pay	VB	O	I-VP	O
+38	22	for	IN	O	B-PP	O
+38	23	her	PP$	O	B-NP	O
+38	24	prescription	NN	O	I-NP	B-Medical
+38	25	drugs	NNS	O	I-NP	O
+38	26	.	.	O	O	O
+
+39	0	Brown	NNP	O	O	B-Peop
+39	1	COMMA	COMMA	O	O	O
+39	2	D-Lorain	NNP	O	B-NP	O
+39	3	COMMA	COMMA	O	O	O
+39	4	introduced	VBD	O	B-VP	O
+39	5	a	DT	O	B-NP	O
+39	6	measure	NN	O	I-NP	O
+39	7	Thursday	NNP	O	B-NP	B-Date
+39	8	that	DT	O	B-NP	O
+39	9	seeks	VBZ	O	B-VP	O
+39	10	to	TO	O	I-VP	O
+39	11	drive	VB	O	I-VP	O
+39	12	down	IN	O	B-PP	O
+39	13	the	DT	O	B-NP	O
+39	14	cost	NN	O	I-NP	O
+39	15	of	IN	O	B-PP	O
+39	16	those	DT	O	B-NP	O
+39	17	drugs	NNS	O	I-NP	O
+39	18	by	IN	O	B-PP	O
+39	19	injecting	VBG	O	B-VP	O
+39	20	competition	NN	O	B-NP	O
+39	21	into	IN	O	B-PP	O
+39	22	the	DT	O	B-NP	O
+39	23	industry	NN	O	I-NP	O
+39	24	.	.	O	O	O
+
+40	0	-LBR-	-LBR-	O	O	O
+40	1	350	CD	O	B-NP	B-Num
+40	2	words	NNS	O	I-NP	O
+40	3	.	.	O	O	O
+40	4	-RBR-	-RBR-	O	O	O
+
+41	0	By	IN	O	B-PP	O
+41	1	Sean	NNP	O	B-NP	O
+41	2	Gorman	NNP	O	I-NP	O
+
+42	0	PENNSYLVANIA-DNC-RENDELL	NNP	O	B-NP	O
+42	1	.	.	O	O	O
+
+43	0	Philadelphia	NNP	O	B-NP	B-LocCit
+43	1	Mayor	NNP	O	I-NP	B-ProfTitle
+43	2	Ed	NNP	O	I-NP	B-Peop
+43	3	Rendell	NNP	O	I-NP	I-Peop
+43	4	has	VBZ	O	B-VP	O
+43	5	accepted	VBN	O	I-VP	O
+43	6	the	DT	O	B-NP	O
+43	7	position	NN	O	I-NP	O
+43	8	of	IN	O	B-PP	O
+43	9	chair	NN	O	B-NP	O
+43	10	of	IN	O	B-PP	O
+43	11	the	DT	O	B-NP	O
+43	12	DNC	NNP	O	I-NP	B-OrgPolBody
+43	13	.	.	O	O	O
+
+44	0	What	WP	O	B-NP	O
+44	1	does	VBZ	O	O	O
+44	2	this	DT	O	B-NP	O
+44	3	mean	NN	O	I-NP	O
+44	4	for	IN	O	O	O
+44	5	his	PP$	O	B-NP	O
+44	6	future	NN	O	I-NP	O
+44	7	?	.	O	O	O
+44	8	-LBR-	-LBR-	O	O	O
+44	9	800	CD	O	B-NP	B-Num
+44	10	words	NNS	O	I-NP	O
+44	11	.	.	O	O	O
+44	12	-RBR-	-RBR-	O	O	O
+
+45	0	By	IN	O	B-PP	O
+45	1	Lisa	NNP	O	B-NP	O
+45	2	Fine	NNP	O	I-NP	O
+
+46	0	SPACE-NASA	NNP	O	B-NP	B-OrgCorp
+46	1	.	.	O	O	O
+
+47	0	A	DT	O	B-NP	O
+47	1	House	NNP	O	I-NP	B-Org
+47	2	panel	NN	O	I-NP	O
+47	3	probed	VBD	O	B-VP	O
+47	4	NASA	NNP	O	B-NP	B-OrgPolBody
+47	5	about	IN	O	B-PP	O
+47	6	space	NN	O	B-NP	O
+47	7	shuttle	NN	O	I-NP	O
+47	8	safety	NN	O	I-NP	O
+47	9	today	NN	O	B-NP	B-Date
+47	10	COMMA	COMMA	O	O	O
+47	11	focusing	VBG	O	B-VP	O
+47	12	on	IN	O	B-PP	O
+47	13	wires	NNS	O	B-NP	O
+47	14	and	CC	O	I-NP	O
+47	15	hydrogen	NN	O	I-NP	O
+47	16	leaks	NNS	O	I-NP	O
+47	17	.	.	O	O	O
+
+48	0	Some	DT	O	B-NP	O
+48	1	members	NNS	O	I-NP	O
+48	2	took	VBD	O	B-VP	O
+48	3	it	PRP	O	B-NP	O
+48	4	as	IN	O	B-PP	O
+48	5	a	DT	O	B-NP	O
+48	6	sign	NN	O	I-NP	O
+48	7	that	IN	O	O	O
+48	8	NASA	NNP	O	B-NP	B-OrgPolBody
+48	9	would	MD	O	B-VP	O
+48	10	soak	VB	O	I-VP	O
+48	11	up	IN	O	O	O
+48	12	more	JJR	O	B-NP	O
+48	13	funds	NNS	O	I-NP	O
+48	14	due	JJ	O	O	O
+48	15	to	TO	O	B-PP	O
+48	16	delays	NNS	O	B-NP	O
+48	17	.	.	O	O	O
+
+49	0	-LBR-	-LBR-	O	O	O
+49	1	400	CD	O	B-NP	B-Num
+49	2	words	NNS	O	I-NP	O
+49	3	.	.	O	O	O
+49	4	-RBR-	-RBR-	O	O	O
+
+50	0	By	IN	O	B-PP	O
+50	1	Alex	NNP	O	B-NP	B-Peop
+50	2	Canizares	NNP	O	I-NP	I-Peop
+
+51	0	-30-	CD	O	O	O

@@ -1,0 +1,3620 @@
+0	0	1999-09-23	CD	O	O	B-Num
+0	1	15	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	09	CD	O	B-NP	I-Num
+0	4	&	CC	O	O	O
+0	5	HT	NNP	O	B-NP	O
+0	6	;	:	O	O	O
+
+1	0	Grades	VBZ	O	B-VP	O
+1	1	range	NN	O	B-NP	O
+1	2	from	IN	O	B-PP	O
+1	3	A	DT	O	B-NP	O
+1	4	to	TO	O	B-PP	O
+1	5	F	NNP	O	B-NP	O
+1	6	.	.	O	O	O
+
+2	0	``	``	O	O	O
+2	1	Africa	NNP	O	B-NP	B-Loc
+2	2	's	POS	O	B-NP	O
+
+3	0	Elephant	NNP	O	B-NP	B-Animal
+3	1	Kingdom	NNP	O	I-NP	O
+3	2	''	''	O	O	O
+3	3	Not	RB	O	B-VP	O
+3	4	rated	VBN	O	I-VP	O
+
+4	0	A	DT	O	B-NP	O
+4	1	documentary	NN	O	I-NP	O
+
+5	0	It	PRP	O	B-NP	O
+5	1	has	VBZ	O	B-VP	O
+5	2	some	DT	O	B-NP	O
+5	3	eye-poppingly	JJ	O	I-NP	O
+5	4	large	JJ	O	I-NP	O
+5	5	pachyderms	NN	O	I-NP	O
+5	6	COMMA	COMMA	O	O	O
+5	7	but	CC	O	O	O
+5	8	it	PRP	O	B-NP	O
+5	9	isn	NN	O	B-NP	O
+5	10	't	NN	O	I-NP	O
+5	11	as	IN	O	B-PP	O
+5	12	visually	RB	O	O	O
+5	13	astounding	JJ	O	O	O
+5	14	as	IN	O	B-PP	O
+5	15	``	``	O	O	O
+5	16	Everest	NNP	O	B-NP	B-OrgCorp
+5	17	.	.	O	O	O
+5	18	''	''	O	O	O
+
+6	0	Still	RB	O	O	O
+6	1	COMMA	COMMA	O	O	O
+6	2	this	DT	O	B-NP	O
+6	3	Imax	NNP	O	I-NP	O
+6	4	film	NN	O	I-NP	O
+6	5	has	VBZ	O	B-VP	O
+6	6	its	PP$	O	B-NP	O
+6	7	share	NN	O	I-NP	O
+6	8	of	IN	O	B-PP	O
+6	9	lovely	JJ	O	B-NP	O
+6	10	images	NNS	O	I-NP	O
+6	11	COMMA	COMMA	O	O	O
+6	12	including	VBG	O	B-PP	O
+6	13	time-lapse	NN	O	B-NP	O
+6	14	shots	NNS	O	I-NP	O
+6	15	of	IN	O	B-PP	O
+6	16	the	DT	O	B-NP	O
+6	17	sun	NN	O	I-NP	O
+6	18	setting	NN	O	B-VP	O
+6	19	on	IN	O	B-PP	O
+6	20	the	DT	O	B-NP	O
+6	21	dusty	JJ	O	I-NP	O
+6	22	horizon	NN	O	I-NP	O
+6	23	and	CC	O	O	O
+6	24	a	DT	O	B-NP	O
+6	25	massive	JJ	O	I-NP	O
+6	26	storm	NN	O	I-NP	O
+6	27	whirling	JJ	O	O	O
+6	28	across	IN	O	B-PP	O
+6	29	the	DT	O	B-NP	O
+6	30	plain	NN	O	I-NP	O
+6	31	.	.	O	O	O
+
+7	0	-LBR-	-LBR-	O	O	O
+7	1	SM	NNP	O	O	B-Org
+7	2	-RBR-	-RBR-	O	O	O
+7	3	40	CD	O	B-NP	B-Num
+7	4	minutes	NNS	O	I-NP	I-Num
+7	5	.	.	O	O	O
+
+8	0	``	``	O	O	O
+8	1	Alaska	NNP	O	B-NP	
+8	2	:	:	O	O	O
+
+9	0	Spirit	NNP	O	B-NP	O
+9	1	of	IN	O	B-PP	
+9	2	the	DT	O	O	O
+9	3	Wild	NNP	O	O	O
+9	4	''	''	O	O	B-Peop
+9	5	Unrated	NNP	O	O	I-Peop
+
+10	0	Narrated	VBN	O	B-VP	O
+10	1	by	IN	O	B-PP	
+10	2	Charlton	NNP	O	B-NP	O
+10	3	Heston	NNP	O	I-NP	O
+10	4	.	.	O	O	B-Peop
+
+11	0	It	PRP	O	B-NP	O
+11	1	's	VBZ	O	B-VP	
+11	2	big	JJ	O	O	O
+11	3	COMMA	COMMA	O	O	O
+11	4	it	PRP	O	B-NP	O
+11	5	's	VBZ	O	B-VP	O
+11	6	bold	JJ	O	O	O
+11	7	COMMA	COMMA	O	O	O
+11	8	it	PRP	O	B-NP	O
+11	9	's	VBZ	O	B-VP	O
+11	10	big	JJ	O	O	O
+11	11	.	.	O	O	O
+11	12	..	.	O	O	O
+
+12	0	The	DT	O	B-NP	O
+12	1	sheer	JJ	O	I-NP	
+12	2	size	NN	O	I-NP	O
+12	3	of	IN	O	B-PP	O
+12	4	the	DT	O	B-NP	O
+12	5	latest	JJS	O	I-NP	O
+12	6	Imax	NNP	O	I-NP	O
+12	7	offering	NN	O	I-NP	O
+12	8	sometimes	RB	O	O	O
+12	9	makes	VBZ	O	B-VP	O
+12	10	it	PRP	O	B-NP	O
+12	11	an	DT	O	B-NP	O
+12	12	eye-opening	JJ	O	I-NP	O
+12	13	experience	NN	O	I-NP	O
+12	14	.	.	O	O	O
+
+13	0	Otherwise	RB	O	O	O
+13	1	COMMA	COMMA	O	O	
+13	2	this	DT	O	B-NP	O
+13	3	visit	NN	O	I-NP	O
+13	4	to	TO	O	B-PP	O
+13	5	the	DT	O	B-NP	O
+13	6	far	RB	O	I-NP	O
+13	7	COMMA	COMMA	O	I-NP	O
+13	8	brrr-cold	NN	O	I-NP	O
+13	9	reaches	VBZ	O	B-VP	O
+13	10	of	IN	O	B-PP	O
+13	11	our	PP$	O	B-NP	O
+13	12	biggest	JJS	O	I-NP	O
+13	13	state	NN	O	I-NP	O
+13	14	is	VBZ	O	B-VP	O
+13	15	just	RB	O	B-NP	O
+13	16	another	DT	O	I-NP	O
+13	17	Discovery	NNP	O	I-NP	O
+13	18	Channel-style	NNP	O	I-NP	O
+13	19	nature	NN	O	I-NP	O
+13	20	flick	NN	O	I-NP	O
+13	21	.	.	O	O	O
+
+14	0	The	DT	O	B-NP	O
+14	1	film	NN	O	I-NP	
+14	2	spans	NNS	O	I-NP	O
+14	3	millenniums	NNS	O	I-NP	B-Peop
+14	4	_	NN	O	I-NP	I-Peop
+14	5	and	CC	O	O	O
+14	6	throws	VBZ	O	B-VP	O
+14	7	in	IN	O	B-PP	O
+14	8	bits	NNS	O	B-NP	O
+14	9	and	CC	O	I-NP	O
+14	10	pieces	NNS	O	I-NP	O
+14	11	about	IN	O	B-PP	O
+14	12	the	DT	O	B-NP	O
+14	13	ice	NN	O	I-NP	O
+14	14	age	NN	O	I-NP	O
+14	15	COMMA	COMMA	O	O	O
+14	16	the	DT	O	B-NP	O
+14	17	Klondike	NNP	O	I-NP	O
+14	18	Gold	NNP	O	I-NP	O
+14	19	Rush	NNP	O	I-NP	O
+14	20	COMMA	COMMA	O	O	O
+14	21	caribou	NN	O	B-NP	O
+14	22	hunting	NN	O	I-NP	O
+14	23	and	CC	O	O	B-Animal
+14	24	bears	VBZ	O	B-VP	B-Sport
+14	25	.	.	O	O	O
+
+15	0	-LBR-	-LBR-	O	O	O
+15	1	Bob	NNP	O	B-NP	
+15	2	Longino	NNP	O	I-NP	O
+15	3	-RBR-	-RBR-	O	O	O
+15	4	40	CD	O	B-NP	O
+15	5	minutes	NNS	O	I-NP	O
+15	6	.	.	O	O	B-Num
+
+16	0	C+	NNP	O	O	O
+
+17	0	``	``	O	O	O
+17	1	American	NNP	O	O	
+17	2	Beauty	NNP	O	O	O
+17	3	''	''	O	O	B-LangRace
+17	4	R	NNP	O	O	O
+17	5	-LBR-	-LBR-	O	O	O
+17	6	strong	JJ	O	B-NP	B-OrgCorp
+17	7	sexuality	NN	O	I-NP	O
+17	8	COMMA	COMMA	O	O	O
+17	9	nudity	NN	O	O	O
+17	10	COMMA	COMMA	O	O	O
+17	11	profanityCOMMA	NN	O	O	O
+
+18	0	violence	NN	O	B-NP	O
+18	1	and	CC	O	I-NP	
+18	2	drug	NN	O	I-NP	O
+18	3	content	NN	O	I-NP	O
+18	4	-RBR-	-RBR-	O	O	B-Medical
+
+19	0	Starring	VBG	O	O	O
+19	1	Kevin	NNP	O	B-NP	
+19	2	Spacey	NNP	O	I-NP	O
+
+20	0	and	CC	O	O	I-Peop
+20	1	Annette	NNP	O	B-NP	
+20	2	Bening	NNP	O	I-NP	O
+20	3	.	.	O	O	B-Peop
+
+21	0	A	DT	O	B-NP	O
+21	1	beaut	NN	O	I-NP	
+21	2	.	.	O	O	O
+
+22	0	The	DT	O	B-NP	B-Org
+22	1	ever-more-remarkable	JJ	O	I-NP	
+22	2	Kevin	NNP	O	I-NP	O
+22	3	Spacey	NNP	O	I-NP	O
+22	4	leads	VBZ	O	B-VP	B-Peop
+22	5	a	DT	O	B-NP	I-Peop
+22	6	stellar	JJ	O	I-NP	O
+22	7	ensemble	NN	O	I-NP	O
+22	8	cast	NN	O	I-NP	O
+22	9	-LBR-	-LBR-	O	I-NP	O
+22	10	Annette	NNP	O	I-NP	O
+22	11	Bening	NNP	O	I-NP	O
+22	12	COMMA	COMMA	O	O	B-Peop
+22	13	Thora	NNP	O	B-NP	I-Peop
+22	14	Birch	NNP	O	I-NP	O
+22	15	COMMA	COMMA	O	O	B-Peop
+22	16	Chris	NNP	O	B-NP	I-Peop
+22	17	Cooper	NNP	O	I-NP	O
+22	18	-RBR-	-RBR-	O	O	O
+22	19	in	IN	O	B-PP	O
+22	20	this	DT	O	B-NP	O
+22	21	scarily	RB	O	I-NP	O
+22	22	disturbing	JJ	O	I-NP	O
+22	23	COMMA	COMMA	O	I-NP	O
+22	24	daringly	RB	O	I-NP	O
+22	25	hilarious	JJ	O	I-NP	O
+22	26	comedy-drama	NN	O	I-NP	O
+22	27	.	.	O	O	O
+
+23	0	In	IN	O	B-PP	O
+23	1	this	DT	O	B-NP	
+23	2	fin	NN	O	I-NP	O
+23	3	de	NNP	O	I-NP	O
+23	4	siecle	NN	O	I-NP	O
+23	5	tragifarce	NN	O	I-NP	O
+23	6	centering	VBG	O	B-VP	O
+23	7	on	IN	O	B-PP	O
+23	8	Spacey	NNP	O	B-NP	O
+23	9	as	IN	O	B-PP	O
+23	10	a	DT	O	B-NP	B-Peop
+23	11	man	NN	O	I-NP	O
+23	12	caught	VBD	O	B-VP	O
+23	13	in	IN	O	B-PP	O
+23	14	a	DT	O	B-NP	O
+23	15	midlife	NN	O	I-NP	O
+23	16	limbo	NN	O	I-NP	O
+23	17	.	.	O	O	O
+
+24	0	The	DT	O	B-NP	O
+24	1	movie	NN	O	I-NP	
+24	2	is	VBZ	O	B-VP	O
+24	3	a	DT	O	B-NP	B-Org
+24	4	hauntingly	RB	O	I-NP	O
+24	5	optimistic	JJ	O	I-NP	O
+24	6	elegy	NN	O	I-NP	O
+24	7	for	IN	O	B-PP	O
+24	8	America	NNP	O	B-VP	O
+24	9	the	DT	O	O	O
+24	10	Beautifully	NNP	O	O	O
+24	11	Screwed	NNP	O	B-VP	O
+24	12	Up	IN	O	O	O
+24	13	.	.	O	O	O
+
+25	0	-LBR-	-LBR-	O	O	O
+25	1	ERG	NNP	O	O	
+25	2	-RBR-	-RBR-	O	O	O
+25	3	1	CD	O	B-NP	O
+25	4	hour	NN	O	I-NP	O
+25	5	COMMA	COMMA	O	O	B-Num
+25	6	58	CD	O	B-NP	I-Num
+25	7	minutes	NNS	O	I-NP	O
+25	8	.	.	O	O	B-Num
+
+26	0	``	``	O	O	O
+26	1	American	NNP	O	O	
+26	2	Pie	NNP	O	O	O
+26	3	''	''	O	O	
+26	4	R	NNP	O	O	O
+26	5	-LBR-	-LBR-	O	O	B-Peop
+26	6	sexuality	NN	O	B-NP	I-Peop
+26	7	COMMA	COMMA	O	O	I-Peop
+26	8	sexual	JJ	O	B-NP	I-Peop
+26	9	dialogueCOMMA	NN	O	I-NP	I-Peop
+
+27	0	profanity	NN	O	O	B-Peop
+27	1	COMMA	COMMA	O	O	I-Peop
+27	2	drinking	NN	O	O	O
+27	3	-RBR-	-RBR-	O	O	
+
+28	0	Starring	VBG	O	O	O
+28	1	Jason	NNP	O	B-NP	O
+28	2	Biggs	NNP	O	I-NP	O
+28	3	COMMA	COMMA	O	O	
+28	4	Alyson	NNP	O	B-NP	O
+28	5	Hannigan	NNP	O	I-NP	O
+28	6	and	CC	O	O	O
+28	7	Chris	NNP	O	B-NP	O
+28	8	Klein	NNP	O	I-NP	B-Peop
+28	9	.	.	O	O	I-Peop
+
+29	0	It	PRP	O	B-NP	O
+29	1	's	VBZ	O	B-VP	O
+29	2	a	DT	O	B-NP	O
+29	3	raunchy	NN	O	I-NP	
+29	4	COMMA	COMMA	O	O	O
+29	5	throwaway	JJ	O	B-NP	O
+29	6	COMMA	COMMA	O	I-NP	O
+29	7	pre-adult	JJ	O	I-NP	O
+29	8	COMMA	COMMA	O	I-NP	O
+29	9	R-rated	NNP	O	I-NP	O
+29	10	high	JJ	O	I-NP	O
+29	11	school	NN	O	I-NP	O
+29	12	sexcapade	NN	O	I-NP	O
+29	13	with	IN	O	B-PP	B-OrgCorp
+29	14	dirty	JJ	O	B-NP	O
+29	15	dialogue	NN	O	I-NP	B-OrgUniv
+29	16	and	CC	O	O	O
+29	17	more	JJR	O	B-NP	O
+29	18	than	IN	O	I-NP	O
+29	19	one	CD	O	I-NP	O
+29	20	risque	JJ	O	I-NP	O
+29	21	encounter	VBP	O	B-VP	O
+29	22	between	IN	O	B-PP	O
+29	23	students	NNS	O	B-NP	B-Num
+29	24	that	IN	O	B-NP	O
+29	25	's	POS	O	B-VP	O
+29	26	broadcast	NN	O	O	O
+29	27	over	IN	O	B-PP	B-ProfTitle
+29	28	the	DT	O	B-NP	O
+29	29	Internet	NN	O	I-NP	O
+29	30	.	.	O	O	O
+
+30	0	There	EX	O	B-NP	O
+30	1	's	VBZ	O	B-VP	B-OrgCorp
+30	2	also	RB	O	O	O
+30	3	the	DT	O	B-NP	
+30	4	grossest	NN	O	I-NP	O
+30	5	joke	NN	O	I-NP	B-Peop
+30	6	involving	VBG	O	B-VP	I-Peop
+30	7	a	DT	O	B-NP	O
+30	8	beer	NN	O	I-NP	O
+30	9	you	PRP	O	B-NP	O
+30	10	're	VBP	O	B-VP	O
+30	11	likely	JJ	O	O	O
+30	12	ever	RB	O	O	O
+30	13	to	TO	O	B-VP	O
+30	14	see	VB	O	I-VP	O
+30	15	on	IN	O	B-PP	O
+30	16	film	NN	O	B-NP	O
+30	17	.	.	O	O	O
+
+31	0	Little	NNP	O	B-NP	O
+31	1	in	IN	O	B-PP	O
+31	2	``	``	O	O	O
+31	3	American	NNP	O	B-NP	
+31	4	Pie	NNP	O	I-NP	B-Peop
+31	5	''	''	O	O	O
+31	6	deserves	VBZ	O	B-VP	O
+31	7	honest	JJ	O	B-NP	B-LangRace
+31	8	laughs	NNS	O	I-NP	B-Food
+31	9	.	.	O	O	O
+
+32	0	-LBR-	-LBR-	O	O	O
+32	1	Bob	NNP	O	B-NP	O
+32	2	Longino	NNP	O	I-NP	O
+32	3	-RBR-	-RBR-	O	O	
+32	4	1	CD	O	B-NP	O
+32	5	hour	NN	O	I-NP	O
+32	6	COMMA	COMMA	O	O	O
+32	7	35	CD	O	B-NP	O
+32	8	minutes	NNS	O	I-NP	B-Num
+32	9	.	.	O	O	I-Num
+
+33	0	C+	NNP	O	O	B-Num
+
+34	0	``	``	O	O	O
+34	1	Autumn	NNP	O	B-NP	
+34	2	Tale	NN	O	I-NP	O
+34	3	''	''	O	O	
+34	4	Not	RB	O	B-VP	O
+34	5	rated	VBN	O	I-VP	O
+34	6	COMMA	COMMA	O	O	O
+34	7	but	CC	O	O	O
+34	8	the	DT	O	B-NP	O
+34	9	theme	NN	O	I-NP	O
+34	10	may	MD	O	O	O
+34	11	be	VB	O	O	O
+
+35	0	too	RB	O	O	O
+35	1	mature	JJ	O	O	O
+35	2	for	IN	O	B-PP	O
+35	3	children	NNS	O	B-NP	
+35	4	.	.	O	O	O
+
+36	0	Starring	VBG	O	O	I-Peop
+36	1	Marie	NNP	O	B-NP	O
+36	2	Riviere	NNP	O	I-NP	O
+
+37	0	and	CC	O	O	O
+37	1	Beatrice	NNP	O	B-NP	O
+37	2	Romand	NNP	O	I-NP	O
+37	3	.	.	O	O	
+
+38	0	Magali	NNP	O	O	O
+38	1	-LBR-	-LBR-	O	O	O
+38	2	Beatrice	NNP	O	O	O
+38	3	Romand	NNP	O	O	
+38	4	-RBR-	-RBR-	O	O	O
+38	5	COMMA	COMMA	O	O	O
+38	6	a	DT	O	B-NP	O
+38	7	widowed	VBN	O	I-NP	O
+38	8	Frenchwoman	NNP	O	I-NP	O
+38	9	in	IN	O	B-PP	O
+38	10	her	PP$	O	B-NP	O
+38	11	mid-40s	CD	O	I-NP	O
+38	12	COMMA	COMMA	O	O	O
+38	13	becomes	VBZ	O	B-VP	O
+38	14	the	DT	O	B-NP	O
+38	15	object	NN	O	I-NP	O
+38	16	of	IN	O	B-PP	O
+38	17	matchmaking	NN	O	B-NP	O
+38	18	by	IN	O	B-PP	O
+38	19	her	PP$	O	B-NP	O
+38	20	best	JJS	O	I-NP	O
+38	21	friend	NN	O	I-NP	O
+38	22	and	CC	O	B-PP	O
+38	23	by	IN	O	B-PP	O
+38	24	the	DT	O	B-NP	O
+38	25	young	JJ	O	I-NP	O
+38	26	woman	NN	O	I-NP	O
+38	27	who	WP	O	B-NP	O
+38	28	's	VBZ	O	B-VP	O
+38	29	dating	VBG	O	O	O
+38	30	Magali	NNP	O	B-NP	O
+38	31	's	POS	O	B-NP	O
+38	32	son	NN	O	I-NP	O
+38	33	.	.	O	O	O
+
+39	0	By	IN	O	B-PP	O
+39	1	being	VBG	O	B-VP	O
+39	2	both	DT	O	B-NP	O
+39	3	sympathetic	JJ	O	O	
+39	4	to	TO	O	B-PP	O
+39	5	and	CC	O	O	B-Org
+39	6	ironic	JJ	O	O	O
+39	7	about	IN	O	B-PP	O
+39	8	the	DT	O	B-NP	O
+39	9	simple	JJ	O	I-NP	O
+39	10	fact	NN	O	I-NP	O
+39	11	that	IN	O	O	O
+39	12	seeking	VBG	O	B-VP	O
+39	13	out	IN	O	O	O
+39	14	romance	NN	O	B-NP	O
+39	15	reduces	VBZ	O	B-VP	O
+39	16	us	PRP	O	B-NP	O
+39	17	all	DT	O	O	O
+39	18	to	TO	O	B-PP	O
+39	19	cringing	JJ	O	B-NP	O
+39	20	adolescents	NNS	O	I-NP	O
+39	21	COMMA	COMMA	O	O	O
+39	22	director	NN	O	B-NP	O
+39	23	Eric	NNP	O	I-NP	O
+39	24	Rohmer	NNP	O	I-NP	O
+39	25	COMMA	COMMA	O	O	O
+39	26	now	RB	O	O	B-ProfTitle
+39	27	almost	RB	O	B-NP	O
+39	28	80	CD	O	I-NP	O
+39	29	COMMA	COMMA	O	O	O
+39	30	imparts	NNS	O	B-NP	O
+39	31	wisdom	NN	O	I-NP	O
+39	32	that	IN	O	B-NP	B-Num
+39	33	's	POS	O	B-VP	O
+39	34	aged	VBN	O	O	O
+39	35	to	TO	O	B-PP	O
+39	36	perfection	NN	O	B-NP	O
+39	37	.	.	O	O	O
+
+40	0	Subtitles	NNS	O	O	O
+40	1	.	.	O	O	O
+
+41	0	-LBR-	-LBR-	O	O	
+41	1	ERG	NNP	O	O	O
+41	2	-RBR-	-RBR-	O	O	O
+41	3	1	CD	O	B-NP	
+41	4	hour	NN	O	I-NP	O
+41	5	COMMA	COMMA	O	O	O
+41	6	52	CD	O	B-NP	O
+41	7	minutes	NNS	O	I-NP	B-Num
+41	8	.	.	O	O	I-Num
+
+42	0	A-	NNP	O	O	B-Num
+
+43	0	``	``	O	O	O
+43	1	The	DT	O	O	
+43	2	Blair	NNP	O	O	B-OrgCorp
+43	3	Witch	NNP	O	O	
+43	4	Project	NNP	O	O	O
+43	5	''	''	O	O	O
+43	6	R	NNP	O	O	O
+43	7	-LBR-	-LBR-	O	O	B-Peop
+43	8	profanity	NN	O	O	I-Peop
+43	9	-RBR-	-RBR-	O	O	O
+
+44	0	Starring	VBG	O	O	O
+44	1	Heather	NNP	O	O	O
+44	2	DonahueCOMMA	NNP	O	O	O
+
+45	0	Joshua	NNP	O	B-NP	O
+45	1	Leonard	NNP	O	I-NP	O
+45	2	and	CC	O	O	O
+45	3	Michael	NNP	O	B-NP	
+45	4	Williams	NNP	O	I-NP	O
+45	5	.	.	O	O	O
+
+46	0	It	PRP	O	B-NP	O
+46	1	's	VBZ	O	B-VP	O
+46	2	a	DT	O	B-NP	O
+46	3	journey	NN	O	I-NP	
+46	4	into	IN	O	B-PP	O
+46	5	the	DT	O	B-NP	O
+46	6	kind	NN	O	I-NP	O
+46	7	of	IN	O	B-PP	O
+46	8	terror	NN	O	B-NP	O
+46	9	that	WDT	O	B-NP	O
+46	10	comes	VBZ	O	B-VP	O
+46	11	from	IN	O	B-PP	O
+46	12	trying	VBG	O	B-VP	O
+46	13	to	TO	O	B-PP	O
+46	14	glimpse	NN	O	B-NP	O
+46	15	something	NN	O	I-NP	O
+46	16	in	IN	O	B-PP	O
+46	17	the	DT	O	B-NP	O
+46	18	shadows	NNS	O	I-NP	O
+46	19	just	RB	O	O	O
+46	20	beyond	IN	O	B-PP	O
+46	21	the	DT	O	B-NP	O
+46	22	campfire	NN	O	I-NP	O
+46	23	.	.	O	O	O
+
+47	0	Three	CD	O	B-NP	O
+47	1	students	NNS	O	I-NP	O
+47	2	head	VBP	O	B-VP	O
+47	3	into	IN	O	B-PP	
+47	4	the	DT	O	B-NP	B-Num
+47	5	woods	NNS	O	I-NP	B-Org
+47	6	to	TO	O	B-VP	O
+47	7	document	VB	O	I-VP	O
+47	8	an	DT	O	B-NP	O
+47	9	18th-century	JJ	O	I-NP	O
+47	10	witch	NN	O	I-NP	O
+47	11	tale	NN	O	I-NP	O
+47	12	COMMA	COMMA	O	O	O
+47	13	then	RB	O	O	B-Num
+47	14	disappear	VBP	O	B-VP	O
+47	15	.	.	O	O	O
+
+48	0	The	DT	O	B-NP	O
+48	1	movie	NN	O	I-NP	O
+48	2	wrings	VBZ	O	B-VP	O
+48	3	chills	NNS	O	B-NP	
+48	4	out	IN	O	O	O
+48	5	of	IN	O	B-PP	O
+48	6	the	DT	O	B-NP	O
+48	7	slightest	JJS	O	I-NP	O
+48	8	effects	NNS	O	I-NP	O
+48	9	_	NN	O	I-NP	O
+48	10	odd	JJ	O	I-NP	O
+48	11	twiglike	NN	O	I-NP	O
+48	12	contraptions	NNS	O	I-NP	O
+48	13	hanging	VBG	O	B-VP	O
+48	14	from	IN	O	B-PP	O
+48	15	trees	NNS	O	B-NP	O
+48	16	COMMA	COMMA	O	O	O
+48	17	a	DT	O	B-NP	O
+48	18	pile	NN	O	I-NP	O
+48	19	of	IN	O	B-PP	O
+48	20	stones	NNS	O	B-NP	O
+48	21	COMMA	COMMA	O	O	O
+48	22	strange	JJ	O	B-NP	O
+48	23	noises	NNS	O	I-NP	O
+48	24	in	IN	O	B-PP	O
+48	25	the	DT	O	B-NP	O
+48	26	night	NN	O	I-NP	O
+48	27	_	NN	O	I-NP	O
+48	28	but	CC	O	O	O
+48	29	its	PP$	O	B-NP	O
+48	30	power	NN	O	I-NP	O
+48	31	comes	VBZ	O	B-VP	O
+48	32	from	IN	O	B-PP	O
+48	33	psychological	JJ	O	B-NP	O
+48	34	intensity	NN	O	I-NP	O
+48	35	.	.	O	O	O
+
+49	0	-LBR-	-LBR-	O	O	B-Medical
+49	1	SM	NNP	O	O	O
+49	2	-RBR-	-RBR-	O	O	O
+49	3	1	CD	O	B-NP	
+49	4	hour	NN	O	I-NP	O
+49	5	COMMA	COMMA	O	O	O
+49	6	27	CD	O	B-NP	O
+49	7	minutes	NNS	O	I-NP	B-Num
+49	8	.	.	O	O	I-Num
+
+50	0	``	``	O	O	B-Num
+50	1	Blue	NNP	O	O	I-Num
+50	2	Streak	NNP	O	O	O
+50	3	''	''	O	O	
+50	4	PG-13	NN	O	O	O
+50	5	-LBR-	-LBR-	O	O	
+50	6	profanity	NN	O	O	O
+50	7	COMMA	COMMA	O	O	O
+50	8	violence	NN	O	O	O
+
+51	0	and	CC	O	O	B-Org
+51	1	crude	JJ	O	B-NP	I-Org
+51	2	humor	NN	O	I-NP	O
+51	3	-RBR-	-RBR-	O	O	O
+
+52	0	Starring	VBG	O	O	
+52	1	Martin	NNP	O	B-NP	O
+52	2	Lawrence	NNP	O	I-NP	O
+52	3	.	.	O	O	O
+
+53	0	A	DT	O	B-NP	
+53	1	decent	JJ	O	I-NP	O
+53	2	COMMA	COMMA	O	I-NP	O
+53	3	disposable	JJ	O	I-NP	O
+53	4	Martin	NNP	O	I-NP	O
+53	5	Lawrence	NNP	O	I-NP	
+53	6	vehicle	NN	O	I-NP	O
+53	7	.	.	O	O	O
+
+54	0	He	PRP	O	B-NP	O
+54	1	's	VBZ	O	B-VP	B-Peop
+54	2	a	DT	O	B-NP	I-Peop
+54	3	crook	NN	O	I-NP	O
+54	4	posing	VBG	O	B-VP	O
+54	5	as	IN	O	B-PP	
+54	6	a	DT	O	B-NP	O
+54	7	cop	NN	O	I-NP	B-Org
+54	8	to	TO	O	B-VP	O
+54	9	recover	VB	O	I-VP	O
+54	10	a	DT	O	B-NP	O
+54	11	$17	NN	O	I-NP	O
+54	12	million	CD	O	I-NP	O
+54	13	diamond	NN	O	I-NP	O
+54	14	he	PRP	O	B-NP	O
+54	15	stashed	VBD	O	B-VP	O
+54	16	years	NNS	O	B-NP	O
+54	17	ago	IN	O	O	B-Money
+54	18	.	.	O	O	B-Num
+
+55	0	Basically	RB	O	O	O
+55	1	a	DT	O	B-NP	O
+55	2	series	NN	O	I-NP	B-Date
+55	3	of	IN	O	B-PP	O
+55	4	quick	JJ	O	B-NP	O
+55	5	skits	NNS	O	I-NP	
+55	6	COMMA	COMMA	O	O	O
+55	7	there	EX	O	B-NP	O
+55	8	's	VBZ	O	B-VP	O
+55	9	enough	JJ	O	B-NP	O
+55	10	action	NN	O	I-NP	O
+55	11	scenes	NNS	O	I-NP	O
+55	12	to	TO	O	B-VP	O
+55	13	mollify	VB	O	I-VP	O
+55	14	audiences	NNS	O	B-NP	O
+55	15	who	WP	O	B-NP	O
+55	16	can	MD	O	O	O
+55	17	't	NN	O	B-NP	O
+55	18	get	VB	O	B-VP	O
+55	19	enough	RB	O	B-NP	O
+55	20	of	IN	O	B-PP	O
+55	21	gunfire	NN	O	B-NP	O
+55	22	and	CC	O	I-NP	O
+55	23	breaking	VBG	O	I-NP	O
+55	24	glass	NN	O	I-NP	O
+55	25	.	.	O	O	O
+
+56	0	While	IN	O	O	O
+56	1	it	PRP	O	B-NP	O
+56	2	doesn	NN	O	B-NP	O
+56	3	't	NN	O	I-NP	O
+56	4	exactly	RB	O	O	O
+56	5	streak	NN	O	O	
+56	6	along	IN	O	O	O
+56	7	COMMA	COMMA	O	O	O
+56	8	at	IN	O	B-PP	O
+56	9	93	CD	O	B-NP	O
+56	10	minutes	NNS	O	I-NP	O
+56	11	``	``	O	O	O
+56	12	Blue	NNP	O	B-NP	O
+56	13	Streak	NNP	O	I-NP	O
+56	14	''	''	O	O	O
+56	15	gets	VBZ	O	B-VP	B-Num
+56	16	the	DT	O	B-NP	I-Num
+56	17	job	NN	O	I-NP	O
+56	18	done	VBN	O	B-VP	O
+56	19	.	.	O	O	O
+
+57	0	-LBR-	-LBR-	O	O	O
+57	1	SM	NNP	O	O	O
+57	2	-RBR-	-RBR-	O	O	O
+57	3	1	CD	O	B-NP	O
+57	4	hour	NN	O	I-NP	O
+57	5	COMMA	COMMA	O	O	
+57	6	33	CD	O	B-NP	O
+57	7	minutes	NNS	O	I-NP	O
+57	8	.	.	O	O	O
+
+58	0	C+	NNP	O	O	I-Num
+
+59	0	``	``	O	O	B-Num
+59	1	Bowfinger	NNP	O	O	I-Num
+59	2	''	''	O	O	O
+59	3	PG-13	NN	O	O	
+59	4	-LBR-	-LBR-	O	O	O
+59	5	sex-related	JJ	O	O	
+59	6	material	NN	O	O	B-Peop
+
+60	0	and	CC	O	O	O
+60	1	profanity	NN	O	O	B-Loc
+60	2	-RBR-	-RBR-	O	O	I-Loc
+
+61	0	Starring	VBG	O	O	O
+61	1	Steve	NNP	O	B-NP	
+61	2	MartinCOMMA	NNP	O	I-NP	B-Peop
+
+62	0	Eddie	NNP	O	B-NP	O
+62	1	Murphy	NNP	O	I-NP	
+62	2	and	CC	O	O	O
+62	3	Heather	NNP	O	B-NP	O
+62	4	Graham	NNP	O	I-NP	O
+62	5	.	.	O	O	
+
+63	0	Steve	NNP	O	B-NP	I-Peop
+63	1	Martin	NNP	O	I-NP	O
+63	2	has	VBZ	O	B-VP	B-Peop
+63	3	come	VBN	O	I-VP	I-Peop
+63	4	up	IN	O	O	O
+63	5	with	IN	O	B-PP	
+63	6	a	DT	O	B-NP	B-Peop
+63	7	beautiful	JJ	O	I-NP	I-Peop
+63	8	premise	NN	O	I-NP	O
+63	9	for	IN	O	B-PP	O
+63	10	a	DT	O	B-NP	O
+63	11	movie	NN	O	I-NP	O
+63	12	.	.	O	O	B-Loc
+
+64	0	Martin	NNP	O	B-NP	O
+64	1	plays	VBZ	O	B-VP	O
+64	2	a	DT	O	B-NP	O
+64	3	hapless	JJ	O	I-NP	O
+64	4	Hollywood	NNP	O	I-NP	O
+64	5	producer	NN	O	I-NP	
+64	6	with	IN	O	B-PP	B-Peop
+64	7	a	DT	O	B-NP	B-Peop
+64	8	stinky	NN	O	I-NP	I-Peop
+64	9	script	NN	O	I-NP	O
+64	10	and	CC	O	O	B-LocCit
+64	11	a	DT	O	B-NP	B-ProfTitle
+64	12	gem	NN	O	I-NP	O
+64	13	of	IN	O	B-PP	O
+64	14	a	DT	O	B-NP	O
+64	15	way	NN	O	I-NP	O
+64	16	to	TO	O	B-VP	O
+64	17	get	VB	O	I-VP	O
+64	18	it	PRP	O	B-NP	O
+64	19	filmed	VBD	O	B-VP	O
+64	20	with	IN	O	B-PP	O
+64	21	impossible-to-get	JJ	O	B-NP	O
+64	22	megastar	NN	O	I-NP	O
+64	23	Kit	NNP	O	I-NP	O
+64	24	Ramsey	NNP	O	I-NP	O
+64	25	-LBR-	-LBR-	O	I-NP	O
+64	26	Eddie	NNP	O	I-NP	O
+64	27	Murphy	NNP	O	I-NP	O
+64	28	-RBR-	-RBR-	O	O	O
+64	29	.	.	O	O	O
+
+65	0	``	``	O	O	O
+65	1	Bowfinger	NNP	O	B-NP	B-Peop
+65	2	's	POS	O	B-NP	I-Peop
+65	3	''	''	O	O	O
+65	4	got	VBD	O	B-VP	O
+65	5	a	DT	O	B-NP	
+65	6	few	JJ	O	I-NP	O
+65	7	good	NN	O	I-NP	O
+65	8	laughs	NNS	O	I-NP	O
+65	9	but	CC	O	B-NP	O
+65	10	not	RB	O	I-NP	O
+65	11	much	RB	O	I-NP	O
+65	12	more	JJR	O	I-NP	O
+65	13	.	.	O	O	O
+
+66	0	Sadly	RB	O	O	O
+66	1	COMMA	COMMA	O	O	O
+66	2	it	PRP	O	B-NP	O
+66	3	never	RB	O	O	O
+66	4	takes	VBZ	O	B-VP	O
+66	5	on	IN	O	B-PP	
+66	6	Hollywood	NNP	O	B-NP	O
+66	7	with	IN	O	B-PP	O
+66	8	the	DT	O	B-NP	O
+66	9	zing	NN	O	I-NP	O
+66	10	of	IN	O	B-PP	O
+66	11	``	``	O	O	O
+66	12	Wag	NNP	O	B-VP	B-LocCit
+66	13	the	DT	O	B-NP	O
+66	14	Dog	NNP	O	I-NP	O
+66	15	''	''	O	O	O
+66	16	or	CC	O	O	O
+66	17	``	``	O	O	O
+66	18	The	DT	O	B-NP	O
+66	19	Player	NN	O	I-NP	O
+66	20	.	.	O	O	B-Animal
+66	21	''	''	O	O	O
+
+67	0	-LBR-	-LBR-	O	O	O
+67	1	Bob	NNP	O	B-NP	O
+67	2	Longino	NNP	O	I-NP	B-ProfTitle
+67	3	-RBR-	-RBR-	O	O	O
+67	4	1	CD	O	B-NP	O
+67	5	hour	NN	O	I-NP	
+67	6	COMMA	COMMA	O	O	O
+67	7	37	CD	O	B-NP	B-Peop
+67	8	minutes	NNS	O	I-NP	I-Peop
+67	9	.	.	O	O	I-Peop
+
+68	0	B-	NNP	O	O	I-Num
+
+69	0	``	``	O	O	B-Num
+69	1	Chill	NN	O	O	I-Num
+69	2	Factor	NN	O	O	O
+69	3	''	''	O	O	
+69	4	R	NNP	O	O	B-OrgCorp
+69	5	-LBR-	-LBR-	O	O	
+69	6	profanity	NN	O	B-NP	B-Peop
+69	7	and	CC	O	I-NP	O
+69	8	violence	NN	O	I-NP	O
+69	9	-RBR-	-RBR-	O	O	O
+
+70	0	Starring	VBG	O	O	O
+70	1	Cuba	NNP	O	B-NP	O
+70	2	Gooding	NNP	O	I-NP	O
+70	3	Jr	NNP	O	I-NP	O
+70	4	.	.	O	O	O
+
+71	0	and	CC	O	O	O
+71	1	Skeet	NNP	O	B-NP	O
+71	2	Ulrich	NNP	O	I-NP	O
+71	3	.	.	O	O	O
+
+72	0	Summer	NNP	O	B-NP	
+72	1	's	POS	O	B-NP	O
+72	2	last-gasp	JJ	O	I-NP	O
+72	3	action	NN	O	I-NP	O
+72	4	movie	NN	O	I-NP	O
+72	5	.	.	O	O	
+
+73	0	There	EX	O	B-NP	O
+73	1	's	VBZ	O	B-VP	O
+73	2	a	DT	O	B-NP	O
+73	3	newfound	JJ	O	I-NP	O
+73	4	deadly	JJ	O	I-NP	O
+73	5	chemical	NN	O	I-NP	
+73	6	substance	NN	O	I-NP	O
+73	7	that	WDT	O	B-NP	B-Peop
+73	8	'll	MD	O	O	I-Peop
+73	9	blow	NN	O	O	O
+73	10	and	CC	O	O	O
+73	11	snuff	NN	O	O	B-Medical
+73	12	out	IN	O	B-PP	O
+73	13	millions	NNS	O	B-NP	O
+73	14	if	IN	O	O	O
+73	15	not	RB	O	O	O
+73	16	kept	VBD	O	B-VP	O
+73	17	cold	JJ	O	O	O
+73	18	.	.	O	O	O
+
+74	0	And	CC	O	O	O
+74	1	two	CD	O	B-NP	O
+74	2	bickering	NN	O	I-NP	O
+74	3	heroes	NNS	O	I-NP	O
+74	4	-LBR-	-LBR-	O	O	O
+74	5	Skeet	NNP	O	B-NP	
+74	6	Ulrich	NNP	O	I-NP	O
+74	7	and	CC	O	O	B-Num
+74	8	Cuba	NNP	O	B-NP	O
+74	9	Gooding	NNP	O	I-NP	O
+74	10	Jr.	NNP	O	I-NP	O
+74	11	-RBR-	-RBR-	O	O	O
+74	12	who	WP	O	B-NP	O
+74	13	must	MD	O	B-VP	O
+74	14	keep	VB	O	I-VP	O
+74	15	military	JJ	O	B-NP	O
+74	16	hooligans	NNS	O	I-NP	O
+74	17	away	RB	O	B-PP	O
+74	18	from	IN	O	B-PP	O
+74	19	that	DT	O	B-NP	O
+74	20	chemical	NN	O	I-NP	O
+74	21	by	IN	O	B-PP	O
+74	22	stuffing	VBG	O	B-VP	O
+74	23	it	PRP	O	B-NP	O
+74	24	inside	IN	O	B-PP	O
+74	25	an	DT	O	B-NP	O
+74	26	ice	NN	O	I-NP	B-Medical
+74	27	cream	NN	O	I-NP	O
+74	28	truck	NN	O	I-NP	O
+74	29	and	CC	O	O	O
+74	30	putting	VBG	O	B-VP	O
+74	31	pedal	NN	O	B-NP	O
+74	32	to	TO	O	B-PP	B-Food
+74	33	the	DT	O	B-NP	I-Food
+74	34	metal	NN	O	I-NP	O
+74	35	.	.	O	O	O
+
+75	0	Unfortunately	RB	O	O	O
+75	1	COMMA	COMMA	O	O	O
+75	2	``	``	O	O	O
+75	3	Chill	NN	O	B-NP	O
+75	4	Factor	NN	O	I-NP	O
+75	5	''	''	O	I-NP	
+75	6	doesn	NN	O	I-NP	O
+75	7	't	NN	O	I-NP	O
+75	8	have	VBP	O	B-VP	O
+75	9	enough	JJ	O	B-NP	O
+75	10	gas	NN	O	I-NP	O
+75	11	to	TO	O	B-PP	O
+75	12	outgun	NN	O	B-NP	O
+75	13	its	PP$	O	I-NP	O
+75	14	own	JJ	O	I-NP	O
+75	15	concept	NN	O	I-NP	O
+75	16	.	.	O	O	O
+
+76	0	-LBR-	-LBR-	O	O	O
+76	1	Bob	NNP	O	B-NP	O
+76	2	Longino	NNP	O	I-NP	O
+76	3	-RBR-	-RBR-	O	O	O
+76	4	1	CD	O	B-NP	O
+76	5	hour	NN	O	I-NP	
+76	6	COMMA	COMMA	O	O	O
+76	7	40	CD	O	B-NP	O
+76	8	minutes	NNS	O	I-NP	O
+76	9	.	.	O	O	O
+
+77	0	``	``	O	O	I-Num
+77	1	Deep	NNP	O	O	O
+77	2	Blue	NNP	O	O	B-Num
+77	3	Sea	NNP	O	O	I-Num
+77	4	''	''	O	O	O
+77	5	R	NNP	O	O	
+77	6	-LBR-	-LBR-	O	O	O
+77	7	excessive	JJ	O	O	
+77	8	gore	VB	O	O	O
+77	9	COMMA	COMMA	O	O	O
+77	10	dismemberment	NN	O	O	O
+77	11	-RBR-	-RBR-	O	O	O
+
+78	0	Starring	VBG	O	O	B-OrgCorp
+78	1	Samuel	NNP	O	B-NP	O
+78	2	L.	NNP	O	I-NP	O
+78	3	Jackson	NNP	O	I-NP	O
+78	4	.	.	O	O	O
+
+79	0	There	EX	O	B-NP	O
+79	1	is	VBZ	O	B-VP	
+79	2	precious	RB	O	B-NP	O
+79	3	little	JJ	O	I-NP	B-Peop
+79	4	that	DT	O	I-NP	I-Peop
+79	5	is	VBZ	O	B-VP	I-Peop
+79	6	original	JJ	O	O	O
+79	7	about	IN	O	B-PP	
+79	8	this	DT	O	B-NP	O
+79	9	movie	NN	O	I-NP	O
+79	10	.	.	O	O	O
+
+80	0	It	PRP	O	B-NP	O
+80	1	really	RB	O	O	O
+80	2	doesn	NN	O	B-NP	O
+80	3	't	NN	O	I-NP	O
+80	4	matter	NN	O	I-NP	O
+80	5	COMMA	COMMA	O	O	O
+80	6	though	IN	O	O	O
+80	7	.	.	O	O	
+
+81	0	When	WRB	O	O	O
+81	1	the	DT	O	B-NP	O
+81	2	plot	NN	O	I-NP	O
+81	3	kicks	VBZ	O	B-VP	O
+81	4	in	IN	O	O	O
+81	5	and	CC	O	O	O
+81	6	the	DT	O	B-NP	O
+81	7	killer	NN	O	I-NP	
+81	8	shark	NN	O	I-NP	O
+81	9	starts	VBZ	O	B-VP	O
+81	10	prowling	VBG	O	I-VP	O
+81	11	and	CC	O	I-VP	O
+81	12	munching	VBG	O	I-VP	O
+81	13	COMMA	COMMA	O	O	O
+81	14	the	DT	O	B-NP	O
+81	15	film	NN	O	I-NP	O
+81	16	delivers	VBZ	O	B-VP	B-Animal
+81	17	all	PDT	O	B-NP	O
+81	18	the	DT	O	I-NP	O
+81	19	thrills	NNS	O	I-NP	O
+81	20	COMMA	COMMA	O	O	O
+81	21	explosive	JJ	O	B-NP	O
+81	22	action	NN	O	I-NP	O
+81	23	and	CC	O	I-NP	O
+81	24	sheer	NN	O	I-NP	O
+81	25	gore	VB	O	B-VP	O
+81	26	that	IN	O	O	O
+81	27	audiences	NNS	O	B-NP	O
+81	28	have	VBP	O	B-VP	O
+81	29	come	VBN	O	I-VP	O
+81	30	to	TO	O	I-VP	O
+81	31	expect	VB	O	I-VP	O
+81	32	from	IN	O	B-PP	O
+81	33	the	DT	O	B-NP	O
+81	34	shark	NN	O	I-NP	O
+81	35	genre	NN	O	I-NP	O
+81	36	.	.	O	O	O
+
+82	0	-LBR-	-LBR-	O	O	O
+82	1	Hap	NNP	O	B-NP	O
+82	2	Erstein	NNP	O	I-NP	O
+82	3	COMMA	COMMA	O	O	O
+82	4	Cox	NNP	O	B-NP	B-Animal
+82	5	News	NNP	O	I-NP	O
+82	6	Service	NNP	O	I-NP	O
+82	7	-RBR-	-RBR-	O	O	
+82	8	1	CD	O	B-NP	O
+82	9	hour	NN	O	I-NP	O
+82	10	COMMA	COMMA	O	O	O
+82	11	45	CD	O	B-NP	O
+82	12	minutes	NNS	O	I-NP	O
+82	13	.	.	O	O	O
+
+83	0	B-	NNP	O	O	O
+
+84	0	``	``	O	O	I-Num
+84	1	Double	NNP	O	O	O
+84	2	Jeopardy	NNP	O	O	B-Num
+84	3	''	''	O	O	I-Num
+84	4	R	NNP	O	O	O
+84	5	-LBR-	-LBR-	O	O	
+84	6	profanity	NN	O	B-NP	B-OrgCorp
+84	7	COMMA	COMMA	O	I-NP	
+84	8	sexuality.	NN	O	I-NP	O
+84	9	violence	NN	O	I-NP	O
+84	10	-RBR-	-RBR-	O	O	O
+
+85	0	Starring	VBG	O	O	B-OrgCorp
+85	1	Ashley	NNP	O	O	O
+85	2	Judd	NNP	O	O	O
+
+86	0	and	CC	O	O	O
+86	1	Tommy	NNP	O	B-NP	O
+86	2	Lee	NNP	O	I-NP	O
+86	3	Jones	NNP	O	I-NP	
+86	4	.	.	O	O	O
+
+87	0	Ashley	NNP	O	B-NP	B-Peop
+87	1	Judd	NNP	O	I-NP	
+87	2	plays	VBZ	O	B-VP	O
+87	3	a	DT	O	B-NP	B-Peop
+87	4	woman	NN	O	I-NP	I-Peop
+87	5	out	IN	O	O	I-Peop
+87	6	to	TO	O	B-VP	O
+87	7	wreak	VB	O	I-VP	
+87	8	justice	NN	O	B-NP	B-Peop
+87	9	on	IN	O	B-PP	I-Peop
+87	10	the	DT	O	B-NP	O
+87	11	husband	NN	O	I-NP	O
+87	12	who	WP	O	B-NP	O
+87	13	framed	VBN	O	B-VP	O
+87	14	her	PRP	O	B-NP	O
+87	15	for	IN	O	B-PP	O
+87	16	murder	NN	O	B-NP	O
+87	17	COMMA	COMMA	O	O	O
+87	18	and	CC	O	O	O
+87	19	Tommy	NNP	O	B-NP	O
+87	20	Lee	NNP	O	I-NP	O
+87	21	Jones	NNP	O	I-NP	O
+87	22	is	VBZ	O	B-VP	O
+87	23	the	DT	O	B-NP	O
+87	24	parole	NN	O	I-NP	O
+87	25	officer	NN	O	I-NP	O
+87	26	on	IN	O	B-PP	O
+87	27	her	PP$	O	B-NP	B-Peop
+87	28	trail	NN	O	I-NP	I-Peop
+87	29	in	IN	O	B-PP	I-Peop
+87	30	this	DT	O	B-NP	O
+87	31	action	NN	O	I-NP	O
+87	32	flick	NN	O	I-NP	O
+87	33	with	IN	O	B-PP	B-ProfTitle
+87	34	a	DT	O	B-NP	O
+87	35	gender	NN	O	I-NP	O
+87	36	twist	NN	O	I-NP	O
+87	37	.	.	O	O	O
+
+88	0	For	IN	O	B-PP	O
+88	1	better	JJR	O	O	O
+88	2	and	CC	O	O	O
+88	3	for	IN	O	B-PP	O
+88	4	worse	JJR	O	O	O
+88	5	COMMA	COMMA	O	O	O
+88	6	the	DT	O	B-NP	O
+88	7	movie	NN	O	I-NP	
+88	8	is	VBZ	O	B-VP	O
+88	9	as	IN	O	B-PP	O
+88	10	professional	JJ	O	O	O
+88	11	COMMA	COMMA	O	O	O
+88	12	efficient	JJ	O	O	O
+88	13	and	CC	O	O	O
+88	14	aloof	JJ	O	O	O
+88	15	as	IN	O	B-PP	O
+88	16	Judd	NNP	O	B-NP	O
+88	17	's	POS	O	B-NP	O
+88	18	performance	NN	O	I-NP	O
+88	19	.	.	O	O	O
+
+89	0	-LBR-	-LBR-	O	O	O
+89	1	SM	NNP	O	O	O
+89	2	-RBR-	-RBR-	O	O	O
+89	3	1	CD	O	B-NP	B-Peop
+89	4	hour	NN	O	I-NP	O
+89	5	COMMA	COMMA	O	O	O
+89	6	45	CD	O	B-NP	O
+89	7	minutes	NNS	O	I-NP	
+89	8	.	.	O	O	O
+
+90	0	B-	NNP	O	O	O
+
+91	0	``	``	O	O	I-Num
+91	1	Dudley	NNP	O	B-NP	O
+91	2	Do-Right	NNP	O	I-NP	B-Num
+91	3	''	''	O	I-NP	I-Num
+91	4	PG	NNP	O	I-NP	O
+91	5	-LBR-	-LBR-	O	I-NP	
+91	6	mild	JJ	O	I-NP	B-OrgCorp
+91	7	comic	JJ	O	I-NP	
+91	8	action	NN	O	I-NP	O
+91	9	violenceCOMMA	NN	O	I-NP	O
+
+92	0	profanity	NN	O	O	O
+92	1	COMMA	COMMA	O	O	O
+92	2	innuendo	NN	O	O	O
+92	3	-RBR-	-RBR-	O	O	O
+
+93	0	Starring	VBG	O	O	O
+93	1	Brendan	NNP	O	B-NP	O
+93	2	Fraser	NNP	O	I-NP	
+
+94	0	and	CC	O	O	O
+94	1	Sarah	NNP	O	B-NP	O
+94	2	Jessica	NNP	O	I-NP	O
+94	3	Parker	NNP	O	I-NP	
+94	4	.	.	O	O	O
+
+95	0	``	``	O	O	I-Peop
+95	1	Dudley	NNP	O	B-NP	
+95	2	Do-Right	NNP	O	I-NP	O
+95	3	''	''	O	O	B-Peop
+95	4	is	VBZ	O	B-VP	I-Peop
+95	5	just	RB	O	O	I-Peop
+95	6	plain	JJ	O	O	O
+95	7	wrongheaded	VBN	O	O	
+95	8	.	.	O	O	O
+
+96	0	Based	VBN	O	B-PP	I-Peop
+96	1	on	IN	O	B-PP	O
+96	2	one	CD	O	B-NP	O
+96	3	of	IN	O	B-PP	O
+96	4	the	DT	O	B-NP	O
+96	5	weaker	JJR	O	I-NP	O
+96	6	elements	NNS	O	I-NP	O
+96	7	of	IN	O	B-PP	
+96	8	Jay	NNP	O	B-NP	O
+96	9	Ward	NNP	O	I-NP	O
+96	10	's	POS	O	B-NP	B-Num
+96	11	TV	NN	O	I-NP	O
+96	12	'	''	O	I-NP	O
+96	13	toon	NN	O	I-NP	O
+96	14	series	NN	O	I-NP	O
+96	15	``	``	O	O	O
+96	16	The	DT	O	B-NP	O
+96	17	Bullwinkle	NNP	O	I-NP	O
+96	18	ShowCOMMA	NNP	O	I-NP	O
+96	19	''	''	O	I-NP	B-OrgCorp
+96	20	this	DT	O	I-NP	O
+96	21	live-action	JJ	O	I-NP	O
+96	22	takeoff	NN	O	I-NP	O
+96	23	has	VBZ	O	B-VP	O
+96	24	so	RB	O	I-VP	O
+96	25	much	RB	O	I-VP	O
+96	26	less	JJR	O	I-VP	O
+96	27	to	TO	O	I-VP	O
+96	28	offer	VB	O	I-VP	O
+96	29	.	.	O	O	O
+
+97	0	Brendan	NNP	O	B-NP	O
+97	1	Fraser	NNP	O	I-NP	O
+97	2	-LBR-	-LBR-	O	O	O
+97	3	``	``	O	O	O
+97	4	George	NNP	O	B-NP	O
+97	5	of	IN	O	B-PP	O
+97	6	the	DT	O	B-NP	O
+97	7	Jungle	NNP	O	I-NP	
+97	8	''	''	O	O	B-Peop
+97	9	-RBR-	-RBR-	O	O	I-Peop
+97	10	plays	VBZ	O	B-VP	O
+97	11	Dudley	NNP	O	B-NP	O
+97	12	and	CC	O	O	O
+97	13	it	PRP	O	B-NP	O
+97	14	's	VBZ	O	B-VP	O
+97	15	clear	JJ	O	O	O
+97	16	he	PRP	O	B-NP	O
+97	17	'd	MD	O	B-VP	O
+97	18	rather	RB	O	I-VP	O
+97	19	not	RB	O	I-VP	B-Peop
+97	20	be	VB	O	I-VP	O
+97	21	here	RB	O	O	O
+97	22	.	.	O	O	O
+
+98	0	There	EX	O	B-NP	O
+98	1	's	VBZ	O	B-VP	O
+98	2	not	RB	O	B-NP	O
+98	3	one	CD	O	I-NP	O
+98	4	joke	NN	O	I-NP	O
+98	5	or	CC	O	I-NP	O
+98	6	one	CD	O	I-NP	O
+98	7	slapstick	NN	O	I-NP	
+98	8	moment	NN	O	I-NP	O
+98	9	that	IN	O	B-NP	O
+98	10	's	POS	O	B-VP	O
+98	11	funny	JJ	O	O	B-Peop
+98	12	.	.	O	O	I-Peop
+
+99	0	-LBR-	-LBR-	O	O	B-Num
+99	1	Bob	NNP	O	B-NP	O
+99	2	Longino	NNP	O	I-NP	O
+99	3	-RBR-	-RBR-	O	O	O
+99	4	1	CD	O	B-NP	O
+99	5	hour	NN	O	I-NP	O
+99	6	COMMA	COMMA	O	O	O
+99	7	27	CD	O	B-NP	
+99	8	minutes	NNS	O	I-NP	O
+99	9	-LBR-	-LBR-	O	O	O
+99	10	including	VBG	O	B-PP	O
+99	11	a	DT	O	B-NP	O
+99	12	new	JJ	O	I-NP	B-Num
+99	13	``	``	O	I-NP	I-Num
+99	14	Fractured	NNP	O	I-NP	O
+99	15	Fairy	NN	O	I-NP	B-Num
+99	16	Tales	NNS	O	I-NP	I-Num
+99	17	''	''	O	I-NP	O
+99	18	cartoon	NN	O	I-NP	O
+99	19	short	JJ	O	O	O
+99	20	-RBR-	-RBR-	O	O	O
+99	21	.	.	O	O	O
+
+100	0	F+	NNP	O	O	O
+
+101	0	``	``	O	O	O
+101	1	Everest	NNP	O	B-NP	O
+101	2	''	''	O	O	O
+101	3	Not	RB	O	B-VP	O
+101	4	rated	VBN	O	I-VP	O
+
+102	0	A	DT	O	B-NP	O
+102	1	documentary	NN	O	I-NP	
+102	2	by	IN	O	B-PP	O
+102	3	David	NNP	O	B-NP	B-OrgCorp
+102	4	Breashears	NNP	O	I-NP	O
+102	5	.	.	O	O	O
+
+103	0	Breathtaking	VBG	O	O	
+103	1	.	.	O	O	O
+
+104	0	Even	RB	O	B-NP	O
+104	1	filmgoers	NNS	O	I-NP	O
+104	2	accustomed	VBN	O	B-VP	O
+104	3	to	TO	O	B-PP	O
+104	4	the	DT	O	B-NP	
+104	5	five-story	JJ	O	I-NP	O
+104	6	Imax	NNP	O	I-NP	O
+104	7	format	NN	O	I-NP	
+104	8	may	MD	O	B-VP	O
+104	9	gasp	VB	O	I-VP	O
+104	10	at	IN	O	B-PP	O
+104	11	the	DT	O	B-NP	O
+104	12	unearthly	JJ	O	I-NP	O
+104	13	scale	NN	O	I-NP	O
+104	14	of	IN	O	B-PP	O
+104	15	``	``	O	O	O
+104	16	Everest	NNP	O	B-NP	O
+104	17	.	.	O	O	O
+104	18	''	''	O	O	O
+
+105	0	David	NNP	O	B-NP	O
+105	1	Breashears	NNP	O	I-NP	O
+105	2	'	POS	O	B-NP	O
+
+106	0	documentary	NN	O	B-NP	B-OrgCorp
+106	1	was	VBD	O	B-VP	O
+106	2	filmed	VBN	O	I-VP	O
+106	3	at	IN	O	B-PP	
+106	4	the	DT	O	B-NP	O
+106	5	same	JJ	O	I-NP	O
+106	6	time	NN	O	I-NP	O
+106	7	as	IN	O	O	
+106	8	the	DT	O	B-NP	O
+106	9	1996	CD	O	I-NP	O
+106	10	storm	NN	O	I-NP	O
+106	11	that	IN	O	B-NP	O
+106	12	killed	VBN	O	B-VP	O
+106	13	eight	CD	O	B-NP	O
+106	14	mountain	NN	O	I-NP	O
+106	15	climbers	NNS	O	I-NP	O
+106	16	COMMA	COMMA	O	O	O
+106	17	memorialized	VBN	O	B-VP	B-Date
+106	18	by	IN	O	B-PP	O
+106	19	Jon	NNP	O	B-NP	O
+106	20	Krakauer	NNP	O	I-NP	O
+106	21	's	POS	O	B-NP	B-Num
+106	22	best-selling	JJ	O	I-NP	O
+106	23	book	NN	O	I-NP	O
+106	24	``	``	O	O	O
+106	25	Into	IN	O	B-PP	O
+106	26	Thin	JJ	O	B-NP	O
+106	27	Air	NN	O	I-NP	O
+106	28	.	.	O	O	O
+106	29	''	''	O	O	O
+
+107	0	-LBR-	-LBR-	O	O	B-Book
+107	1	SM	NNP	O	O	O
+107	2	-RBR-	-RBR-	O	O	O
+107	3	44	CD	O	B-NP	O
+107	4	minutes	NNS	O	I-NP	O
+107	5	.	.	O	O	O
+
+108	0	``	``	O	O	
+108	1	For	IN	O	B-PP	O
+108	2	Love	NNP	O	B-NP	B-Peop
+108	3	of	IN	O	B-PP	I-Peop
+108	4	the	DT	O	B-NP	B-Num
+108	5	Game	NN	O	I-NP	I-Num
+108	6	''	''	O	B-NP	O
+108	7	PG-13	NN	O	I-NP	
+108	8	-LBR-	-LBR-	O	O	O
+108	9	sexual	JJ	O	B-NP	
+108	10	situations	NNS	O	I-NP	O
+108	11	COMMA	COMMA	O	O	O
+108	12	profanity	NN	O	O	B-Peop
+
+109	0	and	CC	O	O	O
+109	1	drinking	NN	O	O	O
+109	2	-RBR-	-RBR-	O	O	O
+
+110	0	Starring	VBG	O	O	O
+110	1	Kevin	NNP	O	B-NP	O
+110	2	Costner	NNP	O	I-NP	O
+
+111	0	and	CC	O	O	O
+111	1	Kelly	NNP	O	B-NP	
+111	2	Preston	NNP	O	I-NP	O
+111	3	.	.	O	O	O
+
+112	0	No	DT	O	B-NP	
+112	1	matter	NN	O	I-NP	O
+112	2	how	WRB	O	O	B-Peop
+112	3	hard	JJ	O	O	I-Peop
+112	4	it	PRP	O	B-NP	
+112	5	tries	VBZ	O	B-VP	O
+112	6	to	TO	O	I-VP	O
+112	7	hit	VB	O	I-VP	O
+112	8	COMMA	COMMA	O	O	O
+112	9	Kevin	NNP	O	B-NP	
+112	10	Costner	NNP	O	I-NP	O
+112	11	's	POS	O	B-NP	O
+112	12	baseball	NN	O	I-NP	O
+112	13	flick	NN	O	I-NP	O
+112	14	whiffs	VBZ	O	B-VP	O
+112	15	a	DT	O	B-NP	O
+112	16	lot	NN	O	I-NP	O
+112	17	.	.	O	O	O
+
+113	0	Costner	NNP	O	B-NP	B-Peop
+113	1	plays	VBZ	O	B-VP	I-Peop
+113	2	Billy	NNP	O	B-NP	O
+113	3	Chapel	NNP	O	I-NP	B-Sport
+113	4	COMMA	COMMA	O	O	O
+113	5	a	DT	O	O	O
+113	6	Detroit	NNP	O	O	O
+113	7	Tigers	NNP	O	O	O
+113	8	pitching	VBG	O	B-VP	O
+113	9	god	NN	O	B-NP	
+113	10	in	IN	O	B-PP	B-Peop
+113	11	his	PP$	O	B-NP	O
+113	12	waning	VBG	O	I-NP	O
+113	13	years	NNS	O	I-NP	O
+113	14	who	WP	O	B-NP	O
+113	15	first	RB	O	O	O
+113	16	learns	VBZ	O	O	B-OrgTeam
+113	17	his	PP$	O	B-NP	I-OrgTeam
+113	18	team	NN	O	I-NP	O
+113	19	is	VBZ	O	B-VP	O
+113	20	being	VBG	O	I-VP	O
+113	21	sold	VBN	O	I-VP	O
+113	22	and	CC	O	O	O
+113	23	he	PRP	O	B-NP	B-Date
+113	24	'll	MD	O	B-VP	O
+113	25	be	VB	O	I-VP	B-Num
+113	26	traded	VBN	O	I-VP	O
+113	27	and	CC	O	O	O
+113	28	then	RB	O	O	O
+113	29	that	IN	O	O	O
+113	30	his	PP$	O	B-NP	O
+113	31	girlfriend	NN	O	I-NP	O
+113	32	is	VBZ	O	O	O
+113	33	dumping	VBG	O	O	O
+113	34	him	PRP	O	B-NP	O
+113	35	.	.	O	O	O
+
+114	0	As	IN	O	O	O
+114	1	he	PRP	O	B-NP	O
+114	2	pitches	VBZ	O	B-VP	O
+114	3	what	WP	O	B-NP	O
+114	4	could	MD	O	B-VP	O
+114	5	be	VB	O	I-VP	O
+114	6	a	DT	O	B-NP	O
+114	7	perfect	JJ	O	I-NP	O
+114	8	game	NN	O	I-NP	O
+114	9	COMMA	COMMA	O	O	
+114	10	he	PRP	O	B-NP	O
+114	11	flashes	VBZ	O	B-VP	O
+114	12	back	RB	O	O	O
+114	13	over	IN	O	B-PP	O
+114	14	his	PP$	O	B-NP	O
+114	15	life	NN	O	I-NP	O
+114	16	.	.	O	O	O
+
+115	0	-LBR-	-LBR-	O	O	O
+115	1	Bob	NNP	O	B-NP	O
+115	2	Longino	NNP	O	I-NP	O
+115	3	-RBR-	-RBR-	O	O	O
+
+116	0	2	CD	O	O	O
+116	1	hours	NNS	O	O	O
+116	2	COMMA	COMMA	O	O	O
+116	3	18	CD	O	B-NP	O
+116	4	minutes	NNS	O	I-NP	
+116	5	.	.	O	O	O
+
+117	0	C-	NNP	O	O	O
+
+118	0	``	``	O	O	
+118	1	In	IN	O	B-PP	B-Peop
+118	2	Too	RB	O	O	I-Peop
+118	3	Deep	JJ	O	O	O
+118	4	''	''	O	O	B-Num
+118	5	R	NNP	O	O	I-Num
+118	6	-LBR-	-LBR-	O	O	O
+118	7	profanity	NN	O	B-NP	
+118	8	COMMA	COMMA	O	I-NP	B-OrgCorp
+118	9	sensuality	NN	O	I-NP	
+118	10	COMMA	COMMA	O	O	O
+118	11	some	DT	O	B-NP	O
+118	12	violence	NN	O	I-NP	O
+118	13	-RBR-	-RBR-	O	O	O
+
+119	0	Starring	VBG	O	O	B-OrgCorp
+119	1	Omar	NNP	O	O	O
+119	2	Epps	NNP	O	O	O
+119	3	and	CC	O	O	O
+119	4	LL	NNP	O	O	O
+119	5	Cool	VB	O	B-VP	O
+119	6	J	NNP	O	B-NP	O
+119	7	.	.	O	O	O
+
+120	0	A	DT	O	B-NP	
+120	1	decent	JJ	O	I-NP	O
+120	2	undercover-cop	JJ	O	I-NP	O
+120	3	thriller	NN	O	I-NP	O
+120	4	highlighted	VBD	O	B-VP	O
+120	5	by	IN	O	B-PP	B-OrgCGroup
+120	6	some	DT	O	B-NP	I-OrgCGroup
+120	7	smart	JJ	O	I-NP	I-OrgCGroup
+120	8	performances	NNS	O	I-NP	O
+120	9	.	.	O	O	
+
+121	0	Omar	NNP	O	B-NP	O
+121	1	Epps	NNP	O	I-NP	O
+121	2	is	VBZ	O	B-VP	O
+121	3	quite	RB	O	O	O
+121	4	good	JJ	O	O	O
+121	5	as	IN	O	O	O
+121	6	the	DT	O	B-NP	O
+121	7	detective	NN	O	I-NP	O
+121	8	COMMA	COMMA	O	O	O
+121	9	but	CC	O	O	
+121	10	LL	NNP	O	B-NP	O
+121	11	Cool	VB	O	B-VP	O
+121	12	J	NNP	O	B-NP	O
+121	13	is	VBZ	O	B-VP	O
+121	14	a	DT	O	B-NP	O
+121	15	revelation	NN	O	I-NP	O
+121	16	as	IN	O	O	O
+121	17	the	DT	O	B-NP	B-ProfTitle
+121	18	ruthless	JJ	O	I-NP	O
+121	19	drug	NN	O	I-NP	O
+121	20	kingpin	NN	O	I-NP	B-OrgCGroup
+121	21	COMMA	COMMA	O	O	I-OrgCGroup
+121	22	a	DT	O	B-NP	I-OrgCGroup
+121	23	monster	NN	O	I-NP	O
+121	24	made	VBD	O	B-VP	O
+121	25	all	PDT	O	B-NP	O
+121	26	the	DT	O	I-NP	O
+121	27	scarier	NN	O	I-NP	O
+121	28	by	IN	O	B-PP	O
+121	29	his	PP$	O	B-NP	B-Medical
+121	30	seeming	JJ	O	I-NP	O
+121	31	benevolent	JJ	O	I-NP	O
+121	32	charm	NN	O	I-NP	O
+121	33	.	.	O	O	O
+
+122	0	-LBR-	-LBR-	O	O	O
+122	1	SM	NNP	O	O	O
+122	2	-RBR-	-RBR-	O	O	O
+122	3	1	CD	O	B-NP	O
+122	4	hour	NN	O	I-NP	O
+122	5	COMMA	COMMA	O	O	O
+122	6	50	CD	O	B-NP	O
+122	7	minutes	NNS	O	I-NP	O
+122	8	.	.	O	O	O
+
+123	0	B-	NNP	O	O	O
+
+124	0	``	``	O	O	I-Peop
+124	1	Inspector	NNP	O	O	B-Num
+124	2	Gadget	NNP	O	O	I-Num
+124	3	''	''	O	O	O
+124	4	PG	NNP	O	O	B-Num
+124	5	-LBR-	-LBR-	O	O	I-Num
+124	6	wacky	JJ	O	B-NP	O
+124	7	violence	NN	O	I-NP	
+124	8	COMMA	COMMA	O	O	B-OrgCorp
+124	9	profanity	NN	O	O	
+
+125	0	and	CC	O	O	I-Peop
+125	1	innuendo	NN	O	O	O
+125	2	-RBR-	-RBR-	O	O	O
+
+126	0	Starring	VBG	O	O	O
+126	1	Matthew	NNP	O	B-NP	B-Peop
+126	2	Broderick	NNP	O	I-NP	O
+
+127	0	and	CC	O	O	O
+127	1	Rupert	NNP	O	B-NP	
+127	2	Everett	NNP	O	I-NP	O
+127	3	.	.	O	O	O
+
+128	0	The	DT	O	B-NP	
+128	1	best	JJS	O	I-NP	O
+128	2	gag	NN	O	I-NP	O
+128	3	is	VBZ	O	B-VP	O
+128	4	the	DT	O	B-NP	
+128	5	first	JJ	O	I-NP	O
+128	6	one	CD	O	I-NP	B-Peop
+128	7	in	IN	O	B-PP	I-Peop
+128	8	Disney	NNP	O	B-NP	O
+128	9	's	POS	O	B-NP	
+128	10	big-screen	JJ	O	I-NP	O
+128	11	version	NN	O	I-NP	O
+128	12	of	IN	O	B-PP	O
+128	13	TV	NN	O	B-NP	O
+128	14	's	POS	O	B-NP	O
+128	15	popular	JJ	O	I-NP	B-Num
+128	16	animated	JJ	O	I-NP	B-Num
+128	17	part-human	NN	O	I-NP	O
+128	18	COMMA	COMMA	O	O	B-Loc
+128	19	part-machine	NN	O	B-NP	O
+128	20	COMMA	COMMA	O	O	O
+128	21	mucho-gizmo	JJ	O	B-NP	O
+128	22	lawman	NN	O	I-NP	O
+128	23	.	.	O	O	B-OrgCorp
+
+129	0	Matthew	NNP	O	B-NP	O
+129	1	Broderick	NNP	O	I-NP	O
+129	2	is	VBZ	O	B-VP	O
+129	3	perfectly	RB	O	I-VP	O
+129	4	cast	VB	O	I-VP	O
+129	5	as	IN	O	B-PP	O
+129	6	Gadget	NNP	O	B-NP	O
+129	7	.	.	O	O	O
+
+130	0	Rupert	NNP	O	B-NP	
+130	1	Everett	NNP	O	I-NP	B-Peop
+130	2	goes	VBZ	O	B-VP	I-Peop
+130	3	over	IN	O	B-PP	O
+130	4	the	DT	O	B-NP	O
+130	5	top	NN	O	I-NP	O
+130	6	as	IN	O	B-PP	O
+130	7	bad	JJ	O	B-NP	O
+130	8	man	NN	O	I-NP	O
+130	9	Sanford	NNP	O	I-NP	
+130	10	Solex	NNP	O	I-NP	O
+130	11	.	.	O	O	O
+
+131	0	Kids	NNP	O	B-NP	O
+131	1	will	MD	O	B-VP	O
+131	2	enjoy	VB	O	I-VP	O
+131	3	watching	VBG	O	I-VP	O
+131	4	them	PRP	O	B-NP	O
+131	5	both	DT	O	B-NP	O
+131	6	.	.	O	O	O
+
+132	0	-LBR-	-LBR-	O	O	O
+132	1	Bob	NNP	O	B-NP	
+132	2	Longino	NNP	O	I-NP	B-Peop
+132	3	-RBR-	-RBR-	O	O	I-Peop
+132	4	1	CD	O	B-NP	O
+132	5	hour	NN	O	I-NP	O
+132	6	COMMA	COMMA	O	O	O
+132	7	20	CD	O	B-NP	O
+132	8	minutes	NNS	O	I-NP	O
+132	9	.	.	O	O	
+
+133	0	B-	NNP	O	O	O
+
+134	0	``	``	O	O	O
+134	1	The	DT	O	B-NP	B-Num
+134	2	Iron	NNP	O	I-NP	I-Num
+134	3	Giant	NNP	O	I-NP	O
+134	4	''	''	O	I-NP	B-Num
+134	5	PG	NNP	O	I-NP	I-Num
+134	6	-LBR-	-LBR-	O	I-NP	O
+134	7	fantasy	NN	O	I-NP	
+134	8	action	NN	O	I-NP	B-OrgCorp
+134	9	and	CC	O	O	
+134	10	mild	JJ	O	O	O
+134	11	profanity	NN	O	O	O
+134	12	-RBR-	-RBR-	O	O	O
+
+135	0	Starring	VBG	O	B-VP	O
+135	1	the	DT	O	B-NP	O
+135	2	voices	NNS	O	I-NP	O
+135	3	of	IN	O	B-PP	O
+
+136	0	Jennifer	NNP	O	O	O
+136	1	Aniston	NNP	O	O	O
+136	2	and	CC	O	O	O
+136	3	Harry	NNP	O	B-NP	O
+136	4	Connick	NNP	O	I-NP	
+136	5	Jr	NNP	O	I-NP	O
+136	6	.	.	O	O	O
+
+137	0	Nice	NNP	O	O	O
+137	1	story	NN	O	O	
+137	2	for	IN	O	B-PP	B-Peop
+137	3	kids	NNS	O	B-NP	I-Peop
+137	4	COMMA	COMMA	O	O	O
+137	5	nifty	JJ	O	B-NP	O
+137	6	look	NN	O	I-NP	O
+137	7	for	IN	O	B-PP	O
+137	8	adults	NNS	O	B-NP	O
+137	9	.	.	O	O	
+
+138	0	In	IN	O	B-PP	O
+138	1	1957	CD	O	B-NP	O
+138	2	COMMA	COMMA	O	O	O
+138	3	a	DT	O	B-NP	O
+138	4	giant	NN	O	I-NP	O
+138	5	metal-eating	NN	O	I-NP	O
+138	6	robot	NN	O	I-NP	O
+138	7	crash-lands	JJ	O	O	O
+138	8	on	IN	O	B-PP	O
+138	9	Earth	NNP	O	B-NP	
+138	10	and	CC	O	O	O
+138	11	is	VBZ	O	B-VP	B-Date
+138	12	befriended	VBN	O	I-VP	O
+138	13	by	IN	O	B-PP	O
+138	14	9-year-old	JJ	O	B-NP	O
+138	15	Hogarth	NNP	O	I-NP	O
+138	16	.	.	O	O	O
+
+139	0	But	CC	O	O	O
+139	1	the	DT	O	B-NP	O
+139	2	robot	NN	O	I-NP	O
+139	3	's	POS	O	B-NP	O
+139	4	trail	NN	O	I-NP	O
+139	5	of	IN	O	B-PP	O
+139	6	munched-on	JJ	O	B-NP	B-Num
+139	7	trucks	NNS	O	I-NP	O
+139	8	and	CC	O	I-NP	O
+139	9	grain	NN	O	I-NP	
+139	10	silos	NNS	O	I-NP	O
+139	11	attracts	VBZ	O	B-VP	O
+139	12	a	DT	O	B-NP	O
+139	13	super-paranoid	JJ	O	I-NP	O
+139	14	government	NN	O	I-NP	O
+139	15	agent	NN	O	I-NP	O
+139	16	.	.	O	O	O
+
+140	0	The	DT	O	B-NP	O
+140	1	interesting	JJ	O	I-NP	O
+140	2	mix	NN	O	I-NP	O
+140	3	of	IN	O	B-PP	O
+140	4	voice	NN	O	B-NP	O
+140	5	talent	NN	O	I-NP	O
+140	6	in	IN	O	B-PP	O
+140	7	this	DT	O	B-NP	B-ProfTitle
+140	8	animated	JJ	O	I-NP	O
+140	9	film	NN	O	I-NP	
+140	10	includes	VBZ	O	B-VP	O
+140	11	Jennifer	NNP	O	B-NP	O
+140	12	Aniston	NNP	O	I-NP	O
+140	13	as	IN	O	B-PP	O
+140	14	Hogarth	NNP	O	B-NP	O
+140	15	's	POS	O	B-NP	O
+140	16	mom	NN	O	I-NP	O
+140	17	and	CC	O	O	O
+140	18	Harry	NNP	O	B-NP	O
+140	19	Connick	NNP	O	I-NP	O
+140	20	Jr.	NNP	O	I-NP	O
+140	21	as	IN	O	B-PP	B-Peop
+140	22	a	DT	O	B-NP	I-Peop
+140	23	beatnik	NN	O	I-NP	O
+140	24	with	IN	O	B-PP	O
+140	25	seductive	JJ	O	B-NP	O
+140	26	Elvis	NNP	O	I-NP	O
+140	27	eyes	NNS	O	I-NP	O
+140	28	.	.	O	O	O
+
+141	0	-LBR-	-LBR-	O	O	O
+141	1	ERG	NNP	O	O	O
+141	2	-RBR-	-RBR-	O	O	O
+141	3	1	CD	O	B-NP	O
+141	4	hour	NN	O	I-NP	O
+141	5	COMMA	COMMA	O	O	O
+141	6	24	CD	O	B-NP	B-Peop
+141	7	minutes	NNS	O	I-NP	O
+141	8	.	.	O	O	O
+
+142	0	B+	NNP	O	O	O
+
+143	0	``	``	O	O	I-Peop
+143	1	Jakob	NNP	O	B-VP	B-Num
+143	2	the	DT	O	B-NP	I-Num
+143	3	Liar	NN	O	I-NP	O
+143	4	''	''	O	B-NP	B-Num
+143	5	PG-13	NN	O	I-NP	I-Num
+143	6	-LBR-	-LBR-	O	O	O
+143	7	violence	NN	O	B-NP	
+143	8	and	CC	O	O	O
+143	9	disturbing	JJ	O	B-VP	
+143	10	-RBR-	-RBR-	O	O	O
+
+144	0	Starring	VBG	O	O	O
+144	1	Robin	NNP	O	B-NP	O
+144	2	WilliamsCOMMA	NNP	O	I-NP	O
+
+145	0	Alan	NNP	O	O	B-Peop
+145	1	Arkin	NNP	O	O	O
+
+146	0	and	CC	O	O	O
+146	1	Armin	NNP	O	B-NP	O
+146	2	Mueller-Stahl	NNP	O	I-NP	
+146	3	.	.	O	O	O
+
+147	0	Robin	NNP	O	B-NP	O
+147	1	Williams	NNP	O	I-NP	
+147	2	plays	VBZ	O	B-VP	B-Peop
+147	3	a	DT	O	B-NP	I-Peop
+147	4	Polish	NNP	O	I-NP	
+147	5	Jew	NNP	O	I-NP	O
+147	6	who	WP	O	B-NP	O
+147	7	inspires	VBZ	O	B-VP	O
+147	8	his	PP$	O	B-NP	O
+147	9	neighbors	NNS	O	I-NP	
+147	10	in	IN	O	B-PP	B-Peop
+147	11	the	DT	O	B-NP	I-Peop
+147	12	Nazi-controlled	NNP	O	I-NP	O
+147	13	ghetto	NN	O	I-NP	O
+147	14	by	IN	O	B-PP	B-LangRace
+147	15	pretending	VBG	O	B-VP	O
+147	16	to	TO	O	I-VP	O
+147	17	own	VB	O	I-VP	O
+147	18	a	DT	O	B-NP	O
+147	19	radio	NN	O	I-NP	O
+147	20	that	IN	O	B-NP	O
+147	21	's	POS	O	B-VP	O
+147	22	broadcasting	NN	O	O	O
+147	23	news	NN	O	O	O
+147	24	of	IN	O	B-PP	O
+147	25	German	JJ	O	B-NP	O
+147	26	defeat	NN	O	I-NP	O
+147	27	.	.	O	O	O
+
+148	0	While	IN	O	O	O
+148	1	you	PRP	O	B-NP	O
+148	2	'll	MD	O	B-VP	O
+148	3	be	VB	O	I-VP	O
+148	4	grateful	JJ	O	O	O
+148	5	that	IN	O	O	O
+148	6	Williams	NNP	O	B-NP	B-LangRace
+148	7	avoids	VBZ	O	B-VP	O
+148	8	his	PP$	O	B-NP	O
+148	9	mawkish	NN	O	I-NP	
+148	10	COMMA	COMMA	O	O	O
+148	11	laughter-through-tears	JJ	O	O	O
+148	12	routine	JJ	O	O	O
+148	13	COMMA	COMMA	O	O	O
+148	14	you	PRP	O	B-NP	O
+148	15	keep	VBP	O	B-VP	O
+148	16	wanting	VBG	O	I-VP	B-Peop
+148	17	him	PRP	O	B-NP	O
+148	18	to	TO	O	B-VP	O
+148	19	do	VB	O	I-VP	O
+148	20	something	NN	O	B-NP	O
+148	21	memorable	JJ	O	O	O
+148	22	.	.	O	O	O
+
+149	0	Ultimately	RB	O	O	O
+149	1	COMMA	COMMA	O	O	O
+149	2	it	PRP	O	B-NP	O
+149	3	's	VBZ	O	B-VP	O
+149	4	what	WP	O	B-NP	O
+149	5	a	DT	O	B-NP	O
+149	6	film	NN	O	I-NP	O
+149	7	like	IN	O	B-PP	O
+149	8	this	DT	O	B-NP	O
+149	9	should	MD	O	B-VP	
+149	10	never	RB	O	I-VP	O
+149	11	be	VB	O	I-VP	B-Peop
+149	12	:	:	O	O	I-Peop
+149	13	dull	JJ	O	O	O
+149	14	.	.	O	O	O
+
+150	0	-LBR-	-LBR-	O	O	O
+150	1	SM	NNP	O	O	O
+150	2	-RBR-	-RBR-	O	O	O
+150	3	1	CD	O	B-NP	O
+150	4	hour	NN	O	I-NP	O
+150	5	COMMA	COMMA	O	O	O
+150	6	54	CD	O	B-NP	O
+150	7	minutes	NNS	O	I-NP	O
+150	8	.	.	O	O	O
+
+151	0	``	``	O	O	O
+151	1	Mickey	NNP	O	B-NP	O
+151	2	Blue	NNP	O	I-NP	O
+151	3	Eyes	NNS	O	I-NP	B-Num
+151	4	''	''	O	O	I-Num
+151	5	PG-13	NN	O	O	O
+151	6	-LBR-	-LBR-	O	O	B-Num
+151	7	profanity	NN	O	B-NP	I-Num
+151	8	COMMA	COMMA	O	O	O
+151	9	some	DT	O	B-NP	
+151	10	violence	NN	O	I-NP	O
+
+152	0	and	CC	O	O	O
+152	1	sensuality	NN	O	O	O
+152	2	-RBR-	-RBR-	O	O	O
+
+153	0	Starring	VBG	O	O	O
+153	1	Hugh	NNP	O	B-NP	O
+153	2	Grant	NNP	O	I-NP	O
+153	3	COMMA	COMMA	O	O	O
+153	4	James	NNP	O	B-NP	O
+153	5	Caan	NNP	O	I-NP	O
+
+154	0	and	CC	O	O	
+154	1	Jeanne	NNP	O	B-NP	O
+154	2	Tripplehorn	NNP	O	I-NP	O
+154	3	.	.	O	O	O
+
+155	0	An	DT	O	B-NP	O
+155	1	effete	JJ	O	I-NP	O
+155	2	British	JJ	O	I-NP	O
+155	3	auctioneer	NN	O	I-NP	O
+155	4	-LBR-	-LBR-	O	I-NP	B-Peop
+155	5	Hugh	NNP	O	I-NP	I-Peop
+155	6	Grant	NNP	O	I-NP	
+155	7	-RBR-	-RBR-	O	O	O
+155	8	experiences	VBZ	O	O	B-Peop
+155	9	culture	NN	O	B-NP	O
+155	10	clash	NN	O	I-NP	O
+155	11	when	WRB	O	O	
+155	12	he	PRP	O	B-NP	O
+155	13	finds	VBZ	O	B-VP	O
+155	14	himself	PRP	O	B-NP	B-LangRace
+155	15	married	VBD	O	B-VP	O
+155	16	to	TO	O	B-PP	O
+155	17	the	DT	O	B-NP	B-Peop
+155	18	mob	NN	O	I-NP	I-Peop
+155	19	COMMA	COMMA	O	O	O
+155	20	literally	RB	O	O	O
+155	21	.	.	O	O	O
+
+156	0	Call	VB	O	B-VP	O
+156	1	it	PRP	O	B-NP	O
+156	2	a	DT	O	B-NP	O
+156	3	sleeping-with-the-fish-out-of-water	JJ	O	I-NP	O
+156	4	comedy	NN	O	I-NP	O
+156	5	.	.	O	O	O
+
+157	0	Grant	NNP	O	B-NP	O
+157	1	's	POS	O	B-NP	O
+157	2	one-trick	JJ	O	I-NP	O
+157	3	performance	NN	O	I-NP	O
+157	4	as	IN	O	B-PP	
+157	5	an	DT	O	B-NP	O
+157	6	elegant	JJ	O	I-NP	O
+157	7	bumbler	NN	O	I-NP	O
+157	8	is	VBZ	O	B-VP	O
+157	9	treadworn	JJ	O	O	O
+157	10	.	.	O	O	O
+
+158	0	He	PRP	O	B-NP	B-Peop
+158	1	's	VBZ	O	B-VP	O
+158	2	terrific	JJ	O	O	O
+158	3	at	IN	O	B-PP	O
+158	4	it	PRP	O	B-NP	O
+158	5	COMMA	COMMA	O	O	O
+158	6	yes	RB	O	O	O
+158	7	.	.	O	O	O
+
+159	0	But	CC	O	O	O
+159	1	it	PRP	O	B-NP	O
+159	2	's	VBZ	O	B-VP	
+159	3	time	NN	O	B-NP	O
+159	4	to	TO	O	B-VP	O
+159	5	show	VB	O	I-VP	O
+159	6	more	JJR	O	B-NP	O
+159	7	range	NN	O	I-NP	O
+159	8	.	.	O	O	O
+
+160	0	-LBR-	-LBR-	O	O	O
+160	1	SM	NNP	O	O	
+160	2	-RBR-	-RBR-	O	O	B-Peop
+160	3	1	CD	O	B-NP	I-Peop
+160	4	hour	NN	O	I-NP	O
+160	5	COMMA	COMMA	O	O	O
+160	6	45	CD	O	B-NP	O
+160	7	minutes	NNS	O	I-NP	O
+160	8	.	.	O	O	O
+
+161	0	C+	NNP	O	O	O
+
+162	0	``	``	O	O	O
+162	1	Mumford	NNP	O	O	B-Peop
+162	2	''	''	O	O	I-Peop
+162	3	R	NNP	O	O	B-Num
+162	4	-LBR-	-LBR-	O	O	I-Num
+162	5	profanity	NN	O	B-NP	O
+162	6	COMMA	COMMA	O	O	B-Num
+162	7	sex-related	JJ	O	O	I-Num
+162	8	imagesCOMMA	NN	O	O	O
+
+163	0	drug	NN	O	O	O
+163	1	content	NN	O	O	
+163	2	-RBR-	-RBR-	O	O	O
+
+164	0	Starring	VBG	O	O	O
+164	1	Loren	NNP	O	O	B-OrgCorp
+164	2	DeanCOMMA	NNP	O	O	O
+
+165	0	Hope	NNP	O	B-NP	O
+165	1	Davis	NNP	O	I-NP	O
+165	2	COMMA	COMMA	O	O	O
+165	3	Jason	NNP	O	O	
+165	4	Lee	NNP	O	O	B-Medical
+
+166	0	and	CC	O	O	O
+166	1	Alfre	NNP	O	B-NP	
+166	2	Woodard	NNP	O	I-NP	O
+166	3	.	.	O	O	O
+
+167	0	Writer-director	NNP	O	B-NP	
+167	1	Lawrence	NNP	O	I-NP	O
+167	2	Kasdan	NNP	O	I-NP	O
+167	3	delivers	VBZ	O	B-VP	O
+167	4	a	DT	O	B-NP	B-Peop
+167	5	sunny	JJ	O	I-NP	I-Peop
+167	6	COMMA	COMMA	O	I-NP	
+167	7	low-key	JJ	O	I-NP	O
+167	8	crowd-pleaser	NN	O	I-NP	B-Peop
+167	9	about	IN	O	B-PP	I-Peop
+167	10	a	DT	O	B-NP	O
+167	11	therapist	NN	O	I-NP	
+167	12	named	VBN	O	B-VP	B-OrgCorp
+167	13	Mumford	NNP	O	B-NP	O
+167	14	-LBR-	-LBR-	O	I-NP	O
+167	15	Loren	NNP	O	I-NP	O
+167	16	Dean	NNP	O	I-NP	O
+167	17	-RBR-	-RBR-	O	O	O
+167	18	whose	WP$	O	B-NP	O
+167	19	effect	NN	O	I-NP	O
+167	20	on	IN	O	B-PP	O
+167	21	his	PP$	O	B-NP	O
+167	22	clients	NNS	O	I-NP	O
+167	23	changes	NNS	O	I-NP	B-ProfTitle
+167	24	the	DT	O	B-NP	O
+167	25	mood	NN	O	I-NP	O
+167	26	of	IN	O	B-PP	O
+167	27	their	PP$	O	B-NP	B-Peop
+167	28	whole	JJ	O	I-NP	B-ProfTitle
+167	29	town	NN	O	I-NP	O
+167	30	-LBR-	-LBR-	O	O	O
+167	31	also	RB	O	O	O
+167	32	called	VBD	O	B-VP	O
+167	33	Mumford	NNP	O	B-NP	O
+167	34	-RBR-	-RBR-	O	O	O
+167	35	.	.	O	O	O
+
+168	0	With	IN	O	B-PP	O
+168	1	a	DT	O	B-NP	O
+168	2	crack	NN	O	I-NP	O
+168	3	supporting	VBG	O	I-NP	O
+168	4	cast	NN	O	I-NP	O
+168	5	COMMA	COMMA	O	O	O
+168	6	it	PRP	O	B-NP	O
+168	7	's	VBZ	O	B-VP	O
+168	8	a	DT	O	B-NP	O
+168	9	gentle	JJ	O	I-NP	O
+168	10	vacation	NN	O	I-NP	O
+168	11	from	IN	O	B-PP	
+168	12	the	DT	O	B-NP	O
+168	13	high-concept	NN	O	I-NP	O
+168	14	bangs	VBZ	O	O	O
+168	15	and	CC	O	O	O
+168	16	lowbrow	NN	O	B-NP	B-Peop
+168	17	laughs	VBZ	O	B-VP	I-Peop
+168	18	found	VBN	O	I-VP	O
+168	19	elsewhere	RB	O	O	O
+168	20	in	IN	O	B-PP	O
+168	21	the	DT	O	B-NP	O
+168	22	multiplex	NN	O	I-NP	O
+168	23	.	.	O	O	O
+
+169	0	-LBR-	-LBR-	O	O	O
+169	1	SM	NNP	O	O	O
+169	2	-RBR-	-RBR-	O	O	O
+169	3	1	CD	O	B-NP	O
+169	4	hour	NN	O	I-NP	O
+169	5	COMMA	COMMA	O	O	O
+169	6	51	CD	O	B-NP	O
+169	7	minutes	NNS	O	I-NP	O
+169	8	.	.	O	O	O
+
+170	0	``	``	O	O	O
+170	1	The	DT	O	B-NP	
+170	2	Minus	NNP	O	I-NP	O
+170	3	Man	NNP	O	I-NP	O
+170	4	''	''	O	I-NP	O
+170	5	R	NNP	O	I-NP	B-Num
+170	6	-LBR-	-LBR-	O	I-NP	I-Num
+170	7	profanity	NN	O	I-NP	O
+170	8	and	CC	O	I-NP	B-Num
+170	9	violence	NN	O	I-NP	I-Num
+170	10	-RBR-	-RBR-	O	O	O
+
+171	0	Starring	VBG	O	O	O
+171	1	Owen	NNP	O	B-NP	
+171	2	Wilson	NNP	O	I-NP	O
+
+172	0	and	CC	O	O	O
+172	1	Janeane	NNP	O	B-NP	O
+172	2	Garofalo	NNP	O	I-NP	O
+172	3	.	.	O	O	B-OrgCorp
+
+173	0	Not	RB	O	B-NP	B-Peop
+173	1	many	JJ	O	I-NP	O
+173	2	pluses	NNS	O	I-NP	O
+173	3	.	.	O	O	O
+
+174	0	An	DT	O	B-NP	O
+174	1	affable	JJ	O	I-NP	B-Org
+174	2	drifter	NN	O	I-NP	B-Peop
+174	3	-LBR-	-LBR-	O	I-NP	
+174	4	Owen	NNP	O	I-NP	O
+174	5	Wilson	NNP	O	I-NP	B-Peop
+174	6	-RBR-	-RBR-	O	O	I-Peop
+174	7	moves	VBZ	O	O	O
+174	8	to	TO	O	B-PP	
+174	9	a	DT	O	B-NP	O
+174	10	small	JJ	O	I-NP	O
+174	11	town	NN	O	I-NP	O
+174	12	and	CC	O	O	O
+174	13	insinuates	VBZ	O	B-VP	
+174	14	himself	PRP	O	B-NP	O
+174	15	into	IN	O	B-PP	B-Peop
+174	16	the	DT	O	B-NP	I-Peop
+174	17	lives	NNS	O	I-NP	O
+174	18	of	IN	O	B-PP	B-Peop
+174	19	the	DT	O	B-NP	I-Peop
+174	20	residents	NNS	O	I-NP	O
+174	21	.	.	O	O	O
+
+175	0	Trouble	NN	O	B-NP	O
+175	1	is	VBZ	O	B-VP	O
+175	2	COMMA	COMMA	O	O	O
+175	3	he	PRP	O	B-NP	O
+175	4	's	VBZ	O	B-VP	O
+175	5	also	RB	O	O	O
+175	6	a	DT	O	B-NP	O
+175	7	serial	JJ	O	I-NP	O
+175	8	killer	NN	O	I-NP	O
+175	9	.	.	O	O	O
+
+176	0	The	DT	O	B-NP	O
+176	1	idea	NN	O	I-NP	O
+176	2	of	IN	O	B-PP	
+176	3	a	DT	O	B-NP	O
+176	4	compulsive	JJ	O	I-NP	B-Peop
+176	5	killer	NN	O	I-NP	I-Peop
+176	6	as	IN	O	B-PP	O
+176	7	a	DT	O	B-NP	O
+176	8	freaky	NN	O	I-NP	O
+176	9	cipher	NN	O	I-NP	O
+176	10	who	WP	O	B-NP	O
+176	11	COMMA	COMMA	O	O	O
+176	12	if	IN	O	O	O
+176	13	anything	NN	O	B-NP	
+176	14	COMMA	COMMA	O	O	B-Peop
+176	15	seems	VBZ	O	B-VP	I-Peop
+176	16	TOO	NNP	O	B-NP	O
+176	17	normal	JJ	O	I-NP	O
+176	18	is	VBZ	O	B-VP	O
+176	19	intriguing	JJ	O	O	O
+176	20	COMMA	COMMA	O	O	O
+176	21	but	CC	O	O	O
+176	22	the	DT	O	B-NP	O
+176	23	film	NN	O	I-NP	O
+176	24	is	VBZ	O	B-VP	O
+176	25	as	IN	O	B-PP	O
+176	26	flat	JJ	O	B-NP	O
+176	27	and	CC	O	I-NP	O
+176	28	affectless	NN	O	I-NP	O
+176	29	as	IN	O	O	O
+176	30	Wilson	NNP	O	B-NP	O
+176	31	's	POS	O	B-NP	O
+176	32	performance	NN	O	I-NP	O
+176	33	.	.	O	O	O
+
+177	0	After	IN	O	B-PP	O
+177	1	a	DT	O	B-NP	O
+177	2	point	NN	O	I-NP	O
+177	3	COMMA	COMMA	O	O	O
+177	4	you	PRP	O	B-NP	O
+177	5	kinda	NN	O	B-NP	O
+177	6	hope	VBP	O	B-VP	O
+177	7	Wilson	NNP	O	B-NP	O
+177	8	will	MD	O	B-VP	B-Loc
+177	9	kill	VB	O	I-VP	I-Loc
+177	10	again	RB	O	O	O
+177	11	COMMA	COMMA	O	O	O
+177	12	just	RB	O	O	O
+177	13	to	TO	O	B-VP	
+177	14	pick	VB	O	I-VP	B-Peop
+177	15	things	NNS	O	B-NP	O
+177	16	up	IN	O	O	O
+177	17	.	.	O	O	O
+
+178	0	-LBR-	-LBR-	O	O	O
+178	1	ERG	NNP	O	O	O
+178	2	-RBR-	-RBR-	O	O	B-Peop
+178	3	1	CD	O	B-NP	O
+178	4	hour	NN	O	I-NP	O
+178	5	COMMA	COMMA	O	O	O
+178	6	55	CD	O	B-NP	O
+178	7	minutes	NNS	O	I-NP	O
+178	8	.	.	O	O	O
+
+179	0	D+	NNP	O	O	O
+
+180	0	``	``	O	O	O
+180	1	The	NNP	O	B-NP	
+180	2	Muse	NNP	O	I-NP	O
+180	3	''	''	O	I-NP	O
+180	4	PG-13	NN	O	I-NP	O
+180	5	-LBR-	-LBR-	O	I-NP	B-Num
+180	6	profanity	NN	O	I-NP	I-Num
+180	7	and	CC	O	I-NP	O
+180	8	sexual	JJ	O	I-NP	B-Num
+180	9	innuendo	NN	O	I-NP	I-Num
+180	10	-RBR-	-RBR-	O	O	O
+
+181	0	Starring	VBG	O	O	O
+181	1	Albert	NNP	O	B-NP	
+181	2	Brooks	NNP	O	I-NP	O
+181	3	COMMA	COMMA	O	O	B-Org
+181	4	Sharon	NNP	O	B-NP	O
+181	5	Stone	NNP	O	I-NP	O
+
+182	0	and	CC	O	O	O
+182	1	Andie	NNP	O	B-NP	O
+182	2	MacDowell	NNP	O	I-NP	O
+182	3	.	.	O	O	O
+
+183	0	Albert	NNP	O	B-NP	O
+183	1	Brooks	NNP	O	I-NP	
+183	2	wrote	VBD	O	B-VP	O
+183	3	COMMA	COMMA	O	O	O
+183	4	directed	VBD	O	B-VP	O
+183	5	and	CC	O	O	O
+183	6	stars	NNS	O	B-NP	B-Peop
+183	7	in	IN	O	B-PP	I-Peop
+183	8	this	DT	O	B-NP	
+183	9	Hollywood	NNP	O	I-NP	O
+183	10	fable	NN	O	I-NP	O
+183	11	about	IN	O	B-PP	O
+183	12	a	DT	O	B-NP	O
+183	13	screenwriter	NN	O	I-NP	
+183	14	who	WP	O	B-NP	B-Peop
+183	15	's	POS	O	B-NP	I-Peop
+183	16	``	``	O	O	O
+183	17	lost	VBD	O	O	O
+183	18	his	PP$	O	B-NP	O
+183	19	edge	NN	O	I-NP	O
+183	20	''	''	O	O	O
+183	21	and	CC	O	O	O
+183	22	is	VBZ	O	B-VP	O
+183	23	sent	VBN	O	I-VP	B-LocCit
+183	24	to	TO	O	B-PP	O
+183	25	an	DT	O	B-NP	O
+183	26	honest-to-the-gods	JJ	O	I-NP	O
+183	27	Muse	NNP	O	I-NP	O
+183	28	-LBR-	-LBR-	O	I-NP	O
+183	29	Sharon	NNP	O	I-NP	O
+183	30	Stone	NNP	O	I-NP	O
+183	31	-RBR-	-RBR-	O	O	O
+183	32	for	IN	O	B-PP	O
+183	33	inspiration	NN	O	B-NP	O
+183	34	.	.	O	O	O
+
+184	0	Stone	NNP	O	B-NP	O
+184	1	is	VBZ	O	B-VP	O
+184	2	delicious	JJ	O	O	O
+184	3	.	.	O	O	O
+
+185	0	She	PRP	O	B-NP	O
+185	1	plays	VBZ	O	B-VP	O
+185	2	her	PRP	O	B-NP	B-Peop
+185	3	Muse	NNP	O	I-NP	I-Peop
+185	4	as	IN	O	B-PP	O
+185	5	a	DT	O	B-NP	O
+185	6	mix	NN	O	I-NP	O
+185	7	of	IN	O	B-PP	O
+185	8	material	NN	O	B-NP	
+185	9	girl	NN	O	I-NP	B-Peop
+185	10	COMMA	COMMA	O	O	O
+185	11	expert	NN	O	B-NP	O
+185	12	networker	NN	O	I-NP	O
+185	13	and	CC	O	O	
+185	14	distracted	VBD	O	B-VP	O
+185	15	spoiled	VBN	O	B-NP	B-Peop
+185	16	child	NN	O	I-NP	I-Peop
+185	17	.	.	O	O	O
+
+186	0	In	IN	O	B-PP	O
+186	1	other	JJ	O	B-NP	O
+186	2	words	NNS	O	I-NP	O
+186	3	COMMA	COMMA	O	O	O
+186	4	she	PRP	O	B-NP	O
+186	5	's	VBZ	O	B-VP	O
+186	6	modeled	VBN	O	I-VP	O
+186	7	her	PRP	O	B-NP	O
+186	8	after	IN	O	B-PP	O
+186	9	half	DT	O	B-NP	O
+186	10	of	IN	O	B-PP	O
+186	11	Hollywood	NNP	O	B-NP	O
+186	12	.	.	O	O	O
+
+187	0	-LBR-	-LBR-	O	O	O
+187	1	ERG	NNP	O	O	O
+187	2	-RBR-	-RBR-	O	O	O
+187	3	1	CD	O	B-NP	O
+187	4	hour	NN	O	I-NP	O
+187	5	COMMA	COMMA	O	O	O
+187	6	37	CD	O	B-NP	O
+187	7	minutes	NNS	O	I-NP	O
+187	8	.	.	O	O	O
+
+188	0	A-	NNP	O	O	O
+
+189	0	``	``	O	O	O
+189	1	Outside	IN	O	B-PP	
+189	2	Providence	NNP	O	O	O
+189	3	''	''	O	O	O
+189	4	R	NNP	O	O	O
+189	5	-LBR-	-LBR-	O	O	B-Num
+189	6	teen	JJ	O	B-NP	I-Num
+189	7	drug	NN	O	I-NP	O
+189	8	use	NN	O	I-NP	B-Num
+189	9	COMMA	COMMA	O	O	I-Num
+189	10	profanityCOMMA	NN	O	O	O
+
+190	0	sexual	JJ	O	B-NP	B-OrgCorp
+190	1	references	NNS	O	I-NP	
+190	2	-RBR-	-RBR-	O	O	O
+
+191	0	Starring	VBG	O	O	O
+191	1	Shawn	NNP	O	O	O
+191	2	Hatosy	NNP	O	O	B-OrgCorp
+
+192	0	and	CC	O	O	O
+192	1	Alec	NNP	O	B-NP	B-Medical
+192	2	Baldwin	NNP	O	I-NP	O
+192	3	.	.	O	O	O
+
+193	0	Just	RB	O	O	
+193	1	ignore	VB	O	B-VP	O
+193	2	the	DT	O	B-NP	O
+193	3	Miramax	NNP	O	I-NP	O
+193	4	marketing	NN	O	I-NP	
+193	5	campaign	NN	O	I-NP	O
+193	6	.	.	O	O	O
+
+194	0	This	DT	O	B-NP	
+194	1	movie	NN	O	I-NP	O
+194	2	may	MD	O	B-VP	B-Peop
+194	3	be	VB	O	I-VP	I-Peop
+194	4	written	VBN	O	I-VP	O
+194	5	by	IN	O	B-PP	
+194	6	the	DT	O	O	O
+194	7	``	``	O	O	O
+194	8	There	EX	O	B-NP	O
+194	9	's	VBZ	O	B-VP	O
+194	10	Something	NN	O	B-NP	O
+194	11	About	IN	O	O	O
+194	12	Mary	NNP	O	O	O
+194	13	''	''	O	B-NP	
+194	14	gang	NN	O	I-NP	O
+194	15	COMMA	COMMA	O	O	O
+194	16	but	CC	O	O	O
+194	17	it	PRP	O	B-NP	O
+194	18	's	VBZ	O	B-VP	O
+194	19	bittersweet	JJ	O	O	O
+194	20	funny	JJ	O	O	O
+194	21	COMMA	COMMA	O	O	O
+194	22	not	RB	O	O	O
+194	23	raucous	JJ	O	B-NP	O
+194	24	comedy	NN	O	I-NP	O
+194	25	.	.	O	O	O
+
+195	0	It	PRP	O	B-NP	O
+195	1	's	VBZ	O	B-VP	O
+195	2	a	DT	O	B-NP	O
+195	3	coming-of-age	JJ	O	I-NP	O
+195	4	tale	NN	O	I-NP	O
+195	5	of	IN	O	B-PP	O
+195	6	a	DT	O	B-NP	O
+195	7	'	POS	O	B-NP	O
+195	8	70s	NN	O	O	O
+195	9	Rhode	NNP	O	B-NP	O
+195	10	Island	NNP	O	I-NP	O
+195	11	teen	JJ	O	O	O
+195	12	-LBR-	-LBR-	O	O	O
+195	13	Shawn	NNP	O	O	
+195	14	Hatosy	NNP	O	O	O
+195	15	-RBR-	-RBR-	O	O	O
+195	16	that	DT	O	B-NP	O
+195	17	captures	VBZ	O	B-VP	O
+195	18	the	DT	O	B-NP	O
+195	19	shaggy	JJ	O	I-NP	O
+195	20	COMMA	COMMA	O	I-NP	O
+195	21	druggy	JJ	O	I-NP	O
+195	22	``	``	O	I-NP	B-Num
+195	23	what-next	JJ	O	I-NP	B-LocStat
+195	24	''	''	O	I-NP	I-LocStat
+195	25	feeling	NN	O	I-NP	O
+195	26	that	WDT	O	B-NP	O
+195	27	followed	VBN	O	B-VP	O
+195	28	in	IN	O	B-PP	O
+195	29	the	DT	O	B-NP	O
+195	30	uncertain	JJ	O	I-NP	O
+195	31	years	NNS	O	I-NP	O
+195	32	after	IN	O	O	O
+195	33	the	DT	O	B-NP	O
+195	34	Summer	NNP	O	I-NP	O
+195	35	of	IN	O	B-PP	O
+195	36	Love	NNP	O	B-NP	O
+195	37	had	VBD	O	B-VP	O
+195	38	come	VBN	O	I-VP	O
+195	39	and	CC	O	O	O
+195	40	gone	VBN	O	O	O
+195	41	.	.	O	O	O
+
+196	0	-LBR-	-LBR-	O	O	O
+196	1	SM	NNP	O	O	O
+196	2	-RBR-	-RBR-	O	O	B-Date
+196	3	1	CD	O	B-NP	O
+196	4	hour	NN	O	I-NP	O
+196	5	COMMA	COMMA	O	O	O
+196	6	42	CD	O	B-NP	O
+196	7	minutes	NNS	O	I-NP	O
+196	8	.	.	O	O	O
+
+197	0	``	``	O	O	O
+197	1	Runaway	NNP	O	O	O
+197	2	Bride	NNP	O	O	O
+197	3	''	''	O	O	
+197	4	PG	NNP	O	O	O
+197	5	-LBR-	-LBR-	O	O	O
+197	6	profanity	NN	O	B-NP	O
+197	7	and	CC	O	I-NP	B-Num
+197	8	sexual	JJ	O	I-NP	I-Num
+197	9	innuendo	NN	O	I-NP	O
+197	10	-RBR-	-RBR-	O	O	B-Num
+
+198	0	Starring	VBG	O	O	O
+198	1	Julia	NNP	O	O	
+198	2	Roberts	NNP	O	O	O
+
+199	0	and	CC	O	O	O
+199	1	Richard	NNP	O	B-NP	O
+199	2	Gere	NNP	O	I-NP	O
+199	3	.	.	O	O	O
+
+200	0	Lightning	VBG	O	O	O
+200	1	COMMA	COMMA	O	O	O
+200	2	alas	UH	O	O	O
+200	3	COMMA	COMMA	O	O	O
+200	4	doesn	NN	O	B-NP	O
+200	5	't	NN	O	I-NP	O
+200	6	strike	VBP	O	B-VP	
+200	7	twice	RB	O	O	O
+200	8	in	IN	O	B-PP	O
+200	9	this	DT	O	B-NP	O
+200	10	reunion	NN	O	I-NP	
+200	11	of	IN	O	B-PP	O
+200	12	``	``	O	O	B-Peop
+200	13	Pretty	NNP	O	B-NP	I-Peop
+200	14	Woman	NNP	O	I-NP	O
+200	15	''	''	O	O	
+200	16	stars	VBZ	O	B-VP	O
+200	17	Julia	NNP	O	B-NP	O
+200	18	Roberts	NNP	O	I-NP	O
+200	19	and	CC	O	O	O
+200	20	Richard	NNP	O	B-NP	O
+200	21	Gere	NNP	O	I-NP	O
+200	22	.	.	O	O	O
+
+201	0	However	RB	O	O	O
+201	1	COMMA	COMMA	O	O	O
+201	2	the	DT	O	B-NP	O
+201	3	film	NN	O	I-NP	O
+201	4	isn	NN	O	I-NP	O
+201	5	't	NN	O	I-NP	O
+201	6	a	DT	O	B-NP	O
+201	7	fiasco	NN	O	I-NP	O
+201	8	and	CC	O	O	O
+201	9	it	PRP	O	B-NP	B-Peop
+201	10	does	VBZ	O	B-VP	I-Peop
+201	11	well	RB	O	O	O
+201	12	by	IN	O	B-PP	B-Peop
+201	13	its	PP$	O	B-NP	I-Peop
+201	14	intended	VBN	O	I-NP	O
+201	15	audience	NN	O	I-NP	
+201	16	COMMA	COMMA	O	O	O
+201	17	i.e.	NN	O	O	O
+201	18	COMMA	COMMA	O	O	O
+201	19	anyone	NN	O	B-NP	O
+201	20	who	WP	O	B-NP	O
+201	21	wants	VBZ	O	B-VP	O
+201	22	to	TO	O	I-VP	O
+201	23	see	VB	O	I-VP	O
+201	24	Roberts	NNP	O	B-NP	O
+201	25	galloping	JJ	O	O	O
+201	26	on	IN	O	B-PP	O
+201	27	horseback	JJ	O	B-NP	O
+201	28	in	IN	O	B-PP	O
+201	29	full	JJ	O	B-NP	O
+201	30	wedding	NN	O	I-NP	O
+201	31	regalia	NN	O	I-NP	O
+201	32	.	.	O	O	O
+
+202	0	She	PRP	O	B-NP	O
+202	1	's	VBZ	O	B-VP	O
+202	2	a	DT	O	B-NP	O
+202	3	bride	NN	O	I-NP	O
+202	4	who	WP	O	B-NP	O
+202	5	's	VBZ	O	B-VP	O
+202	6	already	RB	O	I-VP	B-Peop
+202	7	choked	VBN	O	I-VP	O
+202	8	at	IN	O	B-PP	O
+202	9	the	DT	O	B-NP	O
+202	10	altar	NN	O	I-NP	O
+202	11	three	CD	O	O	O
+202	12	times	NNS	O	O	O
+202	13	and	CC	O	O	O
+202	14	is	VBZ	O	B-VP	O
+202	15	about	IN	O	O	
+202	16	to	TO	O	B-VP	O
+202	17	try	VB	O	I-VP	O
+202	18	again	RB	O	O	O
+202	19	.	.	O	O	O
+
+203	0	He	PRP	O	B-NP	O
+203	1	's	VBZ	O	B-VP	O
+203	2	a	DT	O	B-NP	O
+203	3	cynical	JJ	O	I-NP	O
+203	4	journalist	NN	O	I-NP	O
+203	5	who	WP	O	B-NP	O
+203	6	's	VBZ	O	B-VP	B-Num
+203	7	betting	VBG	O	I-VP	O
+203	8	she	PRP	O	B-NP	O
+203	9	'll	MD	O	B-VP	O
+203	10	run	VB	O	I-VP	O
+203	11	.	.	O	O	O
+
+204	0	-LBR-	-LBR-	O	O	O
+204	1	ERG	NNP	O	O	O
+204	2	-RBR-	-RBR-	O	O	
+204	3	1	CD	O	B-NP	O
+204	4	hour	NN	O	I-NP	O
+204	5	COMMA	COMMA	O	O	O
+204	6	56	CD	O	B-NP	O
+204	7	minutes	NNS	O	I-NP	B-ProfTitle
+204	8	.	.	O	O	O
+
+205	0	``	``	O	O	O
+205	1	The	DT	O	B-NP	O
+205	2	Sixth	NNP	O	I-NP	O
+205	3	Sense	NN	O	I-NP	O
+205	4	''	''	O	O	O
+205	5	PG-13	NN	O	O	
+205	6	-LBR-	-LBR-	O	O	O
+205	7	intense	JJ	O	O	B-Org
+205	8	thematic	JJ	O	O	O
+205	9	material	NN	O	O	B-Num
+
+206	0	and	CC	O	O	O
+206	1	violent	JJ	O	B-NP	B-Num
+206	2	images	NNS	O	I-NP	I-Num
+206	3	-RBR-	-RBR-	O	O	O
+
+207	0	Starring	VBG	O	O	O
+207	1	Bruce	NNP	O	B-NP	
+207	2	Willis	NNP	O	I-NP	O
+207	3	COMMA	COMMA	O	O	O
+207	4	Haley	NNP	O	O	B-Num
+207	5	Joel	NNP	O	O	O
+207	6	Osment	NNP	O	O	O
+207	7	and	CC	O	O	O
+207	8	Toni	NNP	O	B-NP	O
+207	9	Collette	NNP	O	I-NP	O
+207	10	.	.	O	O	O
+
+208	0	A	DT	O	B-NP	
+208	1	surprising	JJ	O	I-NP	O
+208	2	COMMA	COMMA	O	I-NP	O
+208	3	spine-tingling	JJ	O	I-NP	O
+208	4	gem	NN	O	I-NP	O
+208	5	.	.	O	O	
+
+209	0	Eight-year-old	NNP	O	B-NP	B-Peop
+209	1	Cole	NNP	O	I-NP	I-Peop
+209	2	-LBR-	-LBR-	O	O	O
+209	3	Haley	NNP	O	O	B-Peop
+209	4	Joel	NNP	O	O	I-Peop
+209	5	Osment	NNP	O	O	I-Peop
+209	6	-RBR-	-RBR-	O	O	O
+209	7	can	MD	O	B-VP	O
+209	8	see	VB	O	I-VP	O
+209	9	ghosts	NNS	O	B-NP	O
+209	10	COMMA	COMMA	O	B-NP	
+209	11	not	RB	O	I-NP	O
+209	12	the	DT	O	B-NP	O
+209	13	Casper	NNP	O	I-NP	O
+209	14	variety	NN	O	I-NP	O
+209	15	but	CC	O	O	O
+209	16	restless	JJ	O	O	O
+209	17	phantoms	NN	O	O	
+209	18	with	IN	O	B-PP	O
+209	19	their	PP$	O	B-NP	O
+209	20	skulls	NNS	O	I-NP	O
+209	21	blown	VBN	O	B-VP	B-Peop
+209	22	open	JJ	O	O	I-Peop
+209	23	.	.	O	O	I-Peop
+
+210	0	It	PRP	O	B-NP	O
+210	1	's	VBZ	O	B-VP	O
+210	2	a	DT	O	B-NP	O
+210	3	fascinating	JJ	O	I-NP	O
+210	4	COMMA	COMMA	O	I-NP	O
+210	5	odd	JJ	O	I-NP	O
+210	6	film	NN	O	I-NP	B-LocCit
+210	7	that	WDT	O	B-NP	O
+210	8	speculates	VBZ	O	B-VP	O
+210	9	on	IN	O	B-PP	O
+210	10	what	WP	O	B-NP	O
+210	11	the	DT	O	B-NP	O
+210	12	relationship	NN	O	I-NP	O
+210	13	between	IN	O	B-PP	O
+210	14	the	DT	O	B-NP	O
+210	15	restless	JJ	O	I-NP	O
+210	16	dead	NN	O	I-NP	O
+210	17	and	CC	O	O	
+210	18	a	DT	O	B-NP	O
+210	19	liaison	NN	O	I-NP	O
+210	20	to	TO	O	B-PP	O
+210	21	the	DT	O	B-NP	O
+210	22	living	VBG	O	I-NP	O
+210	23	world	NN	O	I-NP	O
+210	24	might	MD	O	B-VP	O
+210	25	be	VB	O	I-VP	O
+210	26	.	.	O	O	O
+
+211	0	Plus	NNP	O	O	O
+211	1	COMMA	COMMA	O	O	O
+211	2	this	DT	O	B-NP	O
+211	3	film	NN	O	I-NP	O
+211	4	has	VBZ	O	B-VP	O
+211	5	the	DT	O	B-NP	O
+211	6	best	JJS	O	I-NP	O
+211	7	COMMA	COMMA	O	O	O
+211	8	and	CC	O	O	O
+211	9	loveliest	JJS	O	B-NP	B-ProfTitle
+211	10	COMMA	COMMA	O	I-NP	O
+211	11	last-act	JJ	O	I-NP	O
+211	12	twist	NN	O	I-NP	O
+211	13	of	IN	O	B-PP	O
+211	14	the	DT	O	B-NP	O
+211	15	year	NN	O	I-NP	O
+211	16	.	.	O	O	O
+
+212	0	-LBR-	-LBR-	O	O	O
+212	1	SM	NNP	O	O	O
+212	2	-RBR-	-RBR-	O	O	O
+212	3	1	CD	O	B-NP	O
+212	4	hour	NN	O	I-NP	O
+212	5	COMMA	COMMA	O	O	O
+212	6	47	CD	O	B-NP	O
+212	7	minutes	NNS	O	I-NP	O
+212	8	.	.	O	O	O
+
+213	0	B+	NNP	O	O	O
+
+214	0	``	``	O	O	O
+214	1	Stigmata	NNP	O	O	O
+214	2	''	''	O	O	O
+214	3	R	NNP	O	O	O
+214	4	-LBR-	-LBR-	O	O	O
+214	5	profanity	NN	O	O	
+214	6	COMMA	COMMA	O	O	O
+214	7	sexuality	NN	O	B-NP	B-Org
+214	8	COMMA	COMMA	O	O	O
+214	9	intense	JJ	O	B-NP	B-Num
+214	10	violence	NN	O	I-NP	I-Num
+214	11	-RBR-	-RBR-	O	O	O
+
+215	0	Starring	VBG	O	O	I-Num
+215	1	Patricia	NNP	O	O	O
+215	2	Arquette	NNP	O	O	
+
+216	0	and	CC	O	O	
+216	1	Gabriel	NNP	O	B-NP	O
+216	2	Byrne	NNP	O	I-NP	O
+216	3	.	.	O	O	O
+
+217	0	Let	VB	O	B-VP	O
+217	1	it	PRP	O	B-NP	O
+217	2	bleed	VB	O	B-VP	O
+217	3	without	IN	O	B-PP	O
+217	4	you	PRP	O	B-NP	O
+217	5	.	.	O	O	O
+
+218	0	This	DT	O	B-NP	O
+218	1	mishmash	NN	O	I-NP	
+218	2	of	IN	O	B-PP	O
+218	3	``	``	O	O	O
+218	4	The	DT	O	B-NP	O
+218	5	ExorcistCOMMA	NNP	O	I-NP	
+218	6	''	''	O	O	O
+218	7	``	``	O	O	O
+218	8	The	DT	O	B-NP	O
+218	9	OmenCOMMA	NNP	O	I-NP	O
+218	10	''	''	O	O	
+218	11	etc.	NN	O	O	O
+218	12	stars	NNS	O	O	B-Peop
+218	13	Gabriel	NNP	O	B-NP	I-Peop
+218	14	Byrne	NNP	O	I-NP	O
+218	15	as	IN	O	B-PP	O
+218	16	a	DT	O	B-NP	O
+218	17	Vatican	NNP	O	I-NP	
+218	18	investigator	NN	O	I-NP	O
+218	19	sent	VBD	O	B-VP	O
+218	20	to	TO	O	I-VP	O
+218	21	examine	VB	O	I-VP	O
+218	22	a	DT	O	B-NP	O
+218	23	young	JJ	O	I-NP	O
+218	24	woman	NN	O	I-NP	O
+218	25	-LBR-	-LBR-	O	O	O
+218	26	Patricia	NNP	O	O	O
+218	27	Arquette	NNP	O	O	O
+218	28	-RBR-	-RBR-	O	O	O
+218	29	who	WP	O	B-NP	O
+218	30	's	VBZ	O	B-VP	O
+218	31	showing	VBG	O	I-VP	O
+218	32	signs	NNS	O	B-NP	O
+218	33	of	IN	O	B-PP	O
+218	34	the	DT	O	B-NP	O
+218	35	stigmata	NN	O	I-NP	B-LocStruct
+218	36	COMMA	COMMA	O	O	B-ProfTitle
+218	37	the	DT	O	B-NP	O
+218	38	wounds	NNS	O	I-NP	O
+218	39	suffered	VBD	O	B-VP	O
+218	40	by	IN	O	B-PP	O
+218	41	Christ	NNP	O	B-NP	O
+218	42	on	IN	O	B-PP	O
+218	43	the	DT	O	B-NP	O
+218	44	cross	NN	O	I-NP	B-Peop
+218	45	.	.	O	O	I-Peop
+
+219	0	Unfortunately	RB	O	O	O
+219	1	COMMA	COMMA	O	O	O
+219	2	the	DT	O	B-NP	O
+219	3	movie	NN	O	I-NP	O
+219	4	prefers	VBZ	O	B-VP	O
+219	5	sensationalism	NN	O	B-NP	O
+219	6	to	TO	O	B-PP	O
+219	7	making	VBG	O	B-VP	O
+219	8	sense	NN	O	B-NP	O
+219	9	.	.	O	O	O
+
+220	0	It	PRP	O	B-NP	O
+220	1	's	VBZ	O	B-VP	O
+220	2	enough	NN	O	B-NP	O
+220	3	to	TO	O	B-VP	O
+220	4	make	VB	O	I-VP	O
+220	5	you	PRP	O	B-NP	O
+220	6	long	RB	O	O	
+220	7	for	IN	O	B-PP	O
+220	8	the	DT	O	B-NP	O
+220	9	good	JJ	O	I-NP	O
+220	10	ol	NN	O	I-NP	O
+220	11	'	POS	O	B-NP	O
+220	12	days	NNS	O	I-NP	O
+220	13	of	IN	O	B-PP	O
+220	14	pea	NN	O	B-NP	O
+220	15	soup	NN	O	I-NP	O
+220	16	and	CC	O	I-NP	O
+220	17	spinning	VBG	O	I-NP	
+220	18	heads	NNS	O	I-NP	O
+220	19	.	.	O	O	O
+
+221	0	-LBR-	-LBR-	O	O	O
+221	1	ERG	NNP	O	O	O
+221	2	-RBR-	-RBR-	O	O	O
+221	3	1	CD	O	B-NP	O
+221	4	hour	NN	O	I-NP	O
+221	5	COMMA	COMMA	O	O	O
+221	6	42	CD	O	B-NP	O
+221	7	minutes	NNS	O	I-NP	O
+221	8	.	.	O	O	O
+
+222	0	C-	NNP	O	O	O
+
+223	0	``	``	O	O	O
+223	1	Stir	NNP	O	B-NP	O
+223	2	of	IN	O	B-PP	O
+223	3	Echoes	NNP	O	B-NP	O
+223	4	''	''	O	O	O
+223	5	R	NNP	O	O	
+223	6	-LBR-	-LBR-	O	O	O
+223	7	profanity	NN	O	B-NP	B-Org
+223	8	COMMA	COMMA	O	O	O
+223	9	sexual	JJ	O	B-NP	B-Num
+223	10	content	NN	O	I-NP	I-Num
+
+224	0	and	CC	O	O	B-Num
+224	1	violence	NN	O	O	I-Num
+224	2	-RBR-	-RBR-	O	O	O
+
+225	0	Starring	VBG	O	O	B-OrgCorp
+225	1	Kevin	NNP	O	B-NP	
+225	2	Bacon	NNP	O	I-NP	O
+
+226	0	and	CC	O	O	O
+226	1	Kathryn	NNP	O	B-NP	O
+226	2	Erbe	NNP	O	I-NP	O
+226	3	.	.	O	O	B-OrgCorp
+
+227	0	A	DT	O	B-NP	O
+227	1	ghost	NN	O	I-NP	O
+227	2	story	NN	O	I-NP	O
+227	3	with	IN	O	B-PP	O
+227	4	too	RB	O	B-NP	
+227	5	many	JJ	O	I-NP	O
+227	6	echoes	NNS	O	I-NP	O
+227	7	of	IN	O	B-PP	O
+227	8	other	JJ	O	B-NP	
+227	9	flicks	NNS	O	I-NP	O
+227	10	.	.	O	O	O
+
+228	0	It	PRP	O	B-NP	
+228	1	might	MD	O	B-VP	O
+228	2	have	VB	O	I-VP	O
+228	3	seemed	VBD	O	I-VP	O
+228	4	intriguing	JJ	O	O	O
+228	5	had	VBD	O	B-VP	
+228	6	it	PRP	O	B-NP	O
+228	7	landed	VBD	O	B-VP	O
+228	8	in	IN	O	B-PP	O
+228	9	theaters	NNS	O	B-NP	O
+228	10	before	IN	O	O	O
+228	11	``	``	O	O	O
+228	12	The	DT	O	B-NP	O
+228	13	Blair	NNP	O	I-NP	O
+228	14	Witch	NNP	O	I-NP	O
+228	15	Project	NNP	O	I-NP	O
+228	16	''	''	O	O	O
+228	17	and	CC	O	O	
+228	18	``	``	O	O	O
+228	19	The	DT	O	B-NP	O
+228	20	Sixth	NNP	O	I-NP	O
+228	21	Sense	NN	O	I-NP	O
+228	22	''	''	O	O	O
+228	23	gave	VBD	O	B-VP	B-Peop
+228	24	us	PRP	O	B-NP	I-Peop
+228	25	new	JJ	O	B-NP	O
+228	26	twists	NNS	O	I-NP	O
+228	27	on	IN	O	B-PP	O
+228	28	the	DT	O	B-NP	O
+228	29	spooky	NN	O	I-NP	O
+228	30	movie	NN	O	I-NP	O
+228	31	genre	NN	O	I-NP	O
+228	32	.	.	O	O	O
+
+229	0	A	DT	O	B-NP	O
+229	1	little	JJ	O	I-NP	O
+229	2	boy	NN	O	I-NP	O
+229	3	sees	VBZ	O	B-VP	O
+229	4	ghosts	NNS	O	B-NP	B-Num
+229	5	and	CC	O	O	O
+229	6	his	PP$	O	O	O
+229	7	hypnotized	VBN	O	O	O
+229	8	dad	NN	O	O	O
+229	9	-LBR-	-LBR-	O	O	O
+229	10	Kevin	NNP	O	B-NP	O
+229	11	Bacon	NNP	O	I-NP	O
+229	12	-RBR-	-RBR-	O	O	O
+229	13	goes	VBZ	O	B-VP	O
+229	14	wiggy	NN	O	B-NP	O
+229	15	while	IN	O	O	O
+229	16	hunting	NN	O	B-NP	O
+229	17	what	WP	O	B-NP	
+229	18	happened	VBD	O	B-VP	O
+229	19	to	TO	O	B-PP	O
+229	20	a	DT	O	B-NP	O
+229	21	teen	JJ	O	I-NP	O
+229	22	girl	NN	O	I-NP	O
+229	23	haunting	VBG	O	B-VP	O
+229	24	their	PP$	O	B-NP	O
+229	25	home	NN	O	I-NP	O
+229	26	.	.	O	O	O
+
+230	0	-LBR-	-LBR-	O	O	B-Peop
+230	1	SM	NNP	O	O	I-Peop
+230	2	-RBR-	-RBR-	O	O	O
+230	3	1	CD	O	B-NP	O
+230	4	hour	NN	O	I-NP	O
+230	5	COMMA	COMMA	O	O	O
+230	6	50	CD	O	B-NP	B-Sport
+230	7	minutes	NNS	O	I-NP	O
+230	8	.	.	O	O	O
+
+231	0	``	``	O	O	O
+231	1	Teaching	NNP	O	O	O
+231	2	Mrs.	NNP	O	O	O
+231	3	Tingle	NNP	O	O	O
+231	4	''	''	O	O	O
+231	5	PG-13	NN	O	O	O
+231	6	-LBR-	-LBR-	O	O	O
+231	7	violence	NN	O	B-NP	
+231	8	COMMA	COMMA	O	O	O
+231	9	sexuality	NN	O	O	B-Peop
+231	10	COMMA	COMMA	O	O	I-Peop
+231	11	profanityCOMMA	NN	O	O	B-Num
+
+232	0	teen	JJ	O	B-NP	O
+232	1	drinking	NN	O	I-NP	B-Num
+232	2	-RBR-	-RBR-	O	O	I-Num
+
+233	0	Starring	VBG	O	O	
+233	1	Helen	NNP	O	B-NP	O
+233	2	Mirren	NNP	O	I-NP	
+233	3	COMMA	COMMA	O	O	O
+233	4	Katie	NNP	O	B-NP	O
+233	5	Holmes	NNP	O	I-NP	B-ProfTitle
+233	6	COMMA	COMMA	O	O	O
+233	7	Barry	NNP	O	B-NP	O
+233	8	Watson	NNP	O	I-NP	O
+233	9	and	CC	O	I-NP	O
+233	10	Marisa	NNP	O	I-NP	O
+233	11	Coughlan	NNP	O	I-NP	O
+233	12	.	.	O	O	O
+
+234	0	It	PRP	O	B-NP	O
+234	1	barely	RB	O	O	
+234	2	makes	VBZ	O	B-VP	O
+234	3	a	DT	O	B-NP	O
+234	4	passing	VBG	O	I-NP	O
+234	5	grade	NN	O	I-NP	
+234	6	.	.	O	O	O
+
+235	0	Three	CD	O	B-NP	O
+235	1	high	JJ	O	I-NP	O
+235	2	school	NN	O	I-NP	B-Peop
+235	3	kids	NNS	O	I-NP	I-Peop
+235	4	take	VBP	O	B-VP	O
+235	5	their	PP$	O	B-NP	O
+235	6	evil	JJ	O	I-NP	O
+235	7	history	NN	O	I-NP	O
+235	8	teacher	NN	O	I-NP	O
+235	9	hostage	NN	O	I-NP	O
+235	10	in	IN	O	B-PP	O
+235	11	her	PP$	O	B-NP	
+235	12	home	NN	O	I-NP	O
+235	13	and	CC	O	O	O
+235	14	then	RB	O	B-VP	O
+235	15	try	VBP	O	I-VP	O
+235	16	to	TO	O	I-VP	O
+235	17	figure	VB	O	I-VP	O
+235	18	out	IN	O	B-PP	O
+235	19	how	WRB	O	O	
+235	20	to	TO	O	B-VP	B-Num
+235	21	get	VB	O	I-VP	O
+235	22	out	IN	O	O	B-OrgUniv
+235	23	of	IN	O	B-PP	O
+235	24	the	DT	O	B-NP	O
+235	25	mess	NN	O	I-NP	O
+235	26	they	PRP	O	B-NP	O
+235	27	've	VBP	O	B-VP	O
+235	28	created	VBN	O	I-VP	B-ProfTitle
+235	29	.	.	O	O	O
+
+236	0	It	PRP	O	B-NP	O
+236	1	ends	VBZ	O	B-VP	O
+236	2	up	IN	O	O	O
+236	3	being	VBG	O	B-VP	O
+236	4	a	DT	O	B-NP	O
+236	5	wishy-washy	JJ	O	I-NP	O
+236	6	remake	VB	O	B-VP	O
+236	7	of	IN	O	B-PP	O
+236	8	1980	CD	O	B-NP	O
+236	9	's	POS	O	B-NP	O
+236	10	silly	JJ	O	O	O
+236	11	``	``	O	O	O
+236	12	Nine	CD	O	O	O
+236	13	to	TO	O	B-PP	O
+236	14	Five	CD	O	B-NP	O
+236	15	.	.	O	O	O
+236	16	''	''	O	O	O
+
+237	0	As	IN	O	O	O
+237	1	the	DT	O	B-NP	
+237	2	tied-up	JJ	O	I-NP	O
+237	3	teach	VBP	O	B-VP	B-Org
+237	4	COMMA	COMMA	O	O	O
+237	5	Helen	NNP	O	B-NP	O
+237	6	Mirren	NNP	O	I-NP	O
+237	7	is	VBZ	O	B-VP	O
+237	8	pretty	RB	O	O	O
+237	9	good	JJ	O	O	O
+237	10	.	.	O	O	B-Date
+
+238	0	Her	PP$	O	O	O
+238	1	young	JJ	O	O	O
+238	2	co-stars	JJ	O	O	B-Num
+238	3	COMMA	COMMA	O	O	O
+238	4	however	RB	O	O	B-Num
+238	5	COMMA	COMMA	O	O	O
+238	6	fail	VBP	O	B-VP	O
+238	7	to	TO	O	I-VP	
+238	8	match	VB	O	I-VP	O
+238	9	her	PP$	O	B-NP	O
+238	10	talent	NN	O	I-NP	O
+238	11	.	.	O	O	O
+
+239	0	-LBR-	-LBR-	O	O	B-Peop
+239	1	Bob	NNP	O	B-NP	I-Peop
+239	2	Longino	NNP	O	I-NP	O
+239	3	-RBR-	-RBR-	O	O	O
+
+240	0	At	IN	O	B-PP	O
+240	1	metro	NN	O	B-NP	
+240	2	theaters.	NN	O	I-NP	O
+240	3	1	CD	O	B-NP	B-Peop
+240	4	hour	NN	O	I-NP	I-Peop
+240	5	COMMA	COMMA	O	O	O
+240	6	35	CD	O	B-NP	B-Loc
+240	7	minutes	NNS	O	I-NP	I-Loc
+240	8	.	.	O	O	O
+
+241	0	``	``	O	O	O
+241	1	The	DT	O	B-NP	O
+241	2	13th	NNP	O	I-NP	O
+241	3	Warrior	NNP	O	O	O
+241	4	''	''	O	O	
+241	5	R	NNP	O	O	O
+241	6	-LBR-	-LBR-	O	O	O
+241	7	violence	NN	O	O	O
+241	8	-RBR-	-RBR-	O	O	O
+
+242	0	Starring	VBG	O	O	O
+242	1	Antonio	NNP	O	B-NP	O
+242	2	Banderas	NNP	O	I-NP	O
+242	3	.	.	O	O	B-Num
+
+243	0	Sometimes	RB	O	O	O
+243	1	COMMA	COMMA	O	O	B-Num
+243	2	cheesy	JJ	O	B-NP	I-Num
+243	3	movies	NNS	O	I-NP	O
+243	4	can	MD	O	B-VP	
+243	5	be	VB	O	I-VP	O
+243	6	great	JJ	O	B-NP	O
+243	7	fun	NN	O	I-NP	B-Num
+243	8	.	.	O	O	O
+
+244	0	That	DT	O	B-NP	B-OrgCorp
+244	1	's	VBZ	O	B-VP	O
+244	2	true	JJ	O	O	O
+244	3	of	IN	O	B-PP	O
+244	4	this	DT	O	B-NP	
+244	5	rip-roaring	JJ	O	I-NP	O
+244	6	yarn	NN	O	I-NP	B-Peop
+244	7	about	IN	O	B-PP	I-Peop
+244	8	a	DT	O	B-NP	O
+244	9	medieval	JJ	O	I-NP	
+244	10	Arab	NNP	O	I-NP	O
+244	11	poet	NN	O	I-NP	O
+244	12	-LBR-	-LBR-	O	O	O
+244	13	Antonio	NNP	O	B-NP	O
+244	14	Banderas	NNP	O	I-NP	O
+244	15	-RBR-	-RBR-	O	O	B-Peop
+244	16	who	WP	O	B-NP	O
+244	17	's	VBZ	O	B-VP	O
+244	18	drafted	VBN	O	I-VP	O
+244	19	by	IN	O	B-PP	
+244	20	a	DT	O	B-NP	O
+244	21	roving	JJ	O	I-NP	O
+244	22	gang	NN	O	I-NP	O
+244	23	of	IN	O	B-PP	O
+244	24	rowdy	JJ	O	B-NP	O
+244	25	Vikings	NNPS	O	I-NP	O
+244	26	to	TO	O	B-VP	O
+244	27	help	VB	O	I-VP	O
+244	28	rescue	VB	O	I-VP	O
+244	29	a	DT	O	B-NP	O
+244	30	Norse	NNP	O	I-NP	B-LangRace
+244	31	village	NN	O	I-NP	B-ProfTitle
+244	32	from	IN	O	B-PP	O
+244	33	a	DT	O	B-NP	B-Peop
+244	34	mysterious	JJ	O	I-NP	I-Peop
+244	35	enemy	NN	O	I-NP	O
+244	36	that	WDT	O	B-NP	O
+244	37	comes	VBZ	O	B-VP	O
+244	38	from	IN	O	B-PP	O
+244	39	the	DT	O	B-NP	O
+244	40	mist	NN	O	I-NP	O
+244	41	COMMA	COMMA	O	O	O
+244	42	kills	VBZ	O	B-VP	O
+244	43	everything	NN	O	B-NP	O
+244	44	in	IN	O	B-PP	O
+244	45	sight	NN	O	B-NP	B-OrgTeam
+244	46	and	CC	O	O	O
+244	47	leaves	VBZ	O	B-VP	O
+244	48	a	DT	O	B-NP	O
+244	49	trail	NN	O	I-NP	O
+244	50	of	IN	O	B-PP	B-LangRace
+244	51	headless	JJ	O	B-NP	O
+244	52	corpses	NNS	O	I-NP	O
+244	53	.	.	O	O	O
+
+245	0	This	DT	O	B-NP	O
+245	1	flick	NN	O	I-NP	O
+245	2	hits	VBZ	O	B-VP	O
+245	3	the	DT	O	B-NP	O
+245	4	ground	NN	O	I-NP	O
+245	5	running	VBG	O	B-VP	O
+245	6	and	CC	O	O	O
+245	7	never	RB	O	B-VP	O
+245	8	stops	VBZ	O	I-VP	O
+245	9	.	.	O	O	O
+
+246	0	-LBR-	-LBR-	O	O	O
+246	1	ERG	NNP	O	O	O
+246	2	-RBR-	-RBR-	O	O	O
+246	3	1	CD	O	B-NP	O
+246	4	hour	NN	O	I-NP	O
+246	5	COMMA	COMMA	O	O	O
+246	6	43	CD	O	B-NP	O
+246	7	minutes	NNS	O	I-NP	O
+246	8	.	.	O	O	
+
+247	0	``	``	O	O	B-Org
+247	1	The	DT	O	B-NP	O
+247	2	Thomas	NNP	O	I-NP	O
+247	3	Crown	NNP	O	I-NP	O
+247	4	Affair	NNP	O	I-NP	O
+247	5	''	''	O	O	O
+247	6	R	NNP	O	O	O
+247	7	-LBR-	-LBR-	O	O	O
+247	8	profanity	NN	O	B-NP	O
+247	9	and	CC	O	I-NP	
+247	10	sexuality	NN	O	I-NP	O
+247	11	-RBR-	-RBR-	O	O	O
+
+248	0	Starring	VBG	O	B-NP	B-Num
+248	1	Pierce	NNP	O	I-NP	I-Num
+248	2	Brosnan	NNP	O	I-NP	O
+248	3	and	CC	O	I-NP	B-Num
+248	4	Rene	NNP	O	I-NP	I-Num
+248	5	Russo	NNP	O	I-NP	O
+248	6	.	.	O	O	
+
+249	0	``	``	O	O	
+249	1	The	DT	O	B-NP	O
+249	2	Windmills	NNP	O	I-NP	O
+249	3	of	IN	O	B-PP	O
+249	4	Your	PP$	O	B-NP	O
+249	5	Mind	NN	O	I-NP	O
+249	6	''	''	O	O	O
+249	7	is	VBZ	O	B-VP	B-OrgCorp
+249	8	still	RB	O	O	O
+249	9	on	IN	O	B-PP	O
+249	10	the	DT	O	B-NP	O
+249	11	soundtrack	NN	O	I-NP	O
+249	12	COMMA	COMMA	O	O	O
+249	13	but	CC	O	O	
+249	14	lots	NNS	O	B-NP	O
+249	15	of	IN	O	B-PP	B-Peop
+249	16	other	JJ	O	B-NP	I-Peop
+249	17	gimmicks	NNS	O	I-NP	O
+249	18	from	IN	O	B-PP	B-Peop
+249	19	the	DT	O	B-NP	I-Peop
+249	20	1968	CD	O	I-NP	O
+249	21	original	JJ	O	I-NP	
+249	22	have	VBP	O	B-VP	O
+249	23	been	VBN	O	I-VP	O
+249	24	excised	VBN	O	I-VP	O
+249	25	.	.	O	O	O
+
+250	0	That	DT	O	B-NP	O
+250	1	's	VBZ	O	B-VP	O
+250	2	good	NN	O	B-NP	O
+250	3	.	.	O	O	O
+
+251	0	This	DT	O	B-NP	O
+251	1	remake	VB	O	O	O
+251	2	is	VBZ	O	B-VP	O
+251	3	a	DT	O	B-NP	O
+251	4	guilt-free	JJ	O	I-NP	O
+251	5	summer	NN	O	I-NP	O
+251	6	diversion	NN	O	I-NP	O
+251	7	.	.	O	O	O
+
+252	0	Pierce	NNP	O	B-NP	O
+252	1	Brosnan	NNP	O	I-NP	B-Date
+252	2	is	VBZ	O	B-VP	O
+252	3	an	DT	O	B-NP	O
+252	4	appealing	VBG	O	I-NP	O
+252	5	billionaire	NN	O	I-NP	O
+252	6	gentleman	NN	O	I-NP	O
+252	7	rogue	JJ	O	I-NP	
+252	8	COMMA	COMMA	O	O	O
+252	9	stealing	VBG	O	B-VP	O
+252	10	priceless	JJ	O	B-NP	O
+252	11	paintings	NNS	O	I-NP	O
+252	12	.	.	O	O	
+
+253	0	But	CC	O	O	O
+253	1	it	PRP	O	B-NP	O
+253	2	's	VBZ	O	B-VP	O
+253	3	really	RB	O	O	O
+253	4	Rene	NNP	O	B-NP	O
+253	5	Russo	NNP	O	I-NP	O
+253	6	's	POS	O	B-NP	O
+253	7	film	NN	O	I-NP	
+253	8	.	.	O	O	B-Peop
+
+254	0	As	IN	O	O	O
+254	1	the	DT	O	B-NP	O
+254	2	solo	NN	O	I-NP	O
+254	3	investigator	NN	O	I-NP	O
+254	4	hot	JJ	O	O	O
+254	5	on	IN	O	B-PP	O
+254	6	his	PP$	O	B-NP	O
+254	7	trail	NN	O	I-NP	O
+254	8	COMMA	COMMA	O	O	O
+254	9	she	PRP	O	B-NP	O
+254	10	prowls	VBZ	O	B-VP	O
+254	11	the	DT	O	B-NP	
+254	12	screen	NN	O	I-NP	O
+254	13	savoring	VBG	O	B-VP	O
+254	14	a	DT	O	B-NP	O
+254	15	smart	JJ	O	I-NP	O
+254	16	COMMA	COMMA	O	I-NP	B-Peop
+254	17	sexed-up	JJ	O	I-NP	I-Peop
+254	18	character	NN	O	I-NP	O
+254	19	.	.	O	O	O
+
+255	0	-LBR-	-LBR-	O	O	
+255	1	SM	NNP	O	O	O
+255	2	-RBR-	-RBR-	O	O	B-Org
+255	3	1	CD	O	B-NP	O
+255	4	hour	NN	O	I-NP	B-ProfTitle
+255	5	COMMA	COMMA	O	O	O
+255	6	45	CD	O	B-NP	O
+255	7	minutes	NNS	O	I-NP	O
+255	8	.	.	O	O	O
+
+256	0	``	``	O	O	O
+256	1	trick	NN	O	O	O
+256	2	''	''	O	O	O
+256	3	R	NNP	O	O	O
+256	4	-LBR-	-LBR-	O	O	O
+256	5	sexuality	NN	O	O	O
+256	6	COMMA	COMMA	O	O	O
+256	7	profanity	NN	O	O	O
+
+257	0	and	CC	O	O	O
+257	1	mature	JJ	O	O	O
+257	2	themes	NNS	O	O	
+257	3	-RBR-	-RBR-	O	O	O
+
+258	0	Starring	VBG	O	O	O
+258	1	Christian	JJ	O	B-NP	B-Num
+258	2	Campbell	NNP	O	I-NP	I-Num
+
+259	0	and	CC	O	O	B-Num
+259	1	John	NNP	O	B-NP	I-Num
+259	2	Paul	NNP	O	I-NP	O
+259	3	Pitoc	NNP	O	I-NP	
+259	4	.	.	O	O	O
+
+260	0	In	IN	O	B-PP	O
+260	1	this	DT	O	B-NP	B-Peop
+260	2	sturdy	JJ	O	I-NP	I-Peop
+260	3	and	CC	O	I-NP	B-OrgCorp
+260	4	well-acted	JJ	O	I-NP	O
+260	5	gay	JJ	O	I-NP	O
+260	6	romantic	JJ	O	I-NP	O
+260	7	comedy	NN	O	I-NP	O
+260	8	COMMA	COMMA	O	O	
+260	9	two	CD	O	B-NP	O
+260	10	guys	NNS	O	I-NP	O
+260	11	spend	VBP	O	B-VP	O
+260	12	a	DT	O	B-NP	O
+260	13	night	NN	O	I-NP	
+260	14	looking	VBG	O	B-VP	O
+260	15	to	TO	O	I-VP	B-Religion
+260	16	make	VB	O	I-VP	B-Peop
+260	17	love	NN	O	B-NP	
+260	18	in	IN	O	B-PP	O
+260	19	all	PDT	O	B-NP	B-Peop
+260	20	the	DT	O	I-NP	I-Peop
+260	21	wrong	JJ	O	I-NP	B-Peop
+260	22	places	NNS	O	I-NP	O
+260	23	.	.	O	O	
+
+261	0	Gabriel	NNP	O	O	O
+261	1	-LBR-	-LBR-	O	O	O
+261	2	Christian	NNP	O	B-NP	O
+261	3	Campbell	NN	O	I-NP	O
+261	4	-RBR-	-RBR-	O	B-VP	O
+261	5	and	CC	O	I-VP	O
+261	6	Mark	NNP	O	I-VP	O
+261	7	-LBR-	-LBR-	O	O	O
+261	8	John	NNP	O	B-NP	B-Num
+261	9	Paul	NNP	O	I-NP	O
+261	10	Pitoc	NNP	O	I-NP	O
+261	11	-RBR-	-RBR-	O	O	O
+261	12	pick	VBP	O	B-VP	O
+261	13	each	DT	O	B-NP	O
+261	14	other	JJ	O	O	O
+261	15	up	IN	O	O	O
+261	16	COMMA	COMMA	O	O	O
+261	17	both	DT	O	B-NP	O
+261	18	clearly	RB	O	O	O
+261	19	intending	VBG	O	O	O
+261	20	a	DT	O	B-NP	O
+261	21	mutually	RB	O	I-NP	O
+261	22	gratifying	JJ	O	I-NP	O
+261	23	one-night	JJ	O	I-NP	
+261	24	stand	NN	O	I-NP	B-Peop
+261	25	.	.	O	O	O
+
+262	0	But	CC	O	O	B-Peop
+262	1	as	IN	O	O	O
+262	2	the	DT	O	B-NP	O
+262	3	evening	NN	O	I-NP	B-Peop
+262	4	wears	VBZ	O	B-VP	O
+262	5	on	IN	O	O	O
+262	6	COMMA	COMMA	O	O	O
+262	7	they	PRP	O	B-NP	O
+262	8	're	VBP	O	B-VP	O
+262	9	still	RB	O	O	O
+262	10	on	IN	O	B-PP	O
+262	11	the	DT	O	B-NP	O
+262	12	street	NN	O	I-NP	O
+262	13	.	.	O	O	O
+
+263	0	The	DT	O	B-NP	O
+263	1	obstacles	NNS	O	I-NP	O
+263	2	become	VBP	O	B-VP	O
+263	3	more	RBR	O	O	O
+263	4	contrived	JJ	O	O	O
+263	5	as	IN	O	O	O
+263	6	the	DT	O	B-NP	O
+263	7	movie	NN	O	I-NP	O
+263	8	goes	VBZ	O	B-VP	
+263	9	on	IN	O	B-PP	O
+263	10	.	.	O	O	B-Org
+
+264	0	But	CC	O	O	O
+264	1	COMMA	COMMA	O	O	O
+264	2	overall	RB	O	O	O
+264	3	COMMA	COMMA	O	O	O
+264	4	``	``	O	O	O
+264	5	trick	NN	O	B-NP	O
+264	6	''	''	O	O	O
+264	7	is	VBZ	O	B-VP	O
+264	8	a	DT	O	B-NP	O
+264	9	minor	NN	O	I-NP	O
+264	10	treat	NN	O	I-NP	O
+264	11	.	.	O	O	
+
+265	0	-LBR-	-LBR-	O	O	O
+265	1	ERG	NNP	O	O	O
+265	2	-RBR-	-RBR-	O	O	O
+265	3	1	CD	O	B-NP	O
+265	4	hour	NN	O	I-NP	O
+265	5	COMMA	COMMA	O	O	O
+265	6	30	CD	O	B-NP	O
+265	7	minutes	NNS	O	I-NP	O
+265	8	.	.	O	O	O
+
+266	0	``	``	O	O	
+266	1	Twin	NNP	O	B-NP	O
+266	2	Falls	NNP	O	I-NP	O
+266	3	Idaho	NNP	O	I-NP	O
+266	4	''	''	O	I-NP	O
+266	5	R	NNP	O	I-NP	O
+266	6	-LBR-	-LBR-	O	I-NP	O
+266	7	kinkiness	NN	O	I-NP	O
+266	8	and	CC	O	I-NP	O
+266	9	adult	NN	O	I-NP	O
+266	10	themes	NNS	O	I-NP	O
+266	11	-RBR-	-RBR-	O	O	O
+
+267	0	Starring	VBG	O	O	
+267	1	Mark	NNP	O	O	O
+
+268	0	and	CC	O	O	O
+268	1	Michael	NNP	O	B-NP	B-Num
+268	2	Polish	NNP	O	I-NP	I-Num
+268	3	.	.	O	O	O
+
+269	0	Eerie	NNP	O	B-NP	I-Num
+269	1	.	.	O	O	O
+
+270	0	Intriguing	VBG	O	O	O
+270	1	.	.	O	O	
+
+271	0	Identical	NNP	O	B-NP	O
+271	1	twins	NN	O	I-NP	O
+271	2	COMMA	COMMA	O	O	O
+271	3	Mark	NNP	O	B-NP	O
+271	4	and	CC	O	O	B-OrgCorp
+271	5	Michael	NNP	O	B-NP	O
+271	6	Polish	NNP	O	I-NP	O
+271	7	COMMA	COMMA	O	O	O
+271	8	play	VBP	O	B-VP	O
+271	9	conjoined	JJ	O	O	O
+271	10	-LBR-	-LBR-	O	O	O
+271	11	the	DT	O	B-NP	
+271	12	popular	JJ	O	I-NP	O
+271	13	term	NN	O	I-NP	O
+271	14	is	VBZ	O	B-VP	
+271	15	Siamese	NNP	O	B-NP	O
+271	16	-RBR-	-RBR-	O	I-NP	B-Peop
+271	17	twins	NN	O	I-NP	B-LangRace
+271	18	.	.	O	O	O
+
+272	0	Moving	VBG	O	O	O
+272	1	at	IN	O	B-PP	O
+272	2	its	PP$	O	B-NP	
+272	3	own	JJ	O	I-NP	O
+272	4	slow	JJ	O	I-NP	O
+272	5	COMMA	COMMA	O	I-NP	
+272	6	surreal	JJ	O	I-NP	O
+272	7	pace	NN	O	I-NP	O
+272	8	COMMA	COMMA	O	O	O
+272	9	the	DT	O	B-NP	B-Peop
+272	10	picture	NN	O	I-NP	O
+272	11	shows	VBZ	O	B-VP	B-Peop
+272	12	what	WP	O	B-NP	B-Org
+272	13	happens	VBZ	O	B-VP	I-Org
+272	14	when	WRB	O	O	I-Org
+272	15	a	DT	O	B-NP	I-Org
+272	16	young	JJ	O	I-NP	I-Org
+272	17	hooker	NN	O	I-NP	O
+272	18	-LBR-	-LBR-	O	O	O
+272	19	Michele	NNP	O	B-NP	O
+272	20	Hicks	NNP	O	I-NP	O
+272	21	-RBR-	-RBR-	O	O	B-Animal
+272	22	falls	VBZ	O	B-VP	O
+272	23	for	IN	O	B-PP	O
+272	24	one	CD	O	B-NP	O
+272	25	of	IN	O	B-PP	
+272	26	the	DT	O	B-NP	O
+272	27	twins	NN	O	I-NP	O
+272	28	COMMA	COMMA	O	O	O
+272	29	thus	RB	O	O	O
+272	30	creating	VBG	O	B-VP	O
+272	31	a	DT	O	B-NP	O
+272	32	strange	JJ	O	I-NP	O
+272	33	pas	NN	O	I-NP	O
+272	34	de	NNP	O	I-NP	O
+272	35	trois	NN	O	I-NP	O
+272	36	.	.	O	O	O
+
+273	0	Exploring	VBG	O	O	O
+273	1	themes	NNS	O	B-NP	O
+273	2	of	IN	O	B-PP	O
+273	3	love	NN	O	B-NP	O
+273	4	and	CC	O	I-NP	O
+273	5	loneliness	NN	O	I-NP	B-ProfTitle
+273	6	COMMA	COMMA	O	O	O
+273	7	the	DT	O	B-NP	O
+273	8	movie	NN	O	I-NP	O
+273	9	suggests	VBZ	O	B-VP	O
+273	10	that	IN	O	O	O
+273	11	sometimes	RB	O	O	O
+273	12	COMMA	COMMA	O	O	B-Num
+273	13	wholeness	NN	O	B-NP	O
+273	14	can	MD	O	B-VP	O
+273	15	only	RB	O	I-VP	O
+273	16	be	VB	O	I-VP	O
+273	17	found	VBN	O	I-VP	O
+273	18	by	IN	O	B-PP	O
+273	19	letting	VBG	O	B-VP	O
+273	20	go	NN	O	B-NP	O
+273	21	.	.	O	O	O
+
+274	0	-LBR-	-LBR-	O	O	O
+274	1	ERG	NNP	O	O	O
+274	2	-RBR-	-RBR-	O	O	
+274	3	1	CD	O	B-NP	O
+274	4	hour	NN	O	I-NP	O
+274	5	COMMA	COMMA	O	O	O
+274	6	45	CD	O	B-NP	O
+274	7	minutes	NNS	O	I-NP	O
+274	8	.	.	O	O	O
+
+275	0	A-	NNP	O	O	O
+
+276	0	``	``	O	O	O
+276	1	Wolves	NNP	O	B-NP	O
+276	2	''	''	O	O	O
+276	3	Not	RB	O	B-VP	O
+276	4	rated	VBN	O	I-VP	O
+
+277	0	A	DT	O	B-NP	O
+277	1	documentary	NN	O	I-NP	O
+277	2	.	.	O	O	O
+
+278	0	Not	RB	O	O	O
+278	1	as	IN	O	O	O
+278	2	visually	RB	O	O	O
+278	3	stunning	JJ	O	O	
+278	4	as	IN	O	O	O
+278	5	some	DT	O	B-NP	O
+278	6	Imax	NNP	O	I-NP	O
+278	7	films	NNS	O	I-NP	B-Num
+278	8	COMMA	COMMA	O	O	I-Num
+278	9	this	DT	O	B-NP	O
+278	10	is	VBZ	O	B-VP	B-Num
+278	11	a	DT	O	B-NP	I-Num
+278	12	highly	RB	O	I-NP	O
+278	13	instructive	JJ	O	I-NP	
+278	14	look	NN	O	I-NP	B-OrgCorp
+278	15	at	IN	O	B-PP	
+278	16	the	DT	O	B-NP	O
+278	17	once	RB	O	I-NP	B-Animal
+278	18	nearly	RB	O	I-NP	O
+278	19	vanquished	JJ	O	I-NP	O
+278	20	gray	JJ	O	I-NP	O
+278	21	wolf	NN	O	I-NP	
+278	22	's	POS	O	B-NP	O
+278	23	gradual	JJ	O	I-NP	O
+278	24	reintroduction	NN	O	I-NP	O
+278	25	to	TO	O	B-PP	
+278	26	Yellowstone	NNP	O	B-NP	O
+278	27	National	NNP	O	I-NP	O
+278	28	Park	NNP	O	I-NP	O
+278	29	and	CC	O	O	O
+278	30	other	JJ	O	B-NP	O
+278	31	parts	NNS	O	I-NP	O
+278	32	of	IN	O	B-PP	O
+278	33	the	DT	O	B-NP	O
+278	34	American	NNP	O	I-NP	O
+278	35	West	NNP	O	I-NP	O
+278	36	.	.	O	O	O
+
+279	0	Covers	VBZ	O	O	O
+279	1	a	DT	O	O	O
+279	2	bit	VBD	O	O	O
+279	3	too	RB	O	B-NP	O
+279	4	much	JJ	O	I-NP	O
+279	5	ground	NN	O	I-NP	O
+279	6	COMMA	COMMA	O	O	O
+279	7	historically	RB	O	O	O
+279	8	and	CC	O	O	B-Color
+279	9	geographically	RB	O	O	B-Animal
+279	10	;	:	O	O	O
+279	11	the	DT	O	B-NP	B-Medical
+279	12	best	JJS	O	I-NP	O
+279	13	parts	NNS	O	I-NP	O
+279	14	show	VBP	O	B-VP	B-LocStruct
+279	15	wolves	NNS	O	B-NP	I-LocStruct
+279	16	ranging	VBG	O	B-VP	I-LocStruct
+279	17	from	IN	O	B-PP	O
+279	18	adult	NN	O	B-NP	O
+279	19	pack	VBP	O	B-VP	O
+279	20	leaders	NNS	O	B-NP	O
+279	21	to	TO	O	B-PP	O
+279	22	newborn	JJ	O	B-NP	B-LangRace
+279	23	cubs	NNS	O	I-NP	B-OrgCorp
+279	24	exploring	VBG	O	B-VP	O
+279	25	and	CC	O	I-VP	
+279	26	adjusting	VBG	O	I-VP	O
+279	27	to	TO	O	B-PP	O
+279	28	the	DT	O	O	O
+279	29	wild	JJ	O	O	O
+279	30	again	RB	O	O	O
+279	31	.	.	O	O	O
+
+280	0	-LBR-	-LBR-	O	O	O
+280	1	Jill	NNP	O	O	O
+280	2	Vejnoska	NNP	O	O	O
+280	3	-RBR-	-RBR-	O	O	O
+280	4	41	CD	O	B-NP	O
+280	5	minutes	NNS	O	I-NP	O
+280	6	.	.	O	O	O
+
+281	0	B-	NNP	O	O	B-Animal
+
+282	0	By	IN	O	B-PP	O
+282	1	Eleanor	NNP	O	B-NP	O
+282	2	Ringel	NNP	O	I-NP	O
+282	3	Gillespie	NNP	O	I-NP	B-ProfTitle
+282	4	COMMA	COMMA	O	O	O
+282	5	Steve	NNP	O	B-NP	O
+282	6	Murray	NNP	O	I-NP	O
+282	7	COMMA	COMMA	O	O	O
+282	8	Bob	NNP	O	B-NP	O
+282	9	Longino	NNP	O	I-NP	O
+282	10	and	CC	O	O	O
+282	11	Jill	NNP	O	B-NP	O
+282	12	Vejnoska	NNP	O	I-NP	O
+282	13	write	VB	O	B-VP	O
+282	14	for	IN	O	B-PP	O
+282	15	the	DT	O	B-NP	
+282	16	Atlanta	NNP	O	I-NP	O
+282	17	Journal-Constitution	NNP	O	I-NP	O
+282	18	.	.	O	O	O
+
+283	0	Story	NNP	O	O	B-Num
+283	1	Filed	NNP	O	O	I-Num
+283	2	By	IN	O	B-PP	O
+283	3	Cox	NNP	O	O	
+283	4	Newspapers	NNP	O	O	B-OrgCorp
+
+284	0	For	IN	O	B-PP	O
+284	1	Use	NN	O	B-NP	O
+284	2	By	IN	O	B-PP	O
+284	3	Clients	NNS	O	B-NP	O
+284	4	of	IN	O	B-PP	O
+284	5	the	DT	O	B-NP	O
+284	6	New	NNP	O	I-NP	O
+284	7	York	NNP	O	I-NP	O
+284	8	Times	NNP	O	I-NP	O
+284	9	News	NNP	O	I-NP	O
+284	10	Service	NNP	O	I-NP	O

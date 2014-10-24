@@ -1,0 +1,353 @@
+0	0	1998-09-22	CD	O	O	B-Num
+0	1	21	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	32	CD	O	B-NP	I-Num
+0	4	&	CC	O	O	O
+0	5	HT	NNP	O	B-NP	O
+0	6	;	:	O	O	O
+
+1	0	Year	NNP	O	B-NP	O
+1	1	Team	NNP	O	I-NP	B-OrgCorp
+1	2	League	NNP	O	I-NP	O
+1	3	Games	NNPS	O	I-NP	O
+1	4	HR	NNP	O	I-NP	O
+1	5	RBI	NNP	O	I-NP	O
+1	6	Ave	NNP	O	I-NP	O
+1	7	.	.	O	O	O
+
+2	0	1941	CD	O	O	B-Date
+2	1	Newport	NNP	O	B-NP	B-Loc
+2	2	COMMA	COMMA	O	O	O
+2	3	Ark	NNP	O	B-NP	B-Loc
+2	4	.	.	O	O	O
+
+3	0	NE	NNP	O	O	B-LocStat
+3	1	Ark.	NNP	O	O	B-LocStat
+3	2	54	CD	O	O	B-Num
+3	3	3	CD	O	O	B-Num
+3	4	26	CD	O	O	B-Num
+3	5	.215	CD	O	O	O
+
+4	0	Little	NNP	O	O	B-LocCit
+4	1	Rock	NNP	O	O	I-LocCit
+4	2	Southern	NNP	O	O	B-Org
+4	3	3	CD	O	O	B-Num
+4	4	0	CD	O	O	B-Num
+4	5	0	CD	O	O	B-Num
+4	6	.000	CD	O	O	O
+
+5	0	1942-45	CD	O	B-NP	B-Date
+5	1	:	:	O	O	O
+5	2	In	IN	O	B-PP	O
+5	3	the	DT	O	B-NP	O
+5	4	Navy	NNP	O	I-NP	B-OrgPolBody
+5	5	during	IN	O	B-PP	O
+5	6	World	NNP	O	B-NP	B-Event
+5	7	War	NNP	O	I-NP	I-Event
+5	8	II	NNP	O	I-NP	I-Event
+
+6	0	1946	CD	O	B-NP	B-Date
+6	1	Amarillo	NNP	O	I-NP	B-Org
+6	2	W.	NNP	O	I-NP	I-Org
+6	3	Texas-N.M.	NNP	O	I-NP	I-Org
+6	4	136	CD	O	O	B-Num
+6	5	48	CD	O	O	B-Num
+6	6	159	CD	O	O	B-Num
+6	7	.301	CD	O	O	O
+
+7	0	1947	CD	O	B-NP	B-Date
+7	1	Amarillo	NNP	O	I-NP	B-Org
+7	2	W.	NNP	O	I-NP	I-Org
+7	3	Texas-N.M.	NNP	O	I-NP	I-Org
+7	4	130	CD	O	I-NP	B-Num
+7	5	38	CD	O	I-NP	B-Num
+7	6	127	CD	O	I-NP	B-Num
+7	7	.350	CD	O	I-NP	O
+
+8	0	1948	CD	O	O	B-Date
+8	1	Milwaukee	NNP	O	O	B-Org
+8	2	American	NNP	O	O	I-Org
+8	3	Assn.	NNP	O	O	I-Org
+8	4	1	CD	O	O	B-Num
+8	5	0	CD	O	O	B-Num
+8	6	0	CD	O	O	B-Num
+8	7	.000	CD	O	O	O
+
+9	0	Hartford	NNP	O	O	B-LocCit
+9	1	Eastern	NNP	O	O	B-Org
+9	2	98	CD	O	O	B-Num
+9	3	10	CD	O	O	B-Num
+9	4	53	CD	O	O	B-Num
+9	5	.275	CD	O	O	O
+
+10	0	1949-51	CD	O	B-NP	B-Date
+10	1	:	:	O	O	O
+10	2	Played	NNP	O	B-NP	O
+10	3	semipro	NN	O	I-NP	O
+10	4	ball	NN	O	I-NP	O
+10	5	in	IN	O	B-PP	O
+10	6	Elk	NNP	O	B-NP	B-LocCit
+10	7	City	NNP	O	I-NP	I-LocCit
+10	8	COMMA	COMMA	O	O	O
+10	9	Okla	NNP	O	B-NP	B-Loc
+10	10	.	.	O	O	O
+
+11	0	1952	CD	O	O	B-Date
+11	1	Artesia	NNP	O	O	B-LocCit
+11	2	COMMA	COMMA	O	O	O
+11	3	N.M.	NNP	O	O	O
+11	4	Longhorn	NNP	O	O	O
+11	5	139	CD	O	O	B-Num
+11	6	50	CD	O	O	B-Num
+11	7	157	CD	O	O	B-Num
+11	8	.375	CD	O	O	O
+
+12	0	1953	CD	O	B-NP	B-Date
+12	1	Artesia	NNP	O	I-NP	B-LocCit
+12	2	COMMA	COMMA	O	O	O
+12	3	N.M.	NNP	O	O	O
+12	4	Longhorn	NNP	O	O	O
+12	5	132	CD	O	O	B-Num
+12	6	53	CD	O	O	B-Num
+12	7	141	CD	O	O	B-Num
+12	8	.371	CD	O	O	O
+
+13	0	1954	CD	O	O	B-Date
+13	1	Roswell	NNP	O	O	B-Loc
+13	2	COMMA	COMMA	O	O	O
+13	3	N.M.	NNP	O	O	O
+13	4	Longhorn	NNP	O	O	O
+13	5	138	CD	O	O	B-Num
+13	6	72	CD	O	O	B-Num
+13	7	224	CD	O	O	B-Num
+13	8	.400	CD	O	O	O
+
+14	0	1955	CD	O	B-NP	B-Date
+14	1	Roswell	NNP	O	I-NP	B-Loc
+14	2	COMMA	COMMA	O	O	O
+14	3	N.M.	NNP	O	O	O
+14	4	Longhorn	NNP	O	O	O
+14	5	131	CD	O	O	B-Num
+14	6	46	CD	O	O	B-Num
+14	7	132	CD	O	O	B-Num
+14	8	.336	CD	O	O	O
+
+15	0	1956	CD	O	B-NP	B-Date
+15	1	Roswell	NNP	O	I-NP	B-Loc
+15	2	COMMA	COMMA	O	O	O
+15	3	N.M.	NNP	O	O	O
+15	4	Southwestern	NNP	O	O	O
+15	5	52	CD	O	O	B-Num
+15	6	17	CD	O	O	B-Num
+15	7	38	CD	O	O	B-Num
+15	8	.287	CD	O	O	O
+
+16	0	Totals	VBZ	O	B-VP	O
+16	1	982	CD	O	O	B-Num
+16	2	337	CD	O	O	B-Num
+16	3	1COMMA057	CD	O	O	B-Num
+16	4	.337	CD	O	O	O
+
+17	0	Organized	NNP	O	O	O
+17	1	baseball	NN	O	B-NP	B-Sport
+17	2	's	POS	O	B-NP	O
+17	3	home	NN	O	I-NP	O
+17	4	run	VBP	O	B-VP	O
+17	5	leaders	NNS	O	B-NP	B-ProfTitle
+
+18	0	Thirteen	CD	O	O	O
+18	1	players	NNS	O	O	O
+18	2	have	VBP	O	B-VP	O
+18	3	hit	VBN	O	I-VP	O
+18	4	60	CD	O	B-NP	B-Num
+18	5	or	CC	O	I-NP	O
+18	6	more	JJR	O	I-NP	O
+18	7	homers	NNS	O	I-NP	O
+18	8	in	IN	O	B-PP	O
+18	9	the	DT	O	B-NP	O
+18	10	majors	NNS	O	I-NP	O
+18	11	or	CC	O	I-NP	O
+18	12	minors	NNS	O	I-NP	O
+18	13	during	IN	O	B-PP	O
+18	14	a	DT	O	B-NP	O
+18	15	regular	JJ	O	I-NP	O
+18	16	season	NN	O	I-NP	O
+18	17	COMMA	COMMA	O	O	O
+18	18	including	VBG	O	B-PP	O
+18	19	minor-leaguer	NN	O	B-NP	O
+18	20	Joe	NNP	O	I-NP	B-Peop
+18	21	Hauser	NNP	O	I-NP	I-Peop
+18	22	twice	RB	O	O	O
+18	23	.	.	O	O	O
+
+19	0	Negro	NNP	O	B-NP	B-LangRace
+19	1	league	NN	O	I-NP	O
+19	2	star	NN	O	I-NP	O
+19	3	Josh	NNP	O	I-NP	B-Peop
+19	4	Gibson	NNP	O	I-NP	I-Peop
+19	5	likely	RB	O	O	O
+19	6	hit	VBD	O	B-VP	O
+19	7	more	JJR	O	B-NP	O
+19	8	than	IN	O	I-NP	O
+19	9	60	CD	O	I-NP	B-Num
+19	10	in	IN	O	B-PP	O
+19	11	a	DT	O	B-NP	O
+19	12	year	NN	O	I-NP	O
+19	13	COMMA	COMMA	O	O	O
+19	14	but	CC	O	O	O
+19	15	that	DT	O	B-NP	O
+19	16	would	MD	O	B-VP	O
+19	17	have	VB	O	I-VP	O
+19	18	included	VBN	O	I-VP	O
+19	19	exhibition	NN	O	B-NP	O
+19	20	games	NNS	O	I-NP	B-Event
+19	21	COMMA	COMMA	O	O	O
+19	22	where	WRB	O	O	O
+19	23	no	DT	O	B-NP	O
+19	24	official	NN	O	I-NP	O
+19	25	records	NNS	O	I-NP	O
+19	26	were	VBD	O	B-VP	O
+19	27	kept	VBN	O	I-VP	O
+19	28	:	:	O	O	O
+
+20	0	Name	NN	O	B-NP	O
+20	1	Team	NNP	O	I-NP	B-OrgCorp
+20	2	League	NNP	O	I-NP	I-OrgCorp
+20	3	Year	NN	O	I-NP	O
+20	4	Total	JJ	O	O	O
+
+21	0	Joe	NNP	O	B-NP	B-Peop
+21	1	Bauman	NNP	O	I-NP	I-Peop
+21	2	Roswell	NNP	O	I-NP	I-Peop
+21	3	COMMA	COMMA	O	O	I-Peop
+21	4	N.M.	NNP	O	B-NP	I-Peop
+21	5	Longhorn	NNP	O	I-NP	I-Peop
+21	6	1954	CD	O	I-NP	B-Date
+21	7	72	CD	O	I-NP	B-Num
+
+22	0	Joe	NNP	O	O	O
+22	1	Hauser	NNP	O	O	O
+22	2	Minneapolis	NNP	O	O	O
+22	3	American	NNP	O	O	B-LangRace
+22	4	Assn.	NNP	O	O	O
+22	5	1933	CD	O	O	B-Date
+22	6	69	CD	O	O	B-Num
+
+23	0	Bob	NNP	O	O	O
+23	1	Crues	NNP	O	O	O
+23	2	Amarillo	NNP	O	O	O
+23	3	W.Texas/N.Mexico	NNP	O	O	O
+23	4	1948	CD	O	O	B-Date
+23	5	69	CD	O	O	B-Num
+
+24	0	Dick	NNP	O	B-NP	B-Peop
+24	1	Stuart	NNP	O	I-NP	B-Peop
+24	2	Lincoln	NNP	O	I-NP	I-Peop
+24	3	COMMA	COMMA	O	O	O
+24	4	Neb	NNP	O	B-NP	B-Loc
+24	5	.	.	O	O	O
+
+25	0	Western	JJ	O	O	O
+25	1	1956	CD	O	O	B-Date
+25	2	66	CD	O	O	B-Num
+
+26	0	Mark	NNP	O	O	O
+26	1	McGwire	NNP	O	O	O
+26	2	St.	NNP	O	O	O
+26	3	Louis	NNP	O	O	O
+26	4	National	NNP	O	O	O
+26	5	1998	CD	O	O	B-Date
+26	6	65	CD	O	O	B-Num
+
+27	0	Bob	NNP	O	B-NP	O
+27	1	Lennon	NNP	O	I-NP	O
+27	2	Nashville	NNP	O	I-NP	O
+27	3	Southern	NNP	O	I-NP	O
+27	4	Assn.	NNP	O	I-NP	O
+27	5	1954	CD	O	I-NP	B-Date
+27	6	64	CD	O	I-NP	B-Num
+
+28	0	Joe	NNP	O	B-NP	O
+28	1	Hauser	NNP	O	I-NP	O
+28	2	Baltimore	NNP	O	I-NP	O
+28	3	International	NNP	O	I-NP	O
+28	4	1930	CD	O	O	B-Date
+28	5	63	CD	O	O	B-Num
+
+29	0	Sammy	NNP	O	O	B-Peop
+29	1	Sosa	NNP	O	O	I-Peop
+29	2	Chicago	NNP	O	O	B-OrgTeam
+29	3	Cubs	NNP	O	O	I-OrgTeam
+29	4	National	NNP	O	O	I-OrgTeam
+29	5	1998	CD	O	O	B-Date
+29	6	63	CD	O	O	B-Num
+
+30	0	John	NNP	O	B-NP	B-Peop
+30	1	Clabaugh	NNP	O	I-NP	I-Peop
+30	2	Tyler	NNP	O	I-NP	I-Peop
+30	3	COMMA	COMMA	O	O	O
+30	4	Texas	NNP	O	O	B-LocStat
+30	5	East	NNP	O	O	I-LocStat
+30	6	Texas	NNP	O	O	I-LocStat
+30	7	1926	CD	O	O	B-Date
+30	8	62	CD	O	O	B-Num
+
+31	0	Ken	NNP	O	O	O
+31	1	Guettler	NNP	O	O	O
+31	2	Shreveport	NNP	O	O	O
+31	3	Texas	NNP	O	O	B-LocStat
+31	4	1956	CD	O	O	B-Date
+31	5	62	CD	O	O	B-Num
+
+32	0	Roger	NNP	O	O	O
+32	1	Maris	NNP	O	O	O
+32	2	N.Y.	NNP	O	O	O
+32	3	Yankees	NNPS	O	O	B-OrgTeam
+32	4	American	NNP	O	O	B-LangRace
+32	5	1961	CD	O	O	B-Date
+32	6	61	CD	O	O	B-Num
+
+33	0	Tony	NNP	O	B-NP	O
+33	1	Lazzeri	NNP	O	I-NP	O
+33	2	Salt	NNP	O	I-NP	O
+33	3	Lake	NNP	O	I-NP	O
+33	4	City	NNP	O	I-NP	O
+33	5	Pacific	NNP	O	I-NP	O
+33	6	Coast	NNP	O	I-NP	O
+33	7	1925	CD	O	O	B-Date
+33	8	60	CD	O	O	B-Num
+
+34	0	Babe	NNP	O	B-NP	O
+34	1	Ruth	NNP	O	I-NP	O
+34	2	N.Y.	NNP	O	I-NP	O
+34	3	Yankees	NNPS	O	I-NP	B-OrgTeam
+34	4	American	NNP	O	I-NP	B-LangRace
+34	5	1927	CD	O	I-NP	B-Date
+34	6	60	CD	O	I-NP	B-Num
+
+35	0	Forrest	NNP	O	B-NP	O
+35	1	Kennedy	NNP	O	I-NP	O
+35	2	Plainview	NNP	O	I-NP	O
+35	3	COMMA	COMMA	O	O	O
+35	4	Texas	NNP	O	O	O
+35	5	Southwestern	NNP	O	O	O
+35	6	1956	CD	O	O	B-Date
+35	7	60	CD	O	O	B-Num
+
+36	0	Story	NNP	O	O	O
+36	1	Filed	NNP	O	O	O
+36	2	By	IN	O	B-PP	O
+36	3	Cox	NNP	O	O	O
+36	4	Newspapers	NNP	O	O	O
+
+37	0	For	IN	O	B-PP	O
+37	1	Use	NN	O	B-NP	O
+37	2	By	IN	O	B-PP	O
+37	3	Clients	NNS	O	B-NP	O
+37	4	of	IN	O	B-PP	O
+37	5	the	DT	O	B-NP	O
+37	6	New	NNP	O	I-NP	B-OrgCorp
+37	7	York	NNP	O	I-NP	I-OrgCorp
+37	8	Times	NNP	O	I-NP	I-OrgCorp
+37	9	News	NNP	O	I-NP	O
+37	10	Service	NNP	O	I-NP	O

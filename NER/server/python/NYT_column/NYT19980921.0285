@@ -1,0 +1,407 @@
+0	0	1998-09-21	CD	O	B-NP	B-Num
+0	1	17	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	03	CD	O	O	I-Num
+
+1	0	CONNECTICUT	NNP	O	B-NP	B-LocStat
+1	1	-	:	O	O	O
+1	2	-	:	O	O	O
+1	3	DEFEND	NNP	O	B-NP	O
+1	4	.	.	O	O	O
+
+2	0	Connecticut	NNP	O	B-NP	B-LocStat
+2	1	defense	NN	O	I-NP	O
+2	2	contractors	NNS	O	I-NP	B-ProfTitle
+2	3	profit	NN	O	O	O
+2	4	under	IN	O	B-PP	O
+2	5	one	CD	O	B-NP	B-Num
+2	6	$270.5	NN	O	I-NP	B-Money
+2	7	billion	CD	O	I-NP	B-Num
+2	8	defense	NN	O	I-NP	O
+2	9	plan	NN	O	I-NP	O
+2	10	agreed	VBD	O	B-VP	O
+2	11	to	TO	O	B-PP	O
+2	12	by	IN	O	B-PP	O
+2	13	Congress	NNP	O	B-NP	B-OrgPolBody
+2	14	late	JJ	O	B-NP	O
+2	15	last	JJ	O	I-NP	O
+2	16	week	NN	O	I-NP	O
+2	17	.	.	O	O	O
+
+3	0	Maggi	NNP	O	O	O
+
+4	0	-	:	O	O	O
+4	1	-	:	O	O	O
+4	2	REACT	NNP	O	B-NP	O
+4	3	.	.	O	O	O
+
+5	0	Lawmakers	NNS	O	B-NP	O
+5	1	react	VBP	O	B-VP	O
+5	2	to	TO	O	B-PP	O
+5	3	President	NNP	O	B-NP	B-ProfTitle
+5	4	Clinton	NNP	O	I-NP	B-Peop
+5	5	's	POS	O	B-NP	O
+5	6	grand	JJ	O	I-NP	O
+5	7	jury	NN	O	I-NP	O
+5	8	testimony	NN	O	I-NP	O
+5	9	.	.	O	O	O
+
+6	0	-LBR-	-LBR-	O	O	O
+6	1	Possible	JJ	O	O	O
+6	2	.	.	O	O	O
+6	3	-RBR-	-RBR-	O	O	O
+
+7	0	Maggi	NNP	O	O	O
+
+8	0	IDAHO	NNP	O	B-NP	B-LocStat
+8	1	-	:	O	O	O
+8	2	-	:	O	O	O
+8	3	CLINTON	NNP	O	B-NP	O
+8	4	.	.	O	O	O
+
+9	0	Reaction	NN	O	B-NP	O
+9	1	from	IN	O	B-PP	O
+9	2	the	DT	O	B-NP	O
+9	3	Idaho	NNP	O	I-NP	B-LocStat
+9	4	delegation	NN	O	I-NP	O
+9	5	to	TO	O	B-PP	O
+9	6	the	DT	O	B-NP	O
+9	7	Clinton	NNP	O	I-NP	B-Peop
+9	8	testimony	NN	O	I-NP	O
+9	9	.	.	O	O	O
+
+10	0	Brown	NNP	O	O	B-Peop
+
+11	0	ILLINOIS	NNP	O	B-NP	B-LocStat
+11	1	-	:	O	O	O
+11	2	-	:	O	O	O
+11	3	BRIEFS	NNS	O	B-NP	O
+11	4	.	.	O	O	O
+
+12	0	Column	NNP	O	B-NP	O
+12	1	for	IN	O	B-PP	O
+12	2	Sunday	NNP	O	B-NP	B-Date
+12	3	.	.	O	O	O
+
+13	0	-LBR-	-LBR-	O	O	O
+13	1	Working	NNP	O	B-NP	O
+13	2	.	.	O	O	O
+13	3	-RBR-	-RBR-	O	O	O
+
+14	0	Eckstein	NNP	O	O	O
+
+15	0	LOUISIANA	NNP	O	B-NP	B-LocStat
+15	1	-	:	O	O	O
+15	2	-	:	O	O	O
+15	3	REACT	NNP	O	B-NP	O
+15	4	.	.	O	O	O
+
+16	0	Louisiana	NNP	O	B-NP	B-LocStat
+16	1	politicians	NNS	O	I-NP	B-ProfTitle
+16	2	react	VBP	O	B-VP	O
+16	3	to	TO	O	B-PP	O
+16	4	President	NNP	O	B-NP	B-ProfTitle
+16	5	Clinton	NNP	O	I-NP	B-Peop
+16	6	's	POS	O	B-NP	O
+16	7	videotaped	VBN	O	I-NP	O
+16	8	testimony	NN	O	I-NP	O
+16	9	.	.	O	O	O
+
+17	0	What	WP	O	B-NP	O
+17	1	does	VBZ	O	O	O
+17	2	the	DT	O	B-NP	O
+17	3	difference	NN	O	I-NP	O
+17	4	between	IN	O	B-PP	O
+17	5	the	DT	O	B-NP	O
+17	6	hype	NN	O	I-NP	O
+17	7	and	CC	O	O	O
+17	8	the	DT	O	O	O
+17	9	reality	NN	O	O	O
+17	10	mean	NN	O	B-VP	O
+17	11	?	.	O	O	O
+
+18	0	Stricherz	NNP	O	O	O
+
+19	0	NEVADA	NNP	O	B-NP	B-LocStat
+19	1	-	:	O	O	O
+19	2	-	:	O	O	O
+19	3	CLINTON	NNP	O	B-NP	O
+19	4	.	.	O	O	O
+
+20	0	President	NNP	O	B-NP	B-ProfTitle
+20	1	Clinton	NNP	O	I-NP	B-Peop
+20	2	's	POS	O	B-NP	O
+20	3	grand	JJ	O	I-NP	O
+20	4	jury	NN	O	I-NP	O
+20	5	testimony	NN	O	I-NP	O
+20	6	echoed	VBD	O	B-VP	O
+20	7	throughout	IN	O	B-PP	O
+20	8	the	DT	O	B-NP	O
+20	9	halls	NNS	O	I-NP	O
+20	10	of	IN	O	B-PP	O
+20	11	Congress	NNP	O	B-NP	B-OrgPolBody
+20	12	Monday	NNP	O	I-NP	B-Date
+20	13	COMMA	COMMA	O	O	O
+20	14	but	CC	O	O	O
+20	15	staff	NN	O	B-NP	O
+20	16	members	NNS	O	I-NP	O
+20	17	from	IN	O	B-PP	O
+20	18	Nevada	NNP	O	B-NP	B-LocStat
+20	19	's	POS	O	B-NP	O
+20	20	congressional	JJ	O	I-NP	O
+20	21	delegation	NN	O	I-NP	O
+20	22	said	VBD	O	B-VP	O
+20	23	they	PRP	O	B-NP	O
+20	24	were	VBD	O	B-VP	O
+20	25	treating	VBG	O	I-VP	O
+20	26	this	DT	O	B-NP	O
+20	27	historic	JJ	O	I-NP	O
+20	28	day	NN	O	I-NP	B-DayFest
+20	29	as	IN	O	O	O
+20	30	any	DT	O	B-NP	O
+20	31	other	JJ	O	I-NP	O
+20	32	.	.	O	O	O
+
+21	0	Preston	NNP	O	O	B-Peop
+
+22	0	NEW	NNP	O	B-NP	O
+22	1	MEXICO	NNP	O	I-NP	O
+22	2	-	:	O	O	O
+22	3	-	:	O	O	O
+22	4	REACT	NNP	O	B-NP	O
+22	5	.	.	O	O	O
+
+23	0	Sen.	NNP	O	B-NP	B-ProfTitle
+23	1	Jeff	NNP	O	I-NP	B-Peop
+23	2	Bingaman	NNP	O	I-NP	I-Peop
+23	3	COMMA	COMMA	O	O	O
+23	4	D-N.M.	NNP	O	B-NP	O
+23	5	COMMA	COMMA	O	O	O
+23	6	attacked	VBD	O	B-VP	O
+23	7	the	DT	O	B-NP	O
+23	8	``	``	O	I-NP	O
+23	9	Republican	NNP	O	I-NP	B-OrgPolBody
+23	10	Congress	NNP	O	I-NP	B-OrgPolBody
+23	11	''	''	O	O	O
+23	12	and	CC	O	O	O
+23	13	Independent	NNP	O	B-NP	O
+23	14	Counsel	NNP	O	I-NP	O
+23	15	Kenneth	NNP	O	I-NP	B-Peop
+23	16	Starr	NNP	O	I-NP	I-Peop
+23	17	for	IN	O	B-PP	O
+23	18	being	VBG	O	B-VP	O
+23	19	unfair	JJ	O	O	O
+23	20	to	TO	O	B-PP	O
+23	21	Bill	NNP	O	B-NP	B-Peop
+23	22	Clinton	NNP	O	I-NP	I-Peop
+23	23	for	IN	O	B-PP	O
+23	24	releasing	VBG	O	B-VP	O
+23	25	the	DT	O	B-NP	O
+23	26	president	NN	O	I-NP	B-ProfTitle
+23	27	's	POS	O	B-NP	O
+23	28	taped	VBN	O	I-NP	O
+23	29	grand	JJ	O	I-NP	O
+23	30	jury	NN	O	I-NP	O
+23	31	testimony	NN	O	I-NP	O
+23	32	and	CC	O	O	O
+23	33	other	JJ	O	B-NP	O
+23	34	material	NN	O	I-NP	O
+23	35	.	.	O	O	O
+
+24	0	Gorman	NNP	O	O	B-LocCit
+
+25	0	OHIO	NNP	O	B-NP	B-LocStat
+25	1	-	:	O	O	O
+25	2	-	:	O	O	O
+25	3	CONGRESSIONAL	JJ	O	B-NP	B-Loc
+25	4	REACT	NNP	O	I-NP	I-Loc
+25	5	.	.	O	O	O
+
+26	0	Northeast	NNP	O	B-NP	B-OrgCorp
+26	1	Ohio	NNP	O	I-NP	B-LocStat
+26	2	lawmakers	NNS	O	I-NP	O
+26	3	'	POS	O	B-NP	O
+26	4	reaction	NN	O	I-NP	O
+26	5	to	TO	O	B-PP	O
+26	6	President	NNP	O	B-NP	B-ProfTitle
+26	7	Clinton	NNP	O	I-NP	B-Peop
+26	8	's	POS	O	B-NP	O
+26	9	taped	VBN	O	I-NP	O
+26	10	testimony	NN	O	I-NP	O
+26	11	before	IN	O	B-PP	O
+26	12	the	DT	O	B-NP	O
+26	13	grand	JJ	O	I-NP	O
+26	14	jury	NN	O	I-NP	O
+26	15	COMMA	COMMA	O	O	O
+26	16	which	WDT	O	B-NP	O
+26	17	was	VBD	O	B-VP	O
+26	18	released	VBN	O	I-VP	O
+26	19	Monday	NNP	O	B-NP	B-Date
+26	20	.	.	O	O	O
+
+27	0	-LBR-	-LBR-	O	O	O
+27	1	Working	NNP	O	B-NP	O
+27	2	.	.	O	O	O
+27	3	-RBR-	-RBR-	O	O	O
+
+28	0	Gorman	NNP	O	O	B-LocCit
+
+29	0	-	:	O	O	O
+29	1	-	:	O	O	O
+29	2	BOEHNER-CLINTON	NNP	O	B-NP	O
+29	3	.	.	O	O	O
+
+30	0	-LBR-	-LBR-	O	O	O
+30	1	RE-SENT	NNP	O	B-NP	B-Loc
+30	2	.	.	O	O	O
+30	3	-RBR-	-RBR-	O	O	O
+
+31	0	An	DT	O	B-NP	O
+31	1	interview	NN	O	I-NP	O
+31	2	with	IN	O	B-PP	O
+31	3	House	NNP	O	B-NP	B-OrgPolBody
+31	4	GOP	NNP	O	I-NP	I-OrgPolBody
+31	5	Conference	NNP	O	I-NP	I-OrgPolBody
+31	6	Chairman	NNP	O	I-NP	O
+31	7	John	NNP	O	I-NP	B-Peop
+31	8	Boehner	NNP	O	I-NP	I-Peop
+31	9	COMMA	COMMA	O	O	O
+31	10	R-West	NNP	O	B-NP	B-LocCit
+31	11	Chester	NNP	O	I-NP	I-LocCit
+31	12	COMMA	COMMA	O	O	O
+31	13	on	IN	O	B-PP	O
+31	14	the	DT	O	B-NP	O
+31	15	Clinton	NNP	O	I-NP	B-Peop
+31	16	scandal	NN	O	I-NP	O
+31	17	.	.	O	O	O
+
+32	0	Boehner	NNP	O	B-NP	B-Peop
+32	1	said	VBD	O	B-VP	O
+32	2	the	DT	O	B-NP	O
+32	3	president	NN	O	I-NP	B-ProfTitle
+32	4	should	MD	O	B-VP	O
+32	5	consider	VB	O	I-VP	O
+32	6	resigning	VBG	O	I-VP	O
+32	7	COMMA	COMMA	O	O	O
+32	8	but	CC	O	O	O
+32	9	does	VBZ	O	O	O
+32	10	NOT	NNP	O	B-NP	O
+32	11	call	VB	O	B-VP	O
+32	12	for	IN	O	B-PP	O
+32	13	the	DT	O	B-NP	O
+32	14	president	NN	O	I-NP	B-ProfTitle
+32	15	's	POS	O	B-NP	O
+32	16	resignation	NN	O	I-NP	O
+32	17	.	.	O	O	O
+
+33	0	Boehner	NNP	O	B-NP	B-Peop
+33	1	predicted	VBD	O	B-VP	O
+33	2	the	DT	O	B-NP	O
+33	3	impeachment	NN	O	I-NP	O
+33	4	process	NN	O	I-NP	O
+33	5	could	MD	O	B-VP	O
+33	6	begin	VB	O	I-VP	O
+33	7	in	IN	O	B-PP	O
+33	8	early	JJ	O	B-NP	O
+33	9	October	NNP	O	I-NP	B-Date
+33	10	.	.	O	O	O
+
+34	0	Eckstein	NNP	O	O	O
+
+35	0	SOUTH	NNP	O	B-NP	B-LocStat
+35	1	CAROLINA	NNP	O	I-NP	I-LocStat
+35	2	-	:	O	O	O
+35	3	-	:	O	O	O
+35	4	BUTLER	NNP	O	B-NP	B-ProfTitle
+35	5	.	.	O	O	O
+
+36	0	Former	JJ	O	O	O
+36	1	U.S.	NNP	O	O	B-LocCoun
+36	2	Rep.	NNP	O	O	B-ProfTitle
+36	3	Butler	NNP	O	O	B-Peop
+36	4	Derrick	NNP	O	O	I-Peop
+36	5	of	IN	O	B-PP	O
+36	6	South	NNP	O	B-NP	B-LocStat
+36	7	Carolina	NNP	O	I-NP	I-LocStat
+36	8	is	VBZ	O	B-VP	O
+36	9	among	IN	O	B-PP	O
+36	10	a	DT	O	B-NP	O
+36	11	group	NN	O	I-NP	B-OrgCorp
+36	12	of	IN	O	B-PP	O
+36	13	Democratic	JJ	O	B-NP	B-OrgPolBody
+36	14	ex-lawmakers	NN	O	I-NP	O
+36	15	being	VBG	O	B-VP	O
+36	16	recruited	VBN	O	I-VP	O
+36	17	by	IN	O	B-PP	O
+36	18	the	DT	O	B-NP	O
+36	19	Clinton	NNP	O	I-NP	B-Peop
+36	20	administration	NN	O	I-NP	O
+36	21	to	TO	O	B-VP	O
+36	22	help	VB	O	I-VP	O
+36	23	rally	NN	O	B-NP	O
+36	24	support	NN	O	I-NP	O
+36	25	for	IN	O	B-PP	O
+36	26	the	DT	O	B-NP	O
+36	27	president	NN	O	I-NP	B-ProfTitle
+36	28	among	IN	O	B-PP	O
+36	29	congressional	JJ	O	B-NP	O
+36	30	Democrats	NNPS	O	I-NP	B-OrgPolBody
+36	31	.	.	O	O	O
+
+37	0	-LBR-	-LBR-	O	O	O
+37	1	Possible	JJ	O	O	O
+37	2	.	.	O	O	O
+37	3	-RBR-	-RBR-	O	O	O
+
+38	0	Williams	NNP	O	O	B-Peop
+
+39	0	TEXAS	NNP	O	B-NP	B-LocStat
+39	1	-	:	O	O	O
+39	2	-	:	O	O	O
+39	3	CLINTON	NNP	O	B-NP	O
+39	4	.	.	O	O	O
+
+40	0	Reaction	NN	O	B-NP	O
+40	1	from	IN	O	B-PP	O
+40	2	Panhandle	NNP	O	B-NP	O
+40	3	lawmakers	NNS	O	I-NP	O
+40	4	on	IN	O	B-PP	O
+40	5	President	NNP	O	B-NP	B-ProfTitle
+40	6	Clinton	NNP	O	I-NP	B-Peop
+40	7	's	POS	O	B-NP	O
+40	8	testimony	NN	O	I-NP	O
+40	9	.	.	O	O	O
+
+41	0	Also	RB	O	O	O
+41	1	COMMA	COMMA	O	O	O
+41	2	a	DT	O	B-NP	O
+41	3	look	NN	O	I-NP	O
+41	4	at	IN	O	B-PP	O
+41	5	why	WRB	O	O	O
+41	6	-	:	O	O	O
+41	7	-	:	O	O	O
+41	8	when	WRB	O	O	O
+41	9	most	JJS	O	B-NP	O
+41	10	grand	JJ	O	I-NP	O
+41	11	jury	NN	O	I-NP	O
+41	12	testimony	NN	O	I-NP	O
+41	13	is	VBZ	O	B-VP	O
+41	14	supposed	VBN	O	I-VP	O
+41	15	to	TO	O	I-VP	O
+41	16	remain	VB	O	I-VP	O
+41	17	secret	JJ	O	O	O
+41	18	-	:	O	O	O
+41	19	-	:	O	O	O
+41	20	this	DT	O	B-NP	O
+41	21	grand	JJ	O	I-NP	O
+41	22	jury	NN	O	I-NP	O
+41	23	testimony	NN	O	I-NP	O
+41	24	can	MD	O	B-VP	O
+41	25	be	VB	O	I-VP	O
+41	26	made	VBN	O	I-VP	O
+41	27	public	JJ	O	O	O
+41	28	.	.	O	O	O
+
+42	0	Brown	NNP	O	O	B-Peop
+
+43	0	-30-	CD	O	O	O

@@ -1,0 +1,217 @@
+0	0	1998-09-21	CD	O	B-NP	B-Num
+0	1	22	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	12	CD	O	O	I-Num
+
+1	0	Here	RB	O	O	O
+1	1	is	VBZ	O	B-VP	O
+1	2	a	DT	O	B-NP	O
+1	3	listing	NN	O	I-NP	O
+1	4	of	IN	O	B-PP	O
+1	5	the	DT	O	B-NP	O
+1	6	New	NNP	O	I-NP	B-OrgCorp
+1	7	York	NNP	O	I-NP	I-OrgCorp
+1	8	Times	NNP	O	I-NP	I-OrgCorp
+1	9	News	NNP	O	I-NP	O
+1	10	Service	NNP	O	I-NP	O
+1	11	Macintosh	NNP	O	I-NP	B-OrgCorp
+1	12	graphics	NNS	O	I-NP	O
+1	13	files	NNS	O	I-NP	O
+1	14	that	WDT	O	B-NP	O
+1	15	moved	VBN	O	B-VP	O
+1	16	Monday	NNP	O	B-NP	B-Date
+1	17	COMMA	COMMA	O	I-NP	O
+1	18	09/21/98	NN	O	I-NP	B-Num
+1	19	.	.	O	O	O
+
+2	0	Included	VBN	O	B-VP	O
+2	1	is	VBZ	O	B-VP	O
+2	2	the	DT	O	B-NP	O
+2	3	corresponding	JJ	O	I-NP	O
+2	4	story	NN	O	I-NP	O
+2	5	slug	NN	O	I-NP	B-Animal
+2	6	and	CC	O	O	O
+2	7	the	DT	O	B-NP	O
+2	8	size	NN	O	I-NP	O
+2	9	.	.	O	O	O
+
+3	0	All	DT	O	B-NP	O
+3	1	graphics	NNS	O	I-NP	O
+3	2	have	VBP	O	B-VP	O
+3	3	been	VBN	O	I-VP	O
+3	4	posted	VBN	O	I-VP	O
+3	5	on	IN	O	B-PP	O
+3	6	PressLink	NNP	O	B-NP	O
+3	7	COMMA	COMMA	O	I-NP	O
+3	8	NewsCom	NNP	O	I-NP	O
+3	9	and	CC	O	O	O
+3	10	the	DT	O	B-NP	O
+3	11	Wieck	NNP	O	I-NP	B-OrgCorp
+3	12	Photo	NNP	O	I-NP	I-OrgCorp
+3	13	Database	NNP	O	I-NP	I-OrgCorp
+3	14	.	.	O	O	O
+
+4	0	CLINTON/Testimony	NNP	O	B-NP	O
+4	1	chrono	NN	O	I-NP	O
+4	2	-	:	O	O	O
+4	3	-	:	O	O	O
+4	4	6x1	NN	O	B-NP	B-Num
+4	5	1/2	CD	O	I-NP	B-Num
+4	6	-	:	O	O	O
+4	7	-	:	O	O	O
+4	8	CLINTON-IMAGE	NNP	O	O	O
+
+5	0	CLINTON/Legal	NNP	O	B-NP	O
+5	1	teams.pdf	NN	O	I-NP	O
+5	2	-	:	O	O	O
+5	3	-	:	O	O	O
+5	4	62px7	NN	O	B-NP	B-Num
+5	5	1/2	CD	O	I-NP	B-Num
+5	6	-	:	O	O	O
+5	7	-	:	O	O	O
+5	8	Stand-alone	NNP	O	O	O
+5	9	graphic	JJ	O	O	O
+
+6	0	HURRICANE/Georges	NNP	O	O	O
+6	1	Update	NNP	O	O	O
+6	2	9/22	NN	O	O	B-Num
+6	3	-	:	O	O	O
+6	4	-	:	O	O	O
+6	5	38p6x2	NN	O	B-NP	B-Num
+6	6	1/4	CD	O	I-NP	B-Num
+6	7	-	:	O	O	O
+6	8	-	:	O	O	O
+6	9	HURRICANE-GEORGES	NNP	O	O	O
+
+7	0	SAFRICA/Enyokeni	NNP	O	O	O
+7	1	Residence	NNP	O	O	O
+7	2	map	VBP	O	B-VP	O
+7	3	-	:	O	O	O
+7	4	-	:	O	O	O
+7	5	1x2	NN	O	B-NP	B-Num
+7	6	1/4	CD	O	I-NP	B-Num
+7	7	-	:	O	O	O
+7	8	-	:	O	O	O
+7	9	SAFRICA-ZULU-RITE	NNP	O	O	O
+
+8	0	NY/Rikers	NNP	O	B-NP	O
+8	1	Island	NNP	O	I-NP	B-Loc
+8	2	healthcare	NN	O	I-NP	O
+8	3	-	:	O	O	O
+8	4	-	:	O	O	O
+8	5	2x4	NN	O	B-NP	B-Num
+8	6	3/8	CD	O	I-NP	B-Num
+8	7	-	:	O	O	O
+8	8	-	:	O	O	O
+8	9	NY-PRISON-HEALTHCARE	NNP	O	O	O
+
+9	0	CAESAREAN/Cutbacks	NNS	O	O	O
+9	1	-	:	O	O	O
+9	2	-	:	O	O	O
+9	3	15px3	NN	O	B-NP	B-Num
+9	4	3/4	CD	O	I-NP	B-Num
+9	5	-	:	O	O	O
+9	6	-	:	O	O	O
+9	7	SCI-CAESAREAN-BOS	NNP	O	O	B-OrgCorp
+
+10	0	WAR/Young	NNP	O	O	O
+10	1	men	NNS	O	O	O
+10	2	worldwide	JJ	O	O	O
+10	3	-	:	O	O	O
+10	4	-	:	O	O	O
+10	5	43px4	NN	O	B-NP	B-Num
+10	6	5/8	CD	O	I-NP	B-Num
+10	7	-	:	O	O	O
+10	8	-	:	O	O	O
+10	9	WAR-BOS	NNP	O	O	O
+
+11	0	BESTSELLERS	NNP	O	B-NP	O
+11	1	9/27	NN	O	I-NP	B-Num
+11	2	-	:	O	O	O
+11	3	-	:	O	O	O
+11	4	2	CD	O	B-NP	B-Num
+11	5	files	NNS	O	I-NP	O
+11	6	-	:	O	O	O
+11	7	-	:	O	O	O
+11	8	Fiction	NNP	O	B-NP	O
+11	9	and	CC	O	I-NP	O
+11	10	non-fiction	JJ	O	I-NP	O
+11	11	bestsellers	NNS	O	I-NP	O
+11	12	.	.	O	O	O
+
+12	0	ANCIENT/Peruvian	JJ	O	B-NP	O
+12	1	migration	NN	O	I-NP	O
+12	2	-	:	O	O	O
+12	3	-	:	O	O	O
+12	4	2x6	NN	O	B-NP	B-Num
+12	5	1/2	CD	O	I-NP	B-Num
+12	6	-	:	O	O	O
+12	7	-	:	O	O	O
+12	8	SCI-ANCIENT-PERUVIANS	NNP	O	O	B-OrgCorp
+
+13	0	CAESAREAN/Pros	NNP	O	B-NP	O
+13	1	and	CC	O	I-NP	O
+13	2	cons	NNS	O	I-NP	O
+13	3	-	:	O	O	O
+13	4	-	:	O	O	O
+13	5	2x3	NN	O	B-NP	B-Num
+13	6	1/2	CD	O	I-NP	B-Num
+13	7	-	:	O	O	O
+13	8	-	:	O	O	O
+13	9	CAESAREAN-HEALTH	NNP	O	O	O
+
+14	0	BRITISH/Retailers	NNS	O	B-NP	O
+14	1	-	:	O	O	O
+14	2	-	:	O	O	O
+14	3	3	CD	O	B-NP	B-Num
+14	4	Asst	NNP	O	I-NP	B-ProfTitle
+14	5	.	.	O	O	O
+
+15	0	-	:	O	O	O
+15	1	-	:	O	O	O
+15	2	BRITISH-SHOPS	NNP	O	O	O
+
+16	0	MARKET/Foreign	NNP	O	B-NP	O
+16	1	indices	NNS	O	I-NP	O
+16	2	9/22	NN	O	I-NP	B-Num
+16	3	-	:	O	O	O
+16	4	-	:	O	O	O
+16	5	1x4	NN	O	B-NP	B-Num
+16	6	-	:	O	O	O
+16	7	-	:	O	O	O
+16	8	MARKET	NN	O	B-NP	O
+
+17	0	The	DT	O	B-NP	O
+17	1	following	VBG	O	I-NP	O
+17	2	graphics	NNS	O	I-NP	O
+17	3	were	VBD	O	B-VP	O
+17	4	posted	VBN	O	I-VP	O
+17	5	on	IN	O	B-PP	O
+17	6	databases	NNS	O	B-NP	O
+17	7	only	RB	O	I-NP	O
+17	8	:	:	O	O	O
+
+18	0	SUPERSTRINGS/Diagram.pdf	NNP	O	B-NP	O
+18	1	-	:	O	O	O
+18	2	-	:	O	O	O
+18	3	50p6x13	NN	O	B-NP	B-Num
+18	4	-	:	O	O	O
+18	5	-	:	O	O	O
+18	6	SCI-SUPERSTRINGS	NNP	O	O	B-OrgCorp
+
+19	0	SUPERSTRINGS/Atom	NNP	O	B-NP	O
+19	1	model	NN	O	I-NP	B-ProfTitle
+19	2	-	:	O	O	O
+19	3	-	:	O	O	O
+19	4	38p6x9	NN	O	B-NP	B-Num
+19	5	1/4	CD	O	I-NP	B-Num
+19	6	-	:	O	O	O
+19	7	-	:	O	O	O
+19	8	SCI-SUPERSTRINGS	NNP	O	O	B-OrgCorp
+
+20	0	The	DT	O	B-NP	O
+20	1	New	NNP	O	I-NP	B-OrgCorp
+20	2	York	NNP	O	I-NP	I-OrgCorp
+20	3	Times	NNP	O	I-NP	I-OrgCorp
+20	4	News	NNP	O	I-NP	O
+20	5	Services	NNPS	O	I-NP	O

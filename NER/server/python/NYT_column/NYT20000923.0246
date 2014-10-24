@@ -1,0 +1,732 @@
+0	0	2000-09-23	CD	O	O	B-Num
+0	1	23	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	19	CD	O	B-NP	I-Num
+0	4	BEST	JJS	O	I-NP	O
+0	5	SELLERS	NNP	O	I-NP	B-ProfTitle
+0	6	:	:	O	O	O
+0	7	CHILDREN	NNS	O	B-NP	O
+0	8	'S	VBZ	O	B-VP	O
+0	9	PICTURE	NNP	O	O	O
+0	10	BOOKS	NNP	O	O	O
+
+1	0	Rankings	NNS	O	B-NP	O
+1	1	reflect	VBP	O	B-VP	O
+1	2	sales	NNS	O	B-NP	O
+1	3	COMMA	COMMA	O	O	O
+1	4	for	IN	O	B-PP	O
+1	5	the	DT	O	B-NP	O
+1	6	week	NN	O	I-NP	O
+1	7	ending	VBG	O	B-VP	O
+1	8	Sept.	NNP	O	B-NP	B-Date
+1	9	16	CD	O	I-NP	I-Date
+1	10	COMMA	COMMA	O	O	O
+1	11	at	IN	O	B-PP	O
+1	12	almost	RB	O	B-NP	O
+1	13	4COMMA000	CD	O	I-NP	B-Num
+1	14	bookstores	NNS	O	I-NP	O
+1	15	COMMA	COMMA	O	O	O
+1	16	plus	CC	O	O	O
+1	17	wholesalers	NNS	O	B-NP	O
+1	18	serving	VBG	O	B-VP	O
+1	19	50COMMA000	CD	O	B-NP	B-Num
+1	20	other	JJ	O	I-NP	O
+1	21	retailers	NNS	O	I-NP	O
+1	22	-LBR-	-LBR-	O	O	O
+1	23	gift	NN	O	B-NP	O
+1	24	shops	NNS	O	I-NP	O
+1	25	COMMA	COMMA	O	O	O
+1	26	department	NN	O	B-NP	O
+1	27	stores	NNS	O	I-NP	O
+1	28	COMMA	COMMA	O	O	O
+1	29	newsstands	NNS	O	B-NP	O
+1	30	COMMA	COMMA	O	I-NP	O
+1	31	supermarkets	NNS	O	I-NP	O
+1	32	-RBR-	-RBR-	O	O	O
+1	33	COMMA	COMMA	O	O	O
+1	34	statistically	RB	O	B-VP	O
+1	35	weighted	VBD	O	I-VP	O
+1	36	to	TO	O	I-VP	O
+1	37	represent	VB	O	I-VP	O
+1	38	all	DT	O	B-NP	O
+1	39	such	JJ	O	I-NP	O
+1	40	outlets	NNS	O	I-NP	O
+1	41	nationwide	JJ	O	O	O
+1	42	.	.	O	O	O
+
+2	0	An	DT	O	O	O
+2	1	-LBR-	-LBR-	O	O	O
+2	2	x	NN	O	O	O
+2	3	-RBR-	-RBR-	O	O	O
+2	4	indicates	VBZ	O	B-VP	O
+2	5	that	IN	O	O	O
+2	6	a	DT	O	B-NP	O
+2	7	book	NN	O	I-NP	B-Book
+2	8	's	POS	O	B-NP	O
+2	9	sales	NNS	O	I-NP	O
+2	10	are	VBP	O	B-VP	O
+2	11	barely	RB	O	O	O
+2	12	distinguishable	JJ	O	O	O
+2	13	from	IN	O	B-PP	O
+2	14	those	DT	O	B-NP	O
+2	15	of	IN	O	B-PP	O
+2	16	the	DT	O	B-NP	O
+2	17	book	NN	O	I-NP	B-Book
+2	18	above	IN	O	O	O
+2	19	.	.	O	O	O
+
+3	0	A	DT	O	O	O
+3	1	-LBR-	-LBR-	O	O	O
+3	2	b	NN	O	O	O
+3	3	-RBR-	-RBR-	O	O	O
+3	4	indicates	VBZ	O	B-VP	O
+3	5	that	IN	O	O	O
+3	6	some	DT	O	B-NP	O
+3	7	bookstores	NNS	O	I-NP	O
+3	8	report	VBP	O	B-VP	O
+3	9	receiving	VBG	O	I-VP	O
+3	10	bulk	NN	O	B-NP	O
+3	11	orders	NNS	O	I-NP	O
+3	12	.	.	O	O	O
+
+4	0	Expanded	VBN	O	O	O
+4	1	rankings	NNS	O	B-NP	O
+4	2	are	VBP	O	B-VP	O
+4	3	available	JJ	O	O	O
+4	4	at	IN	O	B-PP	O
+4	5	The	DT	O	B-NP	O
+4	6	New	NNP	O	I-NP	B-OrgCorp
+4	7	York	NNP	O	I-NP	I-OrgCorp
+4	8	Times	NNP	O	I-NP	I-OrgCorp
+4	9	on	IN	O	B-PP	O
+4	10	the	DT	O	B-NP	O
+4	11	Web	NNP	O	I-NP	O
+4	12	:	:	O	O	O
+4	13	www.nytimes.com/books	NN	O	B-NP	O
+4	14	.	.	O	O	O
+
+5	0	Publishers	NNPS	O	B-NP	B-ProfTitle
+5	1	have	VBP	O	B-VP	O
+5	2	provided	VBN	O	I-VP	O
+5	3	the	DT	O	B-NP	O
+5	4	age	NN	O	I-NP	O
+5	5	designations	NNS	O	I-NP	O
+5	6	for	IN	O	B-PP	O
+5	7	their	PP$	O	B-NP	O
+5	8	best-selling	JJ	O	I-NP	O
+5	9	children	NNS	O	I-NP	O
+5	10	's	POS	O	B-NP	O
+5	11	titles	NNS	O	I-NP	O
+5	12	.	.	O	O	O
+
+6	0	Rankings	NNS	O	B-NP	O
+6	1	for	IN	O	B-PP	O
+6	2	children	NNS	O	B-NP	O
+6	3	's	POS	O	B-NP	O
+6	4	paperbacks	NNS	O	I-NP	O
+6	5	do	VBP	O	B-VP	O
+6	6	not	RB	O	I-VP	O
+6	7	include	VB	O	I-VP	O
+6	8	serials	NNS	O	B-NP	O
+6	9	.	.	O	O	O
+
+7	0	.	.	O	O	O
+7	1	..	.	O	O	O
+7	2	..	.	O	O	O
+7	3	..	.	O	O	O
+7	4	..	.	O	O	O
+7	5	..	.	O	O	O
+7	6	..	.	O	O	O
+7	7	..	.	O	O	O
+7	8	..	.	O	O	O
+7	9	..	.	O	O	O
+7	10	..	.	O	O	O
+7	11	..	.	O	O	O
+7	12	..	.	O	O	O
+7	13	..	.	O	O	O
+7	14	..	.	O	O	O
+7	15	..	.	O	O	O
+7	16	..	.	O	O	O
+7	17	..	.	O	O	O
+7	18	..	.	O	O	O
+7	19	..	.	O	O	O
+7	20	..	.	O	O	O
+7	21	..	.	O	O	O
+7	22	..	.	O	O	O
+
+8	0	This	DT	O	B-NP	O
+8	1	.	.	O	O	O
+8	2	..	.	O	O	O
+8	3	..	.	O	O	O
+8	4	.	.	O	O	O
+
+9	0	Weeks	NNP	O	O	O
+
+10	0	.	.	O	O	O
+10	1	..	.	O	O	O
+10	2	..	.	O	O	O
+10	3	..	.	O	O	O
+10	4	..	.	O	O	O
+10	5	..	.	O	O	O
+10	6	..	.	O	O	O
+10	7	..	.	O	O	O
+10	8	..	.	O	O	O
+10	9	..	.	O	O	O
+10	10	..	.	O	O	O
+10	11	..	.	O	O	O
+10	12	..	.	O	O	O
+10	13	..	.	O	O	O
+10	14	..	.	O	O	O
+10	15	..	.	O	O	O
+10	16	..	.	O	O	O
+10	17	..	.	O	O	O
+10	18	..	.	O	O	O
+10	19	..	.	O	O	O
+10	20	..	.	O	O	O
+10	21	..	.	O	O	O
+10	22	..	.	O	O	O
+
+11	0	Week	NNP	O	B-NP	O
+11	1	.	.	O	O	O
+11	2	..	.	O	O	O
+11	3	..	.	O	O	O
+11	4	.	.	O	O	O
+11	5	on	IN	O	B-PP	O
+11	6	List	NN	O	O	O
+
+12	0	WHERE	NNP	O	B-NP	O
+12	1	DO	VB	O	B-VP	O
+12	2	BALLOONS	NNP	O	B-NP	O
+12	3	GO	VB	O	B-VP	O
+12	4	?	.	O	O	O
+12	5	by	IN	O	B-PP	O
+12	6	Jamie	NNP	O	B-NP	B-Peop
+12	7	Lee	NNP	O	I-NP	I-Peop
+12	8	Curtis.	NNP	O	I-NP	I-Peop
+12	9	.	.	O	O	O
+12	10	..	.	O	O	O
+12	11	.	.	O	O	O
+12	12	1	CD	O	O	B-Num
+12	13	.	.	O	O	O
+12	14	..	.	O	O	O
+12	15	..	.	O	O	O
+12	16	..	.	O	O	O
+12	17	..	.	O	O	O
+12	18	..	.	O	O	O
+12	19	..	.	O	O	O
+12	20	2	CD	O	O	B-Num
+
+13	0	Illustrated	NNP	O	O	O
+13	1	by	IN	O	B-PP	O
+13	2	Laura	NNP	O	B-NP	B-Peop
+13	3	Cornell	NNP	O	I-NP	I-Peop
+13	4	.	.	O	O	O
+
+14	0	-LBR-	-LBR-	O	O	O
+14	1	Joanna	NNP	O	O	O
+14	2	Cotler	NNP	O	O	O
+
+15	0	HarperCollins	NNS	O	O	O
+15	1	COMMA	COMMA	O	O	O
+15	2	$16.95	NN	O	B-NP	B-Money
+15	3	.	.	O	O	O
+15	4	-RBR-	-RBR-	O	O	O
+
+16	0	The	DT	O	B-NP	O
+16	1	adventures	NNS	O	I-NP	O
+16	2	of	IN	O	B-PP	O
+16	3	a	DT	O	O	O
+
+17	0	balloon	NN	O	B-NP	O
+17	1	after	IN	O	B-PP	O
+17	2	a	DT	O	B-NP	O
+17	3	little	JJ	O	I-NP	O
+17	4	boy	NN	O	I-NP	O
+17	5	accidentally	RB	O	O	O
+17	6	lets	VBZ	O	B-VP	O
+17	7	go	VB	O	O	O
+
+18	0	of	IN	O	B-PP	O
+18	1	it	PRP	O	B-NP	O
+18	2	.	.	O	O	O
+
+19	0	-LBR-	-LBR-	O	O	O
+19	1	Ages	NNPS	O	O	O
+19	2	4	CD	O	O	B-Num
+19	3	to	TO	O	O	O
+19	4	8	CD	O	O	B-Num
+19	5	-RBR-	-RBR-	O	O	O
+
+20	0	WEMBERLY	NNP	O	B-NP	B-Peop
+20	1	WORRIED	NNP	O	I-NP	I-Peop
+20	2	COMMA	COMMA	O	O	I-Peop
+20	3	written	VBN	O	B-VP	I-Peop
+20	4	and	CC	O	I-VP	I-Peop
+20	5	illustrated	VBN	O	I-VP	I-Peop
+20	6	by	IN	O	B-PP	I-Peop
+20	7	Kevin	NNP	O	B-NP	I-Peop
+20	8	.	.	O	O	O
+20	9	.	.	O	O	O
+20	10	2	CD	O	O	B-Num
+20	11	.	.	O	O	O
+20	12	..	.	O	O	O
+20	13	.	.	O	O	O
+20	14	8	CD	O	O	B-Num
+
+21	0	Henkes	NNS	O	O	O
+21	1	.	.	O	O	O
+
+22	0	-LBR-	-LBR-	O	O	O
+22	1	Greenwillow	NNP	O	O	B-Peop
+22	2	COMMA	COMMA	O	O	O
+22	3	$15.95	NN	O	O	B-Money
+22	4	.	.	O	O	O
+22	5	-RBR-	-RBR-	O	O	O
+
+23	0	A	DT	O	B-NP	O
+23	1	mouse	NN	O	I-NP	B-Animal
+23	2	fears	VBZ	O	I-NP	O
+23	3	her	PRP	O	O	O
+
+24	0	first	JJ	O	B-NP	B-Num
+24	1	day	NN	O	I-NP	B-DayFest
+24	2	of	IN	O	B-PP	O
+24	3	school	NN	O	B-NP	B-OrgUniv
+24	4	.	.	O	O	O
+
+25	0	-LBR-	-LBR-	O	O	O
+25	1	Ages	NNPS	O	O	O
+25	2	4	CD	O	O	B-Num
+25	3	to	TO	O	O	O
+25	4	8	CD	O	O	B-Num
+25	5	-RBR-	-RBR-	O	O	O
+
+26	0	HOW	NNP	O	B-NP	O
+26	1	DO	VB	O	B-VP	O
+26	2	DINOSAURS	NNP	O	B-NP	B-Animal
+26	3	SAY	NNP	O	I-NP	O
+26	4	GOOD	JJ	O	I-NP	O
+26	5	NIGHT	NNP	O	I-NP	O
+26	6	?	.	O	O	O
+26	7	by	IN	O	B-PP	O
+26	8	Jane	NNP	O	B-NP	B-Peop
+26	9	Yolen.	NNP	O	I-NP	I-Peop
+26	10	.	.	O	O	O
+26	11	..	.	O	O	O
+26	12	..	.	O	O	O
+26	13	3	CD	O	O	B-Num
+26	14	.	.	O	O	O
+26	15	..	.	O	O	O
+26	16	..	.	O	O	O
+26	17	..	.	O	O	O
+26	18	9	CD	O	O	B-Num
+
+27	0	Illustrated	NNP	O	O	O
+27	1	by	IN	O	B-PP	O
+27	2	Mark	NNP	O	B-NP	B-Peop
+27	3	Teague	NNP	O	I-NP	I-Peop
+27	4	.	.	O	O	O
+
+28	0	-LBR-	-LBR-	O	O	O
+28	1	Blue	NNP	O	O	O
+28	2	Sky/ScholasticCOMMA	NNP	O	O	O
+
+29	0	$15.95	NN	O	O	B-Money
+29	1	-RBR-	-RBR-	O	O	O
+29	2	It	PRP	O	B-NP	O
+29	3	's	VBZ	O	B-VP	O
+29	4	bedtime	NN	O	B-NP	O
+29	5	for	IN	O	B-PP	O
+29	6	dinosaur	NN	O	B-NP	B-Animal
+29	7	children	NNS	O	I-NP	O
+29	8	.	.	O	O	O
+
+30	0	-LBR-	-LBR-	O	O	O
+30	1	Ages	NNPS	O	O	O
+
+31	0	3	CD	O	B-NP	B-Num
+31	1	to	TO	O	O	O
+31	2	8	CD	O	O	B-Num
+31	3	-RBR-	-RBR-	O	O	O
+
+32	0	THE	DT	O	B-NP	O
+32	1	QUILTMAKER	NNP	O	I-NP	O
+32	2	'S	VBZ	O	B-VP	O
+32	3	GIFT	NNP	O	B-NP	O
+32	4	COMMA	COMMA	O	O	O
+32	5	by	IN	O	B-PP	O
+32	6	Jeff	NNP	O	B-NP	B-Peop
+32	7	Brumbeau	NNP	O	I-NP	I-Peop
+32	8	.	.	O	O	O
+
+33	0	Illustrated	NNP	O	B-NP	O
+33	1	.	.	O	O	O
+33	2	..	.	O	O	O
+33	3	.	.	O	O	O
+33	4	4	CD	O	O	B-Num
+33	5	.	.	O	O	O
+33	6	..	.	O	O	O
+33	7	5	CD	O	O	B-Num
+
+34	0	by	IN	O	B-PP	O
+34	1	Gail	NNP	O	B-NP	B-Peop
+34	2	de	NNP	O	I-NP	I-Peop
+34	3	Marcken	NNP	O	I-NP	I-Peop
+34	4	.	.	O	O	O
+
+35	0	-LBR-	-LBR-	O	O	O
+35	1	Pfeifer-Hamilton	NNP	O	O	O
+35	2	COMMA	COMMA	O	O	O
+35	3	$17.95	NN	O	B-VP	B-Money
+35	4	-RBR-	-RBR-	O	O	O
+35	5	Humble	NNP	O	O	O
+
+36	0	seamstress	NN	O	B-NP	O
+36	1	meets	VBZ	O	B-VP	O
+36	2	selfish	JJ	O	B-NP	O
+36	3	king	NN	O	I-NP	O
+36	4	.	.	O	O	O
+
+37	0	-LBR-	-LBR-	O	O	O
+37	1	Ages	NNPS	O	O	O
+37	2	4	CD	O	O	B-Num
+37	3	to	TO	O	O	O
+37	4	8	CD	O	O	B-Num
+37	5	-RBR-	-RBR-	O	O	O
+
+38	0	OH	NNP	O	B-NP	B-LocStat
+38	1	COMMA	COMMA	O	O	O
+38	2	THE	DT	O	B-NP	O
+38	3	PLACES	NNP	O	I-NP	O
+38	4	YOU	PRP	O	I-NP	O
+38	5	'LL	NN	O	I-NP	O
+38	6	GO	VB	O	O	O
+38	7	!	NN	O	B-NP	O
+38	8	written	VBN	O	B-VP	O
+38	9	and	CC	O	O	O
+38	10	illustrated	VBD	O	B-VP	O
+38	11	by	IN	O	B-PP	O
+38	12	.	.	O	O	O
+38	13	.	.	O	O	O
+38	14	5	CD	O	O	B-Num
+38	15	.	.	O	O	O
+38	16	..	.	O	O	O
+38	17	.	.	O	O	O
+38	18	189	CD	O	O	B-Num
+
+39	0	Dr.	NNP	O	B-NP	B-Peop
+39	1	Seuss	NNP	O	I-NP	I-Peop
+39	2	.	.	O	O	O
+
+40	0	-LBR-	-LBR-	O	O	O
+40	1	Random	NNP	O	B-NP	O
+40	2	House	NNP	O	I-NP	O
+40	3	COMMA	COMMA	O	O	O
+40	4	$17	NN	O	O	B-Money
+40	5	.	.	O	O	O
+40	6	-RBR-	-RBR-	O	O	O
+
+41	0	The	DT	O	B-NP	O
+41	1	problems	NNS	O	I-NP	O
+41	2	of	IN	O	B-PP	O
+41	3	finding	VBG	O	B-VP	O
+
+42	0	your	PP$	O	O	O
+42	1	way	NN	O	O	O
+42	2	through	IN	O	B-PP	O
+42	3	life	NN	O	B-NP	O
+42	4	;	:	O	O	O
+42	5	in	IN	O	B-PP	O
+42	6	verse	NN	O	B-NP	O
+42	7	and	CC	O	I-NP	O
+42	8	pictures	NNS	O	I-NP	O
+42	9	.	.	O	O	O
+
+43	0	-LBR-	-LBR-	O	O	O
+43	1	Ages	NNPS	O	O	O
+43	2	8	CD	O	O	B-Num
+
+44	0	and	CC	O	O	O
+44	1	up	IN	O	O	O
+44	2	-RBR-	-RBR-	O	O	O
+
+45	0	SO	RB	O	O	O
+45	1	YOU	PRP	O	B-NP	O
+45	2	WANT	VBP	O	B-VP	O
+45	3	TO	TO	O	B-VP	O
+45	4	BE	VB	O	I-VP	O
+45	5	PRESIDENT	NNP	O	B-NP	B-ProfTitle
+45	6	?	.	O	O	O
+45	7	by	IN	O	B-PP	O
+45	8	Judith	NNP	O	B-NP	O
+45	9	St.	NNP	O	I-NP	O
+45	10	George.	NNP	O	I-NP	O
+45	11	.	.	O	O	O
+45	12	..	.	O	O	O
+45	13	6	CD	O	B-NP	B-Num
+45	14	.	.	O	O	O
+45	15	..	.	O	O	O
+45	16	..	.	O	O	O
+45	17	.	.	O	O	O
+45	18	1	CD	O	O	B-Num
+
+46	0	Illustrated	NNP	O	O	O
+46	1	by	IN	O	B-PP	O
+46	2	David	NNP	O	O	B-Peop
+46	3	Small	JJ	O	O	I-Peop
+46	4	.	.	O	O	O
+
+47	0	-LBR-	-LBR-	O	O	O
+47	1	Philomel	NNP	O	O	B-Peop
+47	2	COMMA	COMMA	O	O	O
+47	3	$17.99	NN	O	O	B-Money
+47	4	.	.	O	O	O
+47	5	-RBR-	-RBR-	O	O	O
+
+48	0	Anecdotes	VBZ	O	B-VP	O
+48	1	about	IN	O	B-PP	O
+48	2	the	DT	O	B-NP	O
+48	3	men	NNS	O	I-NP	O
+48	4	who	WP	O	B-NP	O
+48	5	have	VBP	O	B-VP	O
+48	6	occupied	VBN	O	I-VP	O
+48	7	the	DT	O	O	O
+48	8	White	NNP	O	O	O
+
+49	0	House	NNP	O	O	O
+49	1	.	.	O	O	O
+
+50	0	-LBR-	-LBR-	O	O	O
+50	1	Ages	NNPS	O	O	O
+50	2	9	CD	O	B-NP	B-Num
+50	3	to	TO	O	I-NP	O
+50	4	12	CD	O	I-NP	B-Num
+50	5	-RBR-	-RBR-	O	O	O
+
+51	0	CLICK	NNP	O	B-NP	B-Loc
+51	1	COMMA	COMMA	O	O	O
+51	2	CLACK	NNP	O	O	B-Loc
+51	3	COMMA	COMMA	O	O	O
+51	4	MOO	NNP	O	B-NP	O
+51	5	:	:	O	O	O
+51	6	Cows	NNS	O	B-NP	B-Animal
+51	7	That	DT	O	B-NP	O
+51	8	Type	NNP	O	I-NP	O
+51	9	COMMA	COMMA	O	O	O
+51	10	by	IN	O	B-PP	O
+51	11	Doreen	NNP	O	B-NP	O
+51	12	Cronin.	NNP	O	I-NP	O
+51	13	.	.	O	O	O
+51	14	..	.	O	O	O
+51	15	..	.	O	O	O
+51	16	7	CD	O	O	B-Num
+51	17	.	.	O	O	O
+51	18	..	.	O	O	O
+51	19	.	.	O	O	O
+51	20	4	CD	O	O	B-Num
+
+52	0	Illustrated	NNP	O	O	O
+52	1	by	IN	O	B-PP	O
+52	2	Betsy	NNP	O	B-NP	B-Peop
+52	3	Lewin	NNP	O	I-NP	I-Peop
+52	4	.	.	O	O	O
+
+53	0	-LBR-	-LBR-	O	O	O
+53	1	Simon	NNP	O	B-NP	B-Peop
+53	2	&	CC	O	I-NP	O
+53	3	AMP	NNP	O	I-NP	B-OrgCorp
+53	4	;	:	O	O	O
+53	5	Schuster	NNP	O	B-NP	B-OrgCorp
+53	6	COMMA	COMMA	O	I-NP	O
+53	7	$15	NN	O	I-NP	B-Money
+53	8	.	.	O	O	O
+53	9	-RBR-	-RBR-	O	O	O
+
+54	0	A	DT	O	B-NP	O
+54	1	herd	NN	O	I-NP	O
+54	2	of	IN	O	B-PP	O
+54	3	cows	NNS	O	B-NP	B-Animal
+54	4	demands	NNS	O	I-NP	O
+54	5	better	RB	O	I-NP	O
+54	6	living	VBG	O	I-NP	O
+54	7	conditions	NNS	O	I-NP	O
+54	8	in	IN	O	B-PP	O
+
+55	0	writing	VBG	O	O	O
+55	1	.	.	O	O	O
+
+56	0	-LBR-	-LBR-	O	O	O
+56	1	Ages	NNPS	O	O	O
+56	2	3	CD	O	O	B-Num
+56	3	to	TO	O	O	O
+56	4	7	CD	O	O	B-Num
+56	5	-RBR-	-RBR-	O	O	O
+
+57	0	ELOISE	NNP	O	B-NP	O
+57	1	'S	VBZ	O	B-VP	O
+57	2	GUIDE	NNP	O	B-NP	O
+57	3	TO	TO	O	B-PP	O
+57	4	LIFE	NNP	O	B-NP	O
+57	5	COMMA	COMMA	O	O	O
+57	6	by	IN	O	B-PP	O
+57	7	Kay	NNP	O	B-NP	B-Peop
+57	8	Thompson	NNP	O	I-NP	I-Peop
+57	9	.	.	O	O	O
+
+58	0	Illustrated	NNP	O	B-NP	O
+58	1	by	IN	O	O	O
+58	2	.	.	O	O	O
+58	3	.	.	O	O	O
+58	4	8	CD	O	O	B-Num
+58	5	.	.	O	O	O
+58	6	..	.	O	O	O
+58	7	.	.	O	O	O
+58	8	10	CD	O	O	B-Num
+
+59	0	Hilary	NNP	O	B-NP	B-Peop
+59	1	Knight	NNP	O	I-NP	I-Peop
+59	2	.	.	O	O	O
+
+60	0	-LBR-	-LBR-	O	O	O
+60	1	Simon	NNP	O	B-NP	B-Peop
+60	2	&	CC	O	I-NP	O
+60	3	AMP	NNP	O	I-NP	B-OrgCorp
+60	4	;	:	O	O	O
+60	5	Schuster	NNP	O	B-NP	B-OrgCorp
+60	6	COMMA	COMMA	O	I-NP	O
+60	7	$9.95	NN	O	I-NP	B-Money
+60	8	.	.	O	O	O
+60	9	-RBR-	-RBR-	O	O	O
+
+61	0	How	WRB	O	O	O
+61	1	to	TO	O	O	O
+61	2	eatCOMMA	NN	O	O	O
+
+62	0	dress	NN	O	O	O
+62	1	COMMA	COMMA	O	O	O
+62	2	behave	VBP	O	B-VP	O
+62	3	COMMA	COMMA	O	O	O
+62	4	travel	NN	O	B-NP	O
+62	5	and	CC	O	O	O
+62	6	``	``	O	O	O
+62	7	stay	VBP	O	B-VP	O
+62	8	6	CD	O	O	B-Num
+62	9	forever	RB	O	O	O
+62	10	.	.	O	O	O
+62	11	''	''	O	O	O
+
+63	0	-LBR-	-LBR-	O	O	O
+63	1	All	DT	O	B-NP	O
+63	2	ages	NNS	O	I-NP	O
+63	3	-RBR-	-RBR-	O	O	O
+
+64	0	THE	DT	O	B-NP	O
+64	1	KISSING	NNP	O	I-NP	O
+64	2	HAND	NNP	O	I-NP	O
+64	3	COMMA	COMMA	O	O	O
+64	4	by	IN	O	B-PP	O
+64	5	Audrey	NNP	O	B-NP	B-Peop
+64	6	Penn	NNP	O	I-NP	I-Peop
+64	7	.	.	O	O	O
+
+65	0	Illustrated	NNP	O	O	O
+65	1	by	IN	O	B-PP	O
+65	2	Ruth	NNP	O	B-NP	B-Peop
+65	3	.	.	O	O	O
+65	4	..	.	O	O	O
+65	5	9	CD	O	O	B-Num
+65	6	.	.	O	O	O
+65	7	..	.	O	O	O
+65	8	..	.	O	O	O
+65	9	.	.	O	O	O
+65	10	2	CD	O	O	B-Num
+
+66	0	E.	NNP	O	B-NP	B-Peop
+66	1	Harper	NNP	O	I-NP	I-Peop
+66	2	and	CC	O	I-NP	O
+66	3	Nancy	NNP	O	I-NP	B-Peop
+66	4	M.	NNP	O	I-NP	I-Peop
+66	5	Leak	NNP	O	I-NP	I-Peop
+66	6	.	.	O	O	O
+
+67	0	-LBR-	-LBR-	O	O	O
+67	1	Child	NNP	O	B-NP	B-Peop
+67	2	and	CC	O	I-NP	O
+67	3	Family	NNP	O	I-NP	O
+67	4	PressCOMMA	NNP	O	I-NP	O
+
+68	0	$14.95	NN	O	O	B-Money
+68	1	.	.	O	O	O
+68	2	-RBR-	-RBR-	O	O	O
+
+69	0	Chester	NNP	O	B-NP	O
+69	1	Raccoon	NNP	O	I-NP	B-Peop
+69	2	's	POS	O	B-NP	O
+69	3	mother	NN	O	I-NP	O
+69	4	reassures	NN	O	I-NP	O
+69	5	him	PRP	O	B-NP	O
+69	6	as	IN	O	O	O
+69	7	he	PRP	O	B-NP	O
+
+70	0	prepares	VBZ	O	B-VP	O
+70	1	for	IN	O	B-PP	O
+70	2	school	NN	O	B-NP	B-OrgUniv
+70	3	.	.	O	O	O
+
+71	0	-LBR-	-LBR-	O	O	O
+71	1	Ages	NNPS	O	O	O
+71	2	4	CD	O	O	B-Num
+71	3	to	TO	O	O	O
+71	4	8	CD	O	O	B-Num
+71	5	-RBR-	-RBR-	O	O	O
+
+72	0	THE	DT	O	B-NP	O
+72	1	REMARKABLE	NNP	O	I-NP	B-Org
+72	2	FARKLE	NNP	O	I-NP	I-Org
+72	3	MCBRIDE	NNP	O	I-NP	O
+72	4	COMMA	COMMA	O	O	O
+72	5	by	IN	O	B-PP	O
+72	6	John	NNP	O	B-NP	B-Peop
+72	7	Lithgow.	NNP	O	I-NP	I-Peop
+72	8	.	.	O	O	O
+72	9	..	.	O	O	O
+72	10	..	.	O	O	O
+72	11	..	.	O	O	O
+72	12	..	.	O	O	O
+72	13	10	CD	O	B-NP	B-Num
+72	14	.	.	O	O	O
+72	15	..	.	O	O	O
+72	16	..	.	O	O	O
+72	17	.	.	O	O	O
+72	18	2	CD	O	O	B-Num
+
+73	0	Illustrated	NNP	O	O	O
+73	1	by	IN	O	B-PP	O
+73	2	C.F.	NNP	O	B-NP	O
+73	3	Payne	NNP	O	I-NP	O
+73	4	.	.	O	O	O
+
+74	0	-LBR-	-LBR-	O	O	O
+74	1	Simon	NNP	O	B-NP	B-Peop
+74	2	&	CC	O	I-NP	O
+74	3	AMP	NNP	O	I-NP	B-OrgCorp
+74	4	;	:	O	O	O
+74	5	Schuster	NNP	O	B-NP	B-OrgCorp
+74	6	COMMA	COMMA	O	I-NP	O
+74	7	$16	NN	O	I-NP	B-Money
+74	8	.	.	O	O	O
+74	9	-RBR-	-RBR-	O	O	O
+
+75	0	A	DT	O	B-NP	O
+75	1	prodigy	NN	O	I-NP	O
+75	2	's	POS	O	B-NP	O
+75	3	musical	JJ	O	I-NP	O
+75	4	passions	NNS	O	I-NP	O
+75	5	.	.	O	O	O
+
+76	0	-LBR-	-LBR-	O	O	O
+76	1	Ages	NNPS	O	O	O
+76	2	4	CD	O	O	B-Num
+76	3	to	TO	O	O	O
+76	4	8	CD	O	O	B-Num
+76	5	-RBR-	-RBR-	O	O	O

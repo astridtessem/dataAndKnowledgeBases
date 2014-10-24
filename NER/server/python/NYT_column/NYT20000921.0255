@@ -1,0 +1,33 @@
+0	0	2000-09-21	CD	O	B-NP	B-Num
+0	1	17	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	29	CD	O	O	I-Num
+
+1	0	EDITORS	NNP	O	B-NP	B-ProfTitle
+1	1	:	:	O	O	O
+
+2	0	AUDIT-RULES	NNP	O	O	O
+2	1	-LBR-	-LBR-	O	O	O
+2	2	Washington	NNP	O	O	B-LocCit
+2	3	-RBR-	-RBR-	O	O	O
+2	4	will	MD	O	B-VP	O
+2	5	not	RB	O	I-VP	O
+2	6	move	VB	O	I-VP	O
+2	7	in	IN	O	B-PP	O
+2	8	tonight	NN	O	B-NP	O
+2	9	's	POS	O	B-NP	O
+2	10	New	NNP	O	I-NP	B-OrgCorp
+2	11	York	NNP	O	I-NP	I-OrgCorp
+2	12	Times	NNP	O	I-NP	I-OrgCorp
+2	13	News	NNP	O	I-NP	I-OrgCorp
+2	14	Service	NNP	O	I-NP	I-OrgCorp
+2	15	file	NN	O	I-NP	O
+2	16	.	.	O	O	O
+
+3	0	N.Y.Times	NNP	O	B-NP	B-Org
+3	1	News	NNP	O	I-NP	I-Org
+3	2	Service	NNP	O	I-NP	I-Org
+3	3	COMMA	COMMA	O	O	O
+3	4	Sept.	NNP	O	B-NP	B-Date
+3	5	21	CD	O	I-NP	I-Date
+3	6	.	.	O	O	O

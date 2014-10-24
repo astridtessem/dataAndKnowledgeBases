@@ -1,0 +1,415 @@
+0	0	1999-09-22	CD	O	O	B-Num
+0	1	16	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	02	CD	O	B-NP	I-Num
+0	4	WHO	WP	O	B-NP	O
+0	5	'S	VBZ	O	B-VP	O
+0	6	WATCHING	NNP	O	B-NP	O
+0	7	YOU	PRP	O	B-NP	O
+0	8	?	.	O	O	O
+
+1	0	A	DT	O	B-NP	O
+1	1	1999	CD	O	I-NP	B-Date
+1	2	survey	NN	O	I-NP	O
+1	3	of	IN	O	B-PP	O
+1	4	more	JJR	O	B-NP	O
+1	5	than	IN	O	I-NP	O
+1	6	1COMMA000	CD	O	I-NP	B-Num
+1	7	businesses	NNS	O	I-NP	O
+1	8	by	IN	O	B-PP	O
+1	9	the	DT	O	B-NP	O
+1	10	American	NNP	O	I-NP	B-LangRace
+1	11	Management	NNP	O	I-NP	O
+1	12	Association	NNP	O	I-NP	B-OrgCorp
+1	13	International	NNP	O	I-NP	O
+1	14	found	VBD	O	B-VP	O
+1	15	that	IN	O	O	O
+1	16	:	:	O	O	O
+
+2	0	_	NN	O	O	O
+2	1	Sixty-seven	NNP	O	B-NP	O
+2	2	percent	NN	O	I-NP	O
+2	3	of	IN	O	B-PP	O
+2	4	companies	NNS	O	B-NP	B-OrgCorp
+2	5	use	VBP	O	B-VP	O
+2	6	some	DT	O	B-NP	O
+2	7	form	NN	O	I-NP	O
+2	8	of	IN	O	B-PP	O
+2	9	electronic	JJ	O	B-NP	O
+2	10	monitoring	NN	O	I-NP	O
+2	11	or	CC	O	I-NP	O
+2	12	surveillance	NN	O	I-NP	O
+2	13	.	.	O	O	O
+
+3	0	_	NN	O	O	O
+3	1	Forty-five	CD	O	B-NP	O
+3	2	percent	NN	O	I-NP	O
+3	3	review	VBP	O	B-VP	O
+3	4	employee	NN	O	B-NP	O
+3	5	communications	NNS	O	I-NP	O
+3	6	such	JJ	O	B-PP	O
+3	7	as	IN	O	I-PP	O
+3	8	e-mail	NN	O	B-NP	O
+3	9	COMMA	COMMA	O	O	O
+3	10	phone	NN	O	B-NP	O
+3	11	calls	NNS	O	I-NP	O
+3	12	and	CC	O	O	O
+3	13	computer	NN	O	B-NP	O
+3	14	files	NNS	O	I-NP	O
+3	15	.	.	O	O	O
+
+4	0	_	NN	O	O	O
+4	1	Thirty-nine	NNP	O	B-NP	O
+4	2	percent	NN	O	I-NP	O
+4	3	review	VBP	O	B-VP	O
+4	4	telephone	NN	O	B-NP	O
+4	5	numbers	NNS	O	I-NP	O
+4	6	called	VBN	O	B-VP	O
+4	7	and	CC	O	O	O
+4	8	time	NN	O	B-NP	O
+4	9	spent	VBD	O	B-VP	O
+4	10	on	IN	O	B-PP	O
+4	11	each	DT	O	B-NP	O
+4	12	call	NN	O	I-NP	O
+4	13	.	.	O	O	O
+
+5	0	_	NN	O	O	O
+5	1	Twenty-seven	NNP	O	B-NP	O
+5	2	percent	NN	O	I-NP	O
+5	3	store	NN	O	I-NP	O
+5	4	and	CC	O	O	O
+5	5	review	VBP	O	B-VP	O
+5	6	e-mail	NN	O	B-NP	O
+5	7	messages	NNS	O	I-NP	O
+5	8	that	IN	O	O	O
+5	9	employees	NNS	O	B-NP	O
+5	10	send	VBP	O	B-VP	O
+5	11	.	.	O	O	O
+
+6	0	Sixteen	CD	O	B-NP	B-Num
+6	1	percent	NN	O	I-NP	O
+6	2	videotape	NN	O	I-NP	O
+6	3	employees	NNS	O	I-NP	O
+6	4	'	POS	O	B-NP	O
+6	5	job	NN	O	I-NP	O
+6	6	performance	NN	O	I-NP	O
+6	7	.	.	O	O	O
+
+7	0	_	NN	O	O	O
+7	1	Eighty-four	NNP	O	B-NP	O
+7	2	percent	NN	O	I-NP	O
+7	3	of	IN	O	B-PP	O
+7	4	the	DT	O	B-NP	O
+7	5	companies	NNS	O	I-NP	B-OrgCorp
+7	6	that	IN	O	B-NP	O
+7	7	monitor	NN	O	B-NP	B-Animal
+7	8	say	VBP	O	B-VP	O
+7	9	they	PRP	O	B-NP	O
+7	10	inform	VB	O	B-VP	O
+7	11	their	PP$	O	B-NP	O
+7	12	employees	NNS	O	I-NP	O
+7	13	of	IN	O	B-PP	O
+7	14	their	PP$	O	B-NP	O
+7	15	policies	NNS	O	I-NP	O
+7	16	.	.	O	O	O
+
+8	0	WANNA	NNP	O	B-NP	O
+8	1	DO	VB	O	B-VP	
+8	2	SOMETHING	NNP	O	B-NP	O
+8	3	ABOUT	NNP	O	I-NP	O
+8	4	IT	PRP	O	I-NP	O
+8	5	?	.	O	O	O
+8	6	&	CC	O	O	O
+8	7	QL	NNP	O	B-NP	O
+8	8	;	:	O	O	O
+
+9	0	You	PRP	O	B-NP	O
+9	1	can	MD	O	B-VP	
+9	2	take	VB	O	I-VP	O
+9	3	steps	NNS	O	B-NP	O
+9	4	to	TO	O	B-VP	O
+9	5	protect	VB	O	I-VP	O
+9	6	your	PP$	O	B-NP	O
+9	7	privacy	NN	O	I-NP	O
+9	8	at	IN	O	B-PP	O
+9	9	work	NN	O	B-NP	O
+9	10	COMMA	COMMA	O	O	O
+9	11	say	VBP	O	B-VP	O
+9	12	members	NNS	O	B-NP	O
+9	13	of	IN	O	B-PP	O
+9	14	9	CD	O	B-NP	O
+9	15	to	TO	O	B-PP	O
+9	16	5	CD	O	B-NP	B-Num
+9	17	COMMA	COMMA	O	O	O
+9	18	National	NNP	O	B-NP	B-Num
+9	19	Association	NNP	O	I-NP	O
+9	20	of	IN	O	B-PP	O
+9	21	Working	NNP	O	B-NP	B-OrgCorp
+9	22	Women	NNP	O	I-NP	O
+9	23	.	.	O	O	O
+
+10	0	The	DT	O	B-NP	O
+10	1	group	NN	O	I-NP	
+10	2	COMMA	COMMA	O	O	O
+10	3	the	DT	O	B-NP	B-OrgCorp
+10	4	largest	JJS	O	I-NP	O
+10	5	membership	NN	O	I-NP	O
+10	6	organization	NN	O	I-NP	O
+10	7	of	IN	O	B-PP	O
+10	8	working	VBG	O	B-NP	O
+10	9	women	NNS	O	I-NP	O
+10	10	in	IN	O	B-PP	O
+10	11	the	DT	O	B-NP	O
+10	12	country	NN	O	I-NP	O
+10	13	COMMA	COMMA	O	O	O
+10	14	aims	VBZ	O	B-VP	O
+10	15	to	TO	O	I-VP	O
+10	16	``	``	O	I-VP	O
+10	17	mobilize	VB	O	I-VP	O
+10	18	women	NNS	O	B-NP	O
+10	19	for	IN	O	B-PP	O
+10	20	improved	VBN	O	B-NP	O
+10	21	public	NN	O	I-NP	O
+10	22	and	CC	O	I-NP	O
+10	23	workplace	NN	O	I-NP	O
+10	24	policies	NNS	O	I-NP	O
+10	25	''	''	O	O	O
+10	26	:	:	O	O	O
+
+11	0	_	NN	O	O	O
+11	1	Know	VBP	O	B-VP	
+11	2	your	PP$	O	B-NP	O
+11	3	employer	NN	O	I-NP	O
+11	4	's	POS	O	B-NP	O
+11	5	monitoring	VBG	O	I-NP	O
+11	6	policies	NNS	O	I-NP	O
+11	7	.	.	O	O	O
+
+12	0	Ask	NNP	O	O	O
+12	1	who	WP	O	B-NP	
+12	2	reviews	VBZ	O	B-VP	B-OrgCorp
+12	3	the	DT	O	B-NP	O
+12	4	data	NNS	O	I-NP	O
+12	5	and	CC	O	O	O
+12	6	how	WRB	O	O	O
+12	7	it	PRP	O	B-NP	O
+12	8	is	VBZ	O	B-VP	O
+12	9	used	VBN	O	I-VP	O
+12	10	.	.	O	O	O
+
+13	0	Ask	VB	O	O	O
+13	1	your	PP$	O	B-NP	
+13	2	supervisor	NN	O	I-NP	B-OrgCorp
+13	3	about	IN	O	B-PP	O
+13	4	all	PDT	O	B-NP	B-ProfTitle
+13	5	the	DT	O	I-NP	O
+13	6	electronic	JJ	O	I-NP	O
+13	7	systems	NNS	O	I-NP	O
+13	8	you	PRP	O	B-NP	O
+13	9	use	VBP	O	B-VP	O
+13	10	.	.	O	O	O
+
+14	0	-LBR-	-LBR-	O	O	O
+14	1	Employer	NNP	O	O	
+14	2	policies	NNS	O	B-NP	O
+14	3	on	IN	O	B-PP	O
+14	4	monitoring	VBG	O	B-NP	O
+14	5	COMMA	COMMA	O	O	O
+14	6	communicated	VBN	O	O	O
+14	7	via	IN	O	B-PP	O
+14	8	handbooks	NNS	O	B-NP	O
+14	9	COMMA	COMMA	O	I-NP	O
+14	10	memos	NNS	O	I-NP	O
+14	11	and	CC	O	I-NP	O
+14	12	union	NN	O	I-NP	O
+14	13	contracts	NNS	O	I-NP	O
+14	14	COMMA	COMMA	O	O	O
+14	15	are	VBP	O	B-VP	O
+14	16	legally	RB	O	O	O
+14	17	binding	JJ	O	O	O
+14	18	COMMA	COMMA	O	O	O
+14	19	notes	VBZ	O	B-VP	O
+14	20	the	DT	O	B-NP	O
+14	21	Privacy	NN	O	I-NP	O
+14	22	Rights	NNP	O	I-NP	O
+14	23	Clearinghouse	NNP	O	I-NP	O
+14	24	-RBR-	-RBR-	O	O	O
+14	25	.	.	O	O	O
+
+15	0	_	NN	O	O	O
+15	1	Take	VB	O	B-VP	
+15	2	precautions	NNS	O	B-NP	O
+15	3	.	.	O	O	O
+
+16	0	Use	NNP	O	B-NP	O
+16	1	a	DT	O	O	
+16	2	pay	VBP	O	B-VP	O
+16	3	phone	NN	O	B-NP	O
+16	4	for	IN	O	B-PP	O
+16	5	personal	JJ	O	B-NP	O
+16	6	calls	NNS	O	I-NP	O
+16	7	or	CC	O	O	O
+16	8	ask	VBP	O	B-VP	O
+16	9	for	IN	O	B-PP	O
+16	10	phones	NNS	O	B-NP	O
+16	11	available	JJ	O	O	O
+16	12	to	TO	O	B-PP	O
+16	13	employees	NNS	O	B-NP	O
+16	14	at	IN	O	O	O
+16	15	break	VBP	O	B-VP	O
+16	16	time	NN	O	B-NP	O
+16	17	that	WDT	O	B-NP	O
+16	18	are	VBP	O	B-VP	O
+16	19	not	RB	O	I-VP	O
+16	20	monitored	VBN	O	I-VP	O
+16	21	.	.	O	O	O
+
+17	0	Ask	NNP	O	B-NP	O
+17	1	for	IN	O	B-PP	
+17	2	a	DT	O	B-NP	B-OrgCorp
+17	3	mute	JJ	O	I-NP	O
+17	4	button	NN	O	I-NP	O
+17	5	on	IN	O	B-PP	O
+17	6	your	PP$	O	B-NP	O
+17	7	headset	NN	O	I-NP	O
+17	8	to	TO	O	B-VP	O
+17	9	use	VB	O	I-VP	O
+17	10	between	IN	O	B-PP	O
+17	11	calls	NNS	O	B-NP	O
+17	12	.	.	O	O	O
+
+18	0	Assume	VB	O	B-VP	O
+18	1	that	IN	O	O	
+18	2	e-mail	NN	O	B-NP	O
+18	3	and	CC	O	O	O
+18	4	voice	VBP	O	B-VP	O
+18	5	mail	NN	O	B-NP	O
+18	6	are	VBP	O	B-VP	O
+18	7	not	RB	O	O	O
+18	8	private	JJ	O	O	O
+18	9	.	.	O	O	O
+
+19	0	_	NN	O	O	O
+19	1	Work	NN	O	O	
+19	2	with	IN	O	B-PP	O
+19	3	co-workers	NNS	O	B-NP	O
+19	4	to	TO	O	B-VP	O
+19	5	improve	VB	O	I-VP	O
+19	6	monitoring	VBG	O	O	O
+19	7	practices.	NN	O	B-NP	O
+19	8	9	CD	O	I-NP	O
+19	9	to	TO	O	O	O
+19	10	5	CD	O	O	B-Num
+19	11	offers	NNS	O	O	O
+19	12	several	JJ	O	B-NP	B-Num
+19	13	monitoring	VBG	O	I-NP	O
+19	14	policies	NNS	O	I-NP	O
+19	15	that	IN	O	O	O
+19	16	businesses	NNS	O	B-NP	O
+19	17	can	MD	O	B-VP	O
+19	18	use	VB	O	I-VP	O
+19	19	.	.	O	O	O
+
+20	0	_	NN	O	B-NP	O
+20	1	Write	VB	O	O	
+20	2	elected	VBN	O	B-NP	O
+20	3	officials	NNS	O	I-NP	O
+20	4	urging	VBG	O	B-VP	O
+20	5	reintroduction	NN	O	B-NP	O
+20	6	of	IN	O	B-PP	O
+20	7	the	DT	O	B-NP	B-Org
+20	8	Privacy	NN	O	I-NP	O
+20	9	for	IN	O	B-PP	O
+20	10	Consumers	NNPS	O	B-NP	O
+20	11	and	CC	O	I-NP	O
+20	12	Workers	NNPS	O	I-NP	O
+20	13	Act	NNP	O	I-NP	O
+20	14	.	.	O	O	B-ProfTitle
+
+21	0	The	DT	O	B-NP	O
+21	1	legislation	NN	O	I-NP	
+21	2	was	VBD	O	B-VP	O
+21	3	debated	VBN	O	I-VP	O
+21	4	in	IN	O	B-PP	O
+21	5	Congress	NNP	O	B-NP	O
+21	6	for	IN	O	B-PP	O
+21	7	several	JJ	O	B-NP	B-OrgPolBody
+21	8	years	NNS	O	I-NP	O
+21	9	up	IN	O	O	O
+21	10	until	IN	O	B-PP	B-Date
+21	11	1994	CD	O	B-NP	O
+21	12	.	.	O	O	O
+
+22	0	_	NN	O	O	O
+22	1	Ask	VB	O	B-VP	
+22	2	your	PP$	O	B-NP	O
+22	3	union	NN	O	I-NP	B-OrgCorp
+22	4	to	TO	O	B-VP	O
+22	5	negotiate	VB	O	I-VP	O
+22	6	contract	NN	O	B-NP	O
+22	7	language	NN	O	I-NP	O
+22	8	to	TO	O	B-VP	O
+22	9	limit	VB	O	I-VP	B-LangRace
+22	10	monitoring	NN	O	B-NP	O
+22	11	.	.	O	O	O
+
+23	0	Several	JJ	O	B-NP	O
+23	1	unions	NNS	O	I-NP	
+23	2	have	VBP	O	B-VP	O
+23	3	won	VBN	O	I-VP	B-Org
+23	4	provisions	NNS	O	B-NP	I-Org
+23	5	that	IN	O	B-NP	O
+23	6	protect	VBP	O	B-VP	O
+23	7	workers	NNS	O	B-NP	O
+23	8	from	IN	O	B-PP	O
+23	9	intrusive	JJ	O	B-NP	B-ProfTitle
+23	10	forms	NNS	O	I-NP	O
+23	11	of	IN	O	B-PP	O
+23	12	monitoring	VBG	O	B-NP	O
+23	13	.	.	O	O	O
+
+24	0	9-to-5	JJ	O	B-NP	O
+24	1	Job	NNP	O	I-NP	
+24	2	Survival	NNP	O	I-NP	O
+24	3	hot	JJ	O	I-NP	
+24	4	line	NN	O	I-NP	B-Num
+24	5	:	:	O	O	O
+24	6	-LBR-	-LBR-	O	O	O
+24	7	800	CD	O	O	O
+24	8	-RBR-	-RBR-	O	O	O
+24	9	522-0925	CD	O	O	O
+
+25	0	Privacy	NN	O	O	B-Num
+25	1	Rights	NNP	O	B-NP	O
+25	2	Clearinghouse	NNP	O	I-NP	B-Num
+25	3	:	:	O	O	
+25	4	-LBR-	-LBR-	O	O	O
+25	5	619	CD	O	O	O
+25	6	-RBR-	-RBR-	O	O	O
+25	7	298-3396	CD	O	O	B-Org
+
+26	0	American	NNP	O	B-NP	B-Num
+26	1	Management	NNP	O	I-NP	O
+26	2	Association	NNP	O	I-NP	B-Num
+26	3	:	:	O	O	
+26	4	-LBR-	-LBR-	O	O	B-LangRace
+26	5	212	CD	O	O	O
+26	6	-RBR-	-RBR-	O	O	B-OrgCorp
+26	7	586-8100	CD	O	O	O
+
+27	0	-LBR-	-LBR-	O	O	B-Num
+27	1	Visit	NNP	O	B-VP	O
+27	2	the	DT	O	O	B-Num
+27	3	Star-Telegram	NNP	O	O	
+27	4	's	POS	O	B-NP	O
+27	5	online	JJ	O	I-NP	
+27	6	services	NNS	O	I-NP	O
+27	7	on	IN	O	B-PP	O
+27	8	the	DT	O	B-NP	O
+27	9	World	NNP	O	I-NP	O
+27	10	Wide	NNP	O	I-NP	O
+27	11	Web	NNP	O	I-NP	O
+27	12	:	:	O	O	O
+27	13	www.star-telegram.com	JJ	O	O	O
+27	14	-RBR-	-RBR-	O	O	O
+27	15	nn	NN	O	O	B-OrgCorp

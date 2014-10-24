@@ -1,0 +1,224 @@
+0	0	1999-09-23	CD	O	O	B-Num
+0	1	16	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	20	CD	O	B-NP	I-Num
+0	4	&	CC	O	O	O
+0	5	HT	NNP	O	B-NP	O
+0	6	;	:	O	O	O
+
+1	0	MOHAMED	NNP	O	O	B-Org
+1	1	HOSNI	NNP	O	O	I-Org
+1	2	MUBARAK	NNP	O	O	I-Org
+
+2	0	AGE	NNP	O	B-NP	O
+2	1	:	:	O	O	O
+2	2	71	CD	O	B-NP	B-Num
+2	3	.	.	O	O	O
+
+3	0	FAMILY	NN	O	B-NP	O
+3	1	:	:	O	O	O
+3	2	Born	VBN	O	B-VP	O
+3	3	in	IN	O	B-PP	O
+3	4	peasant	NN	O	B-NP	O
+3	5	farming	NN	O	I-NP	B-ProfTitle
+3	6	community	NN	O	I-NP	O
+3	7	in	IN	O	B-PP	O
+3	8	the	DT	O	B-NP	O
+3	9	Nile	NNP	O	I-NP	B-LocRiver
+3	10	delta	NN	O	I-NP	O
+3	11	.	.	O	O	O
+
+4	0	Father	NNP	O	O	O
+4	1	a	DT	O	B-NP	O
+4	2	low-level	JJ	O	I-NP	O
+4	3	bureaucrat	NN	O	I-NP	O
+4	4	.	.	O	O	O
+
+5	0	Married	JJ	O	O	O
+5	1	with	IN	O	B-PP	O
+5	2	two	CD	O	B-NP	B-Num
+5	3	sons	NNS	O	I-NP	O
+5	4	.	.	O	O	O
+
+6	0	MILITARY	NNP	O	B-NP	O
+6	1	CAREER	NNP	O	I-NP	O
+6	2	:	:	O	O	O
+6	3	Bomber	NNP	O	B-NP	O
+6	4	pilot	NN	O	I-NP	B-ProfTitle
+6	5	in	IN	O	B-PP	O
+6	6	Egyptian	JJ	O	B-NP	B-OrgCorp
+6	7	Air	NNP	O	I-NP	I-OrgCorp
+6	8	Force	NNP	O	I-NP	I-OrgCorp
+6	9	.	.	O	O	O
+
+7	0	Trained	VBN	O	B-VP	O
+7	1	twice	RB	O	O	O
+7	2	in	IN	O	B-PP	O
+7	3	the	DT	O	B-NP	O
+7	4	former	JJ	O	I-NP	O
+7	5	Soviet	NNP	O	I-NP	B-LocCoun
+7	6	Union	NNP	O	I-NP	I-LocCoun
+7	7	.	.	O	O	O
+
+8	0	Flew	NNP	O	B-NP	O
+8	1	raids	NNS	O	I-NP	O
+8	2	on	IN	O	B-PP	O
+8	3	Israel	NNP	O	B-NP	B-LocCoun
+8	4	in	IN	O	B-PP	O
+8	5	1956	CD	O	B-NP	B-Date
+8	6	COMMA	COMMA	O	I-NP	O
+8	7	1967	CD	O	I-NP	B-Date
+8	8	.	.	O	O	O
+
+9	0	Commanded	VBN	O	O	O
+9	1	air	NN	O	O	O
+9	2	force	NN	O	O	O
+9	3	in	IN	O	B-PP	O
+9	4	1973	CD	O	B-NP	B-Date
+9	5	war	NN	O	I-NP	O
+9	6	.	.	O	O	O
+
+10	0	POLITICAL	JJ	O	O	O
+10	1	CAREER	NNP	O	B-NP	O
+10	2	:	:	O	O	O
+10	3	Vice	NNP	O	B-NP	B-ProfTitle
+10	4	President	NNP	O	I-NP	I-ProfTitle
+10	5	to	TO	O	B-PP	O
+10	6	former	JJ	O	B-NP	O
+10	7	Egyptian	NNP	O	I-NP	B-LangRace
+10	8	President	NNP	O	I-NP	B-ProfTitle
+10	9	Anwar	NNP	O	I-NP	B-Peop
+10	10	Sadat	NNP	O	I-NP	I-Peop
+10	11	for	IN	O	B-PP	O
+10	12	six	CD	O	B-NP	B-Num
+10	13	years	NNS	O	I-NP	B-Date
+10	14	.	.	O	O	O
+
+11	0	President	NNP	O	O	B-ProfTitle
+11	1	of	IN	O	B-PP	O
+11	2	the	DT	O	B-NP	O
+11	3	Arab	NNP	O	I-NP	B-LangRace
+11	4	Republic	NNP	O	I-NP	O
+11	5	of	IN	O	B-PP	O
+11	6	Egypt	NNP	O	B-NP	B-LocCoun
+11	7	since	IN	O	B-PP	O
+11	8	1981	CD	O	B-NP	B-Date
+11	9	.	.	O	O	O
+
+12	0	POLICIES	NNP	O	B-NP	O
+12	1	:	:	O	O	O
+
+13	0	&	CC	O	O	O
+13	1	QR	NNP	O	B-NP	O
+13	2	;	:	O	O	O
+13	3	Maintained	NNP	O	B-NP	O
+13	4	peace	NN	O	I-NP	O
+13	5	with	IN	O	B-PP	O
+13	6	Israel	NNP	O	B-NP	B-LocCoun
+13	7	COMMA	COMMA	O	O	O
+13	8	close	VBP	O	B-VP	O
+13	9	ties	NNS	O	B-NP	O
+13	10	to	TO	O	B-PP	O
+13	11	United	NNP	O	B-NP	B-LocCoun
+13	12	States	NNPS	O	I-NP	I-LocCoun
+13	13	.	.	O	O	O
+
+14	0	&	CC	O	O	O
+14	1	QR	NNP	O	B-NP	O
+14	2	;	:	O	O	O
+14	3	Launched	VBN	O	B-VP	O
+14	4	massive	JJ	O	B-NP	O
+14	5	public	NN	O	I-NP	O
+14	6	works	NNS	O	I-NP	O
+14	7	and	CC	O	O	O
+14	8	stabilized	VBD	O	B-VP	O
+14	9	Egypt	NNP	O	B-NP	B-LocCoun
+14	10	's	POS	O	B-NP	O
+14	11	economy	NN	O	I-NP	O
+14	12	.	.	O	O	O
+
+15	0	&	CC	O	O	O
+15	1	QR	NNP	O	B-NP	O
+15	2	;	:	O	O	O
+15	3	Contained	NNP	O	B-NP	O
+15	4	opposition	NN	O	I-NP	O
+15	5	COMMA	COMMA	O	O	O
+15	6	according	VBG	O	B-PP	O
+15	7	to	TO	O	B-PP	O
+15	8	human	JJ	O	B-NP	B-Animal
+15	9	rights	NNS	O	I-NP	O
+15	10	groups	NNS	O	I-NP	B-OrgCorp
+15	11	COMMA	COMMA	O	O	O
+15	12	through	IN	O	B-PP	O
+15	13	mass	NN	O	B-NP	O
+15	14	arrests	NNS	O	I-NP	O
+15	15	and	CC	O	O	O
+15	16	sweeping	JJ	O	B-NP	O
+15	17	emergency	NN	O	I-NP	O
+15	18	laws	NNS	O	I-NP	O
+15	19	.	.	O	O	O
+
+16	0	EGYPT	NNP	O	B-NP	O
+16	1	:	:	O	O	O
+
+17	0	Population	NNP	O	B-NP	O
+17	1	:	:	O	O	O
+17	2	67.3	CD	O	B-NP	B-Num
+17	3	million	CD	O	I-NP	B-Num
+17	4	.	.	O	O	O
+
+18	0	Size	NN	O	B-NP	O
+18	1	:	:	O	O	O
+18	2	About	IN	O	O	O
+18	3	equal	JJ	O	O	O
+18	4	to	TO	O	B-PP	O
+18	5	Texas	NNP	O	B-NP	B-LocStat
+18	6	and	CC	O	O	O
+18	7	New	NNP	O	B-NP	B-LocStat
+18	8	Mexico	NNP	O	I-NP	I-LocStat
+18	9	combined	VBD	O	B-VP	O
+18	10	.	.	O	O	O
+
+19	0	Per	IN	O	B-NP	O
+19	1	capita	NN	O	I-NP	O
+19	2	income	NN	O	I-NP	O
+19	3	:	:	O	O	O
+19	4	$4COMMA400	NN	O	B-NP	B-Money
+19	5	.	.	O	O	O
+
+20	0	Literacy	NN	O	B-NP	O
+20	1	:	:	O	O	O
+20	2	51	CD	O	B-NP	B-NumPercent
+20	3	percent	NN	O	I-NP	I-NumPercent
+20	4	.	.	O	O	O
+
+21	0	Sources	NNS	O	B-NP	O
+21	1	:	:	O	O	O
+21	2	Egyptian	JJ	O	B-NP	B-LangRace
+21	3	government	NN	O	I-NP	O
+21	4	COMMA	COMMA	O	O	O
+21	5	Library	NNP	O	B-NP	B-OrgPolBody
+21	6	of	IN	O	B-PP	I-OrgPolBody
+21	7	Congress	NNP	O	B-NP	I-OrgPolBody
+21	8	COMMA	COMMA	O	O	O
+21	9	Infoplease.com	NNP	O	O	O
+
+22	0	ENDIT	NNP	O	O	O
+
+23	0	Story	NNP	O	O	O
+23	1	Filed	NNP	O	O	O
+23	2	By	IN	O	B-PP	O
+23	3	Cox	NNP	O	O	O
+23	4	Newspapers	NNP	O	O	O
+
+24	0	For	IN	O	B-PP	O
+24	1	Use	NN	O	B-NP	O
+24	2	By	IN	O	B-PP	O
+24	3	Clients	NNS	O	B-NP	O
+24	4	of	IN	O	B-PP	O
+24	5	the	DT	O	B-NP	O
+24	6	New	NNP	O	I-NP	B-OrgCorp
+24	7	York	NNP	O	I-NP	I-OrgCorp
+24	8	Times	NNP	O	I-NP	I-OrgCorp
+24	9	News	NNP	O	I-NP	O
+24	10	Service	NNP	O	I-NP	O

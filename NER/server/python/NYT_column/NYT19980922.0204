@@ -1,0 +1,228 @@
+0	0	1998-09-22	CD	O	B-NP	B-Num
+0	1	17	CD	O	I-NP	B-Num
+0	2	:	:	O	O	I-Num
+0	3	11	CD	O	O	I-Num
+
+1	0	A	DT	O	B-NP	O
+1	1	partial	JJ	O	I-NP	O
+1	2	list	NN	O	I-NP	O
+1	3	of	IN	O	B-PP	O
+1	4	U.S.	NNP	O	B-NP	B-LocCoun
+1	5	agencies	NNS	O	I-NP	B-OrgCorp
+1	6	accepting	VBG	O	B-VP	O
+1	7	donations	NNS	O	B-NP	O
+1	8	to	TO	O	B-VP	O
+1	9	fight	VB	O	I-VP	O
+1	10	the	DT	O	B-NP	O
+1	11	famine	NN	O	I-NP	O
+1	12	in	IN	O	B-PP	O
+1	13	Sudan	NNP	O	B-NP	B-LocCoun
+1	14	:	:	O	O	O
+
+2	0	Action	NNP	O	B-NP	O
+2	1	Against	IN	O	B-PP	O
+2	2	Hunger	NNP	O	O	O
+
+3	0	875	CD	O	B-NP	B-Num
+3	1	Sixth	NNP	O	I-NP	B-Num
+3	2	Ave.	NNP	O	I-NP	O
+3	3	COMMA	COMMA	O	O	O
+3	4	Suite	NNP	O	O	O
+3	5	1905	CD	O	O	B-Date
+
+4	0	New	NNP	O	B-NP	B-LocCit
+4	1	York	NNP	O	I-NP	I-LocCit
+4	2	COMMA	COMMA	O	O	O
+4	3	NY	NNP	O	O	B-LocStat
+4	4	10001	CD	O	O	B-NumZip
+
+5	0	212-967-7800	CD	O	O	B-Num
+
+6	0	American	NNP	O	O	B-LangRace
+6	1	Jewish	JJ	O	O	B-Religion
+6	2	World	NNP	O	O	B-Org
+6	3	Service	NNP	O	O	I-Org
+
+7	0	989	CD	O	O	B-Num
+7	1	Avenue	NNP	O	O	O
+7	2	of	IN	O	B-PP	O
+7	3	the	DT	O	O	O
+7	4	AmericasCOMMA	NNP	O	O	O
+
+8	0	10th	JJ	O	O	B-Num
+8	1	floor	NN	O	O	O
+
+9	0	New	NNP	O	B-NP	B-LocCit
+9	1	York	NNP	O	I-NP	I-LocCit
+9	2	COMMA	COMMA	O	O	O
+9	3	NY	NNP	O	O	B-LocStat
+9	4	10018	CD	O	O	B-NumZip
+
+10	0	212-736-2597	CD	O	O	B-Num
+
+11	0	American	NNP	O	B-NP	B-OrgCorp
+11	1	Red	NNP	O	I-NP	I-OrgCorp
+11	2	Cross	NNP	O	I-NP	I-OrgCorp
+
+12	0	ARC	NNP	O	B-NP	B-OrgCorp
+12	1	International	NNP	O	I-NP	O
+12	2	Response	NNP	O	I-NP	O
+12	3	Fund	NNP	O	I-NP	O
+
+13	0	P.O.	NNP	O	B-NP	O
+13	1	Box	NNP	O	I-NP	O
+13	2	37243	CD	O	I-NP	B-NumZip
+
+14	0	Washington	NNP	O	B-NP	B-LocCit
+14	1	COMMA	COMMA	O	O	O
+14	2	DC	NNP	O	O	B-LocStat
+14	3	20013	CD	O	O	B-NumZip
+
+15	0	1-800-HELP	NN	O	O	B-Num
+15	1	NOW	RB	O	O	O
+
+16	0	CARE	NNP	O	O	B-Loc
+16	1	COMMA	COMMA	O	O	O
+16	2	Sudan	NNP	O	O	B-LocCoun
+16	3	Famine	NN	O	O	O
+16	4	Relief	NNP	O	O	O
+
+17	0	151	CD	O	B-NP	B-Num
+17	1	Ellis	NNP	O	I-NP	B-Peop
+17	2	St.	NNP	O	I-NP	I-Peop
+17	3	N.E	NNP	O	I-NP	I-Peop
+17	4	.	.	O	O	O
+
+18	0	Atlanta	NNP	O	B-NP	B-LocCit
+18	1	COMMA	COMMA	O	O	O
+18	2	GA	NNP	O	O	B-LocStat
+18	3	30303	CD	O	O	B-NumZip
+
+19	0	404-681-2552	CD	O	B-NP	B-Num
+19	1	or	CC	O	I-NP	O
+19	2	1-800-422-7385	CD	O	I-NP	B-Num
+
+20	0	Catholic	NNP	O	B-NP	B-Religion
+20	1	Relief	NNP	O	I-NP	O
+20	2	Services	NNPS	O	I-NP	O
+
+21	0	209	CD	O	B-NP	B-Num
+21	1	West	NNP	O	I-NP	O
+21	2	Fayette	NNP	O	I-NP	O
+21	3	St	NNP	O	I-NP	O
+21	4	.	.	O	O	O
+
+22	0	Baltimore	NNP	O	B-NP	B-LocCit
+22	1	COMMA	COMMA	O	O	O
+22	2	MD	NNP	O	O	B-Loc
+22	3	21201-3443	CD	O	O	B-NumZip
+
+23	0	410-625-2220	CD	O	O	B-Num
+
+24	0	Doctors	NNS	O	B-NP	B-ProfTitle
+24	1	Without	IN	O	B-PP	O
+24	2	Borders	NNPS	O	B-NP	O
+
+25	0	6	CD	O	B-NP	B-Num
+25	1	East	NNP	O	I-NP	O
+25	2	39th	NN	O	I-NP	B-Num
+25	3	St.	NNP	O	I-NP	B-Peop
+25	4	COMMA	COMMA	O	O	O
+25	5	8th	JJ	O	B-NP	B-Num
+25	6	floor	NN	O	I-NP	O
+
+26	0	New	NNP	O	B-NP	B-LocCit
+26	1	York	NNP	O	I-NP	I-LocCit
+26	2	COMMA	COMMA	O	O	O
+26	3	NY	NNP	O	O	B-LocStat
+26	4	10016	CD	O	O	B-NumZip
+
+27	0	212-679-6800	CD	O	O	B-Num
+
+28	0	MAP	NNP	O	O	O
+28	1	International	NNP	O	O	O
+
+29	0	2200	CD	O	O	B-Date
+29	1	Glynco	NNP	O	O	O
+29	2	Parkway	NNP	O	O	B-OrgCorp
+
+30	0	P.O.	NNP	O	B-NP	O
+30	1	Box	NNP	O	I-NP	O
+30	2	215000	CD	O	I-NP	B-Num
+
+31	0	Brunswick	NNP	O	O	B-Loc
+31	1	COMMA	COMMA	O	O	O
+31	2	GA	NNP	O	O	B-LocStat
+31	3	31521	CD	O	O	B-NumZip
+
+32	0	912-265-6010	CD	O	B-NP	B-Num
+32	1	or	CC	O	I-NP	O
+32	2	1-800-225-8550	CD	O	I-NP	B-Num
+
+33	0	Oxfam	NNP	O	O	O
+33	1	America	NNP	O	O	O
+
+34	0	26	CD	O	B-NP	B-Num
+34	1	West	NNP	O	I-NP	B-Loc
+34	2	St	NNP	O	I-NP	I-Loc
+34	3	.	.	O	O	O
+
+35	0	Boston	NNP	O	B-NP	B-LocCit
+35	1	COMMA	COMMA	O	O	O
+35	2	MA	NNP	O	O	B-LocStat
+35	3	02111-1206	CD	O	O	B-NumZip
+
+36	0	1-800-77-OXFAM	NN	O	O	B-Num
+
+37	0	Save	NNP	O	B-VP	O
+37	1	the	DT	O	B-NP	O
+37	2	Children	NNP	O	I-NP	O
+
+38	0	54	CD	O	O	B-Num
+38	1	Wilton	NNP	O	O	B-Loc
+38	2	Road	NNP	O	O	I-Loc
+
+39	0	Westport	NNP	O	B-NP	O
+39	1	COMMA	COMMA	O	O	O
+39	2	CT	NN	O	O	B-LocStat
+39	3	06880	CD	O	O	B-NumZip
+
+40	0	203-221-4000	CD	O	O	B-Num
+
+41	0	The	DT	O	B-NP	O
+41	1	U.S.	NNP	O	I-NP	B-Org
+41	2	Committee	NNP	O	I-NP	I-Org
+41	3	for	IN	O	B-PP	O
+41	4	UNICEF	NNP	O	B-VP	O
+
+42	0	333	CD	O	B-NP	B-Num
+42	1	East	NNP	O	I-NP	O
+42	2	38th	NNP	O	I-NP	B-Num
+42	3	St	NNP	O	I-NP	O
+42	4	.	.	O	O	O
+
+43	0	New	NNP	O	B-NP	B-LocCit
+43	1	York	NNP	O	I-NP	I-LocCit
+43	2	COMMA	COMMA	O	O	O
+43	3	NY	NNP	O	O	B-LocStat
+43	4	10016	CD	O	O	B-NumZip
+
+44	0	1-800-FOR-KIDS	JJ	O	O	B-Num
+
+45	0	Story	NNP	O	O	O
+45	1	Filed	NNP	O	O	O
+45	2	By	IN	O	B-PP	O
+45	3	Cox	NNP	O	O	O
+45	4	Newspapers	NNP	O	O	O
+
+46	0	For	IN	O	B-PP	O
+46	1	Use	NN	O	B-NP	O
+46	2	By	IN	O	B-PP	O
+46	3	Clients	NNS	O	B-NP	O
+46	4	of	IN	O	B-PP	O
+46	5	the	DT	O	B-NP	O
+46	6	New	NNP	O	I-NP	B-OrgCorp
+46	7	York	NNP	O	I-NP	I-OrgCorp
+46	8	Times	NNP	O	I-NP	I-OrgCorp
+46	9	News	NNP	O	I-NP	O
+46	10	Service	NNP	O	I-NP	O

@@ -1,0 +1,139 @@
+0	0	1999-09-22	CD	O	O	B-Num
+0	1	11	CD	O	O	B-Num
+0	2	:	:	O	O	I-Num
+0	3	56	CD	O	B-NP	I-Num
+0	4	OUTLOOK	NNP	O	I-NP	O
+0	5	AS	NNP	O	I-NP	O
+0	6	Y2K	NNP	O	I-NP	B-Money
+0	7	NEARS	NNP	O	I-NP	O
+0	8	IS	VBZ	O	B-VP	O
+0	9	FOR	IN	O	B-PP	O
+0	10	ANNOYANCES	NNP	O	B-NP	O
+0	11	COMMA	COMMA	O	O	O
+0	12	NOT	NNP	O	O	O
+0	13	CATASTROPHE	NNP	O	O	O
+
+1	0	The	DT	O	B-NP	O
+1	1	Internet	NN	O	I-NP	B-OrgCorp
+1	2	offers	VBZ	O	B-VP	O
+1	3	an	DT	O	B-NP	O
+1	4	enormous	JJ	O	I-NP	O
+1	5	amout	NN	O	I-NP	O
+1	6	of	IN	O	B-PP	O
+1	7	information	NN	O	B-NP	O
+1	8	on	IN	O	B-PP	O
+1	9	the	DT	O	B-NP	O
+1	10	Y2K	NNP	O	I-NP	B-Money
+1	11	bug	NN	O	I-NP	B-Animal
+1	12	.	.	O	O	O
+
+2	0	While	IN	O	O	O
+2	1	some	DT	O	B-NP	O
+2	2	Web	NNP	O	I-NP	O
+2	3	sites	NNS	O	I-NP	O
+2	4	are	VBP	O	B-VP	O
+2	5	operated	VBN	O	I-VP	O
+2	6	by	IN	O	B-PP	O
+2	7	religious	JJ	O	B-NP	O
+2	8	fanatics	NNS	O	I-NP	O
+2	9	eager	JJ	O	O	O
+2	10	to	TO	O	B-VP	O
+2	11	see	VB	O	I-VP	O
+2	12	society	NN	O	B-NP	O
+2	13	break	NN	O	I-NP	O
+2	14	down	RB	O	O	O
+2	15	COMMA	COMMA	O	O	O
+2	16	or	CC	O	O	O
+2	17	profiteers	NNS	O	B-NP	O
+2	18	who	WP	O	B-NP	O
+2	19	hope	VBP	O	B-VP	O
+2	20	to	TO	O	I-VP	O
+2	21	make	VB	O	I-VP	O
+2	22	money	NN	O	B-NP	B-Money
+2	23	by	IN	O	B-PP	O
+2	24	exploiting	VBG	O	B-VP	O
+2	25	Y2K	NNP	O	B-NP	B-Money
+2	26	fears	NNS	O	I-NP	O
+2	27	COMMA	COMMA	O	O	O
+2	28	dozens	NNS	O	B-NP	O
+2	29	of	IN	O	B-PP	O
+2	30	sites	NNS	O	B-NP	O
+2	31	are	VBP	O	B-VP	O
+2	32	operated	VBN	O	I-VP	O
+2	33	by	IN	O	B-PP	O
+2	34	responsible	JJ	O	B-NP	O
+2	35	organizations	NNS	O	I-NP	O
+2	36	offering	VBG	O	B-VP	O
+2	37	practical	JJ	O	B-NP	O
+2	38	advice	NN	O	I-NP	O
+2	39	and	CC	O	I-NP	O
+2	40	factual	JJ	O	I-NP	O
+2	41	updates	NNS	O	I-NP	O
+2	42	.	.	O	O	O
+
+3	0	Here	RB	O	O	O
+3	1	are	VBP	O	B-VP	O
+3	2	just	RB	O	B-NP	O
+3	3	a	DT	O	I-NP	O
+3	4	few	JJ	O	I-NP	O
+3	5	of	IN	O	B-PP	O
+3	6	the	DT	O	B-NP	O
+3	7	many	JJ	O	I-NP	O
+3	8	good	JJ	O	I-NP	O
+3	9	sites	NNS	O	I-NP	O
+3	10	to	TO	O	B-VP	O
+3	11	visit	VB	O	I-VP	O
+3	12	.	.	O	O	O
+
+4	0	www.y2k.gov	NN	O	O	O
+
+5	0	www.senate.gov	NN	O	O	O
+5	1	-LBR-	-LBR-	O	O	O
+5	2	tilde	NN	O	O	O
+5	3	-RBR-	-RBR-	O	O	O
+5	4	y2k	NN	O	O	O
+
+6	0	www.fema.gov/y2k	NN	O	O	O
+
+7	0	www.usda.gov/news/y2000.htm	NN	O	O	O
+
+8	0	www.redcross.org/disaster/safety/Y2K.html	NN	O	O	O
+
+9	0	www.utne.com/aY2K.tmpl	NN	O	O	O
+
+10	0	www.epa.gov/year2000	NN	O	O	O
+
+11	0	www.y2ktransport.dot.gov	NN	O	O	O
+
+12	0	www.y2kcenter.org	NN	O	O	O
+
+13	0	www.year2000.com	NN	O	O	O
+
+14	0	ENDIT	NNP	O	O	O
+
+15	0	Story	NNP	O	O	O
+15	1	Filed	NNP	O	O	O
+15	2	By	IN	O	B-PP	O
+15	3	Cox	NNP	O	O	O
+15	4	Newspapers	NNP	O	O	O
+
+16	0	For	IN	O	B-PP	O
+16	1	Use	NN	O	B-NP	O
+16	2	By	IN	O	B-PP	O
+16	3	Clients	NNS	O	B-NP	O
+16	4	of	IN	O	B-PP	O
+16	5	the	DT	O	B-NP	O
+16	6	New	NNP	O	I-NP	B-OrgCorp
+16	7	York	NNP	O	I-NP	I-OrgCorp
+16	8	Times	NNP	O	I-NP	I-OrgCorp
+16	9	News	NNP	O	I-NP	O
+16	10	Service	NNP	O	I-NP	O
+
+17	0	&	CC	O	O	O
+17	1	QL	NNP	O	B-NP	O
+17	2	;	:	O	O	O
+17	3	NYT-09-13-99	NNP	O	B-NP	O
+17	4	1527EDT	NN	O	I-NP	B-Num
+17	5	&	CC	O	O	O
+17	6	QL	NNP	O	B-NP	O
+17	7	;	:	O	O	O
