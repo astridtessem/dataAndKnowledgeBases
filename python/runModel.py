@@ -1,6 +1,7 @@
 import sys
 import json
 from ViterbiAlgorithm import *
+from features import *
 
 #Load the different matrixes into memory
 def readData():
@@ -19,17 +20,36 @@ def readJson(name):
 
 def main(text):
     trans_p,emit_p,states,start_p = readData()
+    
     #Splitting the input observations into tuple e.g ('Joe', 'is', 'a', 'person')
     text = text.replace(".","") #Removing .
     obs = tuple(text.split(' '))
+    
     #Run the viterbi algorithm
     V = viterbi(obs,states,start_p,trans_p,emit_p);
+    
     #Print out the result
-    s = ""
+    result = []
     for i in range(0,len(V)):
-        #s +=max(V[i],key=V[i].get)+" "
-        print(obs[i],max(V[i],key=V[i].get))
-    #print(s)
+        result.append([obs[i],max(V[i],key=V[i].get)])
+        #print(obs[i],max(V[i],key=V[i].get))
+    print(result)
+    
+    #Check features - just checking if it works
+    print("____________Feature extraction_________")
+    for i in range(0,len(result)):
+        #Check only if it is classified as other.. Classified wrong without it...
+        if(result[i][1] =="O"):
+            if(isPerson(result[i][0])):
+                result[i][1] = "P"
+            if(isCity(result[i][0])):
+                result[i][1] = "L"
+            if(isCountry(result[i][0])):
+                result[i][1] = "L"
+            if(isMonth(result[i][0])):
+                result[i][1] = "D"
+
+    print(result)
 
 #To run the method from Meteor
     
@@ -42,7 +62,7 @@ def main(text):
     ##    main(a)
 
        
-main("is one is playing Astrid in San Fransico in November. Bob have never played it before")
+main("Joe is playing fotball in London in November. Bob have never played it before")
     
 
 
