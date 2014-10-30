@@ -80,14 +80,15 @@ def getTransitionProp(states,corpus):
     for i in range(0,len(states)):
         for j in range(0,len(states)):
             for k in range(0,len(corpus)-1):
-                if(corpus[k][1]==state[i] and corpus[k+1][1]==states[j]):
+                if(corpus[k][1]==states[i] and corpus[k+1][1]==states[j]):
                     trans_p[states[i]][states[j]] +=1
                     
     #Convert to just entities - easier to count.
     corpusEntity = converToEntity(corpus)
     for i in range(0,len(states)):
         for j in range(0,len(states)):
-            #Divides the occurence by the number of entity-type in corp            trans_p[state[i]][state[j]]= trans_p[state[i]][state[j]]/corpusEntity.count(state[i])
+            #Divides the occurence by the number of entity-type in corp
+            trans_p[states[i]][states[j]]= trans_p[states[i]][states[j]]/corpusEntity.count(states[i])
     return trans_p
 
 #___________________________________________________________
