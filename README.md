@@ -54,11 +54,26 @@ If spesicif word before/after other word(road,street,zip-code)
 
 ###ViterbiAlgorithm
 
-**Viterbi(obs, states, start_p, trans_p, emit_p):** Calculate the probability of each state for every observation. 
+**Viterbi(obs, states, start_p, trans_p, emit_p):** Calculate the probability of each state for every observation. For level 0, let the cell value in the Veterbi matrix be startProp * emitProp * observation. 
+For the other levels, let the cell value be...
+When the word is unknown, give it the same viterbi value as the word in front of it. <-- kind of bad solution.. 
 
 ###CreateModel
+**JsonSave(data,name):** Writes the data as a json file.
+
+**saveModel(trans_p, emit_p, states, start_p):** Saves all the arguments in the method as Json files using JsonSave(data,name).
+
+**CreateModel:** This method creates the whole training model. First it reads a part of the corpus. Then it get states from this part. With the states and the sub corpus a startProp, transProp and emitProp is created. It then saves the Model using the function saveModel. 
 
 ###RunModel
+
+**readJson(name):** Read json files.  
+
+**readData:** This function use the readJson function to read the json files of transProp, emitProp, startProp and states and return them. 
+
+**Main(text):** This function is the main function which runs the whole application after the startProp, transProp and emitProp is made. It uses the viterbi function on the input text and return the for each word with its most likely entity according to the viterbi matrix. When every word is classified it try to do feature extraction on the words that are classified as other.
+
+
 
 ###Features
 
