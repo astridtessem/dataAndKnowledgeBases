@@ -67,28 +67,27 @@ def getStateProp(states,corpus):
 #___________________________________________________________
 #Transition matrix
 
-def getTransitionProp(state,corpus):
+def getTransitionProp(states,corpus):
     trans_p = {}
     #Create dictionary
-    for i in range(0,len(state)):
+    for i in range(0,len(states)):
         temp = {}
-        for j in range(0,len(state)):
-            temp[state[j]] = 0
-        trans_p[state[i]] = temp
+        for j in range(0,len(states)):
+            temp[states[j]] = 0
+        trans_p[states[i]] = temp
 
-    #Count word occurens in pattern( e.g "Hans"(P) to "er"(O))
-    for i in range(0,len(state)):
-        for j in range(0,len(state)):
+    #Count word occurens in pattern( e.g "Hans"(P) to "is"(O))
+    for i in range(0,len(states)):
+        for j in range(0,len(states)):
             for k in range(0,len(corpus)-1):
-                if(corpus[k][1]==state[i] and corpus[k+1][1]==state[j]):
-                    trans_p[state[i]][state[j]] +=1
+                if(corpus[k][1]==state[i] and corpus[k+1][1]==states[j]):
+                    trans_p[states[i]][states[j]] +=1
                     
     #Convert to just entities - easier to count.
     corpusEntity = converToEntity(corpus)
-    for i in range(0,len(state)):
-        for j in range(0,len(state)):
-            #Divides the occurence by the number of entity-type in corpus
-            trans_p[state[i]][state[j]]= trans_p[state[i]][state[j]]/corpusEntity.count(state[i])
+    for i in range(0,len(states)):
+        for j in range(0,len(states)):
+            #Divides the occurence by the number of entity-type in corp            trans_p[state[i]][state[j]]= trans_p[state[i]][state[j]]/corpusEntity.count(state[i])
     return trans_p
 
 #___________________________________________________________

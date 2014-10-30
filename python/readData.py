@@ -34,13 +34,13 @@ def readCorpus(number):
         b = content[i].split();
         if(len(b)==7):
             #print(b[6])
-            if(b[6]=="B-Org" or b[6]=="OrgTeam" or b[6]=="B-OrgTeam"):
+            if(b[6]=="B-Org" or b[6]=="I-Org" or b[6]=="I-OrgTeam" or b[6]=="B-OrgTeam" or b[6]=="I-OrgTeam"):
                 corp.append((b[2],"OR"));    
-            elif(b[6]=="B-Peop" or b[6]=="I-Peop"):
+            elif(b[6]=="B-Peop" or b[6]=="I-Peop" ):
                 corp.append((b[2],"P"));
-            elif(b[6]=="B-Num" or b[6] =="B-Money"):
+            elif(b[6]=="B-Num" or b[6]=="I-Num" or b[6] =="B-Money"):
                 corp.append((b[2],"N"));
-            elif(b[6]=="B-Date"):
+            elif(b[6]=="B-Date" or b[6]=="I-Date"):
                 corp.append((b[2],"D"));
             elif(b[6]=="B-Loc" or b[6]=="B-LocCit" or b[6]=="B-LocStat" or b[6]=="I-LocCit"):
                 corp.append((b[2],"L"));

@@ -23,6 +23,7 @@ def main(text):
     
     #Splitting the input observations into tuple e.g ('Joe', 'is', 'a', 'person')
     text = text.replace(".","") #Removing .
+    # NEED TO REMOVE MORE THAN COMMA, WHAT ABOUT : 
     obs = tuple(text.split(' '))
     
     #Run the viterbi algorithm
@@ -62,7 +63,7 @@ def main(text):
     ##    main(a)
 
        
-main("Joe is playing fotball in London in November. Bob have never played it before")
+main("Joe is playing fotball in London in November. Frances have never played it before")
     
 
 

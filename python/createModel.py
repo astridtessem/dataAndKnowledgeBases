@@ -12,37 +12,65 @@ def jsonSave(data,name):
     
 
 
-def saveModel(trans_p,emit_p,states,start_p):
-    jsonSave(trans_p,"trans_p")
-    jsonSave(emit_p,"emit_p")
-    jsonSave(states,"states")
-    jsonSave(start_p,"start_p")
+def saveModel(trans_p,emit_p,states,start_p,modelNumber):
+    jsonSave(trans_p,"trans_p"+i)
+    jsonSave(emit_p,"emit_p"+i)
+    jsonSave(states,"states"+i)
+    jsonSave(start_p,"start_p"+i)
 
+##
+##def createModel():
+##    tic = time.clock()
+##
+##    #Read corpus - inpurt: number of documents
+##    corp = readCorpus(10);
+##    
+##
+##    #The different states
+##    states = getStates(corp)
+##    print("States completed")
+##    
+##    #Creates the start probability
+##    start_p = getStateProp(states,corp);
+##    print("Start completed")
+##
+##    #Get the transmition and the emition matrix
+##    trans_p = getTransitionProp(states,corp)
+##    print("Trans completed")
+##    emit_p = getEmissionProp(states,corp)
+##    print("Emit completed")
+##
+##    toc = time.clock()
+##    print("Time: ",toc-tic)
+##
+##    saveModel(trans_p,emit_p,states,start_p)
 
-def createModel():
-    tic = time.clock()
+def createModel(numberOfModels, numberOfDocuments):
 
-    #Read corpus - inpurt: number of documents
-    corp = readCorpus(10);
-    
+    for i in range(0,numberOfModels):
+        tic=time.clock()
 
-    #The different states
-    states = getStates(corp)
-    print("States completed")
-    
-    #Creates the start probability
-    start_p = getStateProp(states,corp);
-    print("Start completed")
+        #Read corpus for model number i
+        corp = readCorpus(numberOfDocuments)
 
-    #Get the transmition and the emition matrix
-    trans_p = getTransitionProp(states,corp)
-    print("Trans completed")
-    emit_p = getEmissionProp(states,corp)
-    print("Emit completed")
+        #The different states for model number i
+        states = getStates(corp)
+        print("states completed for model number"+i)
 
-    toc = time.clock()
-    print("Time: ",toc-tic)
+        #Creates the starp probability for model number i
+        start_p=getStateProp(states, corp);
+        print("start_p completed for model number"+i)
 
-    saveModel(trans_p,emit_p,states,start_p)
+        #Get the transmition and the emition matrix
+        trans_p = getTransitionProp(states,corp)
+        print("Trans completed for model number"+i)
+
+        emit_p = getEmissionProp(states,corp)
+        print("Emit completed for model number"+i)
+
+        toc = time.clock()
+        print("Time: ",toc-tic)
+
+        saveModel(trans_p,emit_p,states,start_p,i)
 
 createModel()
