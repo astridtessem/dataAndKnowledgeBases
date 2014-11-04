@@ -2,19 +2,6 @@ from os import path
 import os
 import random
 
-def readDataFile(fileName):    
-    with open(fileName) as f:
-        content = f.readlines()
-    corp = []
-    for i in range(0,len(content)):
-        b = content[i].split()
-        corp.append((b[0],b[1]))
-    return corp;
-
-
-def getObs(text):
-    return tuple(text.split(' '))
-
 
 def readCorpus(number):
     

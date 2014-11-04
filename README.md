@@ -33,9 +33,6 @@ If spesicif word before/after other word(road,street,zip-code)
 ###readData
 **readCorpus(number):** Reads data from the directory "corpus" that contains all the tagged training data. ReadData has a number as its input. This number decides how many documents from the corpus it is going to use while training the model. The documents is chosen randomly. All the sentences from the chosen documents get inserted in an array called "corpus". Then it loops through the "corpus" array, and classify each word as organization, person, number, date and location. Each word with the corresponding classifier is saved into a new array called "corp".
 
-**readDataFile:** Is this used? 
-
-**getObs:** Is this used? 
 
 ###ViterbiModel
 
