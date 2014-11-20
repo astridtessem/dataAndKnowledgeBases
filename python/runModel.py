@@ -54,9 +54,10 @@ def new_main(text,numOfMod):
     for i in range(len(obs)):
         result.append(max(set(mlp[i]),key=mlp[i].count))
     print("Viterbi result:")
-    for i in range(len(result)):
-        print(obs[i],result[i])
-    
+##    for i in range(len(result)):
+##        print(obs[i],result[i])
+
+    return result;
 
 ##    !!! Er ikke nødvendig å kjøre feature extraction her nå.
 ##      Når ViterbiAlgorthm finner et ord som ikke er i emit_p, så bruker den feature extraction
@@ -70,10 +71,8 @@ def new_main(text,numOfMod):
 ##    for i in range(2,size):
 ##        a += str(sys.argv[i]) + " "
 ##    a = a.rstrip()
-    ##    main(a)
+##      new_main(a)
 
     
-new_main("Lucy Buffett and her famous brother, Jimmy, grew up in Mobile, Ala., where seafood from the Gulf of Mexico is a key player in the culinary canon. Mr. Buffett went on to a giant career in music. His sister Lucy opened the freewheeling LuLu’s restaurant in Gulf Shores, Ala. ",3)
-    
-
+#new_main("Gov. Rick Scott of Florida said Thursday that investigators were trying to determine why a man pulled out a gun and opened fire just after midnight inside the library on the main campus of Florida State University, wounding three students and sending hundreds of others fleeing or hiding among shelves of books.",3)
 
