@@ -1,15 +1,8 @@
 import sys
 import json
 from ViterbiAlgorithm import *
-from features import *
+from featureExtraction import *
 
-#Load the different matrixes into memory
-def readData():
-    trans_p = readJson("trans_p")
-    emit_p = readJson("emit_p")
-    states = readJson("states")
-    start_p = readJson("start_p")
-    return trans_p,emit_p,states,start_p
 
 #Read the json files - input name of file
 def readJson(name):
@@ -17,43 +10,6 @@ def readJson(name):
         data = json.load(f)
     return data
 
-
-def main(text):
-    trans_p,emit_p,states,start_p = readData()
-    
-    #Splitting the input observations into tuple e.g ('Joe', 'is', 'a', 'person')
-    text = text.replace(".","") #Removing .
-    # NEED TO REMOVE MORE THAN COMMA, WHAT ABOUT : 
-    obs = tuple(text.split(' '))
-    
-    #Run the viterbi algorithm
-    V = viterbi(obs,states,start_p,trans_p,emit_p);
-    
-    #Print out the result
-    result = []
-    for i in range(0,len(V)):
-        result.append([obs[i],max(V[i],key=V[i].get)])
-        #print(obs[i],max(V[i],key=V[i].get))
-    print(result)
-    
-    #Check features - just checking if it works
-    print("____________Feature extraction_________")
-    for i in range(0,len(result)):
-        #Check only if it is classified as other.. Classified wrong without it...
-        if(result[i][1] =="O"):
-            if(isCity(result[i][0])):
-                result[i][1] = "L"
-            if(isCountry(result[i][0])):
-                result[i][1] = "L"
-            if(isPerson(result[i][0])):
-                result[i][1] = "P"
-            if(isMonth(result[i][0])):
-                result[i][1] = "D"
-            if(isDate(result[i][0])):
-                result[i][1] = "D"
-            if(isPhoneNumber(result[i][0])):
-                result[i][1] = "N"
-    print(result)
 
 def new_readData(i):
     trans_p = readJson("trans_p"+str(i))
@@ -64,9 +20,11 @@ def new_readData(i):
 
 #Takes in the text and the number of different models to iterate over. 
 def new_main(text,numOfMod):
-    print("Running Viterbi on " + str(numOfMod) + " different models:");
+    print("Running Viterbi on " + str(numOfMod) + " different models:");    
     #Splitting the input observations into tuple e.g ('Joe', 'is', 'a', 'person')
     text = text.replace(".","") #Removing .
+    text = text.replace(",","")
+    text = text.replace(":","")
     # NEED TO REMOVE MORE THAN COMMA, WHAT ABOUT : 
     obs = tuple(text.split(' '))
 
@@ -84,6 +42,7 @@ def new_main(text,numOfMod):
         print("Iteration" + str(i) + " is completed.")
 
     mlp = []
+    
     #Based on the different models, find the most likely path
     for i in range(len(obs)):
         temp = [];
@@ -91,32 +50,19 @@ def new_main(text,numOfMod):
             temp.append(bigV[j][i])
         mlp.append(temp);
 
-    result = [];
+    result = []
     for i in range(len(obs)):
         result.append(max(set(mlp[i]),key=mlp[i].count))
-        
-    print("Viterbi result:",result)
-    
-    print("Running feature extraction:")
-    for i in range(0,len(result)):
-        #Check only if it is classified as other.. Classified wrong without it...	
-        if(result[i] =="O"):
-            if(isCity(obs[i])):
-                result[i] = "L"
-            if(isCountry(obs[i])):
-                result[i] = "L"
-            if(isPerson(obs[i])):
-                result[i] = "P"
-            if(isMonth(obs[i])):
-                result[i] = "D"
-            if(isDate(obs[i])):
-                result[i] = "D"
-            if(isPhoneNumber(obs[i])):
-                result[i] = "N"
-    print("Feature extraction after Viterbi:",result)
+    print("Viterbi result:")
+    for i in range(len(result)):
+        print(obs[i],result[i])
     
 
-#To run the method from Meteor
+##    !!! Er ikke nødvendig å kjøre feature extraction her nå.
+##      Når ViterbiAlgorthm finner et ord som ikke er i emit_p, så bruker den feature extraction
+##      på det aktuelle ordet og setter en fiktiv emit verdi på det ordet. Fungerer ganske bra hittil.
+
+
     
 ##if __name__ == "__main__":
 ##    size = len(sys.argv)
@@ -127,7 +73,7 @@ def new_main(text,numOfMod):
     ##    main(a)
 
     
-new_main("am playing fotball in London in November",3)
+new_main("Lucy Buffett and her famous brother, Jimmy, grew up in Mobile, Ala., where seafood from the Gulf of Mexico is a key player in the culinary canon. Mr. Buffett went on to a giant career in music. His sister Lucy opened the freewheeling LuLu’s restaurant in Gulf Shores, Ala. ",3)
     
 
 
