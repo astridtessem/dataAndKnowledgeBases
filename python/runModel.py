@@ -41,15 +41,18 @@ def main(text):
     for i in range(0,len(result)):
         #Check only if it is classified as other.. Classified wrong without it...
         if(result[i][1] =="O"):
-            if(isPerson(result[i][0])):
-                result[i][1] = "P"
             if(isCity(result[i][0])):
                 result[i][1] = "L"
             if(isCountry(result[i][0])):
                 result[i][1] = "L"
+            if(isPerson(result[i][0])):
+                result[i][1] = "P"
             if(isMonth(result[i][0])):
                 result[i][1] = "D"
-
+            if(isDate(result[i][0])):
+                result[i][1] = "D"
+            if(isPhoneNumber(result[i][0])):
+                result[i][1] = "N"
     print(result)
 
 #To run the method from Meteor
