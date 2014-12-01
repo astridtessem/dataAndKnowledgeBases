@@ -48,15 +48,15 @@ def new_main(text,numOfMod):
         temp = [];
         for j in range(numOfMod):
             temp.append(bigV[j][i])
+            print(bigV[j][i])
         mlp.append(temp);
 
     result = []
     for i in range(len(obs)):
         result.append(max(set(mlp[i]),key=mlp[i].count))
     print("Viterbi result:")
-##    for i in range(len(result)):
-##        print(obs[i],result[i])
-
+    for i in range(len(result)):
+        print(obs[i],result[i])
     return result;
 
 ##    !!! Er ikke nødvendig å kjøre feature extraction her nå.
@@ -73,6 +73,5 @@ def new_main(text,numOfMod):
 ##    a = a.rstrip()
 ##      new_main(a)
 
-    
-#new_main("Gov. Rick Scott of Florida said Thursday that investigators were trying to determine why a man pulled out a gun and opened fire just after midnight inside the library on the main campus of Florida State University, wounding three students and sending hundreds of others fleeing or hiding among shelves of books.",3)
+new_main("Brad is",1)
 
