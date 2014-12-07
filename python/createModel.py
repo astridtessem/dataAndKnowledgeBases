@@ -41,11 +41,11 @@ def createModel(numberOfModels, numberOfDocuments):
         print("Trans completed for model number")
 
         emit_p = getEmissionProp(states,corp)
-        print("Emit completed for model number")
+        print("Emit completed for model number")8
 
         toc = time.clock()
         print("Time: ",toc-tic)
 
         saveModel(trans_p,emit_p,states,start_p,i)
 
-createModel(3,50)
+createModel(3,400)

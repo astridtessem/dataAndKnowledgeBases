@@ -1,4 +1,0 @@
-The different matrices the Viterbi algorithm if using. This files are 
-created before runtime. 
-
-Also created folders containing matrices with different numbers of document

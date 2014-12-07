@@ -55,7 +55,7 @@ def test(numberOfWords,numberOfDocuments,numberOfModels):
         
     
 
-test(200,1,3)
+test(4000,1,3)
 
 
 

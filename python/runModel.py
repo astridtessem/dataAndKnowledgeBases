@@ -48,15 +48,15 @@ def new_main(text,numOfMod):
         temp = [];
         for j in range(numOfMod):
             temp.append(bigV[j][i])
-            print(bigV[j][i])
+##            print(bigV[j][i])
         mlp.append(temp);
 
     result = []
     for i in range(len(obs)):
         result.append(max(set(mlp[i]),key=mlp[i].count))
     print("Viterbi result:")
-    for i in range(len(result)):
-        print(obs[i],result[i])
+##    for i in range(len(result)):
+##        print(obs[i],result[i])
     return result;
 
 ##    !!! Er ikke nødvendig å kjøre feature extraction her nå.
@@ -73,5 +73,5 @@ def new_main(text,numOfMod):
 ##    a = a.rstrip()
 ##      new_main(a)
 
-new_main("Brad is",1)
+new_main("dsfsf is always sad",3)
 
