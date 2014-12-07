@@ -20,7 +20,7 @@ def new_readData(i):
 
 #Takes in the text and the number of different models to iterate over. 
 def new_main(text,numOfMod):
-    print("Running Viterbi on " + str(numOfMod) + " different models:");    
+    #print("Running Viterbi on " + str(numOfMod) + " different models:");    
     #Splitting the input observations into tuple e.g ('Joe', 'is', 'a', 'person')
     text = text.replace(".","") #Removing .
     text = text.replace(",","")
@@ -39,7 +39,7 @@ def new_main(text,numOfMod):
         for j in range(0,len(V)):
             result.append(max(V[j],key=V[j].get))
         bigV.append(result);
-        print("Iteration" + str(i) + " is completed.")
+        #print("Iteration" + str(i) + " is completed.")
 
     mlp = []
     
@@ -54,7 +54,7 @@ def new_main(text,numOfMod):
     result = []
     for i in range(len(obs)):
         result.append(max(set(mlp[i]),key=mlp[i].count))
-    print("Viterbi result:")
+    #print("Viterbi result:")
 ##    for i in range(len(result)):
 ##        print(obs[i],result[i])
     return result;

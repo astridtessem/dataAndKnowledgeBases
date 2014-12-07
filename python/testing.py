@@ -36,26 +36,30 @@ def test(numberOfWords,numberOfDocuments,numberOfModels):
         corp = readTestDocument()
         corp = wash(corp);
         sentences = createSentences(corp)
-        
-        r = random.randrange(1,len(sentences))
-        vResult = new_main(sentences[r][0],numberOfModels);
-##        print(sentences[2])
-        for j in range(0,len(vResult)-1):
-##            print(vResult[j],"V")
-##            print(sentences[r][1][j],"S")
-            if(vResult[j]==sentences[r][1][j]):
-                correct +=1
-                
-            i+=1;
+        if(len(sentences)>0):
+            r = random.randrange(0,len(sentences))
+            
+            vResult = new_main(sentences[r][0],numberOfModels);
+            for j in range(0,len(vResult)-1):
+                if(vResult[j]==sentences[r][1][j]):
+                    correct +=1
+                    
+                i+=1;
     print("Words: " + str(i),"Correct: "+ str(correct))
     print(correct/i)
+    return correct/i;
+        
+        
 
-        
-        
-        
-    
+numTest = 30
+numWord = 200
 
-test(4000,1,3)
+total = 0; 
+for i in range(0,numTest):
+    total +=test(numWord,1,3)
+
+print("Based on " + str(numTest) + "tests with "+ str(numWord)+ "s the accuarcy is : " +str(total/numTest));
+
 
 
 
