@@ -48,4 +48,4 @@ def createModel(numberOfModels, numberOfDocuments):
 
         saveModel(trans_p,emit_p,states,start_p,i)
 
-createModel(3,10)
+createModel(3,600)

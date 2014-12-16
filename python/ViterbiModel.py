@@ -2,9 +2,6 @@ import math
 from readData import *
 import random as r
 
-#fetch the corpus from the text document
-#corp = readCorpus('1.txt')
-#corp = readDataFile('AndreVerdenskrigData.txt');
 
 #___________________________________________________________
 #Converting the corpus to list of entities and words
@@ -60,9 +57,6 @@ def getStateProp(states,corpus):
     c = len(corpus)
     return {'P':p/c,'O':o/c,'OR':org/c,'D':d/c,'N':n/c,'L':l/c}
     
-#start_p = getStateProp(states,corp);
-#print(start_p,"StartProb")
-#print("");
 
 #___________________________________________________________
 #Transition matrix
@@ -95,9 +89,9 @@ def getTransitionProp(states,corpus):
 #Emission
 
 def getEmissionProp(states,corpus):
-    #Convert the corpus to tuples, easier to count.. TODO
+    #Convert the corpus to tuples, easier to count
     corpusEntity = converToEntity(corpus)
-    #Conver the corpus to words, easier to count...TODO
+    #Conver the corpus to words, easier to count
     corpusWords = converToWord(corpus);
 
     emit_p = {}

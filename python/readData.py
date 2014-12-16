@@ -20,7 +20,6 @@ def readCorpus(number):
     for i in range(0,len(content)):
         b = content[i].split();
         if(len(b)==7):
-            #print(b[6])
             if(b[6]=="B-Org" or b[6]=="I-Org" or b[6]=="I-OrgTeam" or b[6]=="B-OrgTeam" or b[6]=="I-OrgTeam"):
                 corp.append((b[2],"OR"));    
             elif(b[6]=="B-Peop" or b[6]=="I-Peop" ):

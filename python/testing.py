@@ -27,7 +27,7 @@ def createSentences(corp):
         
     return sentences
 
-def test(numberOfWords,numberOfDocuments,numberOfModels):
+def test(numberOfWords,numberOfModels):
 
     
     i = 0
@@ -39,7 +39,7 @@ def test(numberOfWords,numberOfDocuments,numberOfModels):
         if(len(sentences)>0):
             r = random.randrange(0,len(sentences))
             
-            vResult = new_main(sentences[r][0],numberOfModels);
+            vResult = main(sentences[r][0],numberOfModels);
             for j in range(0,len(vResult)-1):
                 if(vResult[j]==sentences[r][1][j]):
                     correct +=1
@@ -48,17 +48,18 @@ def test(numberOfWords,numberOfDocuments,numberOfModels):
     print("Words: " + str(i),"Correct: "+ str(correct))
     print(correct/i)
     return correct/i;
-        
-        
 
-numTest = 30
-numWord = 200
 
-total = 0; 
-for i in range(0,numTest):
-    total +=test(numWord,1,3)
+test(200,3)        
 
-print("Based on " + str(numTest) + "tests with "+ str(numWord)+ "s the accuarcy is : " +str(total/numTest));
+##numTest = 30
+##numWord = 200
+##
+##total = 0; 
+##for i in range(0,numTest):
+##    total +=test(numWord,1,3)
+##
+##print("Based on " + str(numTest) + "tests with "+ str(numWord)+ "s the accuarcy is : " +str(total/numTest));
 
 
 
