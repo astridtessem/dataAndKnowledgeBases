@@ -48,10 +48,11 @@ When the word is unknown, use feature extraction to classify it and give it a pr
 
 **Main(text,numOfMod):** This function is the main function which runs the whole application after the startProp, transProp and emitProp is made. It uses the viterbi function on the input text and return the for each word with its most likely entity according to the viterbi matrix. When every word is classified it try to do feature extraction on the words that are classified as other. The algorithm is using a given number of models and returns the average of each model.
 
-
+###FeatureExtraction
+**featureEmitFail:** This method is run when the word is not in the emission matrix. 
 
 ###Features
-**featureEmitFail:** This method is run when the word is not in the emission matrix. 
+Consist of functions that either use regular expression to classify a word, or use dictionary look up.  
 
 ###Testing
 **test(numberOfWords,numberOfDocuments,numberOfModels):** This method selects a random document from the corpus to test the algorithm on a given number of words and models. It uses the methods "wash" and "createSentences" to create this test-data. 
